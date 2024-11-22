@@ -1,0 +1,14 @@
+{
+  "address": "UQAjY9I3UKBqxUTM1sB4YSKpqI0kRagNKOBCMFJfkFwygHBI",
+  "label": "Scammer",
+  "organization": "Scammer",
+  "category": "scammer",
+  "image": "",
+  "source": "tonkeeper ton-assets",
+  "description": "Scammer",
+  "comment": "",
+  "proof": "https://tonviewer.com/transaction/32653061633036612d306166372d333162352d633130352d633434373139316338383565",
+  "tags": ["scammer", "suspicious"],
+  "submittedBy": "ziga",
+  "submissionTimestamp": "2024-11-22T00:00:00Z"
+}
