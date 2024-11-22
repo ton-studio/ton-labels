@@ -1,0 +1,14 @@
+{
+  "address": "EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS",
+  "label": "Getgems Marketplace",
+  "organization": "Getgems",
+  "category": "merchant",
+  "image": "",
+  "source": "tonkeeper ton-assets",
+  "description": "TON NFT Marketplace",
+  "comment": "",
+  "proof": "https://getgems.io/",
+  "tags": [],
+  "submittedBy": "ziga",
+  "submissionTimestamp": "2024-11-22T00:00:00Z"
+}
