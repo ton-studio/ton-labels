@@ -1,0 +1,22 @@
+[
+    {
+        "name": "CEX",
+        "description": "Centralized Exchanges or other custodial services"
+    },
+    {
+        "name": "jetton",
+        "description": "Jetton (token) master address"
+    },
+    {
+        "name": "scammer",
+        "description": "User wallet involded in a scam"
+    },
+    {
+        "name": "celebrity",
+        "description": "Wallet owned by a celebrity"
+    },
+    {
+        "name": "merchant",
+        "description": "Address used by a merchant for payments"
+    }
+]

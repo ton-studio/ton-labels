@@ -1,0 +1,10 @@
+[
+    {
+        "name": "suspicious",
+        "description": "Suspicious activity"
+    },
+    {
+        "name": "scammer",
+        "description": "Wallet involved in a scam"
+    }
+]

@@ -1,14 +1,16 @@
-{
-  "address": "UQCZGIktJRcv_Sf5VWir5zrhpXLUMaaPSWtTLRCSHNY87A8M",
-  "label": "quickexchange.t.me",
-  "organization": "quickexchange",
-  "category": "CEX",
-  "image": "",
-  "source": "own submission",
-  "description": "Telegram exchange bot",
-  "comment": "",
-  "proof": "https://google.com",
-  "tags": [],
-  "submittedBy": "ziga",
-  "submissionTimestamp": "2024-11-22T00:00:00Z"
-}
+[
+  {
+    "address": "UQCZGIktJRcv_Sf5VWir5zrhpXLUMaaPSWtTLRCSHNY87A8M",
+    "label": "quickexchange.t.me",
+    "organization": "quickexchange",
+    "category": "CEX",
+    "image": "",
+    "source": "own submission",
+    "description": "Telegram exchange bot",
+    "comment": "",
+    "proof": "https://google.com",
+    "tags": [],
+    "submittedBy": "ziga",
+    "submissionTimestamp": "2024-11-22T00:00:00Z"
+  }
+]
