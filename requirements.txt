@@ -1,0 +1,4 @@
+pandas
+loguru
+gitpython
+pytoniq_core
