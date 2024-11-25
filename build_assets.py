@@ -84,10 +84,12 @@ if __name__ == "__main__":
                     raise e
 
     logger.info(f"Building output files with {len(output)} records")
-    output = pd.DataFrame(output)
+    output_df = pd.DataFrame(output)
     os.makedirs('output/csv', exist_ok=True)
-    output.to_csv('output/csv/assets.csv', index=False)
+    output_df.to_csv('output/csv/assets.csv', index=False)
     os.makedirs('output/json', exist_ok=True)
     with open('output/json/assets.json', 'wt') as f:
-        json.dump(output.to_dict(orient='records'), f, indent=2)
+        for row in output_df.to_dict(orient='records'):
+            f.write(json.dumps(row))
+            f.write('\n')
     
