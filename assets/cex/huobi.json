@@ -1,0 +1,30 @@
+[
+    {
+        "address": "EQCFr3jo0DXpIBF82mVGFc3zcdRkSAtinhENPFMQ2FqzYqDB",
+        "label": "huobi",
+        "organization": "huobi",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQBVXzBT4lcTA3S7gxrg4hnl5fnsDKj4oNEzNp09aQxkwj1f",
+        "label": "huobi",
+        "organization": "huobi",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    }
+]

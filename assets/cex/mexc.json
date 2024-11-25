@@ -1,0 +1,72 @@
+[
+    {
+        "address": "EQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMC1S",
+        "label": "mexc",
+        "organization": "mexc",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi",
+        "label": "mexc",
+        "organization": "mexc",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQACuFjhwizOGjrZ7VDpSVBwMh8wjcSwiSTx3b3YHiI339nN",
+        "label": "mexc",
+        "organization": "mexc",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQBESnpbQ6YDcEHnlHGlixkk5XxqOv8EfZDTBnf3lFh1HaDZ",
+        "label": "mexc",
+        "organization": "mexc",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQAJSfaj8sBiaQ7GuwFfH8moKx7r8D87wqyLEhWofnffx4Hq",
+        "label": "mexc",
+        "organization": "mexc",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    }
+]

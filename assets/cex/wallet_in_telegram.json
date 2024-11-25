@@ -1,0 +1,58 @@
+[
+    {
+        "address": "EQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WLfa",
+        "label": "wallet_in_telegram",
+        "organization": "wallet_in_telegram",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+        "address": "EQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCAb0",
+        "label": "wallet_in_telegram",
+        "organization": "wallet_in_telegram",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+        "address": "EQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQF_w",
+        "label": "wallet_in_telegram",
+        "organization": "wallet_in_telegram",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+        "address": "EQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXPqY",
+        "label": "wallet_in_telegram",
+        "organization": "wallet_in_telegram",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    }
+]

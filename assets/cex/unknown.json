@@ -1,0 +1,30 @@
+[
+    {
+        "address": "EQCR50nICun4QUzzXcOhrWyY1jsRNWwJm0mBHMtqlOcMSEAn",
+        "label": "unknown",
+        "organization": "unknown",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+        "address": "EQCpuYtq55nhkwYDmL4OWjsrdYy83gj5_49nNRQ5CrPOze49",
+        "label": "unknown",
+        "organization": "unknown",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    }
+]

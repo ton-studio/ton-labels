@@ -1,0 +1,44 @@
+[
+    {
+        "address": "EQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCXmC",
+        "label": "binance",
+        "organization": "binance",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2n6g",
+        "label": "binance",
+        "organization": "binance",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb",
+        "label": "binance",
+        "organization": "binance",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    }
+]

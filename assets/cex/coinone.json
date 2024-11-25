@@ -1,0 +1,30 @@
+[
+    {
+        "address": "EQCk0gcrHtwTVfx_vuAJW-7HiJotPPqp7c8s6eEoYxq71hcS",
+        "label": "coinone",
+        "organization": "coinone",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQAYgkeNrvG37SAMu9wgG9TtCyTC5fGkx8Fa6347GnWRk0v_",
+        "label": "coinone",
+        "organization": "coinone",
+        "category": "CEX",
+        "image": "",
+        "source": "tonalytica dashboard",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T19:52:44Z"
+    }
+]
