@@ -1,0 +1,30 @@
+[
+    {
+        "address": "EQBFMtW837BdMnXL8lW8kcNjXNSNY7cZRBWBxVQqR1D99S1Q",
+        "label": "nobitex",
+        "organization": "nobitex",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+        "address": "EQCjLVLO2Aoj_k_pC6lFk-9obeA_n72qBp5kKCapUjS5grhs",
+        "label": "nobitex",
+        "organization": "nobitex",
+        "category": "CEX",
+        "image": "",
+        "source": "ton weekly slides",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-11-25T20:24:29Z"
+    }
+]
