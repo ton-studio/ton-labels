@@ -1,4 +1,4 @@
-name: Complile and upload datalake on AWS
+name: Validate pull request
 
 on:
   pull_request:
