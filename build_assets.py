@@ -37,6 +37,8 @@ if __name__ == "__main__":
             tags.add(item['name'])
     logger.info(f"Loaded {len(tags)} tags")
 
+    address_set = set()
+
     for path in Path('assets').rglob('*.json'):
         with open(path, 'rt') as f:
             data = json.load(f)
@@ -63,6 +65,8 @@ if __name__ == "__main__":
                     address_raw = address.to_str(False).upper()
                     address_uf = address.to_str(True, is_bounceable=True)
                     address_uf_nb = address.to_str(True, is_bounceable=False)
+                    assert address_raw not in address_set, f"Duplicate address {address_raw} in {item} ({path})"
+                    address_set.add(address_raw)
                     output.append({
                         'address': address_raw,
                         'address_uf': address_uf,
