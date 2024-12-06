@@ -1,8 +1,8 @@
 [
     {
         "address": "EQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WLfa",
-        "label": "wallet_in_telegram",
-        "organization": "wallet_in_telegram",
+        "label": "wallet in telegram",
+        "organization": "wallet in telegram",
         "category": "CEX",
         "image": "",
         "source": "ton weekly slides",
@@ -15,8 +15,8 @@
     },
     {
         "address": "EQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCAb0",
-        "label": "wallet_in_telegram",
-        "organization": "wallet_in_telegram",
+        "label": "wallet in telegram",
+        "organization": "wallet in telegram",
         "category": "CEX",
         "image": "",
         "source": "ton weekly slides",
@@ -29,8 +29,8 @@
     },
     {
         "address": "EQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQF_w",
-        "label": "wallet_in_telegram",
-        "organization": "wallet_in_telegram",
+        "label": "wallet in telegram",
+        "organization": "wallet in telegram",
         "category": "CEX",
         "image": "",
         "source": "ton weekly slides",
@@ -43,8 +43,8 @@
     },
     {
         "address": "EQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXPqY",
-        "label": "wallet_in_telegram",
-        "organization": "wallet_in_telegram",
+        "label": "wallet in telegram",
+        "organization": "wallet in telegram",
         "category": "CEX",
         "image": "",
         "source": "ton weekly slides",
