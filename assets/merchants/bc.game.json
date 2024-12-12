@@ -3,7 +3,7 @@
         "address": "EQA-B8bcDEegRwp_cIrrWrFjHxCGScn69h7XWPgkoXGSIj3Q",
         "label": "bc.game",
         "organization": "bc.game",
-        "category": "CEX",
+        "category": "merchant",
         "image": "",
         "source": "datalake-test.cex_labels_20241116",
         "description": "",

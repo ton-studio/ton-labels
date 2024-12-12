@@ -14,5 +14,9 @@
     {
         "name": "withdrawal",
         "description": "Address is recognized as withdrawal address"
+    },
+    {
+        "name": "crypto-card",
+        "description": "Entity is issuing crypto cards / virtual credit cards"
     }
 ]

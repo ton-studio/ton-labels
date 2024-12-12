@@ -3,7 +3,7 @@
         "address": "EQDOPNz5UIm3XuXOmCSk_1BvQLdQkMS-lmN8K404sQlyJPrd",
         "label": "mobile",
         "organization": "mobile",
-        "category": "CEX",
+        "category": "merchant",
         "image": "",
         "source": "datalake-test.cex_labels_20241116",
         "description": "",
