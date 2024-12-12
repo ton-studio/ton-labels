@@ -6,5 +6,17 @@
     {
         "name": "scammer",
         "description": "Wallet involved in a scam"
+    },
+    {
+        "name": "deposit",
+        "description": "Address is recognized as deposit address"
+    },
+    {
+        "name": "withdrawal",
+        "description": "Address is recognized as withdrawal address"
+    },
+    {
+        "name": "crypto-card",
+        "description": "Entity is issuing crypto cards / virtual credit cards"
     }
 ]

@@ -1,0 +1,16 @@
+[
+    {
+        "address": "EQAAtAK3ieVibhxhtQxdviAkQm6S8WwML7c1OW35YEa1-hgy",
+        "label": "bit",
+        "organization": "bit",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    }
+]

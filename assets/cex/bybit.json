@@ -880,5 +880,33 @@
         "tags": [],
         "submittedBy": "ziga",
         "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVV6_",
+        "label": "bybit",
+        "organization": "bybit",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQB_l_Nt2j997cnhL4wJxPief7wXUnqz9n3kw7FVKXpW5L0A",
+        "label": "bybit",
+        "organization": "bybit",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
     }
 ]

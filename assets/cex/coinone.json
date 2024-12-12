@@ -9,7 +9,7 @@
         "description": "",
         "comment": "",
         "proof": "",
-        "tags": [],
+        "tags": ["withdrawal"],
         "submittedBy": "ziga",
         "submissionTimestamp": "2024-11-25T19:52:44Z"
     },
@@ -23,7 +23,7 @@
         "description": "",
         "comment": "",
         "proof": "",
-        "tags": [],
+        "tags": ["deposit"],
         "submittedBy": "ziga",
         "submissionTimestamp": "2024-11-25T19:52:44Z"
     }

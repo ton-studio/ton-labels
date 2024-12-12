@@ -1,0 +1,16 @@
+[
+    {
+        "address": "EQA81a1UsZCnHKq5hLDyEON0LH8hR7fpBzN318a0cAFzYktj",
+        "label": "bitrue",
+        "organization": "bitrue",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    }
+]
