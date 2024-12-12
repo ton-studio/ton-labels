@@ -12,5 +12,19 @@
         "tags": [],
         "submittedBy": "ziga",
         "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+        "address": "EQA00C9oip9TkHbFdYgYGi149vhFPfdZyxYuWmHo6dD1mkGd",
+        "label": "bitpin",
+        "organization": "bitpin",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2024-12-12T10:02:02Z"
     }
 ]

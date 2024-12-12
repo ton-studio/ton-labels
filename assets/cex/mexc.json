@@ -68,5 +68,19 @@
         "tags": [],
         "submittedBy": "ziga",
         "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j",
+        "label": "mexc",
+        "organization": "mexc",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2024-12-12T10:02:02Z"
     }
 ]
