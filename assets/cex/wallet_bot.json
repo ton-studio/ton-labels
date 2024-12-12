@@ -1,0 +1,44 @@
+[
+    {
+        "address": "EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm",
+        "label": "wallet bot",
+        "organization": "wallet bot",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh",
+        "label": "wallet bot",
+        "organization": "wallet bot",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90",
+        "label": "wallet bot",
+        "organization": "wallet bot",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    }
+]

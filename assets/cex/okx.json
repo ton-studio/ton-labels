@@ -586,5 +586,61 @@
         "tags": [],
         "submittedBy": "ziga",
         "submissionTimestamp": "2024-11-25T19:52:44Z"
+    },
+    {
+        "address": "EQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nC3Nw",
+        "label": "okx",
+        "organization": "okx",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQADON7zS4TG7pE0oEqxYBRQvkRjQKN64lneV8s3vbWQzWUO",
+        "label": "okx",
+        "organization": "okx",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQAk2h57jakB5bPdD5jDl_625aXqSDGVqLa9BoLPLFMnrisV",
+        "label": "okx",
+        "organization": "okx",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQCbm3Od4lJ65y0hCD9RmNcQxyiEU7RzPlfsrbLhiayCnNuU",
+        "label": "okx",
+        "organization": "okx",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
     }
 ]

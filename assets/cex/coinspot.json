@@ -1,0 +1,16 @@
+[
+    {
+        "address": "EQBsU82HzA0zSG20LBx_wD366y97gVr8NoqxruVn7do_cnrP",
+        "label": "coinspot",
+        "organization": "coinspot",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    }
+]

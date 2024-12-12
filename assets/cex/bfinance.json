@@ -1,0 +1,16 @@
+[
+    {
+        "address": "EQDh0IFe3M5hBWA44bLOLEsZmf7_8cjoYR8C10aKAzFq1l3r",
+        "label": "bfinance",
+        "organization": "bfinance",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    }
+]

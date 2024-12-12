@@ -26,5 +26,33 @@
         "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2024-12-12T10:02:02Z"
+    },
+    {
+        "address": "EQDBTOXXclOb4m_eMVpQWh4FFBBOdu73dvC4ReV98FV92x25",
+        "label": "bitpin",
+        "organization": "bitpin",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQD6yP_Lb4lXKhIy1Z6RxlkJrkCGY_0s6uzTXzW16dZw9NMH",
+        "label": "bitpin",
+        "organization": "bitpin",
+        "category": "CEX",
+        "image": "",
+        "source": "datalake-test.cex_labels_20241116",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ziga",
+        "submissionTimestamp": "2024-12-12T10:09:26Z"
     }
 ]
