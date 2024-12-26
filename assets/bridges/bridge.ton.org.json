@@ -1,0 +1,30 @@
+[
+    {
+        "address": "Ef_dJMSh8riPi3BTUTtcxsWjG8RLKnLctNjAM4rw8NN-xWdr",
+        "label": "bridge.ton.org",
+        "organization": "TON",
+        "category": "Bridge",
+        "image": "",
+        "source": "tonviewer",
+        "description": "",
+        "comment": "ETH Bridge",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2024-12-26T10:09:26Z"
+    },
+    {
+        "address": "Ef9NXAIQs12t2qIZ-sRZ26D977H65Ol6DQeXc5_gUNaUys5r",
+        "label": "bridge.ton.org",
+        "organization": "TON",
+        "category": "Bridge",
+        "image": "",
+        "source": "tonviewer",
+        "description": "",
+        "comment": "BSC Bridge",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2024-12-26T10:09:26Z"
+    }
+]
