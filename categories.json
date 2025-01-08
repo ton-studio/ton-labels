@@ -18,5 +18,9 @@
     {
         "name": "merchant",
         "description": "Address used by a merchant for payments"
+    },
+    {
+        "name": "bridge",
+        "description": "Address of a TON/Jetton Bridge service"
     }
 ]
