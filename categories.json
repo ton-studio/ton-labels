@@ -8,10 +8,6 @@
         "description": "Decentralized Exchange"
     },
     {
-        "name": "jetton",
-        "description": "Jetton (token) master address"
-    },
-    {
         "name": "scammer",
         "description": "User wallet involded in a scam"
     },
@@ -38,5 +34,9 @@
     {
         "name": "ads",
         "description": "Ads network"
+    },
+    {
+        "name": "gaming",
+        "description": "Games with on-chain payments or contracts"
     }
 ]

@@ -44,7 +44,11 @@ if __name__ == "__main__":
 
     for path in Path("assets").rglob("*.json"):
         with open(path, "rt") as f:
-            data = json.load(f)
+            try:
+                data = json.load(f)
+            except json.decoder.JSONDecodeError:
+                raise Exception(f"Can't parse JSON on path: {path}")
+
             if isinstance(data, dict):
                 data = [data]
             assert isinstance(data, list), f"Expected list, got {type(data)}"
