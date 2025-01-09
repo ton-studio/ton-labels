@@ -33,7 +33,7 @@ jobs:
         python build_assets.py
     - name: Upload to Dune
       run: |
-        python upload_to_dune.py output/csv/assets.csv
+        python dune_upload.py output/csv/assets.csv
       env:
         DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
 
