@@ -4,8 +4,8 @@
         "description": "Centralized Exchanges or other custodial services"
     },
     {
-        "name": "jetton",
-        "description": "Jetton (token) master address"
+        "name": "DEX",
+        "description": "Decentralized Exchange"
     },
     {
         "name": "scammer",
@@ -22,5 +22,25 @@
     {
         "name": "bridge",
         "description": "Address of a TON/Jetton Bridge service"
+    },
+    {
+        "name": "tradingbot",
+        "description": "On-chain Trading Bots"
+    },
+    {
+        "name": "lending",
+        "description": "DeFi Lending Protocols"
+    },
+    {
+        "name": "ads",
+        "description": "Ads network"
+    },
+    {
+        "name": "gaming",
+        "description": "Games with on-chain payments or contracts"
+    },
+    {
+        "name": "wallet",
+        "description": "Crypto wallet"
     }
 ]
