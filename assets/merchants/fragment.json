@@ -1,0 +1,102 @@
+[
+    {
+        "address": "EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb",
+        "label": "fragment",
+        "organization": "fragment",
+        "category": "merchant",
+        "image": "",
+        "source": "",
+        "description": "Sends Telegram channel and bot rewards",
+        "comment": "converting Stars to TON",
+        "proof": "",
+        "tags": [
+            "Telegram Stars",
+            "Telegram Premium",
+            "KYC",
+            "Telegram Mobile",
+            "Telegram Ads"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQBeab7D38RIwypegbN7YZgQzwDbb8QfMMwY8ouJc3qPl91M",
+        "label": "fragment",
+        "organization": "fragment",
+        "category": "merchant",
+        "image": "",
+        "source": "",
+        "description": "Telegram Ad account top ups",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "Telegram Stars",
+            "Telegram Premium",
+            "KYC",
+            "Telegram Mobile",
+            "Telegram Ads"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQCFJEP4WZ_mpdo0_kMEmsTgvrMHG7K_tWY16pQhKHwoOoy2",
+        "label": "fragment",
+        "organization": "fragment",
+        "category": "merchant",
+        "image": "",
+        "source": "",
+        "description": "Telegram Stars Seller",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "Telegram Stars",
+            "Telegram Premium",
+            "KYC",
+            "Telegram Mobile",
+            "Telegram Ads"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE",
+        "label": "fragment",
+        "organization": "fragment",
+        "category": "merchant",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "Telegram Stars",
+            "Telegram Premium",
+            "KYC",
+            "Telegram Mobile",
+            "Telegram Ads"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN",
+        "label": "fragment",
+        "organization": "fragment",
+        "category": "merchant",
+        "image": "",
+        "source": "",
+        "description": "Sends Telegram channel and bot rewards",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "Telegram Stars",
+            "Telegram Premium",
+            "KYC",
+            "Telegram Mobile",
+            "Telegram Ads"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    }
+]
