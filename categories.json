@@ -38,5 +38,9 @@
     {
         "name": "gaming",
         "description": "Games with on-chain payments or contracts"
+    },
+    {
+        "name": "wallet",
+        "description": "Crypto wallet"
     }
 ]

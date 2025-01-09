@@ -16,5 +16,56 @@
         ],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQA9nNvUSLAebJxzhHv5sxMWK_RXrxk4MYXR39JMbqvrc040",
+        "label": "blum",
+        "organization": "blum",
+        "category": "DEX",
+        "subcategory": "launchpad",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "defi"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQBH8XOCAYnxMx_YeZENHcBrawu7S5fXgk1Vz48YjPw6OEEz",
+        "label": "blum",
+        "organization": "blum",
+        "category": "DEX",
+        "subcategory": "launchpad",
+        "image": "",
+        "source": "",
+        "description": "Blum Multisig",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "defi"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQCCR3ChGA_4qY9s9HjASX7OmBaAFHZi8_lkqlkDl6R8FPvW",
+        "label": "blum",
+        "organization": "blum",
+        "category": "DEX",
+        "subcategory": "launchpad",
+        "image": "",
+        "source": "",
+        "description": "Jetton Deployer",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "defi"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
     }
 ]
