@@ -1,0 +1,40 @@
+name: Complile and upload datalake on AWS
+
+on:
+  push:
+    branches: [ "main" ]
+
+env:
+  AWS_REGION: eu-central-1
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Compile and update table on Dune
+    runs-on: ubuntu-latest
+    environment: production
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.11
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Compile
+      run: |
+        python build_assets.py
+    - name: Upload to Dune
+      run: |
+        python upload_to_dune.py output/csv/assets.csv
+      env:
+        DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
+
+
