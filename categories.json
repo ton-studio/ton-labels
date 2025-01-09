@@ -34,5 +34,9 @@
     {
         "name": "lending",
         "description": "DeFi Lending Protocols"
+    },
+    {
+        "name": "ads",
+        "description": "Ads network"
     }
 ]
