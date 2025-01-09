@@ -10,9 +10,7 @@
         "description": "Fee Collection",
         "comment": "",
         "proof": "",
-        "tags": [
-            "Trading Bot"
-        ],
+        "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
     },
@@ -27,9 +25,7 @@
         "description": "Ton.Fun referral address",
         "comment": "",
         "proof": "",
-        "tags": [
-            "Trading Bot"
-        ],
+        "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
     }

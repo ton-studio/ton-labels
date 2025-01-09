@@ -29,16 +29,13 @@ if __name__ == "__main__":
             categories.add(item["name"])
     logger.info(f"Loaded {len(categories)} categories")
 
-    # TODO: return back the tags checker
-    # after a tag list would be finalized
-
-    # logger.info("Loading tags whitelist")
-    # tags = set()
-    # with open("tags.json", "rt") as f:
-    #     tags_data = json.load(f)
-    #     for item in tags_data:
-    #         tags.add(item["name"])
-    # logger.info(f"Loaded {len(tags)} tags")
+    logger.info("Loading tags whitelist")
+    tags = set()
+    with open("tags.json", "rt") as f:
+        tags_data = json.load(f)
+        for item in tags_data:
+            tags.add(item["name"])
+    logger.info(f"Loaded {len(tags)} tags")
 
     address_set = set()
 
@@ -69,8 +66,8 @@ if __name__ == "__main__":
                     ), f"Unknown category {item['category']} in {item} ({path})"
 
                     assert "tags" in item, f"Expected 'tags' in {item} ({path})"
-                    # for tag in item["tags"]:
-                    #     assert tag in tags, f"Unknown tag {tag} in {item} ({path})"
+                    for tag in item["tags"]:
+                        assert tag in tags, f"Unknown tag {tag} in {item} ({path})"
 
                     # TODO validate source field?
 

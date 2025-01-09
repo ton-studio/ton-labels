@@ -18,5 +18,45 @@
     {
         "name": "crypto-card",
         "description": "Entity is issuing crypto cards / virtual credit cards"
+    },
+    {
+        "name": "mobile",
+        "description": "Marketplace sells eSIM"
+    },
+    {
+        "name": "telegram-stars",
+        "description": "Marketplace sells Telegram Stars"
+    },
+    {
+        "name": "telegram-premium",
+        "description": "Marketplace sells Telegram Premium"
+    },
+    {
+        "name": "telegram-ads",
+        "description": "Marketplace can top up Telegram Ads balance"
+    },
+    {
+        "name": "kyc",
+        "description": "App requires KYC"
+    },
+    {
+        "name": "no-kyc",
+        "description": "App doesn't require KYC verification"
+    },
+    {
+        "name": "defi",
+        "description": "Decentralized Finance"
+    },
+    {
+        "name": "referral-address",
+        "description": "Address is used as a referral address in another protocol. E.g. to collect fees."
+    },
+    {
+        "name": "fee-collector",
+        "description": "Address is used to collect fees."
+    },
+    {
+        "name": "",
+        "description": ""
     }
 ]

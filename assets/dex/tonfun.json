@@ -4,16 +4,15 @@
         "label": "tonfun",
         "organization": "tonfun",
         "category": "DEX",
-        "subcategory": "Launchpad",
+        "subcategory": "launchpad",
         "image": "",
         "source": "",
         "description": "Fee Collection",
         "comment": "",
         "proof": "",
         "tags": [
-            "DeFi",
-            "Launchpad",
-            "Fee Collector"
+            "defi",
+            "fee-collector"
         ],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
