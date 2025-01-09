@@ -1,0 +1,20 @@
+[
+    {
+        "address": "EQBK1ySbGO0rzZbv5vjj0N7c3z0XZ4-Pqu4uXDBe82GFZAjm",
+        "label": "wagmi",
+        "organization": "wagmi",
+        "category": "DEX",
+        "subcategory": "Referral Address",
+        "image": "",
+        "source": "",
+        "description": "Ton.Fun referral address",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "DeFi",
+            "Launchpad"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    }
+]

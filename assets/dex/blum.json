@@ -1,0 +1,20 @@
+[
+    {
+        "address": "EQDCcFymkr7vpSKJXMBSLDyojJXTIpjkJ1g-ZjGcIRCQ6gHc",
+        "label": "blum",
+        "organization": "blum",
+        "category": "DEX",
+        "subcategory": "Referral Address",
+        "image": "",
+        "source": "",
+        "description": "Ton.Fun referral address",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "DeFi",
+            "Launchpad"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    }
+]

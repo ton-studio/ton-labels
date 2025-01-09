@@ -1,0 +1,72 @@
+[
+    {
+        "address": "EQAxYmVGa0hTtBYw0j9XSpeOhm_93Y-LhTCjYS6WR6VmPhUp",
+        "label": "TonTradingBot",
+        "organization": "TonTradingBot",
+        "category": "tradingbot",
+        "subcategory": "Referral Address",
+        "image": "",
+        "source": "",
+        "description": "Ton.Fun referral address",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "Trading Bot"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQCvIl6W8iU5xkRUkMfYXt6JygLs2MZf8FRve5e8aTguLgeT",
+        "label": "TonTradingBot",
+        "organization": "TonTradingBot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "Claim",
+        "comment": "tontradingbotclaim.ton",
+        "proof": "",
+        "tags": [
+            "Trading Bot"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQA4mfrV45OEIuTyJKDQe41FX1X0XD8IPJ9UYb7Tpu3gK_TL",
+        "label": "TonTradingBot",
+        "organization": "TonTradingBot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "Fee Collection",
+        "comment": "tontradingbotsellfee.ton",
+        "proof": "",
+        "tags": [
+            "Trading Bot",
+            "Fee Collector"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQD6wz9UpPYn8-O3XiYHMN95qlT9axaGvxgmBXcQ-rkWqbwE",
+        "label": "TonTradingBot",
+        "organization": "TonTradingBot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "Fee Collection",
+        "comment": "tontradingbotbuyfee.ton",
+        "proof": "",
+        "tags": [
+            "Trading Bot",
+            "Fee Collector"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "address": "EQCf3ihQ7JM6qw4VYs-bpHLdb8AwEJ5Vjk_GKCHghryWH2zb",
+        "label": "tonfun",
+        "organization": "tonfun",
+        "category": "DEX",
+        "subcategory": "Launchpad",
+        "image": "",
+        "source": "",
+        "description": "Fee Collection",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "DeFi",
+            "Launchpad",
+            "Fee Collector"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    }
+]
