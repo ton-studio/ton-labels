@@ -1,4 +1,4 @@
-name: Complile and upload datalake on AWS
+name: Compile and update table on Dune
 
 on:
   push:
