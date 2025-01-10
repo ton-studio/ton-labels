@@ -28,3 +28,6 @@ jobs:
     - name: Compile
       run: |
         python build_assets.py
+    - name: Validate assets.json is up to date
+      run: |
+        git diff --exit-code output/json/assets.json
