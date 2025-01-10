@@ -107,7 +107,7 @@ if __name__ == "__main__":
                     raise e
 
     logger.info(f"Building output files with {len(output)} records")
-    output_df = pd.DataFrame(output)
+    output_df = pd.DataFrame(output).sort_values(by="address")
     os.makedirs("output/csv", exist_ok=True)
     output_df.to_csv("output/csv/assets.csv", index=False)
     os.makedirs("output/json", exist_ok=True)
