@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "Regenerating assets.json file"
+
+python build_assets.py
+
+git add output/json/assets.json
