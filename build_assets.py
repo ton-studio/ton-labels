@@ -112,6 +112,6 @@ if __name__ == "__main__":
     output_df.to_csv("output/csv/assets.csv", index=False)
     os.makedirs("output/json", exist_ok=True)
     with open("output/json/assets.json", "wt") as f:
-        for row in output_df.to_dict(orient="records"):
+        for row in output_df.drop(columns=["github_hash"]).to_dict(orient="records"):
             f.write(json.dumps(row))
             f.write("\n")
