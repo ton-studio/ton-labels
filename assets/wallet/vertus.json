@@ -13,5 +13,35 @@
         "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-13T00:00:01Z"
+    },
+    {
+        "address": "EQARZxhi1bUv_hwYWxp_hPVZbKiAaAJKvSlK_y9q18JtIQqp",
+        "label": "Vertus",
+        "organization": "Vertus",
+        "category": "wallet",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-13T00:00:01Z"
+    },
+    {
+        "address": "EQBFEU1Yh0wuRFrkHTKq7df3oX6wH_8T0WEAzmN81Jyqdub6",
+        "label": "Vertus",
+        "organization": "Vertus",
+        "category": "wallet",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-13T00:00:01Z"
     }
 ]

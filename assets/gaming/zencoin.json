@@ -13,5 +13,35 @@
         "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-10T00:00:01Z"
+    },
+    {
+        "address": "EQAr17Jj72_h8Wier6zl7n8hB5l2RP7R00VdvmWoTCWv-gf6",
+        "label": "Zencoin",
+        "organization": "Zencoin",
+        "category": "gaming",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-13T00:00:01Z"
+    },
+    {
+        "address": "EQDZMUeSS-OSWCSCsesv8gZwVe_8lpfcq_lIl-B4MzGHLUX4",
+        "label": "Zencoin",
+        "organization": "Zencoin",
+        "category": "gaming",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-13T00:00:01Z"
     }
 ]
