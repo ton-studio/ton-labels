@@ -1,2 +1,4 @@
-./output
+/output
+
 .env
+**.DS_Store
