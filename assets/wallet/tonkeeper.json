@@ -43,5 +43,20 @@
         "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQBsju9UnwA_T0IdAJrt5Qfj91NWZ7Y56Y_Qm1XI_A4jyzHr",
+        "label": "Tonkeeper",
+        "organization": "Tonkeeper",
+        "category": "wallet",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "Ston.fi referral address",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-13T00:00:01Z"
     }
 ]
