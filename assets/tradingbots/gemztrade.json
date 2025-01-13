@@ -1,0 +1,34 @@
+[
+    {
+        "address": "EQC_0ScHnb7bVoyInXLkZ2G4XRHg97S9XrPKCUDaO1ZRyFhZ",
+        "label": "Gemz Trade",
+        "organization": "Gemz Trade",
+        "category": "tradingbot",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "Collecting Gemz Checkins",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-13T00:00:01Z"
+    },
+    {
+        "address": "EQAZO_HuoR3aP7Pmi5kE3h91mmp4J5OwhbMcrkZlwSMVDt3M",
+        "label": "GEMZ PASS",
+        "organization": "Gemz Trade",
+        "category": "tradingbot",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "A collection of 555 OG NFTs that offer its holders exclusive benefits.",
+        "proof": "",
+        "tags": [
+            "nft"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-13T00:00:01Z"
+    }
+]

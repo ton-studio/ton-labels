@@ -42,5 +42,9 @@
     {
         "name": "wallet",
         "description": "Crypto wallet"
+    },
+    {
+        "name": "infrastructure",
+        "description": "TON Blockchain infrastructure contracts"
     }
 ]

@@ -56,6 +56,10 @@
         "description": "Address is used to collect fees."
     },
     {
+        "name": "nft",
+        "description": "NFT collection"
+    },
+    {
         "name": "",
         "description": ""
     }
