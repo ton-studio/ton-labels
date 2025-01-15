@@ -1,8 +1,8 @@
 [
     {
-        "address": "EQBStM0V7UrBeohM5cQbiKy40f8z7YgddxsqoKnPVMcoLiDg",
-        "label": "Spinner Coin",
-        "organization": "Spinner Coin",
+        "address": "EQBmyetxfPY9DGz42efWqwVn43VqDfBQdlahmXASh1c4e0ZL",
+        "label": "Ton Heroes",
+        "organization": "Ton Heroes",
         "category": "gaming",
         "subcategory": "",
         "image": "",
@@ -15,15 +15,15 @@
         "submissionTimestamp": "2025-01-15T00:00:01Z"
     },
     {
-        "address": "EQCcqyTC7QSnXDXD7mQPSi1CpT_qadKl75QaHKQQ_CQM4X4I",
-        "label": "Spinner Coin",
-        "organization": "Spinner Coin",
+        "address": "EQDkIEcj6h6ZH7vhSk9AFVBX0n6vvwwxmYM5NvbzOxtMbXzM",
+        "label": "Ton Heroes",
+        "organization": "Ton Heroes",
         "category": "gaming",
         "subcategory": "",
         "image": "",
         "source": "",
         "description": "",
-        "comment": "highload wallet",
+        "comment": "",
         "proof": "",
         "tags": [],
         "submittedBy": "ohld",
