@@ -13,5 +13,22 @@
         "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-14T00:00:01Z"
+    },
+    {
+        "address": "EQB5HGx3UMnJtNB_-AQSm3CSe69KHtfIwQarQfDxsJ7wQaUS",
+        "label": "Seed Analytics",
+        "organization": "Seed Analytics",
+        "category": "gaming",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "NFT collection",
+        "proof": "",
+        "tags": [
+            "nft"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-15T00:00:01Z"
     }
 ]

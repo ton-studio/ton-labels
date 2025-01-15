@@ -46,5 +46,9 @@
     {
         "name": "infrastructure",
         "description": "TON Blockchain infrastructure contracts"
+    },
+    {
+        "name": "liquid-stacking",
+        "description": "Liquid Stacking DeFi protocols"
     }
 ]

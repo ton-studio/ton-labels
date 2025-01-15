@@ -30,5 +30,22 @@
         ],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-15T00:00:01Z"
+    },
+    {
+        "address": "EQBPIFKq_HLbqoksBqPGIMjFjTco2NH7o0ckV5Iocj_A2z-z",
+        "label": "nomis",
+        "organization": "nomis",
+        "category": "gaming",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "web3 reputation",
+        "comment": "probably not gaming",
+        "proof": "",
+        "tags": [
+            "nft"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-15T00:00:01Z"
     }
 ]
