@@ -1,0 +1,55 @@
+[
+    {
+        "address": "EQCf3ihQ7JM6qw4VYs-bpHLdb8AwEJ5Vjk_GKCHghryWH2zb",
+        "label": "ton.fun",
+        "organization": "ton.fun",
+        "category": "DEX",
+        "subcategory": "launchpad",
+        "image": "",
+        "source": "",
+        "description": "Fee Collection",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "defi",
+            "fee-collector"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQAleeqJ5oWDWSIAwfS6eSKVx9u3vLpHTJ_piqn1s8yeYY-5",
+        "label": "ton.fun",
+        "organization": "ton.fun",
+        "category": "DEX",
+        "subcategory": "launchpad",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "defi",
+            "fee-collector"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-15T00:00:01Z"
+    },
+    {
+        "address": "EQC93yQtbGtWWvwErnCVhiV6URME11qO5HO4WVlIKGoZfOpd",
+        "label": "ton.fun",
+        "organization": "ton.fun",
+        "category": "DEX",
+        "subcategory": "launchpad",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "token deployer",
+        "proof": "",
+        "tags": [
+            "defi"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-15T00:00:01Z"
+    }
+]
