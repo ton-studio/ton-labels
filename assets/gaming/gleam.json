@@ -1,23 +1,8 @@
 [
     {
-        "address": "EQA1ncIYvWqZ8Lba4diqFqbZ5hY0OL2QnkE3tIULrmFnEOEz",
-        "label": "Bump333",
-        "organization": "Bump333",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQCLwr7h47bF7J7IjBamKRWhCdBKq6IQLZs_rrqHAK52qtTa",
-        "label": "Bump333",
-        "organization": "Bump333",
+        "address": "EQBB9m3JuJFRQZMXhjp2E7DvPfPUE80vQzwlQVuxPbRQBzNU",
+        "label": "Gleam",
+        "organization": "Gleam",
         "category": "gaming",
         "subcategory": "",
         "image": "",
@@ -30,19 +15,32 @@
         "submissionTimestamp": "2025-01-14T00:00:01Z"
     },
     {
-        "address": "EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS",
-        "label": "Bump333",
-        "organization": "Bump333",
+        "address": "EQAFZftT5VrtXl99fq7HFK0uiPwwnNKTf4CIYzH8d4RX_oDu",
+        "label": "Gleam",
+        "organization": "Gleam",
         "category": "gaming",
         "subcategory": "",
         "image": "",
         "source": "",
         "description": "",
-        "comment": "NFT collection",
+        "comment": "",
         "proof": "",
-        "tags": [
-            "nft"
-        ],
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-14T00:00:01Z"
+    },
+    {
+        "address": "EQAaP62gcmar9uRh0AkIP9wrABT6dWHLet4_RmVrbwNRlrpJ",
+        "label": "Gleam",
+        "organization": "Gleam",
+        "category": "gaming",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-14T00:00:01Z"
     }
