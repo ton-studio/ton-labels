@@ -35,5 +35,24 @@
         ],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQBxBqmJdR0v9Wv5NMrKrtuJcmQZaxoQqmCFNswrKp8M6dEp",
+        "label": "split.tg",
+        "organization": "split.tg",
+        "category": "merchant",
+        "image": "",
+        "source": "",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [
+            "telegram-stars",
+            "telegram-premium",
+            "no-kyc",
+            "fee-collector"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-20T00:00:01Z"
     }
 ]

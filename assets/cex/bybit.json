@@ -908,5 +908,19 @@
         "tags": [],
         "submittedBy": "ziga",
         "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+        "address": "EQBKHCC8mm-SlPdfHIen84OotzpIOi5tyzYw3b54s8ytANhS",
+        "label": "bybit",
+        "organization": "bybit",
+        "category": "CEX",
+        "image": "",
+        "source": "Proof of reserves audit report: https://www.bybit.com/common-static/cht-static/por/Bybit_PoR_Audit_Nov.pdf",
+        "description": "",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
     }
 ]
