@@ -32,5 +32,22 @@
         ],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQA11HErC5dJpSHVa9Sk5xGLRCn1It6t-XbsuNjsxMW1qCxS",
+        "label": "dedust",
+        "organization": "dedust",
+        "category": "DEX",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "DeDust Vault",
+        "comment": "for TELEMON",
+        "proof": "",
+        "tags": [
+            "defi"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-01T00:00:01Z"
     }
 ]
