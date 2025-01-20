@@ -1,0 +1,30 @@
+[
+    {
+        "address": "EQD2P3X9U0R8tVH1N2yj_Y7NkD7BH--02HuBEqzkT3XXi3mD",
+        "label": "Coins.ph",
+        "organization": "Coins.ph",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "Deposit Address",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-20T07:07:33Z"
+    },
+    {
+        "address": "EQBliEEMhVkYG728oAMqa9jv2n7Qm40uSctEp5XVThp4ONQ5",
+        "label": "Coins.ph",
+        "organization": "Coins.ph",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "Withdraw Address",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-20T07:07:33Z"
+    }
+]

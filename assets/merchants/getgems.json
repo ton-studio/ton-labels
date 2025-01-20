@@ -40,5 +40,19 @@
     "tags": [],
     "submittedBy": "ohld",
     "submissionTimestamp": "2025-01-09T00:00:00Z"
+  },
+  {
+    "address": "EQDDuxx7sa3Dt2GE85a0sIHp4GVoa7OKbAanfo3co9H-h06d",
+    "label": "Getgems Marketplace",
+    "organization": "Getgems",
+    "category": "merchant",
+    "image": "",
+    "source": "tonviewer",
+    "description": "TON NFT Marketplace",
+    "comment": "royalties",
+    "proof": "",
+    "tags": [],
+    "submittedBy": "ohld",
+    "submissionTimestamp": "2025-01-17T00:00:00Z"
   }
 ]
