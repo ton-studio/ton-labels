@@ -1,0 +1,30 @@
+[
+    {
+        "address": "EQBlnb9GCDGnJ5XEqamHL7Sj5_0wJ4MGja5T6PKlwVAISgrW",
+        "label": "Flipster",
+        "organization": "Flipster",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "Deposit Address",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-20T07:07:33Z"
+    },
+    {
+        "address": "EQDQpuuVQI6Vzpewyll_xSP_SAlSNjXo9RngD9y99C8MVJri",
+        "label": "Flipster",
+        "organization": "Flipster",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "Withdraw Address",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-20T07:07:33Z"
+    }
+]

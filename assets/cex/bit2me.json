@@ -1,0 +1,30 @@
+[
+    {
+        "address": "EQCNQvXY8EYtFUGpiujfDhXrlEtvx136qWOOQebCcK91TCkH",
+        "label": "Bit2Me",
+        "organization": "Bit2Me",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "Deposit Address",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-20T07:07:33Z"
+    },
+    {
+        "address": "EQBYLZeiMv6nI46mRMkDe2Z70g1tMPGkXEwkVNwysLVrKk5r",
+        "label": "Bit2Me",
+        "organization": "Bit2Me",
+        "category": "CEX",
+        "image": "",
+        "source": "",
+        "description": "Withdraw Address",
+        "comment": "",
+        "proof": "",
+        "tags": [],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-20T07:07:33Z"
+    }
+]
