@@ -49,5 +49,22 @@
         ],
         "submittedBy": "ohld",
         "submissionTimestamp": "2025-01-01T00:00:01Z"
+    },
+    {
+        "address": "EQBmcjRa8-KweRMrcmyf0KTnlirhaE4RRNYYdEY_XZiIlmg9",
+        "label": "dedust",
+        "organization": "dedust",
+        "category": "DEX",
+        "subcategory": "",
+        "image": "",
+        "source": "",
+        "description": "DeDust Vault",
+        "comment": "for Kat Knight",
+        "proof": "",
+        "tags": [
+            "defi"
+        ],
+        "submittedBy": "ohld",
+        "submissionTimestamp": "2025-01-21T00:00:01Z"
     }
 ]
