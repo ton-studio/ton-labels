@@ -7,8 +7,8 @@
     "image": "",
     "source": "tonkeeper ton-assets",
     "description": "Scammer",
-    "comment": "",
-    "proof": "https://tonviewer.com/transaction/32653061633036612d306166372d333162352d633130352d633434373139316338383565",
+    "comment": "https://tonviewer.com/transaction/32653061633036612d306166372d333162352d633130352d633434373139316338383565",
+    "proof": "",
     "tags": [
       "scammer",
       "suspicious"

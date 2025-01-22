@@ -7,8 +7,8 @@
         "subcategory": "Referral Address",
         "image": "",
         "source": "",
-        "description": "Ton.Fun referral address",
-        "comment": "",
+        "description": "",
+        "comment": "Ton.Fun referral address",
         "proof": "",
         "tags": [],
         "submittedBy": "ohld",
@@ -22,8 +22,8 @@
         "subcategory": "",
         "image": "",
         "source": "",
-        "description": "Claim",
-        "comment": "tontradingbotclaim.ton",
+        "description": "",
+        "comment": "Claim, tontradingbotclaim.ton",
         "proof": "",
         "tags": [],
         "submittedBy": "ohld",
@@ -37,8 +37,8 @@
         "subcategory": "",
         "image": "",
         "source": "",
-        "description": "Fee Collection",
-        "comment": "tontradingbotsellfee.ton",
+        "description": "",
+        "comment": "Fee Collection, tontradingbotsellfee.ton",
         "proof": "",
         "tags": [
             "fee-collector"
@@ -54,8 +54,8 @@
         "subcategory": "",
         "image": "",
         "source": "",
-        "description": "Fee Collection",
-        "comment": "tontradingbotbuyfee.ton",
+        "description": "",
+        "comment": "Fee Collection, tontradingbotbuyfee.ton",
         "proof": "",
         "tags": [
             "fee-collector"
