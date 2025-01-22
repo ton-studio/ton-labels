@@ -1,58 +1,44 @@
-[
-    {
-        "address": "EQABGo8KCza3ea8DNHMnSWZmbRzW-05332eTdfvW-XDQEjQM",
+{
+    "metadata": {
         "label": "xrocket",
-        "organization": "xrocket",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
+        "organization": "xrocket"
     },
-    {
-        "address": "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz",
-        "label": "xrocket",
-        "organization": "xrocket",
-        "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    },
-    {
-        "address": "EQBFYU_uOZxD13u1l1WHkYMbwO4xdUy7K1sfv1o0iO2ZQDLL",
-        "label": "xrocket",
-        "organization": "xrocket",
-        "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    },
-    {
-        "address": "EQDB3GVLWYq4TNpPEjcu_tiQfO3wkBhlpYZJCHNz4BscJPaV",
-        "label": "xrocket",
-        "organization": "xrocket",
-        "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQABGo8KCza3ea8DNHMnSWZmbRzW-05332eTdfvW-XDQEjQM",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQB1cmpxb3R-YLA3HLDV01Rx6OHpMQA_7MOglhqL2CwJx_dz",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQBFYU_uOZxD13u1l1WHkYMbwO4xdUy7K1sfv1o0iO2ZQDLL",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQDB3GVLWYq4TNpPEjcu_tiQfO3wkBhlpYZJCHNz4BscJPaV",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

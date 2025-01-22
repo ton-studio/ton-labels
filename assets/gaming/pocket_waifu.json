@@ -1,32 +1,28 @@
-[
-    {
-        "address": "EQA4-TqOzr3AwCWRzi8WZq60oO63SMFJa89SV2-WuUL6YGhk",
-        "label": "pocket-waifu",
-        "organization": "pocket-waifu",
+{
+    "metadata": {
+        "label": "pocket_waifu",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
+        "organization": "pocket_waifu"
     },
-    {
-        "address": "EQDYv3RCI-lylKhRGTzLdNN7QiNNsn14HfJEyWvu6li2_k_4",
-        "label": "pocket-waifu",
-        "organization": "pocket-waifu",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQA4-TqOzr3AwCWRzi8WZq60oO63SMFJa89SV2-WuUL6YGhk",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQDYv3RCI-lylKhRGTzLdNN7QiNNsn14HfJEyWvu6li2_k_4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

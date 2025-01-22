@@ -1,92 +1,60 @@
-[
-    {
-        "address": "EQBUMhPs9zdRgCppbjjPlN9DENKrbUe4mSe6BWPmHqw48xlM",
+{
+    "metadata": {
         "label": "telemon",
-        "organization": "telemon",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "Comments in message",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "shuva10v",
-        "submissionTimestamp": "2025-01-13T00:00:00Z"
+        "organization": "telemon"
     },
-    {
-        "address": "EQAYC0h5oSR1hz9_DOJbYSsApivzM1B58TKKQuvv-YqImrxp",
-        "label": "telemon",
-        "organization": "telemon",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "Comments in message",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T00:00:00Z"
-    },
-    {
-        "address": "EQA-Xiv24gJVED9hVJfRqpem56I3MYt0i36nrQKxvQcXsE5g",
-        "label": "telemon",
-        "organization": "telemon",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "PIKA2 token minter",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T00:00:00Z"
-    },
-    {
-        "address": "EQA3punC96w1dc7xQBBPkNOAjGK8dXxO9DB4pyJ0JwYsggbD",
-        "label": "telemon",
-        "organization": "telemon",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T00:00:00Z"
-    },
-    {
-        "address": "EQC810uFbCXi4RNQMVXJwMsKfbAkO7kveplhZs5QHUC_3OjS",
-        "label": "telemon",
-        "organization": "telemon",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T00:00:00Z"
-    },
-    {
-        "address": "EQAJQeEDhFrfyYWUmZUljFE6blc1D1ofIQp2N9wR8_J-O4kg",
-        "label": "telemon",
-        "organization": "telemon",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T00:00:00Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQBUMhPs9zdRgCppbjjPlN9DENKrbUe4mSe6BWPmHqw48xlM",
+            "source": "Comments in message",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-13T00:00:00Z"
+        },
+        {
+            "address": "EQAYC0h5oSR1hz9_DOJbYSsApivzM1B58TKKQuvv-YqImrxp",
+            "source": "Comments in message",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:00Z"
+        },
+        {
+            "address": "EQA-Xiv24gJVED9hVJfRqpem56I3MYt0i36nrQKxvQcXsE5g",
+            "source": "",
+            "comment": "PIKA2 token minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:00Z"
+        },
+        {
+            "address": "EQA3punC96w1dc7xQBBPkNOAjGK8dXxO9DB4pyJ0JwYsggbD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:00Z"
+        },
+        {
+            "address": "EQC810uFbCXi4RNQMVXJwMsKfbAkO7kveplhZs5QHUC_3OjS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:00Z"
+        },
+        {
+            "address": "EQAJQeEDhFrfyYWUmZUljFE6blc1D1ofIQp2N9wR8_J-O4kg",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:00Z"
+        }
+    ]
+}

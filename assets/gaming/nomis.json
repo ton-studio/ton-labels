@@ -1,51 +1,40 @@
-[
-    {
-        "address": "EQBykWvdmoyFD2kB4BJbdrxRqyWKzSLDn-SgwNvznRfbsaKv",
+{
+    "metadata": {
         "label": "nomis",
-        "organization": "nomis",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "web3 reputation",
-        "comment": "probably not gaming",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
+        "website": "",
+        "description": "",
+        "organization": "nomis"
     },
-    {
-        "address": "EQB9xB6WbwsLDOAKWBcWZB3DkQqDoxgxpQm7atXkSocNomIs",
-        "label": "nomis",
-        "organization": "nomis",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "web3 reputation",
-        "comment": "probably not gaming",
-        "proof": "",
-        "tags": [
-            "nft"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    },
-    {
-        "address": "EQBPIFKq_HLbqoksBqPGIMjFjTco2NH7o0ckV5Iocj_A2z-z",
-        "label": "nomis",
-        "organization": "nomis",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "web3 reputation",
-        "comment": "probably not gaming",
-        "proof": "",
-        "tags": [
-            "nft"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQBykWvdmoyFD2kB4BJbdrxRqyWKzSLDn-SgwNvznRfbsaKv",
+            "source": "",
+            "comment": "web3 reputation",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQB9xB6WbwsLDOAKWBcWZB3DkQqDoxgxpQm7atXkSocNomIs",
+            "source": "",
+            "comment": "web3 reputation",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQBPIFKq_HLbqoksBqPGIMjFjTco2NH7o0ckV5Iocj_A2z-z",
+            "source": "",
+            "comment": "web3 reputation",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

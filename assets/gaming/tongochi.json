@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQDsQeFKUlh8iFjF_7DyUA7j0Y6kvI4CFEXiU7Gd7qQgks-7",
+{
+    "metadata": {
         "label": "tongochi",
-        "organization": "tongochi",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "Stonfi referral address",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    }
-]
+        "organization": "tongochi"
+    },
+    "addresses": [
+        {
+            "address": "EQDsQeFKUlh8iFjF_7DyUA7j0Y6kvI4CFEXiU7Gd7qQgks-7",
+            "source": "",
+            "comment": "Stonfi referral address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

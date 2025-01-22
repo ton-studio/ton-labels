@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQAPoDm5igucGRpMI3L8wPmO6gNGuhusQOM7L_9NGgQo903s",
-        "label": "DRFT Party",
-        "organization": "DRFT Party",
+{
+    "metadata": {
+        "label": "drft_party",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+        "organization": "drft_party"
+    },
+    "addresses": [
+        {
+            "address": "EQAPoDm5igucGRpMI3L8wPmO6gNGuhusQOM7L_9NGgQo903s",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

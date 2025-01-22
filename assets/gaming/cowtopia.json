@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQAnH0qMVcxsFO5e0mZm5AnOFfnDV0-pm6GfjVmtiSfEyLhZ",
-        "label": "Cowtopia",
-        "organization": "Cowtopia",
+{
+    "metadata": {
+        "label": "cowtopia",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+        "organization": "cowtopia"
+    },
+    "addresses": [
+        {
+            "address": "EQAnH0qMVcxsFO5e0mZm5AnOFfnDV0-pm6GfjVmtiSfEyLhZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

@@ -1,77 +1,52 @@
-[
-    {
-        "address": "EQBB9m3JuJFRQZMXhjp2E7DvPfPUE80vQzwlQVuxPbRQBzNU",
-        "label": "Gleam",
-        "organization": "Gleam",
+{
+    "metadata": {
+        "label": "gleam",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
+        "organization": "gleam"
     },
-    {
-        "address": "EQAFZftT5VrtXl99fq7HFK0uiPwwnNKTf4CIYzH8d4RX_oDu",
-        "label": "Gleam",
-        "organization": "Gleam",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQAaP62gcmar9uRh0AkIP9wrABT6dWHLet4_RmVrbwNRlrpJ",
-        "label": "Gleam",
-        "organization": "Gleam",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQADW_UziWpTavUApnKj9ejTrGtOuIBDdIe2zxamdNkta95p",
-        "label": "Gleam",
-        "organization": "Gleam",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    },
-    {
-        "address": "EQAy0G_D3ma7BLJifaoNwR08kACx3KUfJaneznVKvWCF0RS8",
-        "label": "Gleam",
-        "organization": "Gleam",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQBB9m3JuJFRQZMXhjp2E7DvPfPUE80vQzwlQVuxPbRQBzNU",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAFZftT5VrtXl99fq7HFK0uiPwwnNKTf4CIYzH8d4RX_oDu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAaP62gcmar9uRh0AkIP9wrABT6dWHLet4_RmVrbwNRlrpJ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQADW_UziWpTavUApnKj9ejTrGtOuIBDdIe2zxamdNkta95p",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQAy0G_D3ma7BLJifaoNwR08kACx3KUfJaneznVKvWCF0RS8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

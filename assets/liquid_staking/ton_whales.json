@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "ton_whales",
+        "category": "liquid-staking",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "ton_whales"
+    },
+    "addresses": [
+        {
+            "address": "EQB0SoxuGDx5qjVt0P_bPICFeWdFLBmVopHhjgfs0q-wsTON",
+            "source": "",
+            "comment": "wsTON jetton master and main smart contract",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-17T07:07:33Z"
+        }
+    ]
+}

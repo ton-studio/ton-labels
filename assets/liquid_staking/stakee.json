@@ -1,18 +1,22 @@
-[
-    {
-        "address": "EQCqC6EhRJ_tpWngKxL6dV0k6DSnRUrs9GSVkLbfdCqsj6TE",
-        "label": "Stakee",
-        "organization": "Stakee",
+{
+    "metadata": {
+        "label": "stakee",
         "category": "liquid-staking",
-        "image": "",
-        "source": "",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "STAKED jetton master and main smart contract",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "shuva10v",
-        "submissionTimestamp": "2025-01-17T07:07:33Z"
-    }
-]
+        "organization": "stakee"
+    },
+    "addresses": [
+        {
+            "address": "EQCqC6EhRJ_tpWngKxL6dV0k6DSnRUrs9GSVkLbfdCqsj6TE",
+            "source": "",
+            "comment": "STAKED jetton master and main smart contract",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-17T07:07:33Z"
+        }
+    ]
+}

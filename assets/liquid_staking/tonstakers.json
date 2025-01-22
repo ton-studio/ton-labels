@@ -1,18 +1,22 @@
-[
-    {
-        "address": "EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR",
+{
+    "metadata": {
         "label": "tonstakers",
-        "organization": "tonstakers",
         "category": "liquid-staking",
-        "image": "",
-        "source": "",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T07:07:33Z"
-    }
-]
+        "organization": "tonstakers"
+    },
+    "addresses": [
+        {
+            "address": "EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        }
+    ]
+}

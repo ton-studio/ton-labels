@@ -1,32 +1,28 @@
-[
-    {
-        "address": "EQA2KM-N7SzRbrlk6LC4R7KWnkJtdLoWO5f-QLZR_F_nFBgL",
-        "label": "SeedCoin",
-        "organization": "SeedCoin",
+{
+    "metadata": {
+        "label": "seedcoin",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-09T00:00:01Z"
+        "organization": "seedcoin"
     },
-    {
-        "address": "EQAPKoyIsBDj0bABqElvckC2qoQzLl0azUASffyCu59MOFwj",
-        "label": "SeedCoin",
-        "organization": "SeedCoin",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-09T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQA2KM-N7SzRbrlk6LC4R7KWnkJtdLoWO5f-QLZR_F_nFBgL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        },
+        {
+            "address": "EQAPKoyIsBDj0bABqElvckC2qoQzLl0azUASffyCu59MOFwj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        }
+    ]
+}

@@ -1,36 +1,32 @@
-[
-    {
-        "address": "EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5",
+{
+    "metadata": {
         "label": "tonco",
-        "organization": "tonco",
         "category": "DEX",
         "subcategory": "",
-        "image": "",
-        "source": "tonviewer",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
+        "organization": "tonco"
     },
-    {
-        "address": "EQBOB4Xhe8sMDr-hy__uy0664idEA5KPi0kHRMJ5Gmv3BIsW",
-        "label": "tonco",
-        "organization": "tonco",
-        "category": "DEX",
-        "subcategory": "",
-        "image": "",
-        "source": "tonviewer",
-        "description": "",
-        "comment": "tonco.ton",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQBOB4Xhe8sMDr-hy__uy0664idEA5KPi0kHRMJ5Gmv3BIsW",
+            "source": "tonviewer",
+            "comment": "tonco.ton",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "okx_mini_wallet",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "okx"
+    },
+    "addresses": [
+        {
+            "address": "EQCX-FONo8jALxNqvUY_Yo19s_I_lYzDhXAnw7KDuAHMbPs3",
+            "source": "",
+            "comment": "Check ins",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

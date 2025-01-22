@@ -1,170 +1,108 @@
-[
-    {
-        "address": "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs",
+{
+    "metadata": {
         "label": "kucoin",
-        "organization": "kucoin",
         "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
+        "organization": "kucoin"
     },
-    {
-        "address": "EQAOFVD6NvK-2_Oe9RZO1Q-g7r1UdHO7l3rerFqG9uJwG_id",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQCIjq_nM67Yg2NOzUO6_M-U4VyY4kOUVl0Bt3MiPEEgeYOS",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQBQdl9SYUJPRwmAbtsYsS2mkgVTCt_V-YHqT-FV60ODr5R-",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQC9N5BK-44oeyiwhC0q4apnRrTswnXDhTETbhhgLALvXUIu",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQAIboOe0Q8hOTSLd2dosjcp0sRPKUyev24zKL5j4t2zdUh7",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQBzACE3K2aEM-t07gWqwWm1QGPD2MPSeo1ZQsKn6yzhW-wx",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQAu9AtAct-rFOMumbUh3zLaE9FQMnmYWRi0C--7UIODe4mJ",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-oPB",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQBvU8pjfThN23s-OOEZXXre2PeNBsvJbnlZ3RaczBZRNSyg",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQD6_ynJFOsM1qwy1j_oeqD-ISboE-Lk4rr49dZ4CfvwFosp",
-        "label": "kucoin",
-        "organization": "kucoin",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAOFVD6NvK-2_Oe9RZO1Q-g7r1UdHO7l3rerFqG9uJwG_id",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQCIjq_nM67Yg2NOzUO6_M-U4VyY4kOUVl0Bt3MiPEEgeYOS",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBQdl9SYUJPRwmAbtsYsS2mkgVTCt_V-YHqT-FV60ODr5R-",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQC9N5BK-44oeyiwhC0q4apnRrTswnXDhTETbhhgLALvXUIu",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAIboOe0Q8hOTSLd2dosjcp0sRPKUyev24zKL5j4t2zdUh7",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBzACE3K2aEM-t07gWqwWm1QGPD2MPSeo1ZQsKn6yzhW-wx",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAu9AtAct-rFOMumbUh3zLaE9FQMnmYWRi0C--7UIODe4mJ",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAHzmC35fJVqIw3B_P7x54s-STta0t9CcYyTwuiM4pI-oPB",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBvU8pjfThN23s-OOEZXXre2PeNBsvJbnlZ3RaczBZRNSyg",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQD6_ynJFOsM1qwy1j_oeqD-ISboE-Lk4rr49dZ4CfvwFosp",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        }
+    ]
+}

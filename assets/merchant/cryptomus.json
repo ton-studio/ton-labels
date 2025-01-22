@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "label": "cryptomus",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "cryptomus"
+    },
+    "addresses": [
+        {
+            "address": "EQDdiAC24TV5HLd1sCvA9WQVZZHfxA3UYzzX9CACNg96jjPp",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "no-kyc",
+                "telegram-stars"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:01Z"
+        },
+        {
+            "address": "EQDn-EI7rtBBpt_lCj4wAtwrUAwQyl8f_gn_LftTIub2ET4q",
+            "source": "",
+            "comment": "Crypto Acquiring",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

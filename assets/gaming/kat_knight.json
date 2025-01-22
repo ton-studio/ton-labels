@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "kat_knight",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "kat_knight"
+    },
+    "addresses": [
+        {
+            "address": "EQAwBYfiPmo6-XFAPRAbDN8Ebq0vQrtkB0J23-NbT-zJyeQ7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBqojkm4R7XEGZV4G9HWPkO37gU01hOe9CfFk9kmJ88eaUZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

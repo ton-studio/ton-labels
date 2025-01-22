@@ -1,58 +1,44 @@
-[
-    {
-        "address": "EQDdNkQb9KqKam7P12Pv3h64Ldhr3PsUVrRf9Lc_h2VxhKpH",
+{
+    "metadata": {
         "label": "bitpin",
-        "organization": "bitpin",
         "category": "CEX",
-        "image": "",
-        "source": "ton weekly slides",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T20:24:29Z"
+        "organization": "bitpin"
     },
-    {
-        "address": "EQA00C9oip9TkHbFdYgYGi149vhFPfdZyxYuWmHo6dD1mkGd",
-        "label": "bitpin",
-        "organization": "bitpin",
-        "category": "CEX",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2024-12-12T10:02:02Z"
-    },
-    {
-        "address": "EQDBTOXXclOb4m_eMVpQWh4FFBBOdu73dvC4ReV98FV92x25",
-        "label": "bitpin",
-        "organization": "bitpin",
-        "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    },
-    {
-        "address": "EQD6yP_Lb4lXKhIy1Z6RxlkJrkCGY_0s6uzTXzW16dZw9NMH",
-        "label": "bitpin",
-        "organization": "bitpin",
-        "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDdNkQb9KqKam7P12Pv3h64Ldhr3PsUVrRf9Lc_h2VxhKpH",
+            "source": "ton weekly slides",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T20:24:29Z"
+        },
+        {
+            "address": "EQA00C9oip9TkHbFdYgYGi149vhFPfdZyxYuWmHo6dD1mkGd",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2024-12-12T10:02:02Z"
+        },
+        {
+            "address": "EQDBTOXXclOb4m_eMVpQWh4FFBBOdu73dvC4ReV98FV92x25",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQD6yP_Lb4lXKhIy1Z6RxlkJrkCGY_0s6uzTXzW16dZw9NMH",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

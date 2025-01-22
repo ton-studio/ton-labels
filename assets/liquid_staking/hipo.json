@@ -1,34 +1,32 @@
-[
-    {
-        "address": "EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ",
+{
+    "metadata": {
         "label": "hipo",
-        "organization": "hipo",
         "category": "liquid-staking",
-        "image": "",
-        "source": "",
-        "description": "Hipo treasury",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T07:07:33Z"
-    },
-    {
-        "address": "EQCSlnhRIHYCAlt1FoQVlBHzxmaQOMj9Efu80DwoggSlt_jN",
-        "label": "hipo",
-        "organization": "hipo",
-        "category": "liquid-staking",
-        "image": "",
-        "source": "",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "hipo.ton",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T07:07:33Z"
-    }
-]
+        "organization": "hipo"
+    },
+    "addresses": [
+        {
+            "address": "EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ",
+            "source": "",
+            "comment": "Hipo treasury",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        },
+        {
+            "address": "EQCSlnhRIHYCAlt1FoQVlBHzxmaQOMj9Efu80DwoggSlt_jN",
+            "source": "",
+            "comment": "hipo.ton",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        }
+    ]
+}

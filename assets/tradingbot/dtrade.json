@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "dtrade",
+        "category": "tradingbot",
+        "subcategory": "referral_address",
+        "website": "",
+        "description": "",
+        "organization": "dtrade"
+    },
+    "addresses": [
+        {
+            "address": "EQCTwbkY-pDqx3TJu-_w5JdCtL-sFdSeKJpDNReCxZplDGWx",
+            "source": "",
+            "comment": "Fee Collection",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAGfgIOxaEVs_Z1NWfGaL1df7sO3DMm60M6aOyvjtmRKHs_",
+            "source": "",
+            "comment": "Ton.Fun referral address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

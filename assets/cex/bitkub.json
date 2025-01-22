@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQDByM-88YEJtGq4UTZx3FOgZFZ6URHPYD11wf9AcBrajZWl",
-        "label": "Bitkub",
-        "organization": "Bitkub",
+{
+    "metadata": {
+        "label": "bitkub",
         "category": "CEX",
-        "image": "",
-        "source": "",
-        "description": "Deposit & Withdraw Address",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T07:07:33Z"
-    }
-]
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bitkub"
+    },
+    "addresses": [
+        {
+            "address": "EQDByM-88YEJtGq4UTZx3FOgZFZ6URHPYD11wf9AcBrajZWl",
+            "source": "",
+            "comment": "Deposit & Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        }
+    ]
+}

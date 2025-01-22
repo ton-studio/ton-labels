@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQDfnrIQYLpFPwjLaFsiER705rwBffhTQU5I_4AfWUmmm8p7",
-        "label": "Fishing Bowl Bot",
-        "organization": "Fishing Bowl Bot",
+{
+    "metadata": {
+        "label": "fishing_bowl_bot",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    }
-]
+        "organization": "fishing_bowl_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDfnrIQYLpFPwjLaFsiER705rwBffhTQU5I_4AfWUmmm8p7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

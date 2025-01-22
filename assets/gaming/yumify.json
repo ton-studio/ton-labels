@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQDn2INPtgaWzpypxvdb5lBQ_LNshC4w0qjKS5PJEPes7edY",
+{
+    "metadata": {
         "label": "yumify",
-        "organization": "yumify",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+        "organization": "yumify"
+    },
+    "addresses": [
+        {
+            "address": "EQDn2INPtgaWzpypxvdb5lBQ_LNshC4w0qjKS5PJEPes7edY",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

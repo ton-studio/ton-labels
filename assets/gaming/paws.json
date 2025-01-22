@@ -1,92 +1,60 @@
-[
-    {
-        "address": "EQARTK0uga5evHUcNd9xV176qmf4ckRYHwoBZ6Qffa44bmMZ",
-        "label": "PAWS",
-        "organization": "PAWS",
+{
+    "metadata": {
+        "label": "paws",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "organization": "paws"
     },
-    {
-        "address": "EQDjmJz597llmXNKHs2RMxUIQl3oEL_aW24Cq24n2dF0k274",
-        "label": "PAWS",
-        "organization": "PAWS",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQAU70w-Ck5RpzO7V3he3MrGeHHujKGrYwNZTEExBvJWRa4D",
-        "label": "PAWS",
-        "organization": "PAWS",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQD_yZZppW7_Xor32_ostnha_Biefv8MTiFm-H3Cq-DZcGaY",
-        "label": "PAWS",
-        "organization": "PAWS",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "https://paws-2.gitbook.io/paws-airdrop-eligibility",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "shuva10v",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQBiFVQmRPl1S3TSPjCwCQV3p3WEP6g-LP_Tk-Gw96SDlHDj",
-        "label": "PAWS",
-        "organization": "PAWS",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "https://paws-2.gitbook.io/paws-airdrop-eligibility",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "shuva10v",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQAg6uGJduqu3xV_VrH0UugHiUeMoowvWC1PGw4nY1uolq1d",
-        "label": "PAWS",
-        "organization": "PAWS",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "https://paws-2.gitbook.io/paws-airdrop-eligibility",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "shuva10v",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQARTK0uga5evHUcNd9xV176qmf4ckRYHwoBZ6Qffa44bmMZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQDjmJz597llmXNKHs2RMxUIQl3oEL_aW24Cq24n2dF0k274",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAU70w-Ck5RpzO7V3he3MrGeHHujKGrYwNZTEExBvJWRa4D",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQD_yZZppW7_Xor32_ostnha_Biefv8MTiFm-H3Cq-DZcGaY",
+            "source": "https://paws-2.gitbook.io/paws-airdrop-eligibility",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQBiFVQmRPl1S3TSPjCwCQV3p3WEP6g-LP_Tk-Gw96SDlHDj",
+            "source": "https://paws-2.gitbook.io/paws-airdrop-eligibility",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAg6uGJduqu3xV_VrH0UugHiUeMoowvWC1PGw4nY1uolq1d",
+            "source": "https://paws-2.gitbook.io/paws-airdrop-eligibility",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}
