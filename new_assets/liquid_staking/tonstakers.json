@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "tonstakers",
+        "category": "liquid_staking",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "tonstakers"
+    },
+    "addresses": [
+        {
+            "address": "EQCkWxfyhAkim3g2DjKQQg8T5P4g-Q1-K_jErGcDJZ4i-vqR",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        }
+    ]
+}

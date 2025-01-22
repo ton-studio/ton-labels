@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "nobitex",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "nobitex"
+    },
+    "addresses": [
+        {
+            "address": "EQBFMtW837BdMnXL8lW8kcNjXNSNY7cZRBWBxVQqR1D99S1Q",
+            "source": "ton weekly slides",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T20:24:29Z"
+        },
+        {
+            "address": "EQCjLVLO2Aoj_k_pC6lFk-9obeA_n72qBp5kKCapUjS5grhs",
+            "source": "ton weekly slides",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T20:24:29Z"
+        },
+        {
+            "address": "EQDK2JiyAKCTTuQWwgObvz9dfxoyMXKHWzwZ03im9UD3sSze",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQBdWoMOSCFHkfSrU1KQDGJNO_88Xv1jAZaxgBWOt4mZD1Rc",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

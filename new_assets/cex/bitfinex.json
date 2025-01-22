@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitfinex",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bitfinex"
+    },
+    "addresses": [
+        {
+            "address": "EQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBBuP",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        }
+    ]
+}

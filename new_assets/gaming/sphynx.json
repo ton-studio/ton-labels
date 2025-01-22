@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "sphynx",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "sphynx"
+    },
+    "addresses": [
+        {
+            "address": "EQAuYz5NHwEUyKW8A-6AGyWmn-DNJ3OK5giIR1I4J7g6FTh6",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAU35_2hAbymisgUrhGa4bIJUtEJjVNVS7zBrqfKaENd67N",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "cwallet",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "cwallet"
+    },
+    "addresses": [
+        {
+            "address": "EQAj7vKLbaWjaNbAuAKP1e1HwmdYZ2vJ2xtWU8qq3JafkfxF",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

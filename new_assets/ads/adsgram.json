@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "adsgram",
+        "category": "ads",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "adsgram"
+    },
+    "addresses": [
+        {
+            "address": "EQCYCf9U1uYk4JeX0Cy469X4p-n2eLdPwEBSKh_kumxPKRTL",
+            "source": "",
+            "comment": "Web Ads in Telegram Miniapps",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCmLgXvFwGrtdph9KsCgFm6lvM0R2luiTzpdBUqzfLFI2R_",
+            "source": "",
+            "comment": "Web Ads in Telegram Miniapps",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

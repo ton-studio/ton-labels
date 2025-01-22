@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "whitebit",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "whitebit"
+    },
+    "addresses": [
+        {
+            "address": "EQAigd8MjqsJejMuIB0UPhErOlGe22dezkpjvpWt9kOrtkG8",
+            "source": "",
+            "comment": "Deposit & Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        }
+    ]
+}

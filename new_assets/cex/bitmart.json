@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitmart",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bitmart"
+    },
+    "addresses": [
+        {
+            "address": "EQCi-sp63-vVxZcBCNH3kGXO8ysMFD-xNIkGa2hM3X7pXHfC",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "cat_gold_miner",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "cat_gold_miner"
+    },
+    "addresses": [
+        {
+            "address": "EQBg_0I3h4L7f1ca_tY30VUTEilVS0d6QAx8IcwGjIjLZTLr",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQCHoSb0kxasrZ-XhGdQ4vQz-ZEGQuX1Pzq-HYiWQi8-FMpy",
+            "source": "",
+            "comment": "catgoldminer.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQC6q99HyVc1GGLKOYfh_3ztYddYF-ir4-C92gusWcASs0TS",
+            "source": "",
+            "comment": "beeharvest-nft.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

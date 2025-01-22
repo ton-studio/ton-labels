@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "yescoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "yescoin"
+    },
+    "addresses": [
+        {
+            "address": "EQCQW9JDf-W0mON_yjPLAbpdKvK49MM6RZEk8it45XO45ECC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQD4QiIKQvdTwJTXQ22ZrmQOpOFl4S1e4s5oNQweFHaTgVGZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQApOvFsiB4DUPMZS2q1o3pmz9TdEAsxhQZ2Tboi5vChg-gJ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQArDApakyUkFX2lSJOmp7FS97yldUsBgwV80CafKiL_F8xR",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "drft_party",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "drft_party"
+    },
+    "addresses": [
+        {
+            "address": "EQAPoDm5igucGRpMI3L8wPmO6gNGuhusQOM7L_9NGgQo903s",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

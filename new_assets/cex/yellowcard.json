@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "label": "yellowcard",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "yellowcard"
+    },
+    "addresses": [
+        {
+            "address": "EQBxlXxtk2yr37cWjGMtn0x52HuSXlQNGcJeuKoVNjuO3oRi",
+            "source": "",
+            "comment": "Deposit Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQB-LQ_362sK4vQtg1uMRsz006rGa_yYv6925nIZt5bMjCZD",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQDcZCI-6KPnAS6nUBsUlo0tlmpa3MSmPAKdqQu_7tad6ZBj",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQACDR8RvMdK14LKPYmSEEb7QPgvEtR75IyRX84I0ABBNC4c",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQC_bKluQ_28lXABvnEkr0SLy-VX8qbAY0ReBYLsXg8z3V8b",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQD2mRYMNDYzGEkjB8CoMv8-T30Wiu4f8fTiYTzKVHzgbB-S",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQBISw7xBO8SVBKgRJJ1vPO0fxcPJ3RdVMc1AvB6Yl_7prrp",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQCW04AOqaONFsD-7BqVSLqpoe3OLFyrwwTJsCyaRzT_aTKR",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQCigEeF0HS8mMcUg-PQZC1eJIOVMTHI6t9-dN4KjHCJ2bQ1",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQBl9Cy791Vrj80bZK0CxzAr4E1XDPNbVu00Hwb3IgRZjZr-",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQD-w6dOElh-SUnYQrqJYrmkmJGkO7Nx0Rl4Gkqps-n6h-fY",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQAtI89CXuJP9edPyxcJrvZvMoqFYP0WPyph1PlMcBdCPV8e",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQDrMn1WcYIntHZ_zCM9yCSJvJ_n19x9jz1BV8vCahz7HpXM",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQB3-xc-0Xe3Vun3AgZxxxcklgs5CIsAET5bXRUNZEiHQEpI",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQDJW3oFlCjSEi64nTCIIXyiFytMUMaplMEZhoDx2X_ckpyX",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQAs51zLJmLhxA2KUNVtoE6kCmWq0GZEotB6DdRb3G27eaZM",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQAXsCvZs7hwHYzFSXGv1nHj5Z8HchoYunIeekr2B4EGg2dw",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQBro8HMvg59T7PJCwTfK_ogUPUz3ZRqTKGG51VKOhi4Z8AV",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQDKJgw5JVU7moQYW-qJiAGiFFlB7HBgeK6W4XyWSFU1a4m-",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQC9KSqETfpuaxxRetnxb6s-QS8AlqngbDEfUVVijnBWnr3p",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        }
+    ]
+}

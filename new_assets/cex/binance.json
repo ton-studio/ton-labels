@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "binance",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "binance"
+    },
+    "addresses": [
+        {
+            "address": "EQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCXmC",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2n6g",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "pluto_studio",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "pluto_studio"
+    },
+    "addresses": [
+        {
+            "address": "EQDmIu577a3vgbYMjVHAL4dwhfPGn_cXVxlCHf-A2sChZzE5",
+            "source": "",
+            "comment": "Collecting Telegram Stars payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQArHXqyZc-oG6XOXlH3OA2ZknD8O8tvkp8T2jau8l3Zb3_o",
+            "source": "",
+            "comment": "Collecting Telegram Stars payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

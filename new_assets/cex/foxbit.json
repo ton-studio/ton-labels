@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "foxbit",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "foxbit"
+    },
+    "addresses": [
+        {
+            "address": "EQDKbo8qPfyHW4Zz2Gd_OBjEuMAtGqSBqGoMYb0J-CafHZ5O",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

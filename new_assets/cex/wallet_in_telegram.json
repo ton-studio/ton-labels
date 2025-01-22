@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "label": "wallet_in_telegram",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "wallet_in_telegram"
+    },
+    "addresses": [
+        {
+            "address": "EQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WLfa",
+            "source": "ton weekly slides",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T20:24:29Z"
+        },
+        {
+            "address": "EQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCAb0",
+            "source": "ton weekly slides",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T20:24:29Z"
+        },
+        {
+            "address": "EQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQF_w",
+            "source": "ton weekly slides",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T20:24:29Z"
+        },
+        {
+            "address": "EQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXPqY",
+            "source": "ton weekly slides",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T20:24:29Z"
+        },
+        {
+            "address": "EQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaHD0",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

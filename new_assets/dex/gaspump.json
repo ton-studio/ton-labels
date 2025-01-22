@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "gaspump",
+        "category": "dex",
+        "subcategory": "launchpad",
+        "website": "",
+        "description": "",
+        "organization": "gaspump"
+    },
+    "addresses": [
+        {
+            "address": "EQBuJMg0i9JhFogU81BHmYvEEkQdg84HRC9R-2V9gK1E03cv",
+            "source": "",
+            "comment": "Revenue Sharing Payouts",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQDM09e4e5kK0CB2vaHsmOmJtRRN-8fn-GUxNLDTjES-oJA2",
+            "source": "",
+            "comment": "Old Jetton Deployer",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

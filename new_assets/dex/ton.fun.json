@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "ton.fun",
+        "category": "dex",
+        "subcategory": "launchpad",
+        "website": "",
+        "description": "",
+        "organization": "ton.fun"
+    },
+    "addresses": [
+        {
+            "address": "EQCf3ihQ7JM6qw4VYs-bpHLdb8AwEJ5Vjk_GKCHghryWH2zb",
+            "source": "",
+            "comment": "Fee Collection",
+            "tags": [
+                "defi",
+                "fee-collector"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAleeqJ5oWDWSIAwfS6eSKVx9u3vLpHTJ_piqn1s8yeYY-5",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi",
+                "fee-collector"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQC93yQtbGtWWvwErnCVhiV6URME11qO5HO4WVlIKGoZfOpd",
+            "source": "",
+            "comment": "token deployer",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

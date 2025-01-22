@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "hipo",
+        "category": "liquid_staking",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "hipo"
+    },
+    "addresses": [
+        {
+            "address": "EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ",
+            "source": "",
+            "comment": "Hipo treasury",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        },
+        {
+            "address": "EQCSlnhRIHYCAlt1FoQVlBHzxmaQOMj9Efu80DwoggSlt_jN",
+            "source": "",
+            "comment": "hipo.ton",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        }
+    ]
+}

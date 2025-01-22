@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bingx",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bingx"
+    },
+    "addresses": [
+        {
+            "address": "EQD5hzUJ3lovl_eygF9feq-rRH9DyR51HMjvq8bS6gnXimGv",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

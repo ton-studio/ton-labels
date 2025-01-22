@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "bigpump",
+        "category": "dex",
+        "subcategory": "launchpad",
+        "website": "",
+        "description": "",
+        "organization": "bigpump"
+    },
+    "addresses": [
+        {
+            "address": "EQA929R1kwnYnKXl07XP8wcccML0nNJ-qW0BtfAJQmSulein",
+            "source": "",
+            "comment": "Ton.Fun referral address",
+            "tags": [
+                "defi",
+                "referral-address"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

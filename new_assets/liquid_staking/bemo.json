@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bemo",
+        "category": "liquid_staking",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bemo"
+    },
+    "addresses": [
+        {
+            "address": "EQDNhy-nxYFgUqzfUzImBEP67JqsyMIcyk2S5_RwNNEYku0k",
+            "source": "",
+            "comment": "stTON jetton master and main smart contract",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-17T07:07:33Z"
+        }
+    ]
+}

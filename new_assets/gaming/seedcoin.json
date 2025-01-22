@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "seedcoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "seedcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQA2KM-N7SzRbrlk6LC4R7KWnkJtdLoWO5f-QLZR_F_nFBgL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        },
+        {
+            "address": "EQAPKoyIsBDj0bABqElvckC2qoQzLl0azUASffyCu59MOFwj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        }
+    ]
+}

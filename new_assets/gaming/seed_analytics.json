@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "seed_analytics",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "seed_analytics"
+    },
+    "addresses": [
+        {
+            "address": "EQAO7qlEW3-KU6X64LpXKK2h2-vG-wrLNB-w9hnuFNrO0lIk",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQB5HGx3UMnJtNB_-AQSm3CSe69KHtfIwQarQfDxsJ7wQaUS",
+            "source": "",
+            "comment": "NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

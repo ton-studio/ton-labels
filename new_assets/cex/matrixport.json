@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "matrixport",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "matrixport"
+    },
+    "addresses": [
+        {
+            "address": "EQAA_6-p-z1Pg3gkQ20ZlTx5K-ZjKvc6m4LE3GnKBxlQh-Jl",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

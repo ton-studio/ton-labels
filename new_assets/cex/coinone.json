@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "coinone",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "coinone"
+    },
+    "addresses": [
+        {
+            "address": "EQCk0gcrHtwTVfx_vuAJW-7HiJotPPqp7c8s6eEoYxq71hcS",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [
+                "withdrawal"
+            ],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAYgkeNrvG37SAMu9wgG9TtCyTC5fGkx8Fa6347GnWRk0v_",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [
+                "deposit"
+            ],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        }
+    ]
+}

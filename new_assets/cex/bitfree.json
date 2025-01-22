@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitfree",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bitfree"
+    },
+    "addresses": [
+        {
+            "address": "EQDnqO7ifCVhlNX2zJYnL23AmV-DaTk63flIO6PsCrd4hu5l",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

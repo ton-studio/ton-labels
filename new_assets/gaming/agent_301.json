@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "agent_301",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "agent_301"
+    },
+    "addresses": [
+        {
+            "address": "EQB_a4Y-9OYfcAsI7Evvyf7ph59mQrNFeqLwNBIPJkEFS-gb",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        }
+    ]
+}

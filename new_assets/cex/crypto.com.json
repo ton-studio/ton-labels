@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "crypto.com",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "crypto.com"
+    },
+    "addresses": [
+        {
+            "address": "EQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-Zdg",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

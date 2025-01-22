@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tongifts",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "tongifts"
+    },
+    "addresses": [
+        {
+            "address": "EQAutMVU3M9MY6SPTRHG74VdJlpY-B3HVttCPY2dd8BOrxME",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

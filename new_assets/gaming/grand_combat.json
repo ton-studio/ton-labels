@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "grand_combat",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "grand_combat"
+    },
+    "addresses": [
+        {
+            "address": "EQAB99z1_R91CwM2__oCsTLCXnwCngT10DDc7nxEMnZjMEd-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQDUW8DbjoVrg2293LA4hlZeVa5tP4j_r26v-wuicXUsLNzh",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

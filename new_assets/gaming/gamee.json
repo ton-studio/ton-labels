@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "gamee",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "gamee"
+    },
+    "addresses": [
+        {
+            "address": "EQBVxA9MkwWmfq46bv9-ikOQHXgelaFTvIo9gtR9ZLn0VoeS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        }
+    ]
+}

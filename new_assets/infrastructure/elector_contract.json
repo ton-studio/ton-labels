@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "elector_contract",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "ton_blockchain"
+    },
+    "addresses": [
+        {
+            "address": "Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

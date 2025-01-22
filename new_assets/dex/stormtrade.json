@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "label": "stormtrade",
+        "category": "dex",
+        "subcategory": "perpetuals",
+        "website": "",
+        "description": "",
+        "organization": "stormtrade"
+    },
+    "addresses": [
+        {
+            "address": "EQB2OpR9gqb6lmiinABLjt1ZDGjHV6XO9S-DqzEv2OKIMhjt",
+            "source": "",
+            "comment": "StormTrade executor",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQDpJnZP89Jyxz3euDaXXFUhwCWtaOeRmiUJTi3jGYgF8fnj",
+            "source": "",
+            "comment": "TON vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAG8_BzwlWkmqb9zImr9RJjjgZZCLMOQXP9PR0B1PYHvfSS",
+            "source": "",
+            "comment": "NOT vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAz6ehNfL7_8NI7OVh1Qg46HsuC4kFpK-icfqK9J3Frd6CJ",
+            "source": "",
+            "comment": "USDT vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

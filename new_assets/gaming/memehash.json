@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "memehash",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "memehash"
+    },
+    "addresses": [
+        {
+            "address": "EQAZ5dJqe0v1T-_WmMSCTGIKjMqWY68CB0DxC2QOnaXuIDbC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-21T00:00:01Z"
+        },
+        {
+            "address": "EQAfOR634rm3RS7JrSozCNAcEcNbzDnYwICaNnpqQfddlh8i",
+            "source": "Dune query https://dune.com/queries/4560911/7607050",
+            "comment": "",
+            "tags": [
+                "telegram-stars-rewards-withdrawal"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-21T00:00:01Z"
+        }
+    ]
+}

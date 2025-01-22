@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "label": "dedust",
+        "category": "dex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "dedust"
+    },
+    "addresses": [
+        {
+            "address": "EQDa4VOnTYlLvDJ0gZjNYm5PXfSmmtL6Vs6A_CZEtXCNICq_",
+            "source": "",
+            "comment": "DeDust Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAYqo4u7VF0fa4DPAebk4g9lBytj2VFny7pzXR0trjtXQaO",
+            "source": "",
+            "comment": "DeDust Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQA11HErC5dJpSHVa9Sk5xGLRCn1It6t-XbsuNjsxMW1qCxS",
+            "source": "",
+            "comment": "DeDust Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBmcjRa8-KweRMrcmyf0KTnlirhaE4RRNYYdEY_XZiIlmg9",
+            "source": "",
+            "comment": "DeDust Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-21T00:00:01Z"
+        }
+    ]
+}

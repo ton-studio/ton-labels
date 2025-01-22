@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitrue",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bitrue"
+    },
+    "addresses": [
+        {
+            "address": "EQA81a1UsZCnHKq5hLDyEON0LH8hR7fpBzN318a0cAFzYktj",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

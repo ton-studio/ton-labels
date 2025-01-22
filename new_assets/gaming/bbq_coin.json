@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "bbq_coin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bbq_coin"
+    },
+    "addresses": [
+        {
+            "address": "EQCcZ7crH7fEIQ2xqLpgWfjYxMzm_yBV66q-8nMVWWBEkn5m",
+            "source": "",
+            "comment": "aka tBTC",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCDZwcIF5Nb4HYwsbk_04Bi_MKp97BiQgSHU4Bdsfu73rax",
+            "source": "",
+            "comment": "aka tBTC",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

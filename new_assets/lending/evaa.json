@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "label": "evaa",
+        "category": "lending",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "evaa"
+    },
+    "addresses": [
+        {
+            "address": "EQC8rUZqR_pWV1BylWUlPNBzyiTYVoBEmQkMIQDZXICfnuRr",
+            "source": "",
+            "comment": "Evaa Master Mainnet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBIlZX2URWkXCSg3QF2MJZU-wC5XkBoLww-hdWk2G37Jc6N",
+            "source": "",
+            "comment": "Evaa LP Mainnet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQANURVS3fhBO9bivig34iyJQi97FhMbpivo1aUEAS2GYSu-",
+            "source": "",
+            "comment": "Evaa LP Mainnet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

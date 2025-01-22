@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bfinance",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "bfinance"
+    },
+    "addresses": [
+        {
+            "address": "EQDh0IFe3M5hBWA44bLOLEsZmf7_8cjoYR8C10aKAzFq1l3r",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [
+                "crypto-card"
+            ],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

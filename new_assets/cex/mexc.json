@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "label": "mexc",
+        "category": "cex",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "mexc"
+    },
+    "addresses": [
+        {
+            "address": "EQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMC1S",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQACuFjhwizOGjrZ7VDpSVBwMh8wjcSwiSTx3b3YHiI339nN",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBESnpbQ6YDcEHnlHGlixkk5XxqOv8EfZDTBnf3lFh1HaDZ",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAJSfaj8sBiaQ7GuwFfH8moKx7r8D87wqyLEhWofnffx4Hq",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2024-12-12T10:02:02Z"
+        }
+    ]
+}

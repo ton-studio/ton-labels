@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "genki_miner",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "genki_miner"
+    },
+    "addresses": [
+        {
+            "address": "EQDTCD85dI5Cu8O1eDecuARaagwaOPMacnXwqn8KB0-1DN8P",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

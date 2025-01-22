@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "papo_ninja",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "papo_ninja"
+    },
+    "addresses": [
+        {
+            "address": "EQAckkpLT4JSA2rWpQvz0jwjGqmZIu900AluHF2mqEveX805",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-10T00:00:01Z"
+        }
+    ]
+}

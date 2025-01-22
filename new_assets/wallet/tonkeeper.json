@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonkeeper",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "tonkeeper"
+    },
+    "addresses": [
+        {
+            "address": "EQBsju9UnwA_T0IdAJrt5Qfj91NWZ7Y56Y_Qm1XI_A4jyzHr",
+            "source": "",
+            "comment": "Ston.fi referral address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

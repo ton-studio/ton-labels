@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "hot",
+        "category": "dex",
+        "subcategory": "launchpad",
+        "website": "",
+        "description": "",
+        "organization": "hot"
+    },
+    "addresses": [
+        {
+            "address": "EQBxrkqb9sVVGBVqNJzJW9lDcKwhhgeamkBJNt1njgo_tU7s",
+            "source": "",
+            "comment": "Ton.Fun referral address",
+            "tags": [
+                "defi",
+                "referral-address"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}
