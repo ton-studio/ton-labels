@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "ton_blockchain",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "ton_blockchain"
+    },
+    "addresses": [
+        {
+            "address": "Ef9VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVbxn",
+            "source": "",
+            "comment": "Config Contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "Ef8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM0vF",
+            "source": "",
+            "comment": "Elector Contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU",
+            "source": "",
+            "comment": "System Contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}
