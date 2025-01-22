@@ -1,10 +1,11 @@
+import re
 import os
-from pathlib import Path
+import git
 import json
 import traceback
-from loguru import logger
 import pandas as pd
-import git
+from pathlib import Path
+from loguru import logger
 from pytoniq_core import Address
 
 """
@@ -14,6 +15,12 @@ Each json file can contain a single object or an array of objects related to the
 Also the scripts validates enumeration fields against dictionaries:
 * categories.json
 """
+
+
+def check_organization_format(org: str) -> bool:
+    pattern = r"^[a-z.-]+$"
+    return bool(re.match(pattern, org))
+
 
 if __name__ == "__main__":
     repo = git.Repo(search_parent_directories=True)
@@ -68,6 +75,13 @@ if __name__ == "__main__":
                     assert "tags" in item, f"Expected 'tags' in {item} ({path})"
                     for tag in item["tags"]:
                         assert tag in tags, f"Unknown tag {tag} in {item} ({path})"
+
+                    assert item.get(
+                        "organization"
+                    ), f"Expected 'organization' in {item} ({path})"
+                    assert check_organization_format(
+                        item["organization"]
+                    ), f"Organization value should be lowercase and may contain only '-' and '.' symbols, {item} ({path})"
 
                     # TODO validate source field?
 
