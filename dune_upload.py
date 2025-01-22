@@ -11,7 +11,7 @@ table = dune.upload_csv(
     data=str(data),
     description="Labeled dataset for TON blockchain",
     table_name="labels",
-    is_private=False
+    is_private=False,
 )
 
 print(table)

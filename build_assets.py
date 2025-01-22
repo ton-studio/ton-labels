@@ -2,7 +2,6 @@ import re
 import os
 import git
 import json
-import traceback
 import pandas as pd
 from pathlib import Path
 from loguru import logger
