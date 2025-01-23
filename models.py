@@ -48,6 +48,8 @@ class Metadata(BaseModel):
 
         if not website.startswith("https://"):
             raise ValueError("Website must start with https://")
+        if "." not in website:
+            raise ValueError("Website must contain '.'")
         if "?" in website:
             raise ValueError("Website must not contain '?'")
         if website.endswith("/"):
