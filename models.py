@@ -41,6 +41,19 @@ class Metadata(BaseModel):
     description: str
     organization: str
 
+    @field_validator("website")
+    def validate_website(cls, website):
+        if website == "":  # Allow empty website
+            return ""
+
+        if not website.startswith("https://"):
+            raise ValueError("Website must start with https://")
+        if "?" in website:
+            raise ValueError("Website must not contain '?'")
+        if website.endswith("/"):
+            raise ValueError("Website must not end with '/'")
+        return website
+
     @field_validator("label", "organization")
     def validate_key(cls, value):
         if not re.match(r"^[a-z0-9._]+$", value):
