@@ -58,6 +58,7 @@ if __name__ == "__main__":
                 "subcategory": metadata.subcategory,
                 "organization": metadata.organization,
                 "description": metadata.description,
+                "website": metadata.website,
                 "address": address_raw,
                 "address_uf": address_uf,
                 "address_uf_nb": address_uf_nb,
