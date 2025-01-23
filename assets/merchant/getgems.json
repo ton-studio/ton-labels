@@ -1,9 +1,9 @@
 {
     "metadata": {
-        "label": "getgems_marketplace",
+        "label": "getgems",
         "category": "merchant",
         "subcategory": "",
-        "website": "",
+        "website": "https://getgems.io",
         "description": "",
         "organization": "getgems"
     },
