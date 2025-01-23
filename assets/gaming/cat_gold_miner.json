@@ -1,32 +1,36 @@
-[
-    {
-        "address": "EQBg_0I3h4L7f1ca_tY30VUTEilVS0d6QAx8IcwGjIjLZTLr",
-        "label": "Cat Gold Miner",
-        "organization": "Cat Gold Miner",
+{
+    "metadata": {
+        "label": "cat_gold_miner",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
+        "organization": "cat_gold_miner"
     },
-    {
-        "address": "EQCHoSb0kxasrZ-XhGdQ4vQz-ZEGQuX1Pzq-HYiWQi8-FMpy",
-        "label": "Cat Gold Miner",
-        "organization": "Cat Gold Miner",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "catgoldminer.ton",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQBg_0I3h4L7f1ca_tY30VUTEilVS0d6QAx8IcwGjIjLZTLr",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQCHoSb0kxasrZ-XhGdQ4vQz-ZEGQuX1Pzq-HYiWQi8-FMpy",
+            "source": "",
+            "comment": "catgoldminer.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQC6q99HyVc1GGLKOYfh_3ztYddYF-ir4-C92gusWcASs0TS",
+            "source": "",
+            "comment": "beeharvest-nft.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

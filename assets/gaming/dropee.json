@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQBK5kTpqNjyehWQ2HTb18F8NgsS6p10QrNo555YgVazFcfx",
-        "label": "Dropee",
-        "organization": "Dropee",
+{
+    "metadata": {
+        "label": "dropee",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    }
-]
+        "organization": "dropee"
+    },
+    "addresses": [
+        {
+            "address": "EQBK5kTpqNjyehWQ2HTb18F8NgsS6p10QrNo555YgVazFcfx",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

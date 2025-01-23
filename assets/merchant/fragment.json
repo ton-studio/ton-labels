@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "label": "fragment",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "fragment"
+    },
+    "addresses": [
+        {
+            "address": "EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb",
+            "source": "",
+            "comment": "Sends Telegram channel and bot rewards",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBeab7D38RIwypegbN7YZgQzwDbb8QfMMwY8ouJc3qPl91M",
+            "source": "",
+            "comment": "Telegram Ad account top ups",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCFJEP4WZ_mpdo0_kMEmsTgvrMHG7K_tWY16pQhKHwoOoy2",
+            "source": "",
+            "comment": "Telegram Stars Seller",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN",
+            "source": "",
+            "comment": "Sends Telegram channel and bot rewards",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

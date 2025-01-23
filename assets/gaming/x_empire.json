@@ -1,77 +1,52 @@
-[
-    {
-        "address": "EQDis_VUywdZ73fayUqLnRqBdmRcugmEZ0HH9n4V9PT6Lm9i",
-        "label": "X Empire",
-        "organization": "X Empire",
+{
+    "metadata": {
+        "label": "x_empire",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "organization": "x_empire"
     },
-    {
-        "address": "EQCftzSPFjJU7m34InzUO3zHlBQH47Hjmn6MibEfKu8xh_qr",
-        "label": "X Empire",
-        "organization": "X Empire",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQDNR08G1ok3ku08QFfhFbSZ0iZ0LumU04ykKBvL2MQqPLJV",
-        "label": "X Empire",
-        "organization": "X Empire",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQCSy3mcYhfzHcAXfQGZSdNq3HViZEcKA-MpX6Qcvr4oCbZE",
-        "label": "X Empire",
-        "organization": "X Empire",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQCLcbSwsRNfAWldj_POmq1WwgpETEiHCmJbbARWTsWweCEQ",
-        "label": "X Empire",
-        "organization": "X Empire",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDis_VUywdZ73fayUqLnRqBdmRcugmEZ0HH9n4V9PT6Lm9i",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCftzSPFjJU7m34InzUO3zHlBQH47Hjmn6MibEfKu8xh_qr",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQDNR08G1ok3ku08QFfhFbSZ0iZ0LumU04ykKBvL2MQqPLJV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCSy3mcYhfzHcAXfQGZSdNq3HViZEcKA-MpX6Qcvr4oCbZE",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCLcbSwsRNfAWldj_POmq1WwgpETEiHCmJbbARWTsWweCEQ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

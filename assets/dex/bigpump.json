@@ -1,20 +1,23 @@
-[
-    {
-        "address": "EQA929R1kwnYnKXl07XP8wcccML0nNJ-qW0BtfAJQmSulein",
+{
+    "metadata": {
         "label": "bigpump",
-        "organization": "bigpump",
         "category": "DEX",
         "subcategory": "launchpad",
-        "image": "",
-        "source": "",
-        "description": "Ton.Fun referral address",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi",
-            "referral-address"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+        "website": "",
+        "description": "",
+        "organization": "bigpump"
+    },
+    "addresses": [
+        {
+            "address": "EQA929R1kwnYnKXl07XP8wcccML0nNJ-qW0BtfAJQmSulein",
+            "source": "",
+            "comment": "Ton.Fun referral address",
+            "tags": [
+                "defi",
+                "referral-address"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

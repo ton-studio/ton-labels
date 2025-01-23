@@ -1,62 +1,44 @@
-[
-    {
-        "address": "EQDDo8EnHzcMf_c-WKBEuoJjYqK__APFlq8fe53BoI4cpPJF",
-        "label": "QuackQuack",
-        "organization": "QuackQuack",
+{
+    "metadata": {
+        "label": "quackquack",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
+        "organization": "quackquack"
     },
-    {
-        "address": "EQAFlQH8cDV_EGhD1_BOhdBWP1-oJu8haoVfpsuPNJvTdXfi",
-        "label": "QuackQuack",
-        "organization": "QuackQuack",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQA32il_GNZGw-T4LrI_6rGMDbTvC_BAIJRnp1sJMxFoReG9",
-        "label": "QuackQuack",
-        "organization": "QuackQuack",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQDCR0XQ0qNQJNjITRpo59mFsP0pjx81ImtXx92mJBnIc7m4",
-        "label": "QuackQuack",
-        "organization": "QuackQuack",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDDo8EnHzcMf_c-WKBEuoJjYqK__APFlq8fe53BoI4cpPJF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAFlQH8cDV_EGhD1_BOhdBWP1-oJu8haoVfpsuPNJvTdXfi",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQA32il_GNZGw-T4LrI_6rGMDbTvC_BAIJRnp1sJMxFoReG9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQDCR0XQ0qNQJNjITRpo59mFsP0pjx81ImtXx92mJBnIc7m4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

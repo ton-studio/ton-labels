@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQDvZL_iplGL72On1ipQdH6Kc6EEcrhCJ0JpNdo669-QnpME",
-        "label": "Totemancer",
-        "organization": "Totemancer",
+{
+    "metadata": {
+        "label": "totemancer",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+        "organization": "totemancer"
+    },
+    "addresses": [
+        {
+            "address": "EQDvZL_iplGL72On1ipQdH6Kc6EEcrhCJ0JpNdo669-QnpME",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

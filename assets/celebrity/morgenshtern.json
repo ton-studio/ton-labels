@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "morgenshtern",
+        "category": "celebrity",
+        "subcategory": "",
+        "website": "",
+        "description": "Russian Celebrity",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "EQCR1zBW4DUjLwmq-CQqHVHuqYtqW-u_isDJ5SHQKhpL2wQV",
+            "source": "tonkeeper ton-assets",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-22T00:00:00Z"
+        }
+    ]
+}

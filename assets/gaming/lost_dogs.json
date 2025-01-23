@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "lost_dogs",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "lost_dogs"
+    },
+    "addresses": [
+        {
+            "address": "EQCay4FPEJ5iZnbCHfA9yFSdlHBFvsIaei-eJdVHl1cktb-S",
+            "source": "",
+            "comment": "onchain claim of $WOOF",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:01Z"
+        }
+    ]
+}

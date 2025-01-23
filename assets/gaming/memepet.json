@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQBnkifuM2_a2JHZEZUedL06VDQoJ7uCR8qca-PKWhgV42lA",
-        "label": "MemePet",
-        "organization": "MemePet",
+{
+    "metadata": {
+        "label": "memepet",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+        "organization": "memepet"
+    },
+    "addresses": [
+        {
+            "address": "EQBnkifuM2_a2JHZEZUedL06VDQoJ7uCR8qca-PKWhgV42lA",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

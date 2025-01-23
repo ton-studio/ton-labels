@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "getgems_marketplace",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "getgems"
+    },
+    "addresses": [
+        {
+            "address": "EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS",
+            "source": "tonkeeper ton-assets",
+            "comment": "TON NFT Marketplace",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-22T00:00:00Z"
+        },
+        {
+            "address": "EQAIFunALREOeQ99syMbO6sSzM_Fa1RsPD5TBoS0qVeKQ-AR",
+            "source": "",
+            "comment": "TON NFT Marketplace",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:00Z"
+        },
+        {
+            "address": "EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS",
+            "source": "tonviewer",
+            "comment": "TON NFT Marketplace",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:00Z"
+        },
+        {
+            "address": "EQDDuxx7sa3Dt2GE85a0sIHp4GVoa7OKbAanfo3co9H-h06d",
+            "source": "tonviewer",
+            "comment": "TON NFT Marketplace",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-17T00:00:00Z"
+        }
+    ]
+}

@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQAo6lLNO5BXw3GRpYC3vjF0ZTK7y6gpOB6IzuNijSxG-X9D",
+{
+    "metadata": {
         "label": "tonshaker",
-        "organization": "tonshaker",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "shaker.ton",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+        "organization": "tonshaker"
+    },
+    "addresses": [
+        {
+            "address": "EQAo6lLNO5BXw3GRpYC3vjF0ZTK7y6gpOB6IzuNijSxG-X9D",
+            "source": "",
+            "comment": "shaker.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

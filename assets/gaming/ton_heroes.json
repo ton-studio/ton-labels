@@ -1,32 +1,28 @@
-[
-    {
-        "address": "EQBmyetxfPY9DGz42efWqwVn43VqDfBQdlahmXASh1c4e0ZL",
-        "label": "Ton Heroes",
-        "organization": "Ton Heroes",
+{
+    "metadata": {
+        "label": "ton_heroes",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
+        "organization": "ton_heroes"
     },
-    {
-        "address": "EQDkIEcj6h6ZH7vhSk9AFVBX0n6vvwwxmYM5NvbzOxtMbXzM",
-        "label": "Ton Heroes",
-        "organization": "Ton Heroes",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQBmyetxfPY9DGz42efWqwVn43VqDfBQdlahmXASh1c4e0ZL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQDkIEcj6h6ZH7vhSk9AFVBX0n6vvwwxmYM5NvbzOxtMbXzM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

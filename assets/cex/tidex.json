@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQBg_wso4rODm-8lCoG-ny54piZbmA7F0k305Eu_8sP7JQSC",
+{
+    "metadata": {
         "label": "tidex",
-        "organization": "tidex",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "tidex"
+    },
+    "addresses": [
+        {
+            "address": "EQBg_wso4rODm-8lCoG-ny54piZbmA7F0k305Eu_8sP7JQSC",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

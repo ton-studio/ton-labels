@@ -1,30 +1,28 @@
-[
-    {
-        "address": "EQDACiC4_Bi3Z3m_ulZ7gh6hAHGNAEiUTuDg5aaeJ93nI8pg",
-        "label": "FiWind",
-        "organization": "FiWind",
+{
+    "metadata": {
+        "label": "fiwind",
         "category": "CEX",
-        "image": "",
-        "source": "",
-        "description": "Deposit Address",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T07:07:33Z"
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "fiwind"
     },
-    {
-        "address": "EQDZqQ2_NvkcwXBGqRLGfL-93J0Y_rwHlFU6QjPBEvjmykL8",
-        "label": "FiWind",
-        "organization": "FiWind",
-        "category": "CEX",
-        "image": "",
-        "source": "",
-        "description": "Withdraw Address",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-20T07:07:33Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDACiC4_Bi3Z3m_ulZ7gh6hAHGNAEiUTuDg5aaeJ93nI8pg",
+            "source": "",
+            "comment": "Deposit Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        },
+        {
+            "address": "EQDZqQ2_NvkcwXBGqRLGfL-93J0Y_rwHlFU6QjPBEvjmykL8",
+            "source": "",
+            "comment": "Withdraw Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T07:07:33Z"
+        }
+    ]
+}

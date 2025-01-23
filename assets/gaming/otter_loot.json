@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQA7mny-m1CPgdC9yMil3MFNCjDpb8Ne6TFwukyBsfXUYV3U",
-        "label": "Otter Loot",
-        "organization": "Otter Loot",
+{
+    "metadata": {
+        "label": "otter_loot",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    }
-]
+        "organization": "otter_loot"
+    },
+    "addresses": [
+        {
+            "address": "EQA7mny-m1CPgdC9yMil3MFNCjDpb8Ne6TFwukyBsfXUYV3U",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

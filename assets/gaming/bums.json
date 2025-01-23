@@ -1,137 +1,84 @@
-[
-    {
-        "address": "EQALAixAj-HLW31WPo-PdkugNeuK_MA7dJ-SDRGjWfyVo6NJ",
-        "label": "Bums",
-        "organization": "Bums",
+{
+    "metadata": {
+        "label": "bums",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "organization": "bums"
     },
-    {
-        "address": "EQA7A1GnKH9FgzX07b3NjfC9cHITjGATzeK2Cxba-tkp8Kqe",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    },
-    {
-        "address": "EQD3LQjayOzNk0FNDmkm50criovpmTs1rgHw7CV_CL8RJ2tR",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    },
-    {
-        "address": "EQDn5czS8B_mycMhnNSM3ykiXiPgwjZ7twQ9Xo0y5VPqkiyv",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQCvT1TbPCKYVxqINuVB8ZxUfxL2N5XXFAbPiYyTpoWACzyk",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQCpjhyzRPN1s0osWOFtzAW5uKIt2P7r1WClPNnddYKgbFGn",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQD8VvHtYOLbZ1L0C8GovblHxiPNZbuy2hUl7Eabxc1cu9c-",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQBtbdF1yNk5e7tOqascLzuvoCZxoVbl23I8RSPJscQrF-tn",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQC-XfCJEgOj6MNDKTkPZ4Z6VyWaOcFC0p71WFOuc3F15Pl2",
-        "label": "Bums",
-        "organization": "Bums",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQALAixAj-HLW31WPo-PdkugNeuK_MA7dJ-SDRGjWfyVo6NJ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQA7A1GnKH9FgzX07b3NjfC9cHITjGATzeK2Cxba-tkp8Kqe",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQD3LQjayOzNk0FNDmkm50criovpmTs1rgHw7CV_CL8RJ2tR",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQDn5czS8B_mycMhnNSM3ykiXiPgwjZ7twQ9Xo0y5VPqkiyv",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQCvT1TbPCKYVxqINuVB8ZxUfxL2N5XXFAbPiYyTpoWACzyk",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQCpjhyzRPN1s0osWOFtzAW5uKIt2P7r1WClPNnddYKgbFGn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQD8VvHtYOLbZ1L0C8GovblHxiPNZbuy2hUl7Eabxc1cu9c-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQBtbdF1yNk5e7tOqascLzuvoCZxoVbl23I8RSPJscQrF-tn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQC-XfCJEgOj6MNDKTkPZ4Z6VyWaOcFC0p71WFOuc3F15Pl2",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

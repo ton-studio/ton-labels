@@ -1,32 +1,20 @@
-[
-    {
-        "address": "EQBPfUOQuEMMX4idrPWATlQ1IKmbPFeYmFWcJuk4CuXHjUzg",
+{
+    "metadata": {
         "label": "akedo",
-        "organization": "akedo",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "clicker",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
+        "organization": "akedo"
     },
-    {
-        "address": "EQA8gfa96Qrzpdwn_FvkCQa35MNCr1L77HNRpOOeQLgV3k7v",
-        "label": "Akefish",
-        "organization": "akedo",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "clicker",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-15T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQBPfUOQuEMMX4idrPWATlQ1IKmbPFeYmFWcJuk4CuXHjUzg",
+            "source": "",
+            "comment": "clicker",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

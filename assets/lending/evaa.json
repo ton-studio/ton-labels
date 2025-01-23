@@ -1,53 +1,42 @@
-[
-    {
-        "address": "EQC8rUZqR_pWV1BylWUlPNBzyiTYVoBEmQkMIQDZXICfnuRr",
+{
+    "metadata": {
         "label": "evaa",
-        "organization": "evaa",
         "category": "lending",
         "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "Evaa Master Mainnet",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "website": "",
+        "description": "",
+        "organization": "evaa"
     },
-    {
-        "address": "EQBIlZX2URWkXCSg3QF2MJZU-wC5XkBoLww-hdWk2G37Jc6N",
-        "label": "evaa",
-        "organization": "evaa",
-        "category": "lending",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "Evaa LP Mainnet",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQANURVS3fhBO9bivig34iyJQi97FhMbpivo1aUEAS2GYSu-",
-        "label": "evaa",
-        "organization": "evaa",
-        "category": "lending",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "Evaa LP Mainnet",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQC8rUZqR_pWV1BylWUlPNBzyiTYVoBEmQkMIQDZXICfnuRr",
+            "source": "",
+            "comment": "Evaa Master Mainnet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBIlZX2URWkXCSg3QF2MJZU-wC5XkBoLww-hdWk2G37Jc6N",
+            "source": "",
+            "comment": "Evaa LP Mainnet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQANURVS3fhBO9bivig34iyJQi97FhMbpivo1aUEAS2GYSu-",
+            "source": "",
+            "comment": "Evaa LP Mainnet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

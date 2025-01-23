@@ -1,0 +1,48 @@
+{
+    "metadata": {
+        "label": "tontradingbot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "tontradingbot"
+    },
+    "addresses": [
+        {
+            "address": "EQAxYmVGa0hTtBYw0j9XSpeOhm_93Y-LhTCjYS6WR6VmPhUp",
+            "source": "",
+            "comment": "Ton.Fun referral address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCvIl6W8iU5xkRUkMfYXt6JygLs2MZf8FRve5e8aTguLgeT",
+            "source": "",
+            "comment": "Claim, tontradingbotclaim.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQA4mfrV45OEIuTyJKDQe41FX1X0XD8IPJ9UYb7Tpu3gK_TL",
+            "source": "",
+            "comment": "Fee Collection, tontradingbotsellfee.ton",
+            "tags": [
+                "fee-collector"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQD6wz9UpPYn8-O3XiYHMN95qlT9axaGvxgmBXcQ-rkWqbwE",
+            "source": "",
+            "comment": "Fee Collection, tontradingbotbuyfee.ton",
+            "tags": [
+                "fee-collector"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

@@ -1,62 +1,44 @@
-[
-    {
-        "address": "EQDfvVvoSX_cDJ_L38Z2hkhA3fitZCPW1WV9mw6CcNbIrH-Q",
-        "label": "Tonkeeper Battery",
-        "organization": "Tonkeeper",
+{
+    "metadata": {
+        "label": "tonkeeper",
         "category": "wallet",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "organization": "tonkeeper"
     },
-    {
-        "address": "EQCPLYQOwF0Rj5hFmgV7H8q1NcV7k3EiK-FWZ_7pMs6vU2N2",
-        "label": "Tonkeeper Battery",
-        "organization": "Tonkeeper",
-        "category": "wallet",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "battery.ton",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQByUegyggQM_SOHz2d7KGT38CFyD6BAzaVDqRlBGUQs6lck",
-        "label": "Tonkeeper Battery",
-        "organization": "Tonkeeper",
-        "category": "wallet",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "Tonkeeper Battery refunds",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQBsju9UnwA_T0IdAJrt5Qfj91NWZ7Y56Y_Qm1XI_A4jyzHr",
-        "label": "Tonkeeper",
-        "organization": "Tonkeeper",
-        "category": "wallet",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "Ston.fi referral address",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDfvVvoSX_cDJ_L38Z2hkhA3fitZCPW1WV9mw6CcNbIrH-Q",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCPLYQOwF0Rj5hFmgV7H8q1NcV7k3EiK-FWZ_7pMs6vU2N2",
+            "source": "",
+            "comment": "Tonkeeper Battery battery.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQByUegyggQM_SOHz2d7KGT38CFyD6BAzaVDqRlBGUQs6lck",
+            "source": "",
+            "comment": "Tonkeeper Battery refunds",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBsju9UnwA_T0IdAJrt5Qfj91NWZ7Y56Y_Qm1XI_A4jyzHr",
+            "source": "",
+            "comment": "Ston.fi referral address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

@@ -1,86 +1,60 @@
-[
-    {
-        "address": "EQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMC1S",
+{
+    "metadata": {
         "label": "mexc",
-        "organization": "mexc",
         "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
+        "organization": "mexc"
     },
-    {
-        "address": "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi",
-        "label": "mexc",
-        "organization": "mexc",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQACuFjhwizOGjrZ7VDpSVBwMh8wjcSwiSTx3b3YHiI339nN",
-        "label": "mexc",
-        "organization": "mexc",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQBESnpbQ6YDcEHnlHGlixkk5XxqOv8EfZDTBnf3lFh1HaDZ",
-        "label": "mexc",
-        "organization": "mexc",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQAJSfaj8sBiaQ7GuwFfH8moKx7r8D87wqyLEhWofnffx4Hq",
-        "label": "mexc",
-        "organization": "mexc",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j",
-        "label": "mexc",
-        "organization": "mexc",
-        "category": "CEX",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2024-12-12T10:02:02Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQAce9aQ9Pk96Lk9tXkBKdq2WSbG4fybVzgAidtVKVFmMC1S",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQACuFjhwizOGjrZ7VDpSVBwMh8wjcSwiSTx3b3YHiI339nN",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBESnpbQ6YDcEHnlHGlixkk5XxqOv8EfZDTBnf3lFh1HaDZ",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAJSfaj8sBiaQ7GuwFfH8moKx7r8D87wqyLEhWofnffx4Hq",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2024-12-12T10:02:02Z"
+        }
+    ]
+}
