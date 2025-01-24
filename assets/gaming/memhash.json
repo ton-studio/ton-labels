@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "memehash",
+        "label": "memhash",
         "category": "gaming",
         "subcategory": "",
-        "website": "",
+        "website": "https://t.me/memhash_bot",
         "description": "",
-        "organization": "memehash"
+        "organization": "memhash"
     },
     "addresses": [
         {
