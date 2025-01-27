@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "label": "boinkers",
+        "label": "donot",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/boinker_bot",
+        "website": "https://t.me/donot",
         "description": "",
-        "organization": "boinkers"
+        "organization": "donot"
     },
     "addresses": [
         {
-            "address": "EQAQnb2Y4ziZGZaR9mGoOguM0DDrEoyttiqws1yjenAkQYK7",
+            "address": "EQBHJDlHUnyaRn0z64XGsL0WDAYM8rBCTH84tgUCJvlcwoP1",
             "source": "",
-            "comment": "",
+            "comment": "cooking donots",
             "tags": [],
             "submittedBy": "ohld",
-            "submissionTimestamp": "2025-01-01T00:00:01Z"
+            "submissionTimestamp": "2025-01-27T00:00:01Z"
         },
         {
-            "address": "EQBp_T8Y7yQE69jVyQimLb7RtiZLuDtRMDlYKOlPzicMJv5A",
+            "address": "EQAN29mhISwEF816ogSbmN9_72XGPA5FMkDha2FAeYy72aCp",
             "source": "",
             "comment": "",
             "tags": [],
