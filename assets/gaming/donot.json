@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "donot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "donot"
+    },
+    "addresses": [
+        {
+            "address": "EQBHJDlHUnyaRn0z64XGsL0WDAYM8rBCTH84tgUCJvlcwoP1",
+            "source": "",
+            "comment": "cooking donots",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-27T00:00:01Z"
+        }
+    ]
+}
