@@ -37,6 +37,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQD9GyPsGeKvBAzbMac7_uFkwsKVJeeaIWX3rhpfAyia-QmN",
+            "source": "",
+            "comment": "Evaa Rewards",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-28T00:00:01Z"
         }
     ]
 }
