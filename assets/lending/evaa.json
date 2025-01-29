@@ -13,7 +13,8 @@
             "source": "",
             "comment": "Evaa Master Mainnet",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -23,7 +24,8 @@
             "source": "",
             "comment": "Evaa LP Mainnet",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -33,7 +35,8 @@
             "source": "",
             "comment": "Evaa Alts Mainnet",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
