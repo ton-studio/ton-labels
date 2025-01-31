@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "factorial",
+        "category": "lending",
+        "subcategory": "",
+        "website": "https://factorial.finance",
+        "description": "",
+        "organization": "factorial"
+    },
+    "addresses": [
+        {
+            "address": "EQCrEHHG4Ff8TD3PzuH5tFSwHBD3zxeXaosz48jGLebwiiNx",
+            "source": "",
+            "comment": "Basic Pool",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-31T00:00:01Z"
+        }
+    ]
+}
