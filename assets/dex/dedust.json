@@ -11,9 +11,10 @@
         {
             "address": "EQDa4VOnTYlLvDJ0gZjNYm5PXfSmmtL6Vs6A_CZEtXCNICq_",
             "source": "",
-            "comment": "DeDust Vault",
+            "comment": "DeDust Vault, TON",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -21,9 +22,10 @@
         {
             "address": "EQAYqo4u7VF0fa4DPAebk4g9lBytj2VFny7pzXR0trjtXQaO",
             "source": "",
-            "comment": "DeDust Vault",
+            "comment": "DeDust Vault, USDT",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -31,9 +33,10 @@
         {
             "address": "EQA11HErC5dJpSHVa9Sk5xGLRCn1It6t-XbsuNjsxMW1qCxS",
             "source": "",
-            "comment": "DeDust Vault",
+            "comment": "DeDust Vault, TELEMON",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -41,9 +44,10 @@
         {
             "address": "EQBmcjRa8-KweRMrcmyf0KTnlirhaE4RRNYYdEY_XZiIlmg9",
             "source": "",
-            "comment": "DeDust Vault",
+            "comment": "DeDust Vault, Kat Knight",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-21T00:00:01Z"
@@ -51,9 +55,10 @@
         {
             "address": "EQDZ4yPwODeNi22_Qjqx9HKkM5SvBX4qHBT0l19VPqBuzm0u",
             "source": "",
-            "comment": "DeDust Vault | $NotPixel",
+            "comment": "DeDust Vault, $NotPixel",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-27T00:00:01Z"

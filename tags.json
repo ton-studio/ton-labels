@@ -62,5 +62,9 @@
     {
         "name": "telegram-stars-rewards-withdrawal",
         "description": "Telegram Stars rewards withdrawal address (from Fragment)"
+    },
+    {
+        "name": "pool",
+        "description": "Liquidity pool"
     }
 ]

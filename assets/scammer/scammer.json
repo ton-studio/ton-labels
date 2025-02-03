@@ -51,6 +51,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:00Z"
+        },
+        {
+            "address": "EQArgvRqn3f0CSRg3yREnyfuXpIFG2xb3iE5iaPbfPVuy40A",
+            "source": "",
+            "comment": "mimic for legit CEX addresses with first and last symbols of their address",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-28T00:00:00Z"
         }
     ]
 }

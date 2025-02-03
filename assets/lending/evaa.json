@@ -13,7 +13,8 @@
             "source": "",
             "comment": "Evaa Master Mainnet",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -23,7 +24,8 @@
             "source": "",
             "comment": "Evaa LP Mainnet",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -31,12 +33,23 @@
         {
             "address": "EQANURVS3fhBO9bivig34iyJQi97FhMbpivo1aUEAS2GYSu-",
             "source": "",
-            "comment": "Evaa LP Mainnet",
+            "comment": "Evaa Alts Mainnet",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQD9GyPsGeKvBAzbMac7_uFkwsKVJeeaIWX3rhpfAyia-QmN",
+            "source": "",
+            "comment": "Evaa Rewards",
             "tags": [
                 "defi"
             ],
             "submittedBy": "ohld",
-            "submissionTimestamp": "2025-01-01T00:00:01Z"
+            "submissionTimestamp": "2025-01-28T00:00:01Z"
         }
     ]
 }

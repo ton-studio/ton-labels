@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "label": "coffin",
+        "label": "factorial",
         "category": "lending",
         "subcategory": "",
-        "website": "https://coffin.meme",
+        "website": "https://factorial.finance",
         "description": "",
-        "organization": "coffin"
+        "organization": "factorial"
     },
     "addresses": [
         {
-            "address": "EQBozwKVDya9IL3Kw4mR5AQph4yo15EuMdyX8nLljeaUxrpM",
+            "address": "EQCrEHHG4Ff8TD3PzuH5tFSwHBD3zxeXaosz48jGLebwiiNx",
             "source": "",
-            "comment": "Coffin Pool",
+            "comment": "Basic Pool",
             "tags": [
                 "defi",
                 "pool"
             ],
             "submittedBy": "ohld",
-            "submissionTimestamp": "2025-01-22T00:00:01Z"
+            "submissionTimestamp": "2025-01-31T00:00:01Z"
         }
     ]
 }

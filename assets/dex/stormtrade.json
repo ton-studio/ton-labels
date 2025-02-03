@@ -23,7 +23,8 @@
             "source": "",
             "comment": "TON vault",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-01-14T00:00:01Z"
@@ -33,7 +34,8 @@
             "source": "",
             "comment": "NOT vault",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-01-14T00:00:01Z"
@@ -43,10 +45,21 @@
             "source": "",
             "comment": "USDT vault",
             "tags": [
-                "defi"
+                "defi",
+                "pool"
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQDaC-uD4Q0GkTnG9lXqPb5HKgyUhlzcQVJOHJDnDyVNUdik",
+            "source": "",
+            "comment": "stormstaking.ton | Claim Staking rewards",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-29T00:00:01Z"
         }
     ]
 }
