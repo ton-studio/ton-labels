@@ -12,8 +12,8 @@
         "description": "User wallet involded in a scam"
     },
     {
-        "name": "celebrity",
-        "description": "Wallet owned by a celebrity"
+        "name": "person",
+        "description": "Wallet owned by a notable person"
     },
     {
         "name": "merchant",

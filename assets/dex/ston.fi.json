@@ -197,6 +197,54 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQDA_n6ufjKNXRnI372Oflkvx96luQuYK61ylZtXHPhh13nI",
+            "source": "",
+            "comment": "stonfi USDT-TON Farming NFT Collection",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBno_j3eovi4kCK_ujHskrCvdBZIKFBT0ARpPgDdZNxMBW2",
+            "source": "",
+            "comment": "stonfi stTON-USDT Farming NFT Collection",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQDqmJuN-jxh4nHEFG4X8lmhEMkz6VBHpqsfhmsPuKIhn0ee",
+            "source": "",
+            "comment": "stonfi tsTON-USDT Farming NFT Collection",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQAdFOJX6eA_zI1CNhotaogorO3wYiD2uoM2Vx_t2MfjVqSX",
+            "source": "",
+            "comment": "stonfi NOT-TON Farming NFT Collection",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
         }
     ]
 }
