@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "early miner",
+        "category": "person",
+        "subcategory": "",
+        "website": "",
+        "description": "Mined TON in ~2020",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "Ef_Zqtaoo53ZjgtfJYwxYEzGeOQPX4BfM81dcpXhlhSSRXsN",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:00Z"
+        }
+    ]
+}
