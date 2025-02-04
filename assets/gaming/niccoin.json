@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "niccoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/niccoin_bot",
+        "description": "",
+        "organization": "niccoin"
+    },
+    "addresses": [
+        {
+            "address": "EQD9SR0Bto6zffFjQTxL3bOziSq6RHD1jizShVxzhXWXVSOR",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}
