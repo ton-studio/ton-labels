@@ -197,6 +197,18 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQDA_n6ufjKNXRnI372Oflkvx96luQuYK61ylZtXHPhh13nI",
+            "source": "",
+            "comment": "stonfi USDT-TON Farming NFT Collection",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
         }
     ]
 }
