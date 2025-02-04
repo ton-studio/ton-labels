@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "label": "givers",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://ton.org",
+        "description": "Distributed supply of TON",
+        "organization": "givers"
+    },
+    "addresses": [
+        {
+            "address": "Ef-kkdY_B7p-77TLn2hUhM6QidWrrsl8FYWCIvBMpZKprKDH",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef8SYc83pm5JkGt0p3TQRkuiM58O9Cr3waUtR9OoFq716uj0",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef-FV4QTxLl-7Ct3E6MqOtMt-RGXMxi27g4I645lw6MTWg0f",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef_NSzfDJI1A3rOM0GQm7xsoUXHTgmdhN5-OrGD8uwL2JHBa",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef8gf1PQy4u2kURl-Gz4LbS29eaN4sVdrVQkPO-JL80VhFww",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef8kO6K6Qh6YM4ddjRYYlvVAK7IgyW8Zet-4ZvNrVsmQ4PgP",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef-P_TOdwcCh0AXHhBpICDMxStxHenWdLCDLNH5QcNpwMMn2",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef91o4NNTryJ-Cw3sDGt9OTiafmETdVFUMvylQdFPoOxInls",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef9iWhwk9GwAXjtwKG-vN7rmXT3hLIT23RBY6KhVaynRrDkx",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef8JfFUEJhhpRW80_jqD7zzQteH6EBHOzxiOhygRhBdt44YH",
+            "source": "tonviewer",
+            "comment": "PoW Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef8guqdIbY6kpMykR8WFeVGbZcP2iuBagXfnQuq0rGrxgPay",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef9CxReRyaGj0vpSH0gRZkOAitm_yDHvgiMGtmvG-ZTirgiI",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef-WXA4CX4lqyVlN4qItlQSWPFIy00NvO2BAydgC4CTeIfIU",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef8yF4oXfIj7BZgkqXM6VsmDEgCqWVSKECO1pC0LXWl39277",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef9nNY69S3_heBBSUtpHRhIzjjqY0ChugeqbWcQGtGj-gbfE",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef_wUXx-l1Ehw0kfQRgFtWKO07B6WhSqcUQZNyh4Jmj8RzdB",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef_6keW5RniwNQYeq3DNWGcohKOwI85p-V2MsPk4v23tyFZC",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef_NSPpF4ZQ7mrPylwk-8XQQ1qFD5evLnx5_oZVNywzOjZxr",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef-uNWj4JmTJefr7IfjBSYQhFbd3JqtQ6cxuNIsJqDQ8SpqK",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "Ef8mO4l6ZB_eaMn1OqjLRrrkiBcSt7kYTvJC_dzJLdpEDBft",
+            "source": "tonviewer",
+            "comment": "Large Giver",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        }
+    ]
+}
