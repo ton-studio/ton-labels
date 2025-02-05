@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "findbitcoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/btctma_bot",
+        "description": "",
+        "organization": "findbitcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQDTje40aw0ou8B36zSUUcK0smGQ9dgOL5qIhmPn1qgwGkkz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        }
+    ]
+}

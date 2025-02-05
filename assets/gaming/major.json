@@ -71,6 +71,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBaaILVmMrfDycKEd8b-6pQtZVio5UnQLh_3elW-6YaT6ZH",
+            "source": "",
+            "comment": "NFT collection",
+            "tags": ["nft"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
         }
     ]
 }
