@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pocketfi",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://pocketfi.org",
+        "description": "",
+        "organization": "pocketfi"
+    },
+    "addresses": [
+        {
+            "address": "EQDvZfu4mCGIyfVMhU1Cj80XHI4Bk6FgNtul6Qfd6WujE-_F",
+            "source": "",
+            "comment": "$SWITCH autoclaim payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-06T00:00:01Z"
+        }
+    ]
+}
