@@ -245,6 +245,42 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQDyswfVhGlOue4_a9cAVuDSP0ldWP53jK2jL9qXfPWGhZP4",
+            "source": "",
+            "comment": "stonfi USDT-pTON Farming NFT Collection",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-05T00:00:01Z"
+        },
+        {
+            "address": "EQD4kLPeGsZyHcWw52lh9eEAopzHGmVWaXBclz6R_ZVINsQ2",
+            "source": "",
+            "comment": "stonfi stTON-USDT Farming NFT Collection",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-05T00:00:01Z"
+        },
+        {
+            "address": "EQATQPeCwtMzQ9u54nTjUNcK4n_0VRSxPOOROLf_IE0OU3XK",
+            "source": "",
+            "comment": "stonfi STON Staking NFT Collection ARKENSTON",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-05T00:00:01Z"
         }
     ]
 }
