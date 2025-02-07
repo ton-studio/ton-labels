@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "label": "merge_pals",
+        "label": "clickerfarm",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://mergepals.io",
+        "website": "https://clicker.farm",
         "description": "",
-        "organization": "merge_pals"
+        "organization": "clickerfarm"
     },
     "addresses": [
         {
-            "address": "EQBuSCbEWwrULoePEAap4vCV2PJ2CsdgdffIY95E3wJ8snRS",
+            "address": "EQAojd8QmWQjVZ2eknLjJoTUzeRlCFh-1g9hns4lsP4nxAhh",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "ohld",
-            "submissionTimestamp": "2025-01-10T00:00:01Z"
+            "submissionTimestamp": "2025-02-07T00:00:01Z"
         },
         {
-            "address": "EQBWjsnz-rBBptNRO0qDPKd088siTN2BnM-LIfHeQdjWS0Y6",
+            "address": "EQABzr2wMey86xUFbKBKNPfyVd3zVJDnwW-R2ugMkTIv5qds",
             "source": "",
             "comment": "",
             "tags": [],

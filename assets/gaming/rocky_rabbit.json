@@ -3,7 +3,7 @@
         "label": "rocky_rabbit",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/rocky_rabbit_bot",
+        "website": "https://rockyrabbit.io",
         "description": "",
         "organization": "rocky_rabbit"
     },
@@ -423,6 +423,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBaldn-yw0JPLEy2-5O1IlbIDv7zkV5bp8NIFP4GK675dUD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-07T00:00:01Z"
+        },
+        {
+            "address": "EQBIw89egbmi4MDxlqXG89ntJYdEAkbeOmBTpeBA5gUYaOdP",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-07T00:00:01Z"
         }
     ]
 }
