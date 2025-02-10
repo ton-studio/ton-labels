@@ -4,19 +4,39 @@
         "category": "liquid-staking",
         "subcategory": "",
         "website": "https://hipo.finance",
-        "description": "",
+        "description": "Stake any amount of TON, earn beyond staking rewards!",
         "organization": "hipo"
     },
     "addresses": [
         {
             "address": "EQCLyZHP4Xe8fpchQz76O-_RmUhaVc_9BAoGyJrwJrcbz2eZ",
             "source": "",
-            "comment": "Hipo treasury",
+            "comment": "Hipo Treasury",
             "tags": [
                 "defi"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-15T07:07:33Z"
+        },
+        {
+            "address": "EQDPdq8xjAhytYqfGSX8KcFWIReCufsB9Wdg0pLlYSO_h76w",
+            "source": "",
+            "comment": "hTON Master",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "behrang",
+            "submissionTimestamp": "2025-02-08T16:00:00Z"
+        },
+        {
+            "address": "EQDQEUr0LPi8m6D6F0Wrvuok7tZbAcr0yn2Y7hK291MMzMjM",
+            "source": "",
+            "comment": "HPO Master",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "behrang",
+            "submissionTimestamp": "2025-02-08T16:00:00Z"
         },
         {
             "address": "EQCSlnhRIHYCAlt1FoQVlBHzxmaQOMj9Efu80DwoggSlt_jN",
