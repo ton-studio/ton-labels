@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sigmaton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://sigma.no.pics",
+        "description": "",
+        "organization": "sigmaton"
+    },
+    "addresses": [
+        {
+            "address": "EQDnRNMVxMoCnBQKTisY51FJwo57QEKKlcy1e5y3T23g4u86",
+            "source": "",
+            "comment": "sigmatonbot.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-07T00:00:01Z"
+        }
+    ]
+}

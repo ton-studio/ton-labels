@@ -1,28 +1,28 @@
 {
     "metadata": {
-        "label": "merge_pals",
+        "label": "xstar_fleet",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://mergepals.io",
+        "website": "https://t.me/XStarFleet_bot",
         "description": "",
-        "organization": "merge_pals"
+        "organization": "xstar_fleet"
     },
     "addresses": [
         {
-            "address": "EQBuSCbEWwrULoePEAap4vCV2PJ2CsdgdffIY95E3wJ8snRS",
+            "address": "EQBtVd55UGT2ppYwa9_ks5DHJkAjaohoIX91u2fZxJOpEJRN",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "ohld",
-            "submissionTimestamp": "2025-01-10T00:00:01Z"
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
         },
         {
-            "address": "EQBWjsnz-rBBptNRO0qDPKd088siTN2BnM-LIfHeQdjWS0Y6",
+            "address": "EQBtjRZMFl2qvEtvZI9T4R9g5P7HGLQp-PYPGPZBDsC5kCqT",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "ohld",
-            "submissionTimestamp": "2025-02-07T00:00:01Z"
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
         }
     ]
 }
