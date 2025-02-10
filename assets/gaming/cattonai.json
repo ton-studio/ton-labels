@@ -3,7 +3,7 @@
         "label": "cattonai",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/CattonAiBot",
+        "website": "https://catton.ai",
         "description": "",
         "organization": "cattonai"
     },
@@ -87,6 +87,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQCIJbQRsrVX0CIRR1nzb1pckdN-9kGO_kEUEO2IwDlwUmUo",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
         }
     ]
 }

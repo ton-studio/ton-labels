@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "duckygram",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/duckygram_bot",
+        "description": "",
+        "organization": "duckygram"
+    },
+    "addresses": [
+        {
+            "address": "EQDeoOrL2TJDLYq5rAxamCQuRFwvflQCA5HsBDrT-H2XR4Jz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
+        }
+    ]
+}

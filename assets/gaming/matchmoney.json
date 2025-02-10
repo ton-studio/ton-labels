@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "matchmoney",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/MatchMoney_gamebot",
+        "description": "",
+        "organization": "matchmoney"
+    },
+    "addresses": [
+        {
+            "address": "EQCJWnJzX3xoEHDh6IGa6FJoWJTt22ZH6Z5ipvb8WBZUzrni",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
+        }
+    ]
+}
