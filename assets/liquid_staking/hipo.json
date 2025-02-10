@@ -4,8 +4,8 @@
         "category": "liquid-staking",
         "subcategory": "",
         "website": "https://hipo.finance",
-        "description": "The #1 Most Profitable Liquid Staking on TON!",
-        "organization": "Hipo Finance"
+        "description": "Stake any amount of TON, earn beyond staking rewards!",
+        "organization": "hipo"
     },
     "addresses": [
         {
@@ -37,6 +37,16 @@
             ],
             "submittedBy": "behrang",
             "submissionTimestamp": "2025-02-08T16:00:00Z"
+        },
+        {
+            "address": "EQCSlnhRIHYCAlt1FoQVlBHzxmaQOMj9Efu80DwoggSlt_jN",
+            "source": "",
+            "comment": "hipo.ton",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
         }
     ]
 }
