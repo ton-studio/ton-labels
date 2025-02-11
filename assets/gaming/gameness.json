@@ -36,7 +36,9 @@
             "address": "EQAodnlr867ObKkAZN0YJPXGi38YKjOdC0zIAQjSWy-oGTJ1",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "nft"
+            ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-11T00:00:01Z"
         }
