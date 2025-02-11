@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "gameness",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://gameness.app/",
+        "description": "",
+        "organization": "gameness"
+    },
+    "addresses": [
+        {
+            "address": "EQB71SuPjBlUub52ox2cWkSaAzV6zIZGeH4d15UVlvY_JxwF",
+            "source": "",
+            "comment": "verification address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        }
+    ]
+}
