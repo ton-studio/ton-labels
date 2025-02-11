@@ -18,6 +18,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCuQbRcxns-XPjNNz-_dEG0VIZumAmjE6LlRFv_uPUGuClz",
+            "source": "",
+            "comment": "ston.fi referral address",
+            "tags": [
+                "defi",
+                "referral-address"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
         }
     ]
 }
