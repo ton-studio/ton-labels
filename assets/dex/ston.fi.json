@@ -179,6 +179,16 @@
             "submissionTimestamp": "2025-01-01T00:00:01Z"
         },
         {
+            "address": "EQBwpBGEAb-NgjUxpmARAgVl8C4F_5GsXxZ3dpsA1qzQerNl",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
             "address": "EQBPqY2Q4od1iFTxA2JhtGiFzdnbG_ASyJWbpjCVd0J7bn5r",
             "source": "",
             "comment": "StonFi Vault",
