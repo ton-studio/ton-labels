@@ -60,6 +60,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-29T00:00:01Z"
+        },
+        {
+            "address": "EQBQwk4uEjMlB54tkmVIuDQZSZivN3AT8ozcoa2ELqf2Im6U",
+            "source": "",
+            "comment": "mint referral",
+            "tags": [
+                "defi",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
         }
     ]
 }
