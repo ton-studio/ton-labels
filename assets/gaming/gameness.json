@@ -3,7 +3,7 @@
         "label": "gameness",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://gameness.app/",
+        "website": "https://gameness.app",
         "description": "",
         "organization": "gameness"
     },
@@ -14,6 +14,30 @@
             "comment": "verification address",
             "tags": [],
             "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQDU7lx4TKHllLWwKrDeEt1O1dcXoOcycOT7KOldadd257Ny",
+            "source": "",
+            "comment": "deployer",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQB2FVLxDItu973vGGReCGE2vdGF3P-TavMf-WykX86J-zQB",
+            "source": "",
+            "comment": "dev",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQAodnlr867ObKkAZN0YJPXGi38YKjOdC0zIAQjSWy-oGTJ1",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-11T00:00:01Z"
         }
     ]
