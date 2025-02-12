@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "label": "punkcity",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/PunkCity2094bot",
+        "description": "",
+        "organization": "tonpunks"
+    },
+    "addresses": [
+        {
+            "address": "EQC5-x_REjAco84jFP_HW4eOSG1W64W0lLzuB1Ed9VDFp3X2",
+            "source": "",
+            "comment": "withdraw address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQCsLaPLbeNxRyb_1gbJfDL4DbkqAh0htYeb7vIFoENqWQ7j",
+            "source": "",
+            "comment": "$punk treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN",
+            "source": "",
+            "comment": "TON Punks NFT",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        }
+    ]
+}
