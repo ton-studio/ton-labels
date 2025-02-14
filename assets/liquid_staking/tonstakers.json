@@ -17,6 +17,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-15T07:07:33Z"
+        },
+        {
+            "address": "EQDg-exLLtcp9rr2nwO2RoorCF7K0Sdv5kuVcZq9I8ax6DRI",
+            "source": "",
+            "comment": "Converts burned Pool Jettons to TON",
+            "tags": [
+                "defi",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-14T07:07:33Z"
         }
     ]
 }
