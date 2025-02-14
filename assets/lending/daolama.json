@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "daolama",
+        "category": "lending",
+        "subcategory": "",
+        "website": "https://daolama.co",
+        "description": "NFT lending marketplace",
+        "organization": "daolama"
+    },
+    "addresses": [
+        {
+            "address": "EQCkeTvOSTBwBtP06X2BX7THj_dlX67PhgYRGuKfjWtB9FVb",
+            "source": "",
+            "comment": "daolama_vault",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-12T00:00:01Z"
+        }
+    ]
+}

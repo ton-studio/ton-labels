@@ -291,6 +291,52 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-05T00:00:01Z"
+        },
+        {
+            "address": "EQDktwuhKDeM8HESFx1wvAjOXUYLnuGobytF7BUyQF2t1UvH",
+            "source": "",
+            "comment": "hTON - pTON STON.fi Farm",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-14T00:00:01Z"
+        },
+        {
+            "address": "EQDZsV30R-YiBeZ-NyITRQW4-VtQBJlBN7OoyDvmdPD-f2Mh",
+            "source": "",
+            "comment": "pTON - PUNK STON.fi Farm",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-14T00:00:01Z"
+        },
+        {
+            "address": "EQAseH6Spz17pxuYELwO5Qx3X7SFKNzyp9DkNyuAJyaWDhre",
+            "source": "",
+            "comment": "USD₮ - AquaUSD STON.fi Farm",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-14T00:00:01Z"
+        },
+        {
+            "address": "EQDkncuJ267Py3EmL2XAN7YsSNQMUu8u-GHsW9jVljcH8fr5",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-14T00:00:01Z"
         }
     ]
 }
