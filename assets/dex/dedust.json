@@ -84,6 +84,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-27T00:00:01Z"
+        },
+        {
+            "address": "EQCXLa2eZNFnvlGx-cpCywps7AcUoowkqCqDS9aNErm_Y3di",
+            "source": "",
+            "comment": "DeDust Vault, $tsTON",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-14T00:00:01Z"
         }
     ]
 }
