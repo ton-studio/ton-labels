@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bewhale",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://bewhale.pro",
+        "description": "",
+        "organization": "bewhale"
+    },
+    "addresses": [
+        {
+            "address": "EQDyLR8lRAImxrkBQpdboLpJu3nzoJGfxN4pH0-KDUYkGQmS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-17T00:00:01Z"
+        }
+    ]
+}
