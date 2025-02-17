@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "uxlink",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://uxlink.io",
+        "description": "",
+        "organization": "uxlink"
+    },
+    "addresses": [
+        {
+            "address": "EQDjJzXGVdiYruOtiVqjMH6eCjzJMDRxaM3cryx5q4Bk32z9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-17T00:00:01Z"
+        }
+    ]
+}

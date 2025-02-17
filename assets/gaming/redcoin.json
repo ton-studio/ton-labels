@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "redcoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://red-coin.site",
+        "description": "",
+        "organization": "redcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQASDdSDAEVR8h5faVs7m8ZSxt-ib4I87gQHUoSrOXszN0Ga",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-17T00:00:01Z"
+        }
+    ]
+}

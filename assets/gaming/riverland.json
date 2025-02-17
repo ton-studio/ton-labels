@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "riverland",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://riverland.xyz",
+        "description": "",
+        "organization": "riverland"
+    },
+    "addresses": [
+        {
+            "address": "EQDQZ-VZ7peylzpjccT7eAiOPpJhadaKdf33MUJbpchXpA1W",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-17T00:00:01Z"
+        },
+        {
+            "address": "EQC0R3eS2bF0TPG0BKtBLsD5whSSglrPG0XPn8C-okAzhMjr",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-17T00:00:01Z"
+        }
+    ]
+}

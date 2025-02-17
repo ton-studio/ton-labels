@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "booms",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://booms.io",
+        "description": "",
+        "organization": "booms"
+    },
+    "addresses": [
+        {
+            "address": "EQAPpdpBGXYYqauf8gi5vKADKS-tGInh0Obe3ubxEgBZnH-i",
+            "source": "",
+            "comment": "deposits & payouts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-17T00:00:01Z"
+        }
+    ]
+}
