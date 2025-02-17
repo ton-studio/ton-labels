@@ -1,15 +1,15 @@
 {
     "metadata": {
-        "label": "bewhale",
+        "label": "bitgame",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://bewhale.pro",
-        "description": "",
-        "organization": "bewhale"
+        "website": "https://bitgameonline.com",
+        "description": "@BitGame_Online_bot",
+        "organization": "bitgame"
     },
     "addresses": [
         {
-            "address": "EQDyLR8lRAImxrkBQpdboLpJu3nzoJGfxN4pH0-KDUYkGQmS",
+            "address": "EQAL1pHgTW35zZowScdqeydMy76mo5grRfzBV3zefOceYaHY",
             "source": "",
             "comment": "",
             "tags": [],

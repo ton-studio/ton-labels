@@ -1,20 +1,20 @@
 {
     "metadata": {
-        "label": "bewhale",
+        "label": "mine2mine",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://bewhale.pro",
+        "website": "https://mine2mine.org",
         "description": "",
-        "organization": "bewhale"
+        "organization": "mine2mine"
     },
     "addresses": [
         {
-            "address": "EQDyLR8lRAImxrkBQpdboLpJu3nzoJGfxN4pH0-KDUYkGQmS",
+            "address": "EQAXKwOxy645qaE7zspw6G-zfdIIHyZr4-0-sD56Fk7DYtt4",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "ohld",
-            "submissionTimestamp": "2025-02-17T00:00:01Z"
+            "submissionTimestamp": "2025-01-17T00:00:01Z"
         }
     ]
 }
