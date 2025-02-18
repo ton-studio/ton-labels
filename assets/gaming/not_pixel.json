@@ -26,11 +26,27 @@
         },
         {
             "address": "EQB3Fion_Af5sqzb88AAgYyPFGjGc1D9_aL_mPB48akw9vFu",
-            "source": "",
+            "source": "https://t.me/notpixel_channel/277",
             "comment": "PX claim contract",
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-01-23T00:00:01Z"
+        },
+        {
+            "address": "EQBnAX_K81t3KblW5d-P_vq4N1fobi_akymxfobOoBeTMXA2",
+            "source": "https://t.me/notpixel_channel/277",
+            "comment": "PX claim contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-18T00:00:01Z"
+        },
+        {
+            "address": "EQB7HIeimyw22ju2Z0t60bBAmRidz7j1YSb3AFJ1BfJCL8YL",
+            "source": "https://t.me/notpixel_channel/277",
+            "comment": "PX claim contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-18T00:00:01Z"
         }
     ]
 }
