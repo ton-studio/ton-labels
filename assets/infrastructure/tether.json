@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tether",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://tether.to",
+        "description": "",
+        "organization": "tether"
+    },
+    "addresses": [
+        {
+            "address": "EQAj-peZGPH-cC25EAv4Q-h8cBXszTmkch6ba6wXC8BM4xdo",
+            "source": "tonviewer",
+            "comment": "tether-treasury.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-18T00:00:01Z"
+        }
+    ]
+}
