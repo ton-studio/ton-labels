@@ -71,6 +71,14 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQCHy0tkDV4XeRQc6w6Z1Keyb6oyy4zk4ha-kSOMyuwwWkrV",
+            "source": "",
+            "comment": "ton airdrop rewards",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-18T00:00:01Z"
         }
     ]
 }
