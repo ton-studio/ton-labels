@@ -50,5 +50,9 @@
     {
         "name": "liquid-staking",
         "description": "Liquid Stacking DeFi protocols"
+    },
+    {
+        "name": "fund",
+        "description": "Funds' assets on TON Blockchain"
     }
 ]
