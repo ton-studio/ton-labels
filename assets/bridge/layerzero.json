@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "layerzero",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://layerzero.network",
+        "description": "",
+        "organization": "layerzero"
+    },
+    "addresses": [
+        {
+            "address": "EQAXByU5SqVhNvvSfQzjHYqY4PiucqTSN5td3oPiEaLV-p0-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-19T00:03:33Z"
+        }
+    ]
+}
