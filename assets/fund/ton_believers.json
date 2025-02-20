@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_believers",
+        "category": "fund",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "ton_believers"
+    },
+    "addresses": [
+        {
+            "address": "EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2",
+            "source": "",
+            "comment": "Ton Believers Fund",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        }
+    ]
+}

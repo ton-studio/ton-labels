@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "ton_foundation",
-        "category": "infrastructure",
+        "label": "ton_ecosystem_reserve",
+        "category": "fund",
         "subcategory": "",
-        "website": "https://ton.org",
+        "website": "",
         "description": "",
-        "organization": "ton_foundation"
+        "organization": "ton_ecosystem_reserve"
     },
     "addresses": [
         {
@@ -20,14 +20,6 @@
             "address": "EQBmzW4wYlFW0tiBgj5sP1CgSlLdYs-VpjPWM7oPYPYWQEdT",
             "source": "",
             "comment": "Ton Ecosystem Reserve (OLD) sent here all funds",
-            "tags": [],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-02-04T00:00:01Z"
-        },
-        {
-            "address": "EQDtFpEwcFAEcRe5mLVh2N6C0x-_hJEM7W61_JLnSF74p4q2",
-            "source": "",
-            "comment": "Ton Believers Fund",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-04T00:00:01Z"
