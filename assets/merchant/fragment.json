@@ -72,6 +72,24 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6",
+            "source": "",
+            "comment": "gift-minter.ton",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQBo86B200UaGP1B4FxxtMAgVF1GsnVwZOZYJd7QxJvwLHL0",
+            "source": "",
+            "comment": "TF Gifts royalty address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
         }
+
+        
     ]
 }
