@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "wcoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://w-coin.io",
+        "description": "",
+        "organization": "wcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQDRIUegyY-P0_jWGufyvDEUNnaOZO7oqXG9caQ3-OAxRUcx",
+            "source": "",
+            "comment": "W-Coin Pre-Market",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQARWUDd_uFgeL-Xk_ECGaDWKoF7T9tgPH2ZSj-3QweetZAV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        }
+    ]
+}
