@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonnel_gift_marketplace",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://tongifts.app",
+        "description": "",
+        "organization": "tonnel"
+    },
+    "addresses": [
+        {
+            "address": "EQBZs1e2h5CwmxQxmAJLGNqEPcQ9iU3BCDj0NSzbwTiGayWU",
+            "source": "",
+            "comment": "https://dune.com/ton_foundation/tonnel-tg-gifts",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        }
+    ]
+}
