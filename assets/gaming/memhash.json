@@ -33,6 +33,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-07T00:00:01Z"
+        },
+        {
+            "address": "EQDol2oVpmBznAL6vQpF51QW3p0PKV7ag4VEtex8_MeMHASH",
+            "source": "",
+            "comment": "$MEMHASH jetton master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQAodKCavgMDzHQJwEoaa0ou0wK7dPHluiXGKAgsK3ZKilws",
+            "source": "",
+            "comment": "$MEMHASH minter, multisig treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
         }
     ]
 }
