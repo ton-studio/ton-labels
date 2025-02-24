@@ -3,7 +3,7 @@
         "label": "wcoin",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://w-coin.io/",
+        "website": "https://w-coin.io",
         "description": "",
         "organization": "wcoin"
     },
@@ -12,7 +12,9 @@
             "address": "EQDRIUegyY-P0_jWGufyvDEUNnaOZO7oqXG9caQ3-OAxRUcx",
             "source": "",
             "comment": "W-Coin Pre-Market",
-            "tags": ["nft"],
+            "tags": [
+                "nft"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-02-24T00:00:01Z"
         },
