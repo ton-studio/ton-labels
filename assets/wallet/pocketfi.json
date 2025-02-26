@@ -23,6 +23,16 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-26T00:00:01Z"
+        },
+        {
+            "address": "EQDO4g3oGqQCA0vTxDVvvhCBW2ajIIX5fsPLVPRiAHcX12w0",
+            "source": "",
+            "comment": "SBT NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-26T00:00:01Z"
         }
     ]
 }
