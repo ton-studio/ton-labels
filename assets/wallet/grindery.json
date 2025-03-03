@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "grindery",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://www.grindery.com",
+        "description": "",
+        "organization": "grindery"
+    },
+    "addresses": [
+        {
+            "address": "EQCKw6YucjSWfD24c6_bSTyJGTcknxzNxdkBmlaoqf5tetun",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQDta9ttZryBOTsNfPKMXJi3id7_GsuluqAyRyCPzbrijATX",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-03T00:00:01Z"
+        }
+    ]
+}
