@@ -50,6 +50,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-28T00:00:01Z"
+        },
+        {
+            "address": "EQDo27P-CAam_G2xmQd4CxnFYjY2FKPmmKEc8wTCh4c33Mhi",
+            "source": "",
+            "comment": "EVAA Liquidator",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-06T00:00:01Z"
         }
     ]
 }
