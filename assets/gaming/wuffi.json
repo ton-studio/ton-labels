@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "wuffi",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://wuffi.io",
+        "description": "Bridges built on hyperlane infrastructure",
+        "organization": "wuffi"
+    },
+    "addresses": [
+        {
+            "address": "EQDr1Z7mKR6w1RSanjQnxd-Rps8EI7HmHE6LPYkcWjCnFmo0",
+            "source": "https://bridge.wuffi.io",
+            "comment": "Bridge Address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-03-10T00:00:00Z"
+        },
+        {
+            "address": "UQBooRFn_UfWoD7U95u5z0k_-clW7F7x4lLm-Ttz5tU7j_z5",
+            "source": "https://wuffi.io",
+            "comment": "Treasury Address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-03-10T00:00:00Z"
+        },
+        {
+            "address": "EQAr38MiyJg73SjppcnelZzTeTkJyjb98elh3Y2lPzqQjEL6",
+            "source": "https://wuffi.io",
+            "comment": "TON Rewards Address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-03-10T00:00:00Z"
+        }
+    ]
+}

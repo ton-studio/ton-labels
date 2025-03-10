@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "intersoon",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://intersoon.soo.network",
+        "description": "Bridges built on hyperlane infrastructure",
+        "organization": "intersoon"
+    },
+    "addresses": [
+        {
+            "address": "EQCQnPlTF5Wss_mbLtXVjkmM4nYvCDPIJtS3FBkMoruDLNmc",
+            "source": "https://intersoon.soo.network",
+            "comment": "Bridge Contract",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-03-10T00:00:00Z"
+        }
+    ]
+}
