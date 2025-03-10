@@ -10,8 +10,8 @@
     "addresses": [
         {
             "address": "EQAvirnJ3tWyhjU0At4qRr-Miph3bI_38vgp0h73SHTl3W0E",
-            "source": "Bridge Address",
-            "comment": "",
+            "source": "",
+            "comment": "Bridge Address",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2024-12-26T10:09:26Z"
