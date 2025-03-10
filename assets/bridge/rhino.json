@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "rhino",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://rhino.fi",
+        "description": "",
+        "organization": "rhino"
+    },
+    "addresses": [
+        {
+            "address": "EQAj3SoOk4MPzjn816Crw1b4RxW79fB_Z549tyCd9HIQV6b7",
+            "source": "",
+            "comment": "Bridge Contract",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-03-10T00:00:00Z"
+        }
+    ]
+}
