@@ -199,6 +199,106 @@
             "submissionTimestamp": "2025-01-01T00:00:01Z"
         },
         {
+            "address": "EQCGEXSavv0PNQvcJFnOqPvJ3YagpHbIYHBp6rdDsPWT9KYR",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQDgz3iwM9tDJSfOzuxmao_FF8-un-df6eaxBoaQFCiqL07H",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQA9eTf3spzox4Qs9sfyg2CRUgAd3yAV9u86S4_tjeCHbmR6",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQDwakQGvg9JnTusOPLvVYtDp6UgyPed0d7k4jKjs8WAu3q-",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQBBCdKRGI-kZhfTqhvRHvDIUzQ6d-FpIDpo5EPUoi9Yr3fz",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQC9y2vjqLAKOHQZ5FWuDNPyyoXBDdUoOiX7ZvcXsKwaWqrs",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQCjJcxwZhYzK22RF4eIugvD9-v0EmlmJ7BCpHkjFHhQu3fc",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQCUiH-LURIIpYjAdLTuzu2kCw0naan3tPuuk7OEC3HctWcS",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQB3gVvC98Tuj1dM34rUUiOF20kjjuIqNfcM93LgTuUPoIPS",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQAjFOhDsr5zTYzCvHjrGxKnAttX_gp9lgH0eqb8snVpNTWs",
+            "source": "",
+            "comment": "StonFi Vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
             "address": "EQB3ncyBUTjZUA5EnFKR5_EnOMI9V1tTEAAPaiU71gc4TiUt",
             "source": "",
             "comment": "stonfi_router",

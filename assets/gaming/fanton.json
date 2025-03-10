@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "fanton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/FanTonGameBot",
+        "description": "Fantasy football",
+        "organization": "fanton"
+    },
+    "addresses": [
+        {
+            "address": "EQBpBsShOF1EvuX3nOKwNuzr5YWlJjdpCH_2n8ybizF479Tg",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        }
+    ]
+}

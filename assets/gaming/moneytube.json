@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "moneytube",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/MoneyTube_bot",
+        "description": "",
+        "organization": "moneytube"
+    },
+    "addresses": [
+        {
+            "address": "EQA6jZpR_YR3W9QBcQk2l6aBcUsfXIpFd-YQLlHg2w3Cg1v2",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        }
+    ]
+}

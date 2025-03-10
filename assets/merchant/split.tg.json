@@ -45,6 +45,14 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-20T00:00:01Z"
+        },
+        {
+            "address": "EQBpfDGrVqNnZUXUTA9EmvaDVAhZzCBgBzPiu4iXmrrvec8T",
+            "source": "",
+            "comment": "Split.tg fee collection",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
         }
     ]
 }
