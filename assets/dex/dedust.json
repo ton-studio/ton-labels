@@ -95,6 +95,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-14T00:00:01Z"
+        },
+        {
+            "address": "EQCjymacnemdUJjV1CbWAzVpxfAyuGCsT8hAN5AVHLnm1lt-",
+            "source": "",
+            "comment": "DeDust Vault, $ALEN",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
         }
     ]
 }
