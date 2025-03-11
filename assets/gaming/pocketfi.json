@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "pocketfi",
+    "category": "gaming",
+    "subcategory": "",
+    "website": "https://t.me/pocketfi_bot",
+    "description": "",
+    "organization": "pocketfi"
+  },
+  "addresses": [
+    {
+      "address": "UQB57vGDhw_BKJDWpCZ5WwaYVue0vvgoF1qw_F-ibve9JBkc",
+      "source": "",
+      "comment": "captcha",
+      "tags": [],
+      "submittedBy": "rdmcd",
+      "submissionTimestamp": "2025-03-12T00:00:01Z"
+    }
+  ]
+}
