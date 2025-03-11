@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "0xiceberg",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/IcebergAppBot",
+        "description": "",
+        "organization": "0xiceberg"
+    },
+    "addresses": [
+        {
+            "address": "EQCN85NDFRioyX5EzIZeuddikbKS-z2hmuh-_fT926z4zxM7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-11T00:00:01Z"
+        },
+        {
+            "address": "EQAtdqOIvDsVZc2-GDIqS38VwBdRrTlJih_3XysHgUSRK2mo",
+            "source": "",
+            "comment": "airdrop",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-11T00:00:01Z"
+        }
+    ]
+}
