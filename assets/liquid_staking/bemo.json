@@ -17,6 +17,16 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-01-17T07:07:33Z"
+        },
+        {
+            "address": "EQAORkhhrXis_XxLAAfyxTyNceNXLtaHcJ5FhXxpNJ8xsDGc",
+            "source": "tonviewer",
+            "comment": "Token that will be exchanged for bemo $BMO token",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-12T00:00:00Z"
         }
     ]
 }
