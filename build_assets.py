@@ -19,11 +19,6 @@ Also the scripts validates enumeration fields against dictionaries:
 """
 
 
-def check_organization_format(org: str) -> bool:
-    pattern = r"^[a-z.-]+$"
-    return bool(re.match(pattern, org))
-
-
 if __name__ == "__main__":
     repo = git.Repo(search_parent_directories=True)
     sha = repo.head.object.hexsha
