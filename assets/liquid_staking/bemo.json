@@ -27,6 +27,26 @@
             ],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-12T00:00:00Z"
+        },
+        {
+            "address": "EQA3yiIotfSfBI_xx6xJpXEUnTR8DL6BLUZRVRB7VtvJwrEE",
+            "source": "tonviewer",
+            "comment": "Bemo airdrop wallet sending stXP",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-12T00:00:00Z"
+        },
+        {
+            "address": "EQBlzrj9Mhls_QSh9_FUUIzBjytPF3nbYytnavN9ltu5SvFR",
+            "source": "tonviewer",
+            "comment": "Bemo minter wallet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-12T00:00:00Z"
         }
     ]
 }
