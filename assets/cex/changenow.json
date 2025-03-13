@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "changenow",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://changenow.io",
+        "description": "",
+        "organization": "changenow"
+    },
+    "addresses": [
+        {
+            "address": "0:75401872898EFAC2D2034DA577A45B65F2313F682AE519E0C34D16F3D8B68D8D",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "vaitar",
+            "submissionTimestamp": "2025-01-13T12:00:00Z"
+        }
+    ]
+}
