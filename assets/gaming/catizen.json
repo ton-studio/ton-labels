@@ -47,6 +47,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQD7UQWKOHYQt5mqVo9JJO-hh0WxrSsNtMTMkg3nVYNafmRO",
+            "source": "tonviewer",
+            "comment": "Cati donation wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-12T00:00:01Z"
         }
     ]
 }
