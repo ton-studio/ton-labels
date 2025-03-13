@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "whale-casino",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://whale.io/casino",
+        "description": "",
+        "organization": "whale-casino"
+    },
+    "addresses": [
+        {
+            "address": "EQAYrWvJ4EqaJJD_cYErtUv-EKsb3_eB080WhvvBKuol3N6O",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ch4rter",
+            "submissionTimestamp": "2025-03-11T00:00:01Z"
+        }
+    ]
+}
