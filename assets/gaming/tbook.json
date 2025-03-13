@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "Tbook",
+			"category": "gaming",
+			"subcategory": "",
+			"website": "https://t.me/tbook_incentive_bot",
+			"description": "Get Noticed. Get Paid",
+			"organization": ""
+	},
+	"addresses": [
+			{
+					"address": "EQCEA0bxUzklmmxhKt-c7qZw7-K2N-Xw8fCsUVZ8zt4zCbEg",
+					"source": "tonviewer",
+					"comment": "Splash token airdrop wallet from TBook check-in",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-13T00:00:01Z"
+			}
+	]
+}
