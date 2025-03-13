@@ -1,4 +1,3 @@
-import re
 import os
 import git
 import json
@@ -17,11 +16,6 @@ Each json file can contain a single object or an array of objects related to the
 Also the scripts validates enumeration fields against dictionaries:
 * categories.json
 """
-
-
-def check_organization_format(org: str) -> bool:
-    pattern = r"^[a-z.-]+$"
-    return bool(re.match(pattern, org))
 
 
 if __name__ == "__main__":
