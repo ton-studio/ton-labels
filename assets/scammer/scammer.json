@@ -73,6 +73,17 @@
             ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-13T00:00:00Z"
+        },
+        {
+            "address": "EQAIzTnzG-9SKoxtzNXEsbWZpBzixESsZ1UoqYj84btC-io9",
+            "source": "",
+            "comment": "scammer",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "turic24,
+            "submissionTimestamp": "2025-03-14T00:00:00Z"
         }
     ]
 }
