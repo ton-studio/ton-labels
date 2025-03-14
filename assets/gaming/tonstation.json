@@ -71,6 +71,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-17T00:00:01Z"
+        },
+        {
+            "address": "EQCAnNP3yqPU8brDGWnMAD66uWdvXkeadh_5KOiJcNHI9OZv",
+            "source": "ton station app",
+            "comment": "$SOON Staking contract address",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-13T00:00:01Z"
         }
     ]
 }
