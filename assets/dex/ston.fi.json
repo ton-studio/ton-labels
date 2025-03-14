@@ -437,6 +437,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-14T00:00:01Z"
+        },
+        {
+            "address": "EQAJG5pyZPWEiQiMVJdf7bDRgRLzg6QR57qKeRsOrMO-ncZN",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-14T00:00:01Z"
         }
     ]
 }

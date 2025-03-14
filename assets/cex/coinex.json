@@ -15,6 +15,16 @@
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQCCO7sQpwFn8EDnGemVluyTA2znv6PFwEvi4NdYNHSbi8Zy",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [
+                "deposit"
+            ],
+            "submittedBy": "cordelious",
+            "submissionTimestamp": "2025-03-13T12:50:26Z"
         }
     ]
 }
