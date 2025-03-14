@@ -73,9 +73,9 @@
             "submissionTimestamp": "2025-02-17T00:00:01Z"
         },
         {
-            "address": "EQBdygBKqmLWeF0YtBGXp7eZ5tc5h5C4In86aUhaXg06-xyK",
+            "address": "EQCAnNP3yqPU8brDGWnMAD66uWdvXkeadh_5KOiJcNHI9OZv",
             "source": "",
-            "comment": "jetton wallet for tonstation staking contract (EQCAnNP3yqPU8brDGWnMAD66uWdvXkeadh_5KOiJcNHI9OZv)",
+            "comment": "Tonstation staking contract",
             "tags": [],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-13T00:00:01Z"
