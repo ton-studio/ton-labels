@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "Gatto",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/gatto_gamebot",
+      "description": "",
+      "organization": "Gatto"
+  },
+  "addresses": [
+      {
+          "address": "EQBw8SGTFdcidZJbpNavGA-xBq6fGVlrAzlNWT6l48HPv9VE",
+          "source": "https://gatto-game.gitbook.io/gatto-or-whitepaper/version-on-english/rules-and-useful-links/qa",
+          "comment": "Converting NFTs to in-game items (pets)",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-03-14T00:00:01Z"
+      }
+  ]
+}
