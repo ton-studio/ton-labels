@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "label": "intract",
+    "category": "infrastructure",
+    "subcategory": "",
+    "website": "https://persona.intract.io",
+    "description": "Proof of Humanity",
+    "organization": "intract"
+  },
+  "addresses": [
+    {
+      "address": "EQBwCu4Efpf-W9JO5pWHDzLr-RdVYWraiQysk0-pnV_A2Tvw",
+      "source": "",
+      "comment": "payment contract",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-03-15T00:00:01Z"
+    },
+    {
+      "address": "EQAmonMmVI3gjBxQeE0DQBhxM7y1smQ97dOq2AXlFZFkRyTY",
+      "source": "",
+      "comment": "fees contract",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-03-15T00:00:01Z"
+    }
+  ]
+}
