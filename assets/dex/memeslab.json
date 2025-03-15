@@ -1,0 +1,22 @@
+{
+	"metadata": {
+			"label": "MemesLab",
+			"category": "DEX",
+			"subcategory": "launchpad",
+			"website": "https://t.me/memeslabxyz",
+			"description": "Collect unique meme characters and fight other players for rewards!",
+			"organization": "MemesLab"
+	},
+	"addresses": [
+			{
+					"address": "UQABQjfbE3UN82L0DyxNjHJCkfz0qhamCQGRViklx1_Epk5b",
+					"source": "tonviewer",
+					"comment": "fee collections wallet",
+					"tags": [
+							"defi"
+					],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-15T00:00:01Z"
+			}
+	]
+}
