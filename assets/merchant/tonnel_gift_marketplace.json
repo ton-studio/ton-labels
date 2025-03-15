@@ -3,7 +3,7 @@
         "label": "tonnel_gift_marketplace",
         "category": "merchant",
         "subcategory": "",
-        "website": "https://tongifts.app",
+        "website": "https://market.tonnel.network",
         "description": "",
         "organization": "tonnel"
     },
@@ -15,6 +15,14 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQDCuvVYw23WYw__YsAN12YB9KOINeVwxKABbk5An9K4-p5y",
+            "source": "",
+            "comment": "Telegram Gifts Minter",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-15T00:00:01Z"
         }
     ]
 }
