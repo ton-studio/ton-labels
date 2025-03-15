@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "planetswap",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://t.me/planetswap_bot",
+        "description": "",
+        "organization": "tonplanets"
+    },
+    "addresses": [
+        {
+            "address": "EQCEA0bxUzklmmxhKt-c7qZw7-K2N-Xw8fCsUVZ8zt4zCbEg",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi",
+            ],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-03-15T00:00:01Z"
+        }
+    ]
+}
