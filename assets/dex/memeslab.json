@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "memeslab",
+      "category": "DEX",
+      "subcategory": "launchpad",
+      "website": "https://t.me/memeslabbot",
+      "description": "",
+      "organization": "memeslab"
+  },
+  "addresses": [
+      {
+          "address": "EQABQjfbE3UN82L0DyxNjHJCkfz0qhamCQGRViklx1_EphOe",
+          "source": "",
+          "comment": "used for collecting fees & returing revenue to creators",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-03-15T00:00:01Z"
+      }
+  ]
+}
