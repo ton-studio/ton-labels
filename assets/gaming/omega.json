@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "omega",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Omega_tonbot",
+        "description": "",
+        "organization": "omega"
+    },
+    "addresses": [
+        {
+            "address": "EQCmBrJrPlZj-uZnMeNabqG7KjGAF79LGuArGPD_oimuVL7D",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "RomanHF",
+            "submissionTimestamp": "2025-03-16T00:00:01Z"
+        }
+    ]
+}
