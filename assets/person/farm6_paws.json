@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "farm6_paws",
+			"category": "person",
+			"subcategory": "farmer",
+			"website": "",
+			"description": "Farmer accounts",
+			"organization": "individual"
+	},
+	"addresses": [
+			{
+					"address": "EQCI31KkD0AI7N8_AE21hPo0egGJxU_wP8yRELlItl9GRfgX",
+					"source": "tonviewer",
+					"comment": "Farm6 Paws receiver",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-15T00:00:00Z"
+			}
+	]
+}
