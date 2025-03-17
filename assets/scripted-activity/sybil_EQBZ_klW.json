@@ -1,25 +1,25 @@
 {
 	"metadata": {
-			"label": "sybil_EQCBY7K0",
+			"label": "sybil_EQBZ_klW",
 			"category": "scripted-activity",
 			"subcategory": "sybil",
 			"website": "https://github.com/ton-studio/ton-labels/pull/148",
 			"description": "Farmer receiver account",
-			"organization": "sybil_EQCBY7K0"
+			"organization": "sybil_EQBZ_klW"
 	},
 	"addresses": [
 			{
-					"address": "EQCBY7K0ZSZlX3zGQIa-t0-8syCwTNIZ1Iz-KjYRf3JM3Q7C",
+					"address": "EQBZ_klWkNTSU5HYPgMMDM8PXPk2wpa8qISXVtJ2Skd1J18V",
 					"source": "Huge volume with other hot wallets",
-					"comment": "Cashout wallet Binance 143003792",
+					"comment": "Wallet sent USDT to other Wallet USDT who withdraw to Binance 143003792",
 					"tags": [],
 					"submittedBy": "rAndom1ze",
 					"submissionTimestamp": "2025-02-05T01:01:01Z"
 			},
 			{
-					"address": "EQBZ_klWkNTSU5HYPgMMDM8PXPk2wpa8qISXVtJ2Skd1J18V",
+					"address": "EQCBY7K0ZSZlX3zGQIa-t0-8syCwTNIZ1Iz-KjYRf3JM3Q7C",
 					"source": "Huge volume with other hot wallets",
-					"comment": "Wallet sent USDT to other Wallet USDT who withdraw to Binance 143003792",
+					"comment": "Cashout wallet Binance 143003792",
 					"tags": [],
 					"submittedBy": "rAndom1ze",
 					"submissionTimestamp": "2025-02-05T01:01:01Z"
