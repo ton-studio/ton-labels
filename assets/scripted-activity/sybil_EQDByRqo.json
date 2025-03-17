@@ -1,11 +1,11 @@
 {
 	"metadata": {
-			"label": "farm2_paws",
-			"category": "person",
-			"subcategory": "farmer",
-			"website": "",
-			"description": "Farmer accounts",
-			"organization": "individual"
+		"label": "sybil_EQDByRqo",
+		"category": "scripted-activity",
+		"subcategory": "sybil",
+		"website": "https://github.com/ton-studio/ton-labels/pull/129",
+		"description": "Farmer receiver account",
+		"organization": "sybil_EQDByRqo"
 	},
 	"addresses": [
 			{
