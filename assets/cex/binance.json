@@ -39,6 +39,30 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-05T01:01:01Z"
+        },
+        {
+            "address": "EQCBY7K0ZSZlX3zGQIa-t0-8syCwTNIZ1Iz-KjYRf3JM3Q7C",
+            "source": "Huge volume with other hot wallets",
+            "comment": "Cashout wallet Binance 143003792",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-05T01:01:01Z"
+        },
+        {
+            "address": "EQCBY7K0ZSZlX3zGQIa-t0-8syCwTNIZ1Iz-KjYRf3JM3Q7C",
+            "source": "Huge volume with other hot wallets",
+            "comment": "Wallet USDT withdraw to Binance 143003792",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-05T01:01:01Z"
+        },
+        {
+            "address": "EQCBY7K0ZSZlX3zGQIa-t0-8syCwTNIZ1Iz-KjYRf3JM3Q7C",
+            "source": "Huge volume with other hot wallets",
+            "comment": "Wallet sent USDT to other Wallet USDT who withdraw to Binance 143003792",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-05T01:01:01Z"
         }
     ]
 }
