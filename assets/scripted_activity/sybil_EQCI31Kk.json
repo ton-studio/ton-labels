@@ -1,7 +1,7 @@
 {
 	"metadata": {
 			"label": "sybil_EQCI31Kk",
-			"category": "scripted-activity",
+			"category": "scripted_activity",
 			"subcategory": "sybil",
 			"website": "https://github.com/ton-studio/ton-labels/pull/133",
 			"description": "Farmer receiver account",
