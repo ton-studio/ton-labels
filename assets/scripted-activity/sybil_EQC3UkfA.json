@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "sybil_EQC3UkfA",
+			"category": "scripted_activity",
+			"subcategory": "sybil",
+			"website": "https://github.com/ton-studio/ton-labels/pull/132",
+			"description": "Farmer receiver account",
+			"organization": "sybil_EQC3UkfA"
+	},
+	"addresses": [
+			{
+					"address": "EQC3UkfA1L1BiCEABvGPvqynbYjV_SZQ7I869PZvAmIh1kQA",
+					"source": "tonviewer",
+					"comment": "Farm4 received TON after claim $DUCK",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-15T00:00:00Z"
+			}
+	]
+}
