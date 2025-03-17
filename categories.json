@@ -56,7 +56,7 @@
         "description": "Funds' assets on TON Blockchain"
     },
     {
-        "name": "scripted-activity",
+        "name": "scripted_activity",
         "description": "Addresses that aggregate funds or coordinate actions involving automated onchain entities such as sybils, botnets, or scripted services"
     }
 ]
