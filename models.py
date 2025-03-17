@@ -70,7 +70,7 @@ class Metadata(BaseModel):
 
     @field_validator("label", "organization")
     def validate_key(cls, value):
-        if not re.match(r"^[a-z0-9._]+$", value):
+        if not re.match(r"^[a-z0-9._]+(?:_EQ[A-Za-z0-9]+)?$", value):
             raise ValueError(f"{value} must be lowercase and can only contain '.', '_'")
         return value
 
