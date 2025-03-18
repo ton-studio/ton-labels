@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "time_ton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TimeTONbot",
+        "description": "",
+        "organization": "time_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQDf4eHo6NgdbT3zHtkKbcuucJliTjakTd4Qdkb_nsNIGkCC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "RomanHF",
+            "submissionTimestamp": "2025-03-16T00:00:01Z"
+        }
+    ]
+}
