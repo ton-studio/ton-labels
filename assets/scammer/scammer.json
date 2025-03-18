@@ -95,6 +95,17 @@
             ],
             "submittedBy": "turic24",
             "submissionTimestamp": "2025-03-15T00:00:00Z"
+        },
+        {
+            "address": "EQC1mgYAUhDEP6iUk6QDnESKTDx5pveqvQ6iu5w8JQ4ZTmr1",
+            "source": "",
+            "comment": "mimic for $PAWS token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-18T00:00:00Z"
         }
     ]
 }
