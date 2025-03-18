@@ -1,15 +1,15 @@
 {
 	"metadata": {
-			"label": "sybil_EQC7zus1",
+			"label": "sybil_EQAB_egB",
 			"category": "scripted-activity",
 			"subcategory": "sybil",
 			"website": "https://github.com/ton-studio/ton-labels/pull/156",
 			"description": "Farmer receiver account",
-			"organization": "sybil_EQC7zus1"
+			"organization": "sybil_EQAB_egB"
 	},
 	"addresses": [
 			{
-					"address": "EQC7zus1ncKUiS9l1pHclyB1TwS1igolPzMprppBGMnOETf0",
+					"address": "EQAB_egBSB24osZgUW9WEyMhwvmcyOdc8UtWnCL-yDhcnhkB",
 					"source": "tonviewer",
 					"comment": "Farm Kitty Mint receiver",
 					"tags": [],
