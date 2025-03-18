@@ -9,6 +9,14 @@
 	},
 	"addresses": [
 		{
+			"address": "EQBxrkqb9sVVGBVqNJzJW9lDcKwhhgeamkBJNt1njgo_tU7s",
+			"source": "",
+			"comment": "Ton.Fun referral address",
+			"tags": ["defi", "referral-address"],
+			"submittedBy": "ohld",
+			"submissionTimestamp": "2025-01-01T00:00:01Z"
+		},
+		{
 			"address": "EQCuVv07tBHuJrgFrMcDJFHESoE6TpLLoNTuqdL2LkXi7JGM",
 			"source": "",
 			"comment": "bridge inside hot_wallet",
