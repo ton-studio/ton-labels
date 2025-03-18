@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "chainconnect",
+      "category": "bridge",
+      "subcategory": "",
+      "website": "https://app.chainconnect.com",
+      "description": "",
+      "organization": "chainconnect"
+  },
+  "addresses": [
+      {
+          "address": "EQBLaRe42TV87k0kqGBdKDJxCODcBrD-R4YUoionucMIBb25",
+          "source": "",
+          "comment": "Bridge Contract",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-03-18T00:00:00Z"
+      }
+  ]
+}
