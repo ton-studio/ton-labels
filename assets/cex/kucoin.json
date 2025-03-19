@@ -103,6 +103,22 @@
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQBPyemREQAlSxBJdWArlJCXtjzcOPBnKiwWz8sw9_8L_1Ee",
+            "source": "https://dune.com/okhlopkov/ton-wallet-analysis?wallet_address_td90d4=0:4fc9e9911100254b104975602b949097b63cdc38f0672a2c16cfcb30f7ff0bff",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQDNH6P8W4f68LRScjwuqhee5SgP9btMzoESFu8ewzRuDVCt",
+            "source": "",
+            "comment": "related to deployment of EQBPyemREQAlSxBJdWArlJCXtjzcOPBnKiwWz8sw9_8L_1Ee",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
         }
     ]
 }

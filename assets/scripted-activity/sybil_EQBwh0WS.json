@@ -1,15 +1,15 @@
 {
 	"metadata": {
-			"label": "sybil_EQCI31Kk",
+			"label": "sybil_EQBwh0WS",
 			"category": "scripted-activity",
 			"subcategory": "sybil",
-			"website": "https://github.com/ton-studio/ton-labels/pull/131",
+			"website": "https://github.com/ton-studio/ton-labels/pull/128",
 			"description": "Farmer receiver account",
-			"organization": "sybil_EQCI31Kk"
+			"organization": "sybil_EQBwh0WS"
 	},
 	"addresses": [
 			{
-					"address": "EQCI31KkD0AI7N8_AE21hPo0egGJxU_wP8yRELlItl9GRfgX",
+					"address": "EQBwh0WSPNnXqpxbSUFVREErThGAfVOLmCQ7fd9CwK45SnrZ",
 					"source": "tonviewer",
 					"comment": "Farm Paws receiver",
 					"tags": [],
