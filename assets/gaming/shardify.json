@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "shardify",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://shardify.io",
+        "description": "",
+        "organization": "shardify"
+    },
+    "addresses": [
+        {
+            "address": "EQDmOYeZ8n38fJAx5Tmi8-sDohpMu-vlRH70jEZgM3Je_dOE",
+            "source": "",
+            "comment": "Shards of Notcoin NFT bond / wNOT treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        }
+    ]
+}
