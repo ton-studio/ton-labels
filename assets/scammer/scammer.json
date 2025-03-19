@@ -95,6 +95,17 @@
             ],
             "submittedBy": "turic24",
             "submissionTimestamp": "2025-03-15T00:00:00Z"
+        },
+        {
+            "address": "EQA_E56TdEqPTlI85DI8iEQ2rygUwsFbQO7NpTeUcLxipde3",
+            "source": "",
+            "comment": "Mimic for legit $TON rewards",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rudiafandi16",
+            "submissionTimestamp": "2025-03-19T00:00:00Z"
         }
     ]
 }
