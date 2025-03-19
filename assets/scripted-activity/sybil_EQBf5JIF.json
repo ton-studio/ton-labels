@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "sybil_EQBf5JIF",
+			"category": "scripted-activity",
+			"subcategory": "sybil",
+			"website": "https://github.com/ton-studio/ton-labels/pull/170",
+			"description": "Receiving account",
+			"organization": "sybil_EQBf5JIF"
+	},
+	"addresses": [
+			{
+					"address": "EQBf5JIF6EKX7wAqTz4WdnCh5q6W41GjiDygplpUdofFrTk0",
+					"source": "tonviewer",
+					"comment": "Receiving TON from many wallets who used for projects",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-15T00:00:00Z"
+			}
+	]
+}
