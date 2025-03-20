@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "tradoor",
+        "category": "DEX",
+        "subcategory": "perpetuals",
+        "website": "https://tradoor.io",
+        "description": "",
+        "organization": "tradoor"
+    },
+    "addresses": [
+        {
+            "address": "EQD_EzjJ9u0fpMJkoZBSv_ZNEMitAoYo9SsuD0s1ehIifnnn",
+            "source": "",
+            "comment": "Main vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-20T00:00:01Z"
+        }
+    ]
+}
