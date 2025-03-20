@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "sybil_EQBPnnUx",
+    "category": "scripted-activity",
+    "subcategory": "sybil",
+    "website": "https://github.com/ton-studio/ton-labels/pull/108",
+    "description": "Botnet farm receiver account",
+    "organization": "sybil_EQBPnnUx"
+  },
+  "addresses": [
+    {
+      "address": "EQBPnnUx2OFiKeNxtia2jD0yRsFZVQaJeXgU3WLyp1i5oYCv",
+      "source": "",
+      "comment": "Botnet farm account",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-03-15T00:00:00Z"
+    }
+  ]
+}
