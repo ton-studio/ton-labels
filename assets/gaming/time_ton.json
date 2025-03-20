@@ -22,7 +22,15 @@
             "comment": "old wallet ",
             "tags": [],
             "submittedBy": "rAndom1ze",
-            "submissionTimestamp": "2025-03-16T00:00:01Z"
+            "submissionTimestamp": "2025-03-20T00:00:01Z"
+        },
+        {
+            "address": "EQCZdvukRz3qipke4h5g4SKn2qKDVXUaSAifDfex2PbAds6J",
+            "source": "tonviewer",
+            "comment": "new deposite wallet ",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-20T00:00:01Z"
         }
     ]
 }
