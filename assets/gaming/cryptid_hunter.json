@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "cryptid_hunter",
+			"category": "gaming",
+			"subcategory": "",
+			"website": "https://t.me/cryptidHunterBot",
+			"description": "Cryptid Hunter is an idle mini TCG where players collect powerful cards, battle in PvE, and earn rewards in a fun.",
+			"organization": "cryptid_hunter"
+	},
+	"addresses": [
+			{
+					"address": "EQDG0muH1r65H7ouDfsjql8Y0jR6xUAWqkcX-wJHvDIe5F_k",
+					"source": "https://t.me/cryptohunterm2p/2802",
+					"comment": "Proof of Payment wallet",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-20T00:00:01Z"
+			}
+	]
+}
