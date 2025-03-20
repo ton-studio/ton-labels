@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "cryptid_hunter",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/cryptidHunterBot",
+      "description": "",
+      "organization": "cryptid_hunter"
+  },
+  "addresses": [
+      {
+          "address": "EQDG0muH1r65H7ouDfsjql8Y0jR6xUAWqkcX-wJHvDIe5F_k",
+          "source": "",
+          "comment": "burn address for associated CPT & NOV4 tokens",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-03-20T00:00:01Z"
+      }
+  ]
+}
