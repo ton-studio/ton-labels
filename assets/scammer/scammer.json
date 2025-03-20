@@ -106,6 +106,17 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-18T00:00:00Z"
+        },
+        {
+            "address": "EQDtJi4jzmmnj9q7oBmgounQZd_iTOMoOOm6wRiR0fSX03IV",
+            "source": "tonviewer",
+            "comment": "Mass spam sender Reward 99TON my_tonkeeper.t.me",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-19T00:00:00Z"
         }
     ]
 }
