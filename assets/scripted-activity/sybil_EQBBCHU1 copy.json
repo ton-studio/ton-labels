@@ -1,0 +1,20 @@
+{
+	"metadata": {
+		"label": "sybil_EQA2bLLE",
+		"category": "scripted-activity",
+		"subcategory": "sybil",
+		"website": "https://github.com/ton-studio/ton-labels/pull/179",
+		"description": "Receiver account",
+		"organization": "sybil_EQA2bLLE"
+},
+	"addresses": [
+			{
+					"address": "EQA2bLLEbRVbAfYz_-4FkHQMJUP_Wh7Vl6yqypet1S2wDhOR",
+					"source": "tonviewer",
+					"comment": "Receiver wallet after activation account",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-15T00:00:00Z"
+			}
+	]
+}
