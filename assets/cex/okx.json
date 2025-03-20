@@ -399,6 +399,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQBH2w_CBbd1SOnm0V6vAasHQ8lFzJklB38BiiHNRQ_9hXWf",
+            "source": "",
+            "comment": "OKX11 hot wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-14T01:01:01Z"
+        },
+        {
+            "address": "EQAczOu-Dom5ZDJnM5CnwjRl0eE3mFsWqx9epLVgF_7ALrTu",
+            "source": "",
+            "comment": "OKX12 widthraw wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-14T01:01:01Z"
         }
     ]
 }
