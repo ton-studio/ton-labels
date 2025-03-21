@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "Nest Store",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "t.me/nestore_robot",
+        "description": "",
+        "organization": "nest"
+    },
+    "addresses": [
+        {
+            "address": "EQCDXlSfMUhyLu1KXkUmIH2cdr7jhXi3QsHWGhJF5olm_g1O",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-03-22T00:00:01Z"
+        }
+    ]
+}
