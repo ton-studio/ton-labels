@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "scammer_walletverificator",
+        "category": "scammer",
+        "subcategory": "drainer",
+        "website": "",
+        "description": "mimic to airdrop but drains user's wallet",
+        "organization": "scammer_walletverificator"
+    },
+    "addresses": [
+        {
+            "address": "EQDBWSrToBluvkgszANfQZ61WZVMnvM9geaVb0xXatnUJnbp",
+            "source": "",
+            "comment": "Drainer contract (forwards all tokens to the owner)",
+            "submittedBy": "ch4rter",
+            "tags": [],
+            "submissionTimestamp": "2025-01-28T00:00:00Z"
+        },
+        {
+            "address": "EQBAT1322xxPMmgzd-7nsJCvec2oCsUekMqjSvCctNfoLNRn",
+            "source": "",
+            "comment": "Drainer contract (forwards all tokens to the owner)",
+            "submittedBy": "dddwhdd",
+            "tags": [],
+            "submissionTimestamp": "2025-03-20T00:00:00Z"
+        }
+    ]
+}
