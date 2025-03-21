@@ -9,7 +9,7 @@
 	},
 	"addresses": [
 			{
-					"address": "EQAak_wzNxIZDoK7sMsUaVT3ITAmsVkc0acBOtG5tPEN-65e",
+					"address": "EQC7zus1ncKUiS9l1pHclyB1TwS1igolPzMprppBGMnOETf0",
 					"source": "tonviewer",
 					"comment": "Kitty Mint Withdrawal Transaction",
 					"tags": [],
@@ -17,12 +17,12 @@
 					"submissionTimestamp": "2025-03-19T00:00:01Z"
 			},
 			{
-				"address": "EQCFDIac-Lb8S_nh6L5w1Jteou_6P4ymODBYvo8F6ERoiwa0",
-				"source": "tonviewer",
-				"comment": "Kitty Mint Deposit wallet",
-				"tags": [],
-				"submittedBy": "rAndom1ze",
-				"submissionTimestamp": "2025-03-19T00:00:01Z"
+					"address": "EQCFDIac-Lb8S_nh6L5w1Jteou_6P4ymODBYvo8F6ERoiwa0",
+					"source": "tonviewer",
+					"comment": "Kitty Mint Deposit wallet",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-19T00:00:01Z"
 			}
 	]
 }
