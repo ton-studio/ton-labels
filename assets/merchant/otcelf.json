@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "otcelf",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "t.me/GiftElfRobot",
+        "description": "P2P guarantor bot for gifts and more",
+        "organization": "otcelf"
+    },
+    "addresses": [
+        {
+            "address": "EQB3Yk7IcbWwQTZ3M8vOUsOCY7qO2j2SSRg9_eBDKl93YfKi",
+            "source": "",
+            "comment": "chat bot",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-03-22T00:00:01Z"
+        }
+    ]
+}
