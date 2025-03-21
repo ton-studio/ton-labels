@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonpoker",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/tonpoker",
+        "description": "",
+        "organization": "tonpoker"
+    },
+    "addresses": [
+        {
+            "address": "EQB1QBhyiY76wtIDTaV3pFtl8jE_aCrlGeDDTRbz2LaNjWYC",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-20T00:00:01Z"
+        }
+    ]
+}
