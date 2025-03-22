@@ -15,6 +15,14 @@
             "tags": [],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-22T00:00:01Z"
+        },
+        {
+            "address": "EQChBgU3YUE0tvhJc0vA4eSUnVElH54GayUtEhVDpJTI6F_s",
+            "source": "",
+            "comment": "Fee collector wallet",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-22T00:00:01Z"
         }
     ]
 }
