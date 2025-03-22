@@ -106,6 +106,17 @@
             ],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-19T00:00:00Z"
+        },
+        {
+            "address": "EQCEHLgdtM_NOiXeXF5lCejwQsu61pw_vgsGkRN5iQmKuDEd",
+            "source": "tonviewer",
+            "comment": "Mimic for TON airdrop",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-22T00:00:00Z"
         }
     ]
 }
