@@ -95,6 +95,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-19T00:03:33Z"
+        },
+        {
+            "address": "EQC7MPAYs9V24d5GX902fvaCZsSeE84oz4PEirSC8jAG7FIh",
+            "source": "tonviewer",
+            "comment": "Proxy Sender",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-19T00:03:33Z"
         }
     ]
 }
