@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "vanilla_finance",
+			"category": "gaming",
+			"subcategory": "",
+			"website": "https://t.me/Vanilla_Finance_Bot",
+			"description": "Trading Volume Exchange on Telegram, @Binance Most Valuable Builder Winner.🔥 Tapping or Trading to get Airdrop!",
+			"organization": "pluto_studio"
+	},
+	"addresses": [
+			{
+					"address": "EQDFy9w4E8AIjtPLn1oU5VUqel7aGjV8sZ2WViU1W-uSzwN-",
+					"source": "tonviewer",
+					"comment": "check-in wallet",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-11T00:00:01Z"
+			}
+	]
+}

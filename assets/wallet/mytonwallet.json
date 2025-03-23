@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "mytonwallet",
+			"category": "wallet",
+			"subcategory": "",
+			"website": "https://mytonwallet.io",
+			"description": "This is the staking pool for the $MY token in MyTonWallet.",
+			"organization": "mytonwallet"
+	},
+	"addresses": [
+			{
+					"address": "EQC3roTiRRsoLzfYVK7yVVoIZjTEqAjQU3ju7aQ7HWTVL5o5",
+					"source": "tonviewer",
+					"comment": "staking pool for the $MY",
+					"tags": ["pool"],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-11T00:00:01Z"
+			}
+	]
+}

@@ -1,32 +1,28 @@
-[
-    {
-        "address": "EQCYCf9U1uYk4JeX0Cy469X4p-n2eLdPwEBSKh_kumxPKRTL",
+{
+    "metadata": {
         "label": "adsgram",
-        "organization": "adsgram",
         "category": "ads",
         "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "Web Ads in Telegram Miniapps",
-        "comment": "Incoming Payments",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "website": "https://adsgram.ai",
+        "description": "",
+        "organization": "adsgram"
     },
-    {
-        "address": "EQCmLgXvFwGrtdph9KsCgFm6lvM0R2luiTzpdBUqzfLFI2R_",
-        "label": "adsgram",
-        "organization": "adsgram",
-        "category": "ads",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "Web Ads in Telegram Miniapps",
-        "comment": "Payouts",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQCYCf9U1uYk4JeX0Cy469X4p-n2eLdPwEBSKh_kumxPKRTL",
+            "source": "",
+            "comment": "Web Ads in Telegram Miniapps",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCmLgXvFwGrtdph9KsCgFm6lvM0R2luiTzpdBUqzfLFI2R_",
+            "source": "",
+            "comment": "Web Ads in Telegram Miniapps",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

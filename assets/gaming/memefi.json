@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQDo_mbJsbuOBL3XvwShGne_uemk1VdxH_F_hbYJtVHt8MdC",
-        "label": "MemeFi",
-        "organization": "MemeFi",
+{
+    "metadata": {
+        "label": "memefi",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://www.memefi.club",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+        "organization": "memefi"
+    },
+    "addresses": [
+        {
+            "address": "EQDo_mbJsbuOBL3XvwShGne_uemk1VdxH_F_hbYJtVHt8MdC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

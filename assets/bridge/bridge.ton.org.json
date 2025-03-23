@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "bridge.ton.org",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://bridge.ton.org",
+        "description": "",
+        "organization": "ton"
+    },
+    "addresses": [
+        {
+            "address": "Ef_dJMSh8riPi3BTUTtcxsWjG8RLKnLctNjAM4rw8NN-xWdr",
+            "source": "tonviewer",
+            "comment": "ETH Bridge",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2024-12-26T10:09:26Z"
+        },
+        {
+            "address": "Ef9NXAIQs12t2qIZ-sRZ26D977H65Ol6DQeXc5_gUNaUys5r",
+            "source": "tonviewer",
+            "comment": "BSC Bridge",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2024-12-26T10:09:26Z"
+        },
+        {
+            "address": "Ef-1JetbPF9ubc1ga-57oHoOyDA1IShJt-BVlJnA9rrVTfrB",
+            "source": "tonviewer",
+            "comment": "ETH Token Bridge",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2024-12-26T10:09:26Z"
+        },
+        {
+            "address": "EQDF6fj6ydJJX_ArwxINjP-0H8zx982W4XgbkKzGvceUWvXl",
+            "source": "tonviewer",
+            "comment": "ETH Token Bridge Collector",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2024-12-26T10:09:26Z"
+        }
+    ]
+}

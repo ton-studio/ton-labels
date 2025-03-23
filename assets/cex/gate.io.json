@@ -1,30 +1,28 @@
-[
-    {
-        "address": "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q",
+{
+    "metadata": {
         "label": "gate.io",
-        "organization": "gate.io",
         "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
+        "subcategory": "",
+        "website": "https://gate.io",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
+        "organization": "gate.io"
     },
-    {
-        "address": "EQAbhMWosoxeoXTJi9Tlw09MEjPVvdJe9j0nC6K6ro0d1oL-",
-        "label": "gate.io",
-        "organization": "gate.io",
-        "category": "CEX",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2024-12-12T10:02:02Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQC0lrj3O0af8GotieYsTXChA_wijIIVN7Sd_wkgYLwoH07q",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQAbhMWosoxeoXTJi9Tlw09MEjPVvdJe9j0nC6K6ro0d1oL-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2024-12-12T10:02:02Z"
+        }
+    ]
+}

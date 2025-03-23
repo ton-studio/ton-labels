@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "trump_farm",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TrumpFarmBot",
+        "description": "",
+        "organization": "trump_farm"
+    },
+    "addresses": [
+        {
+            "address": "EQCvaGTQc-MNj_cJ_TJZ0SAAOxyL3RVFi6SNCoqGSbTOGknw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-27T00:00:01Z"
+        },
+        {
+            "address": "EQAWO4ekNFGhRaMkWlIOjPdvuco5TVwsXBhkIPlbiF_KbSaT",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-04T00:00:01Z"
+        },
+        {
+            "address": "EQBImFq9TAd3FJgcAd8zjZTo7u2bp-Pja5CMH23rWhVQRWs9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-15T00:00:01Z"
+        }
+    ]
+}

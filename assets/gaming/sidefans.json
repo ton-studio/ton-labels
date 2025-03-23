@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "sidefans",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/sidekick_fans_bot",
+        "description": "",
+        "organization": "sidekick_labs"
+    },
+    "addresses": [
+        {
+            "address": "EQDYplDEnImCGbLS6seC6uVgA3fbN1gzzJqaP5IyBJ5lUv2_",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQD-EqyDGh8GPe5Bh_FYyZPxj5p4X33xNm-DN8Puo6-4U7oT",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
+        }
+    ]
+}

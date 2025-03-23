@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "genki_miner",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/GenkiMinerBot",
+        "description": "",
+        "organization": "genki_miner"
+    },
+    "addresses": [
+        {
+            "address": "EQDTCD85dI5Cu8O1eDecuARaagwaOPMacnXwqn8KB0-1DN8P",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQBc-na2hmepmYR0XoMPewq_jWoemqmoZC5KZbWD4i2N46ES",
+            "source": "",
+            "comment": "address handling usdt withdrawals",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-21T00:00:01Z"
+        },
+        {
+            "address": "EQDJriAuBESsyzVB73Y2BbWFVivzki4g8ldQTA0tRo2an98k",
+            "source": "",
+            "comment": "deposit address for in-game shop",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-21T00:00:01Z"
+        }
+    ]
+}

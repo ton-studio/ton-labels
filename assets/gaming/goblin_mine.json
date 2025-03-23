@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "goblin_mine",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/GoblinMine_bot",
+        "description": "",
+        "organization": "goblin_mine"
+    },
+    "addresses": [
+        {
+            "address": "EQC-PE3an7C2LpX1FXC1pplsYxmDhJDjNk4lZdVlj950Os7B",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:01Z"
+        },
+        {
+            "address": "EQB77dx-48zcxSO8LMzJE8R8f1VmS9aSBNiN6DF6cqTzj96i",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:01Z"
+        },
+        {
+            "address": "EQACJ16TcWK6xPUCQysU6xHdmkgdZNAcoMHFSDvyRyjmv_gM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:01Z"
+        },
+        {
+            "address": "EQC3iR9pOAs-xDrx6itVehoTmU8VJ2PTSCvcSN9Nl7-rSicG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:01Z"
+        }
+    ]
+}

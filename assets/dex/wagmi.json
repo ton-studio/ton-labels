@@ -1,20 +1,23 @@
-[
-    {
-        "address": "EQBK1ySbGO0rzZbv5vjj0N7c3z0XZ4-Pqu4uXDBe82GFZAjm",
+{
+    "metadata": {
         "label": "wagmi",
-        "organization": "wagmi",
         "category": "DEX",
         "subcategory": "launchpad",
-        "image": "",
-        "source": "",
-        "description": "Ton.Fun referral address",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi",
-            "referral-address"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+        "website": "https://t.me/wagmi_app_bot",
+        "description": "",
+        "organization": "wagmi"
+    },
+    "addresses": [
+        {
+            "address": "EQBK1ySbGO0rzZbv5vjj0N7c3z0XZ4-Pqu4uXDBe82GFZAjm",
+            "source": "",
+            "comment": "Ton.Fun referral address",
+            "tags": [
+                "defi",
+                "referral-address"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

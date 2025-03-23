@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "akefish",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/AKEFishBot",
+        "description": "",
+        "organization": "akedo"
+    },
+    "addresses": [
+        {
+            "address": "EQA8gfa96Qrzpdwn_FvkCQa35MNCr1L77HNRpOOeQLgV3k7v",
+            "source": "",
+            "comment": "clicker",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

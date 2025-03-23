@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "swap.coffee",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://swap.coffee",
+        "description": "",
+        "organization": "swap.coffee"
+    },
+    "addresses": [
+        {
+            "address": "EQCNTO0Nh0Z7QNyRW1BLWfk08f2dAOw4izrx9sO6OUPg4GfQ",
+            "source": "",
+            "comment": "Stonfi referral address",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

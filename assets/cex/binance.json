@@ -1,44 +1,44 @@
-[
-    {
-        "address": "EQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCXmC",
+{
+    "metadata": {
         "label": "binance",
-        "organization": "binance",
         "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
+        "subcategory": "",
+        "website": "https://binance.com",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
+        "organization": "binance"
     },
-    {
-        "address": "EQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2n6g",
-        "label": "binance",
-        "organization": "binance",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    },
-    {
-        "address": "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb",
-        "label": "binance",
-        "organization": "binance",
-        "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCXmC",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQCOkbUDgcNt1CrM21H1y12WhIVotJJPgHmxpa5-EPQ-2n6g",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        },
+        {
+            "address": "EQD4uGNdB4a3f52mYOZf0x1nCmdd1DAvrLppL0a1cetTYHn0",
+            "source": "Huge volume with other hot wallets",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-05T01:01:01Z"
+        }
+    ]
+}

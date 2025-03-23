@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "megaton",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://megaton.fi",
+        "description": "",
+        "organization": "megaton"
+    },
+    "addresses": [
+        {
+            "address": "EQAxC3GzQBgjlvW6CJAwgaHvarTfVxo8p7Be_6RMSjsPki6s",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-21T00:00:01Z"
+        },
+        {
+            "address": "EQAWcJ0nO3WtNlSmUjKcqv4735YCviRqu7LMNJoPXsdHVLC9",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-21T00:00:01Z"
+        }
+    ]
+}

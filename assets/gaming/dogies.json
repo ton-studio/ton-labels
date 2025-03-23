@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "dogies",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/dogies_gamebot",
+        "description": "",
+        "organization": "dogies"
+    },
+    "addresses": [
+        {
+            "address": "EQAHRwm1h4PgmHUwx8et1FBI2oqw6DvmqyZRRTruWGHWZyIu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
+        }
+    ]
+}

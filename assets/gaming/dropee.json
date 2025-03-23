@@ -1,17 +1,36 @@
-[
-    {
-        "address": "EQBK5kTpqNjyehWQ2HTb18F8NgsS6p10QrNo555YgVazFcfx",
-        "label": "Dropee",
-        "organization": "Dropee",
+{
+    "metadata": {
+        "label": "dropee",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://t.me/DropeeBot",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    }
-]
+        "organization": "dropee"
+    },
+    "addresses": [
+        {
+            "address": "EQBK5kTpqNjyehWQ2HTb18F8NgsS6p10QrNo555YgVazFcfx",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQD_KYS3ErRmltjotOZqiAhwIrZVxpUm-rIL00g4CnAUMivB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQBLvXTzcAUaaRNUVxVyKx9uI4XllunArdOHhnXhvc_6zbN-",
+            "source": "",
+            "comment": "Dropee cashout",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        }
+    ]
+}

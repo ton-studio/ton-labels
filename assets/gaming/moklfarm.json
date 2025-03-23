@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "mokl_farm",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/mokl_miner_bot",
+        "description": "",
+        "organization": "mokl_farm"
+    },
+    "addresses": [
+        {
+            "address": "EQCg0RJ7GKhWpkc1pkXDHmbvuLyy6BoS8mv3AYAbtZzTsGKN",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        }
+    ]
+}

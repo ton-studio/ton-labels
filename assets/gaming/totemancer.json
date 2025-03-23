@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "label": "totemancer",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://totemancer.com",
+        "description": "PvP strategy game on TON where players battle for land, collect NFT Totems, and compete in Arena.",
+        "organization": "totemancer"
+    },
+    "addresses": [
+        {
+            "address": "EQDvZL_iplGL72On1ipQdH6Kc6EEcrhCJ0JpNdo669-QnpME",
+            "source": "",
+            "comment": "Totemancer Wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQBfThrlgdINBPdzVi_yLjCioYZqc8XOBYgePglglLmCwmrc",
+            "source": "",
+            "comment": "NFT Collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "totemancer",
+            "submissionTimestamp": "2025-01-31T00:00:01Z"
+        },
+        {
+            "address": "EQDf22jl1U_h0dRBeRImakd33hZ1Lj-ZxmnlZycqhzJjPfxx",
+            "source": "",
+            "comment": "SBT Collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "totemancer",
+            "submissionTimestamp": "2025-01-31T00:00:01Z"
+        }
+    ]
+}

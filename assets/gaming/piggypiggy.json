@@ -1,17 +1,28 @@
-[
-    {
-        "address": "EQANGeTSaKa2G3S3oB3yE0Be44ISWsICirzCbTyxtuv3dQQ4",
-        "label": "PiggyPiggy",
-        "organization": "PiggyPiggy",
+{
+    "metadata": {
+        "label": "piggypiggy",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://t.me/PiggyPiggyofficialbot",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-10T00:00:01Z"
-    }
-]
+        "organization": "piggypiggy"
+    },
+    "addresses": [
+        {
+            "address": "EQANGeTSaKa2G3S3oB3yE0Be44ISWsICirzCbTyxtuv3dQQ4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-10T00:00:01Z"
+        },
+        {
+            "address": "EQCwKFe3p_rgbGWllqChuvCG3SOAXVSxPhhQwgwbW18kMZDf",
+            "source": "",
+            "comment": "wallet_highload_v3r1",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-10T00:00:01Z"
+        }
+    ]
+}

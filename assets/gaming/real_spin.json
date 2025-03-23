@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQCjcDiLiHhpeg0TiAK0dxzTSdgwW5aS1v7be6-mH0C8mlsy",
-        "label": "Real Spin",
-        "organization": "Real Spin",
+{
+    "metadata": {
+        "label": "real_spin",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://t.me/RealSpin_bot",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    }
-]
+        "organization": "real_spin"
+    },
+    "addresses": [
+        {
+            "address": "EQCjcDiLiHhpeg0TiAK0dxzTSdgwW5aS1v7be6-mH0C8mlsy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "label": "fragment",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://fragment.com",
+        "description": "",
+        "organization": "fragment"
+    },
+    "addresses": [
+        {
+            "address": "EQDm89iCT0ax77q5r8aEeTQoxV_tabRqFaSb5popvEnlMLNb",
+            "source": "",
+            "comment": "Sends Telegram channel and bot rewards",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBeab7D38RIwypegbN7YZgQzwDbb8QfMMwY8ouJc3qPl91M",
+            "source": "",
+            "comment": "Telegram Ad account top ups",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCFJEP4WZ_mpdo0_kMEmsTgvrMHG7K_tWY16pQhKHwoOoy2",
+            "source": "",
+            "comment": "Telegram Stars Seller",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBDUShg1UmAzyTVmGijDmeZJ_sTc8EJZNt1AO3N9pCrxPAN",
+            "source": "",
+            "comment": "Sends Telegram channel and bot rewards",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "telegram-ads",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6",
+            "source": "",
+            "comment": "gift-minter.ton",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQBo86B200UaGP1B4FxxtMAgVF1GsnVwZOZYJd7QxJvwLHL0",
+            "source": "",
+            "comment": "TF Gifts royalty address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi",
+            "source": "",
+            "comment": "Telegram Usernames NFT collection",
+            "tags": ["nft"],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-13T00:00:01Z"
+        }
+    ]
+}

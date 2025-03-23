@@ -1,32 +1,28 @@
-[
-    {
-        "address": "EQDt1MFYUXC3Oo-atJWuEm4Q8r8msMPCfA1GbREa4wv6uH1N",
-        "label": "Goats",
-        "organization": "Goats",
+{
+    "metadata": {
+        "label": "goats",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://t.me/realgoats_bot",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-09T00:00:01Z"
+        "organization": "goats"
     },
-    {
-        "address": "EQC2rjojxRMrz3_Zs5snXZxT7zieEJ_1rZ8R86EhbnGIvSlr",
-        "label": "Goats",
-        "organization": "Goats",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-09T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDt1MFYUXC3Oo-atJWuEm4Q8r8msMPCfA1GbREa4wv6uH1N",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        },
+        {
+            "address": "EQC2rjojxRMrz3_Zs5snXZxT7zieEJ_1rZ8R86EhbnGIvSlr",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        }
+    ]
+}

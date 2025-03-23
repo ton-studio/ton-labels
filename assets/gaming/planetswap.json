@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "planetswap",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/planetswap_bot",
+        "description": "",
+        "organization": "tonplanets"
+    },
+    "addresses": [
+        {
+            "address": "EQDOOAtm7D9N2jVq-Cb43riSp9_KsUQ50Y2_N095z5s43kSe",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-03-17T00:00:01Z"
+        },
+        {
+            "address": "EQDA5F6kcoXsdtCBZzYQ8mZNg9Ka7-8w7G5UwynaR11A-84H",
+            "source": "",
+            "comment": "Airdrop-related smart contract",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        }
+    ]
+}

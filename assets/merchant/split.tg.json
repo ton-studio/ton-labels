@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "label": "split.tg",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://split.tg",
+        "description": "",
+        "organization": "split.tg"
+    },
+    "addresses": [
+        {
+            "address": "EQDb4yssUpD8MrveXMvAu3r0S532cGN9QZefUbVUPTjFE6rr",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "no-kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQDjwMetsy4eDE98homCP8VAEXIjfy8YyLwomLXELshvteew",
+            "source": "",
+            "comment": "split.tg fee collection wallet",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "no-kyc",
+                "fee-collector"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBxBqmJdR0v9Wv5NMrKrtuJcmQZaxoQqmCFNswrKp8M6dEp",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "no-kyc",
+                "fee-collector"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-20T00:00:01Z"
+        },
+        {
+            "address": "EQBpfDGrVqNnZUXUTA9EmvaDVAhZzCBgBzPiu4iXmrrvec8T",
+            "source": "",
+            "comment": "Split.tg fee collection",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQDJrB7yke_1sL-Bnwq_9dd4ClpKLCwqjN3hbzJibA4_wsan",
+            "source": "",
+            "comment": "Split.tg smart-contract",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-11T00:00:01Z"
+        },
+        {
+            "address": "EQBS114FhHMAASOdTNjHPWUbIG6sZ9tVFTW2ttUF5tQcd-kx",
+            "source": "",
+            "comment": "Split.tg smart-contract",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-03-13T00:00:01Z"
+        },
+        {
+            "address": "EQA0mhGgQXpPijbcqFU9a2tN_rUdfFxF4Ru1XBnwRaN9gfYM",
+            "source": "",
+            "comment": "Split.tg smart-contract",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-03-13T00:00:01Z"
+        },
+        {
+            "address": "EQCHQL4jLYhPNEq_fwaYbmEM_jDpu48G7yEQef4Ur9LzXUrN",
+            "source": "",
+            "comment": "Split.tg smart-contract",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-03-13T00:00:01Z"
+        }
+    ]
+}

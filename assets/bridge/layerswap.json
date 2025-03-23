@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "layerswap",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://layerswap.io",
+        "description": "",
+        "organization": "layerswap"
+    },
+    "addresses": [
+        {
+            "address": "EQAvirnJ3tWyhjU0At4qRr-Miph3bI_38vgp0h73SHTl3W0E",
+            "source": "",
+            "comment": "Bridge Address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2024-12-26T10:09:26Z"
+        }
+    ]
+}

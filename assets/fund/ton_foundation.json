@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "ton_foundation",
+        "category": "fund",
+        "subcategory": "",
+        "website": "https://ton.org",
+        "description": "",
+        "organization": "ton_foundation"
+    },
+    "addresses": [
+        {
+            "address": "EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N",
+            "source": "tonviewer",
+            "comment": "Ton Foundation (OLD)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-20T00:00:01Z"
+        },
+        {
+            "address": "EQAFmjUoZUqKFEBGYFEMbv-m61sFStgAfUR8J6hJDwUU09iT",
+            "source": "tonviewer",
+            "comment": "Ton Foundation",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-20T00:00:01Z"
+        }
+    ]
+}

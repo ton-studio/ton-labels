@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "clickerfarm",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://clicker.farm",
+        "description": "",
+        "organization": "clickerfarm"
+    },
+    "addresses": [
+        {
+            "address": "EQAojd8QmWQjVZ2eknLjJoTUzeRlCFh-1g9hns4lsP4nxAhh",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-07T00:00:01Z"
+        },
+        {
+            "address": "EQABzr2wMey86xUFbKBKNPfyVd3zVJDnwW-R2ugMkTIv5qds",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-07T00:00:01Z"
+        }
+    ]
+}

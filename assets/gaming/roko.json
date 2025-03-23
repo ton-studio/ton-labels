@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "roko",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TheRokoBot",
+        "description": "",
+        "organization": "roko"
+    },
+    "addresses": [
+        {
+            "address": "EQAXLlAc12LyhG3w1usTvtjFtjk-OxnvXhKQgNsvb-nJRuWK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        }
+    ]
+}

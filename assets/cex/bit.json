@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQAAtAK3ieVibhxhtQxdviAkQm6S8WwML7c1OW35YEa1-hgy",
+{
+    "metadata": {
         "label": "bit",
-        "organization": "bit",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "bit"
+    },
+    "addresses": [
+        {
+            "address": "EQAAtAK3ieVibhxhtQxdviAkQm6S8WwML7c1OW35YEa1-hgy",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

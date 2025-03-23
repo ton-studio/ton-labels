@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "label": "catizen",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/catizenbot",
+        "description": "",
+        "organization": "pluto_studio"
+    },
+    "addresses": [
+        {
+            "address": "EQA6h9qqLom8qF-rTbELp_cm91pSfU3IC0SeBKPndLCJpk58",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBKt3vysOhuL8HZthcA7DJhmJD1VX-4Fz_OOrHLV-kjTVaO",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQChB2eMoFG4ThuEsZ6ehlBPKJXOjNxlR5B7qKZNGIv256Da",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAMl6BVegC0IOZPLhLzWBHCnK4iO4G5eNu4qn_NKQnoISvm",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBj96aEiJlFV4Si16ajonjQRHf_OOb-80WXTOOUTHxd8kDf",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQD7UQWKOHYQt5mqVo9JJO-hh0WxrSsNtMTMkg3nVYNafmRO",
+            "source": "tonviewer",
+            "comment": "Cati donation wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-12T00:00:01Z"
+        }
+    ]
+}

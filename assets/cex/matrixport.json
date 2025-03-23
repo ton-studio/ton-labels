@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQAA_6-p-z1Pg3gkQ20ZlTx5K-ZjKvc6m4LE3GnKBxlQh-Jl",
+{
+    "metadata": {
         "label": "matrixport",
-        "organization": "matrixport",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "https://matrixport.com",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "matrixport"
+    },
+    "addresses": [
+        {
+            "address": "EQAA_6-p-z1Pg3gkQ20ZlTx5K-ZjKvc6m4LE3GnKBxlQh-Jl",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

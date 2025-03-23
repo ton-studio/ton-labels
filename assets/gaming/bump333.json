@@ -1,49 +1,38 @@
-[
-    {
-        "address": "EQA1ncIYvWqZ8Lba4diqFqbZ5hY0OL2QnkE3tIULrmFnEOEz",
-        "label": "Bump333",
-        "organization": "Bump333",
+{
+    "metadata": {
+        "label": "bump333",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "organization": "bump333"
     },
-    {
-        "address": "EQCLwr7h47bF7J7IjBamKRWhCdBKq6IQLZs_rrqHAK52qtTa",
-        "label": "Bump333",
-        "organization": "Bump333",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS",
-        "label": "Bump333",
-        "organization": "Bump333",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "NFT collection",
-        "proof": "",
-        "tags": [
-            "nft"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQA1ncIYvWqZ8Lba4diqFqbZ5hY0OL2QnkE3tIULrmFnEOEz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCLwr7h47bF7J7IjBamKRWhCdBKq6IQLZs_rrqHAK52qtTa",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQCwF7-OQiHBxKePiBFOAWwzHDTFHkJR9likOqTYFQc08OmS",
+            "source": "",
+            "comment": "NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

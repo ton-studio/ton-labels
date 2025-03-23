@@ -1,47 +1,36 @@
-[
-    {
-        "address": "EQBi5X1kwa27gqKn2MztaEZz7Zkhvb_WlSif-CnIiUjwuLEG",
-        "label": "Holdcoin",
-        "organization": "Holdcoin",
+{
+    "metadata": {
+        "label": "holdcoin",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://t.me/theHoldCoinBot",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
+        "organization": "holdcoin"
     },
-    {
-        "address": "EQApmS4FkKBGTYH6VMYrbvizkKBPRyNujNZY_Cnep5rdC7bD",
-        "label": "Holdcoin",
-        "organization": "Holdcoin",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    },
-    {
-        "address": "EQAmJw0arDVWVcdPx7pv7CL2QakLlipVZy1mk2F3oTCRBCFG",
-        "label": "Holdcoin",
-        "organization": "Holdcoin",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQBi5X1kwa27gqKn2MztaEZz7Zkhvb_WlSif-CnIiUjwuLEG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQApmS4FkKBGTYH6VMYrbvizkKBPRyNujNZY_Cnep5rdC7bD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAmJw0arDVWVcdPx7pv7CL2QakLlipVZy1mk2F3oTCRBCFG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

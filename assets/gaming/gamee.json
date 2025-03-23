@@ -1,17 +1,20 @@
-[
-    {
-        "address": "EQBVxA9MkwWmfq46bv9-ikOQHXgelaFTvIo9gtR9ZLn0VoeS",
-        "label": "Gamee",
-        "organization": "Gamee",
+{
+    "metadata": {
+        "label": "gamee",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://t.me/gamee",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-09T00:00:01Z"
-    }
-]
+        "organization": "gamee"
+    },
+    "addresses": [
+        {
+            "address": "EQBVxA9MkwWmfq46bv9-ikOQHXgelaFTvIo9gtR9ZLn0VoeS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-09T00:00:01Z"
+        }
+    ]
+}

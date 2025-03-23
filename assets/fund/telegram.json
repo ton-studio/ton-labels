@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "telegram",
+        "category": "fund",
+        "subcategory": "",
+        "website": "https://telegram.org",
+        "description": "",
+        "organization": "telegram"
+    },
+    "addresses": [
+        {
+            "address": "EQCMOXxD-f8LSWWbXQowKxqTr3zMY-X1wMTyWp3B-LR6s3Va",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQAuz15H1ZHrZ_psVrAra7HealMIVeFq0wguqlmFno1f3EJj",
+            "source": "tonviewer",
+            "comment": "Telegram Team",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        }
+    ]
+}

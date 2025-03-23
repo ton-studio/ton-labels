@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "teabank",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/tea_bank_bot",
+        "description": "",
+        "organization": "teabank"
+    },
+    "addresses": [
+        {
+            "address": "EQDIe44-vwvjAh4hyubSPPN9mjfWNr9wI9oN1qOCDNMvC9SB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-17T00:00:01Z"
+        }
+    ]
+}

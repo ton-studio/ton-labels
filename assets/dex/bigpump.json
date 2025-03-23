@@ -1,20 +1,44 @@
-[
-    {
-        "address": "EQA929R1kwnYnKXl07XP8wcccML0nNJ-qW0BtfAJQmSulein",
+{
+    "metadata": {
         "label": "bigpump",
-        "organization": "bigpump",
         "category": "DEX",
         "subcategory": "launchpad",
-        "image": "",
-        "source": "",
-        "description": "Ton.Fun referral address",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi",
-            "referral-address"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+        "website": "https://t.me/pocketfi_bot/bigpump",
+        "description": "",
+        "organization": "pocketfi"
+    },
+    "addresses": [
+        {
+            "address": "EQA929R1kwnYnKXl07XP8wcccML0nNJ-qW0BtfAJQmSulein",
+            "source": "",
+            "comment": "Ton.Fun referral address",
+            "tags": [
+                "defi",
+                "referral-address"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCuQbRcxns-XPjNNz-_dEG0VIZumAmjE6LlRFv_uPUGuClz",
+            "source": "",
+            "comment": "ston.fi referral address",
+            "tags": [
+                "defi",
+                "referral-address"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQCrjJchSnVyvjOGi_n5BnW_aVqV2XNwyN5Iji62jf9gq7k7",
+            "source": "https://t.me/pocketfi/265",
+            "comment": "Trading Contest S1 rewards sender",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-12T00:00:01Z"
+        }
+    ]
+}

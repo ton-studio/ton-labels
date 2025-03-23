@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "ton_ecosystem_reserve",
+        "category": "fund",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "ton_ecosystem_reserve"
+    },
+    "addresses": [
+        {
+            "address": "EQAhE3sLxHZpsyZ_HecMuwzvXHKLjYx4kEUehhOy2JmCcHCT",
+            "source": "tonviewer",
+            "comment": "Ton Ecosystem Reserve (OLD)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQBmzW4wYlFW0tiBgj5sP1CgSlLdYs-VpjPWM7oPYPYWQEdT",
+            "source": "",
+            "comment": "Ton Ecosystem Reserve (OLD) sent here all funds",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-04T00:00:01Z"
+        }
+    ]
+}

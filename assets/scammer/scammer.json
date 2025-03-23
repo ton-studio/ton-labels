@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "label": "scammer",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "EQAjY9I3UKBqxUTM1sB4YSKpqI0kRagNKOBCMFJfkFwygC2N",
+            "source": "tonkeeper ton-assets",
+            "comment": "Scammer",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-22T00:00:00Z"
+        },
+        {
+            "address": "EQBXeL0tDxSn9ofqrnfSRJDUc4GR1Jj13rG8DdEyziOk7sxi",
+            "source": "",
+            "comment": "mimic for legit CEX addresses with first and last symbols of their address",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:00Z"
+        },
+        {
+            "address": "EQDDrEvFBbZEz7Tg_aQfI4lE9dTyqbY-BQaMShBfTkjcfPQb",
+            "source": "",
+            "comment": "mimic for legit CEX addresses with first and last symbols of their address",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:00Z"
+        },
+        {
+            "address": "EQD5E0DWKAP3haSXr071771hyFbdCcsSo9Kz50v0ekQyWnOZ",
+            "source": "",
+            "comment": "mimic for legit CEX addresses with first and last symbols of their address",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:00Z"
+        },
+        {
+            "address": "EQArgvRqn3f0CSRg3yREnyfuXpIFG2xb3iE5iaPbfPVuy40A",
+            "source": "",
+            "comment": "mimic for legit CEX addresses with first and last symbols of their address",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-28T00:00:00Z"
+        },
+        {
+            "address": "EQD9FHnDxAOWM-8JEODWbHeW0XEPXDs3WpyEpja2ofJfqfsO",
+            "source": "",
+            "comment": "mimic for $PAWS token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-13T00:00:00Z"
+        },
+        {
+            "address": "EQAIzTnzG-9SKoxtzNXEsbWZpBzixESsZ1UoqYj84btC-io9",
+            "source": "",
+            "comment": "mimic for $PAWS, $TON and $USDT tokens",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-03-15T00:00:00Z"
+        },
+        {
+            "address": "EQC1mgYAUhDEP6iUk6QDnESKTDx5pveqvQ6iu5w8JQ4ZTmr1",
+            "source": "",
+            "comment": "mimic for $PAWS token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-18T00:00:00Z"
+        },
+        {
+            "address": "EQDtJi4jzmmnj9q7oBmgounQZd_iTOMoOOm6wRiR0fSX03IV",
+            "source": "tonviewer",
+            "comment": "Mass spam sender Reward 99TON my_tonkeeper.t.me",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-19T00:00:00Z"
+        }
+    ]
+}

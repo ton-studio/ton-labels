@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQC1jHNIHyWigPlwWrNCS-hQYU2CMlYmPs-gSfqfuRdyDSWM",
+{
+    "metadata": {
         "label": "qmall",
-        "organization": "qmall",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "https://qmall.io",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "qmall"
+    },
+    "addresses": [
+        {
+            "address": "EQC1jHNIHyWigPlwWrNCS-hQYU2CMlYmPs-gSfqfuRdyDSWM",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

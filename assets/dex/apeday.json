@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "apeday",
+        "category": "DEX",
+        "subcategory": "launchpad",
+        "website": "https://t.me/apeday_bot",
+        "description": "",
+        "organization": "apeday"
+    },
+    "addresses": [
+        {
+            "address": "EQBgUbOnsUOmsRyT84KqRcuvjgnQ_-n49BydnAODaXEM-fJo",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-10T00:00:01Z"
+        },
+        {
+            "address": "EQB9dkebVeE-_jeof3lZVtC3jgNJAGCjXo0U8wpQfHLLJVO9",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-17T00:00:01Z"
+        }
+    ]
+}

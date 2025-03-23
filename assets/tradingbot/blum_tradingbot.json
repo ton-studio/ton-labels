@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "blum_tradingbot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/BlumCryptoTradingBot",
+        "description": "",
+        "organization": "blum"
+    },
+    "addresses": [
+        {
+            "address": "EQBXtrRCebygdzPkdDIwmoj5vlcXwh2oRxt_u0K6YUxvEG6x",
+            "source": "",
+            "comment": "Fee Collection",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

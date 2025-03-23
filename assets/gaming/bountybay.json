@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "bountybay",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/bountybay_bot",
+        "description": "",
+        "organization": "bountybay"
+    },
+    "addresses": [
+        {
+            "address": "EQAjeK7jdhIida6L78_KpOTL4HlY8zOcuqasWkaem1Nv4t1-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQAzIUFN8MJ3cGQiKBqHr-COHAz0D7fNnCD2kHneJxmK9gPd",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

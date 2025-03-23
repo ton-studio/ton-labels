@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitgame",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://bitgameonline.com",
+        "description": "@BitGame_Online_bot",
+        "organization": "bitgame"
+    },
+    "addresses": [
+        {
+            "address": "EQAL1pHgTW35zZowScdqeydMy76mo5grRfzBV3zefOceYaHY",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-17T00:00:01Z"
+        }
+    ]
+}

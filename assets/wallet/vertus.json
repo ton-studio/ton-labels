@@ -1,62 +1,44 @@
-[
-    {
-        "address": "EQD2XT3zfp0vx4CFPJf8MIJXuGtDg9SyJIGxEWaVoF-V9DEF",
-        "label": "Vertus",
-        "organization": "Vertus",
+{
+    "metadata": {
+        "label": "vertus",
         "category": "wallet",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://t.me/Vertus_App_bot",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
+        "organization": "vertus"
     },
-    {
-        "address": "EQARZxhi1bUv_hwYWxp_hPVZbKiAaAJKvSlK_y9q18JtIQqp",
-        "label": "Vertus",
-        "organization": "Vertus",
-        "category": "wallet",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    },
-    {
-        "address": "EQBFEU1Yh0wuRFrkHTKq7df3oX6wH_8T0WEAzmN81Jyqdub6",
-        "label": "Vertus",
-        "organization": "Vertus",
-        "category": "wallet",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-13T00:00:01Z"
-    },
-    {
-        "address": "EQDDZubHqlZ4Pn1pbJWPQE3Lsef8PD9SV0CIQeFmn9UTsBB8",
-        "label": "Vertus",
-        "organization": "Vertus",
-        "category": "wallet",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "shuva10v",
-        "submissionTimestamp": "2025-01-14T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQD2XT3zfp0vx4CFPJf8MIJXuGtDg9SyJIGxEWaVoF-V9DEF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQARZxhi1bUv_hwYWxp_hPVZbKiAaAJKvSlK_y9q18JtIQqp",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQBFEU1Yh0wuRFrkHTKq7df3oX6wH_8T0WEAzmN81Jyqdub6",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-13T00:00:01Z"
+        },
+        {
+            "address": "EQDDZubHqlZ4Pn1pbJWPQE3Lsef8PD9SV0CIQeFmn9UTsBB8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-01-14T00:00:01Z"
+        }
+    ]
+}

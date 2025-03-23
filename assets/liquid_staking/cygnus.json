@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "cygnus",
+        "category": "liquid-staking",
+        "subcategory": "",
+        "website": "https://cygnus.finance",
+        "description": "",
+        "organization": "cygnus"
+    },
+    "addresses": [
+        {
+            "address": "EQBbOIDG8oVPIppH_qtM6IW0TITyStosS20fsdVYFWfymia5",
+            "source": "",
+            "comment": "Cygnus Withdrawal NFT Collection(clTON)",
+            "tags": [
+                "defi",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        },
+        {
+            "address": "EQBG8c1dLBa9e8PmVIEQxGleLjGT2NFHFuDDTL0STh5w9y2M",
+            "source": "",
+            "comment": "Cygnus Withdrawal NFT Collection",
+            "tags": [
+                "defi",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        },
+        {
+            "address": "EQDqvRLVviLlKsi0KObiRQmOkW8uI8NaPYRBA-fr1Z2Ipgwk",
+            "source": "",
+            "comment": "NFT collection deployer",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T07:07:33Z"
+        }
+    ]
+}

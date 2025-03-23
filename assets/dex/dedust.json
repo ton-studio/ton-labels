@@ -1,36 +1,155 @@
-[
-    {
-        "address": "EQDa4VOnTYlLvDJ0gZjNYm5PXfSmmtL6Vs6A_CZEtXCNICq_",
+{
+    "metadata": {
         "label": "dedust",
-        "organization": "dedust",
         "category": "DEX",
         "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "DeDust Vault",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "website": "https://dedust.io",
+        "description": "",
+        "organization": "dedust"
     },
-    {
-        "address": "EQAYqo4u7VF0fa4DPAebk4g9lBytj2VFny7pzXR0trjtXQaO",
-        "label": "dedust",
-        "organization": "dedust",
-        "category": "DEX",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "DeDust Vault",
-        "comment": "",
-        "proof": "",
-        "tags": [
-            "defi"
-        ],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDa4VOnTYlLvDJ0gZjNYm5PXfSmmtL6Vs6A_CZEtXCNICq_",
+            "source": "",
+            "comment": "DeDust Vault, TON",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAYqo4u7VF0fa4DPAebk4g9lBytj2VFny7pzXR0trjtXQaO",
+            "source": "",
+            "comment": "DeDust Vault, USDT",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQA11HErC5dJpSHVa9Sk5xGLRCn1It6t-XbsuNjsxMW1qCxS",
+            "source": "",
+            "comment": "DeDust Vault, TELEMON",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBmcjRa8-KweRMrcmyf0KTnlirhaE4RRNYYdEY_XZiIlmg9",
+            "source": "",
+            "comment": "DeDust Vault, Kat Knight",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-21T00:00:01Z"
+        },
+        {
+            "address": "EQDZ4yPwODeNi22_Qjqx9HKkM5SvBX4qHBT0l19VPqBuzm0u",
+            "source": "",
+            "comment": "DeDust Vault, $NotPixel",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-27T00:00:01Z"
+        },
+        {
+            "address": "EQAyVjuooCisEgYSIihrrIvMVDLESv4KWw3x3mB2V2xRS3gx",
+            "source": "",
+            "comment": "DeDust Vault, $SEED",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-27T00:00:01Z"
+        },
+        {
+            "address": "EQA7_udkPzrx4FwrrEwlZ9jk5OrQBMJZO1MOGxHJxJGsIaLZ",
+            "source": "",
+            "comment": "DeDust Vault, $FISH",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-27T00:00:01Z"
+        },
+        {
+            "address": "EQCXLa2eZNFnvlGx-cpCywps7AcUoowkqCqDS9aNErm_Y3di",
+            "source": "",
+            "comment": "DeDust Vault, $tsTON",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-14T00:00:01Z"
+        },
+        {
+            "address": "EQCjymacnemdUJjV1CbWAzVpxfAyuGCsT8hAN5AVHLnm1lt-",
+            "source": "",
+            "comment": "DeDust Vault, $ALEN",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQACpR7Dc3393EVHkZ-7pg7zZMB5j7DAh2NNteRzK2wPGqk1",
+            "source": "",
+            "comment": "DeDust Vault, $stTON",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQAf4BMoiqPf0U2ADoNiEatTemiw3UXkt5H90aQpeSKC2l7f",
+            "source": "",
+            "comment": "DeDust Vault, $DUST",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQAJxbmwhwJw-FomFlt1RYukdeTltiCmWlsurQsQMRJhZfdB",
+            "source": "",
+            "comment": "DeDust Vault, $NOT",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQBNZB91JJX9Ub7KMEAUoQNVcQlCsob5e_WMFbvsML_UoAKD",
+            "source": "",
+            "comment": "$DUST staking",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        }
+    ]
+}

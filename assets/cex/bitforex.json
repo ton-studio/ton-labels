@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQAsVHlzGYN7TG0BT8mRwajUKU39TWzsSTfjcPHyfbBCPyRS",
+{
+    "metadata": {
         "label": "bitforex",
-        "organization": "bitforex",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "https://bitforex.com",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "bitforex"
+    },
+    "addresses": [
+        {
+            "address": "EQAsVHlzGYN7TG0BT8mRwajUKU39TWzsSTfjcPHyfbBCPyRS",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

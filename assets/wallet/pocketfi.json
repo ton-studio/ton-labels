@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "label": "pocketfi",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://pocketfi.org",
+        "description": "",
+        "organization": "pocketfi"
+    },
+    "addresses": [
+        {
+            "address": "EQDvZfu4mCGIyfVMhU1Cj80XHI4Bk6FgNtul6Qfd6WujE-_F",
+            "source": "",
+            "comment": "$SWITCH autoclaim payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-06T00:00:01Z"
+        },
+        {
+            "address": "EQAlnVhiE1OFAe-KpEA0SXZwEQkGyNno9k10L6YIXjNLCyxL",
+            "source": "",
+            "comment": "SBT claim for $SWITCH stacking",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-26T00:00:01Z"
+        },
+        {
+            "address": "EQDO4g3oGqQCA0vTxDVvvhCBW2ajIIX5fsPLVPRiAHcX12w0",
+            "source": "",
+            "comment": "SBT NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-26T00:00:01Z"
+        },
+        {
+            "address": "EQB57vGDhw_BKJDWpCZ5WwaYVue0vvgoF1qw_F-ibve9JETZ",
+            "source": "",
+            "comment": "Proof of Humanity task",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-03-12T00:00:01Z"
+        },
+        {
+            "address": "EQDI0nPAMnsc88w78djz9y5NwpTa2xT5juVwiw3ySsBHQnca",
+            "source": "",
+            "comment": "$SWITCH autoclaim payments",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-18T00:00:01Z"
+        }
+    ]
+}

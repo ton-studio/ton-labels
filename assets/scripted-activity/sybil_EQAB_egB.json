@@ -1,0 +1,28 @@
+{
+	"metadata": {
+			"label": "sybil_EQAB_egB",
+			"category": "scripted-activity",
+			"subcategory": "sybil",
+			"website": "https://github.com/ton-studio/ton-labels/pull/156",
+			"description": "Farmer receiver account",
+			"organization": "sybil_EQAB_egB"
+	},
+	"addresses": [
+			{
+					"address": "EQAB_egBSB24osZgUW9WEyMhwvmcyOdc8UtWnCL-yDhcnhkB",
+					"source": "tonviewer",
+					"comment": "Farm Kitty Mint receiver",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-15T00:00:00Z"
+			},
+			{
+				"address": "EQAfhaqOy7hOPPD7j0rxq1roFLIrJXYv4GtBxEmDdU0p5F6t",
+				"source": "tonviewer",
+				"comment": "accumulate DUCK and cashout to OKX-10",
+				"tags": [],
+				"submittedBy": "rAndom1ze",
+				"submissionTimestamp": "2025-03-15T00:00:00Z"
+		}
+	]
+}

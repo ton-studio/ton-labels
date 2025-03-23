@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQDnqO7ifCVhlNX2zJYnL23AmV-DaTk63flIO6PsCrd4hu5l",
+{
+    "metadata": {
         "label": "bitfree",
-        "organization": "bitfree",
         "category": "CEX",
-        "image": "",
-        "source": "",
+        "subcategory": "",
+        "website": "https://bitfree.us",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+        "organization": "bitfree"
+    },
+    "addresses": [
+        {
+            "address": "EQDnqO7ifCVhlNX2zJYnL23AmV-DaTk63flIO6PsCrd4hu5l",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

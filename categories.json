@@ -12,8 +12,8 @@
         "description": "User wallet involded in a scam"
     },
     {
-        "name": "celebrity",
-        "description": "Wallet owned by a celebrity"
+        "name": "person",
+        "description": "Wallet owned by a notable person"
     },
     {
         "name": "merchant",
@@ -46,5 +46,17 @@
     {
         "name": "infrastructure",
         "description": "TON Blockchain infrastructure contracts"
+    },
+    {
+        "name": "liquid-staking",
+        "description": "Liquid Stacking DeFi protocols"
+    },
+    {
+        "name": "fund",
+        "description": "Funds' assets on TON Blockchain"
+    },
+    {
+        "name": "scripted-activity",
+        "description": "Addresses that aggregate funds or coordinate actions involving automated onchain entities such as sybils, botnets, or scripted services"
     }
 ]

@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "layerzero",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://layerzero.network",
+        "description": "",
+        "organization": "layerzero"
+    },
+    "addresses": [
+        {
+            "address": "EQAXByU5SqVhNvvSfQzjHYqY4PiucqTSN5td3oPiEaLV-p0-",
+            "source": "",
+            "comment": "USDT0 Bridge Contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-19T00:03:33Z"
+        },
+        {
+            "address": "EQCto6_8sNjkUVCs7cDLacfWf16VMUgGQqcBkoN08V2rjtCY",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQAVBkV0biW-VIbrOy9dmLRMazJGl8SNSV0Fn5b8nT7DaMIn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQDU2YxufFcI8yqMDhx_sFi7jyt8oU2wXPx-oOewbWpRVviu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        }
+    ]
+}

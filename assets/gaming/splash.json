@@ -1,0 +1,36 @@
+{
+	"metadata": {
+			"label": "splash",
+			"category": "gaming",
+			"subcategory": "",
+			"website": "https://t.me/splashapp_bot",
+			"description": "Dive in & build SPLASH: the next Telegram Mini-App to earn, mint & trade tokens.",
+			"organization": "splash"
+	},
+	"addresses": [
+			{
+					"address": "EQAMWhvuDJFVL9bunLWnlcsfnFL4ezXD_TMEYZLnbyfnKF9S",
+					"source": "tonviewer",
+					"comment": "Splash airdrop sender wallet",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-13T00:00:01Z"
+			},
+			{
+					"address": "EQDb18NwFRW6FUJkrzfizf4vmgqddEmSfA178Q1xflSPDpT3",
+					"source": "tonviewer",
+					"comment": "Splash fee collector wallet",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-13T00:00:01Z"
+			},
+			{
+				"address": "EQCEA0bxUzklmmxhKt-c7qZw7-K2N-Xw8fCsUVZ8zt4zCbEg",
+				"source": "",
+				"comment": "Splash airdrop through tbook integration",
+				"tags": [],
+				"submittedBy": "Caranell",
+				"submissionTimestamp": "2025-03-15T00:00:01Z"
+			}
+	]
+}

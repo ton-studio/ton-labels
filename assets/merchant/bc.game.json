@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bc.game",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://bc.game",
+        "description": "",
+        "organization": "bc.game"
+    },
+    "addresses": [
+        {
+            "address": "EQA-B8bcDEegRwp_cIrrWrFjHxCGScn69h7XWPgkoXGSIj3Q",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

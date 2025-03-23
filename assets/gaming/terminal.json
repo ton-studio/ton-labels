@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "terminal",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/terminalgame_bot",
+        "description": "",
+        "organization": "terminal"
+    },
+    "addresses": [
+        {
+            "address": "EQCxbsS8Zi1_Ypbfz8J8tARbUY7AlIHotW8uV6Ik-PrIMs0T",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-24T00:00:01Z"
+        }
+    ]
+}

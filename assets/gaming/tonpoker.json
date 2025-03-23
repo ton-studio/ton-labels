@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "tonpoker",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/tonpoker",
+        "description": "",
+        "organization": "tonpoker"
+    },
+    "addresses": [
+        {
+            "address": "EQB1QBhyiY76wtIDTaV3pFtl8jE_aCrlGeDDTRbz2LaNjWYC",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-20T00:00:01Z"
+        },
+        {
+            "address": "EQA_E56TdEqPTlI85DI8iEQ2rygUwsFbQO7NpTeUcLxipde3",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-21T00:00:01Z"
+        },
+        {
+            "address": "EQBkh0S7_G_hJ90FweKZqjIglaHodhdba2_zMpck9JrHXLWY",
+            "source": "",
+            "comment": "Fee distributor",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-21T00:00:01Z"
+        },
+        {
+            "address": "EQAnn9jfCwWO0rjofDRV8tFAYotVlFNW2JvGVx6pSU3zylrl",
+            "source": "",
+            "comment": "Withdrawal address",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-21T00:00:01Z"
+        }
+    ]
+}

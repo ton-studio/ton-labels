@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "coffin",
+        "category": "lending",
+        "subcategory": "",
+        "website": "https://coffin.meme",
+        "description": "",
+        "organization": "coffin"
+    },
+    "addresses": [
+        {
+            "address": "EQBozwKVDya9IL3Kw4mR5AQph4yo15EuMdyX8nLljeaUxrpM",
+            "source": "",
+            "comment": "Coffin Pool",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-22T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "miomi_game",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://miomi.game",
+        "description": "",
+        "organization": "miomi_game"
+    },
+    "addresses": [
+        {
+            "address": "EQDBo1MlHK4xYWaujVm5uCMs6c6BL95rnVu_uhA3D7oTWeP-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQDEEiuMvMQpgYTGnvKyh44Mf4F454-4IirI8lt0NMoa959B",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQAlliZpPIn4em-4u86KrwcgSbvaNfhfGY-XJPIjfL7bxsCI",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        }
+    ]
+}

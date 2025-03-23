@@ -3,3 +3,4 @@ loguru
 gitpython
 pytoniq_core
 dune-client
+pydantic

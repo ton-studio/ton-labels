@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBBuP",
+{
+    "metadata": {
         "label": "bitfinex",
-        "organization": "bitfinex",
         "category": "CEX",
-        "image": "",
-        "source": "https://tonalytica.redoubt.online/queries/776/source",
+        "subcategory": "",
+        "website": "https://bitfinex.com",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-11-25T19:52:44Z"
-    }
-]
+        "organization": "bitfinex"
+    },
+    "addresses": [
+        {
+            "address": "EQBqWnahU4z5WWWQ7DcIRwZJw0JiS_kuY6anoVJU7e2pBBuP",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-11-25T19:52:44Z"
+        }
+    ]
+}

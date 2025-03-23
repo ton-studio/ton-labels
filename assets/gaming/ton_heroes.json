@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "ton_heroes",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "",
+        "description": "",
+        "organization": "ton_heroes"
+    },
+    "addresses": [
+        {
+            "address": "EQBmyetxfPY9DGz42efWqwVn43VqDfBQdlahmXASh1c4e0ZL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQDkIEcj6h6ZH7vhSk9AFVBX0n6vvwwxmYM5NvbzOxtMbXzM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}

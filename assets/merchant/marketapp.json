@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "label": "marketapp",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://marketapp.ws",
+        "description": "TON NFT Marketplace aggregates all including non-standard deals",
+        "organization": "marketapp"
+    },
+    "addresses": [
+        {
+            "address": "EQCanLgK370WYvUQh2bXM1WsLAMwT9odJaR5Zw40781ysx2O",
+            "source": "",
+            "comment": "TON NFT Marketplace",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "no-kyc",
+                "fee-collector"
+            ],
+            "submittedBy": "crazyministr",
+            "submissionTimestamp": "2025-01-29T00:00:00Z"
+        },
+        {
+            "address": "EQD00MRluiQ3Jv0opej5S2bU6zrVHZCClZi_EmfYxgrCFj01",
+            "source": "",
+            "comment": "Telegram Stars Seller",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "no-kyc",
+                "fee-collector"
+            ],
+            "submittedBy": "crazyministr",
+            "submissionTimestamp": "2025-01-29T00:00:00Z"
+        },
+        {
+            "address": "EQBCgLjWjbpp7Dgd86J0zqxR8NUWbDPr_TKxgbRjbKS65m8V",
+            "source": "",
+            "comment": "TON NFT Deployer",
+            "tags": [],
+            "submittedBy": "crazyministr",
+            "submissionTimestamp": "2025-01-29T00:00:00Z"
+        },
+        {
+            "address": "EQBTGRpXgB3iQq74pHNcnKzFU_S4j4WGnubOiYYLU5JFOHwU",
+            "source": "",
+            "comment": "TON NFT Deployer",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-15T00:00:00Z"
+        }
+    ]
+}

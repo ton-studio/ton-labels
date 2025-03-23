@@ -1,0 +1,20 @@
+{
+	"metadata": {
+		"label": "sybil_EQDByRqo",
+		"category": "scripted-activity",
+		"subcategory": "sybil",
+		"website": "https://github.com/ton-studio/ton-labels/pull/129",
+		"description": "Farmer receiver account",
+		"organization": "sybil_EQDByRqo"
+	},
+	"addresses": [
+			{
+					"address": "EQDByRqofegOMMF-6pIDu53ZEJ-SCUCyNYoawP0i8sQq2BRs",
+					"source": "tonviewer",
+					"comment": "Farm2 Paws sender",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-15T00:00:00Z"
+			}
+	]
+}

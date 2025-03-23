@@ -1,107 +1,28 @@
-[
-    {
-        "address": "EQDmIu577a3vgbYMjVHAL4dwhfPGn_cXVxlCHf-A2sChZzE5",
-        "label": "Pluto Studio",
-        "organization": "Pluto Studio",
+{
+    "metadata": {
+        "label": "pluto_studio",
         "category": "gaming",
         "subcategory": "",
-        "image": "",
-        "source": "",
+        "website": "https://www.pluto.vision",
         "description": "",
-        "comment": "Collecting Telegram Stars payments",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
+        "organization": "pluto_studio"
     },
-    {
-        "address": "EQArHXqyZc-oG6XOXlH3OA2ZknD8O8tvkp8T2jau8l3Zb3_o",
-        "label": "Pluto Studio",
-        "organization": "Pluto Studio",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "Collecting Telegram Stars payments",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQA6h9qqLom8qF-rTbELp_cm91pSfU3IC0SeBKPndLCJpk58",
-        "label": "Catizen",
-        "organization": "Pluto Studio",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQBKt3vysOhuL8HZthcA7DJhmJD1VX-4Fz_OOrHLV-kjTVaO",
-        "label": "Catizen",
-        "organization": "Pluto Studio",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQChB2eMoFG4ThuEsZ6ehlBPKJXOjNxlR5B7qKZNGIv256Da",
-        "label": "Catizen",
-        "organization": "Pluto Studio",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQAMl6BVegC0IOZPLhLzWBHCnK4iO4G5eNu4qn_NKQnoISvm",
-        "label": "Catizen",
-        "organization": "Pluto Studio",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    },
-    {
-        "address": "EQBj96aEiJlFV4Si16ajonjQRHf_OOb-80WXTOOUTHxd8kDf",
-        "label": "Catizen",
-        "organization": "Pluto Studio",
-        "category": "gaming",
-        "subcategory": "",
-        "image": "",
-        "source": "",
-        "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ohld",
-        "submissionTimestamp": "2025-01-01T00:00:01Z"
-    }
-]
+    "addresses": [
+        {
+            "address": "EQDmIu577a3vgbYMjVHAL4dwhfPGn_cXVxlCHf-A2sChZzE5",
+            "source": "",
+            "comment": "Collecting Telegram Stars payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQArHXqyZc-oG6XOXlH3OA2ZknD8O8tvkp8T2jau8l3Zb3_o",
+            "source": "",
+            "comment": "Collecting Telegram Stars payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}

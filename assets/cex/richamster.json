@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQBg3vN_sOb0GxinPCSW2WslRCNEhkyg7ZcYmm834kOcVomh",
+{
+    "metadata": {
         "label": "richamster",
-        "organization": "richamster",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "https://richamster.com",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "richamster"
+    },
+    "addresses": [
+        {
+            "address": "EQBg3vN_sOb0GxinPCSW2WslRCNEhkyg7ZcYmm834kOcVomh",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

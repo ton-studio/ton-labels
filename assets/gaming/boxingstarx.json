@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "boxingstarx",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://delabs.gg",
+        "description": "",
+        "organization": "delabs"
+    },
+    "addresses": [
+        {
+            "address": "EQBlNFv7dR7L1nuEM00zfvpMFrfocaZjVUKuWzY3UEvNgffy",
+            "source": "",
+            "comment": "claim contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQBFNQ_zszJ21cr4pVOpVn0F77SQQsZFIaHbl3lsRF3MzAbS",
+            "source": "",
+            "comment": "claim contract",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        }
+    ]
+}

@@ -1,16 +1,28 @@
-[
-    {
-        "address": "EQD5hzUJ3lovl_eygF9feq-rRH9DyR51HMjvq8bS6gnXimGv",
+{
+    "metadata": {
         "label": "bingx",
-        "organization": "bingx",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "https://bingx.com",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "bingx"
+    },
+    "addresses": [
+        {
+            "address": "EQD5hzUJ3lovl_eygF9feq-rRH9DyR51HMjvq8bS6gnXimGv",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQCGZhko0amk3vYUGxrVvyyEbgmkmQH2eTnOInVbJlvam2lT",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-18T00:00:00Z"
+        }
+    ]
+}

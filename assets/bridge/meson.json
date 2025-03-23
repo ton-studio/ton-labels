@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "meson",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://meson.fi",
+        "description": "",
+        "organization": "meson"
+    },
+    "addresses": [
+        {
+            "address": "EQCv69g-mVazOgqT7WV7GOaaURXx4WGpOaCIysB2znemNKyg",
+            "source": "https://meson.fi/scripts/config",
+            "comment": "Bridge Address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-03-10T00:00:00Z"
+        }
+    ]
+}

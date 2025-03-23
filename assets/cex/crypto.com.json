@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-Zdg",
+{
+    "metadata": {
         "label": "crypto.com",
-        "organization": "crypto.com",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "https://crypto.com",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "crypto.com"
+    },
+    "addresses": [
+        {
+            "address": "EQBAL11PT4vqewvVEbnTdxg0waIru7yKMmA16weqJPXJ-Zdg",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "tonalytics",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://tonalytics.top",
+        "description": "Portfolio tracker",
+        "organization": "tonalytics"
+    },
+    "addresses": [
+        {
+            "address": "EQDzbgNWF1CRTI8bSbGYyEtK9io4b2rCIjH_0H75Zk9DDgsv",
+            "source": "",
+            "comment": "Claim $TNL, treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-25T00:00:01Z"
+        },
+        {
+            "address": "EQB_yAqnLgkFB-yalOxADV7GGm8jirshP0hPZyo-28S-pQFz",
+            "source": "",
+            "comment": "$TNL token jetton master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-02-25T00:00:01Z"
+        }
+    ]
+}

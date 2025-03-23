@@ -1,16 +1,20 @@
-[
-    {
-        "address": "EQDdUoUFrxXG5SBr3Y9smjtUH4DKmK6KUGarP_jeH_XmeJAP",
+{
+    "metadata": {
         "label": "farhad",
-        "organization": "farhad",
         "category": "CEX",
-        "image": "",
-        "source": "datalake-test.cex_labels_20241116",
+        "subcategory": "",
+        "website": "https://efex.pro",
         "description": "",
-        "comment": "",
-        "proof": "",
-        "tags": [],
-        "submittedBy": "ziga",
-        "submissionTimestamp": "2024-12-12T10:09:26Z"
-    }
-]
+        "organization": "farhad"
+    },
+    "addresses": [
+        {
+            "address": "EQDdUoUFrxXG5SBr3Y9smjtUH4DKmK6KUGarP_jeH_XmeJAP",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        }
+    ]
+}

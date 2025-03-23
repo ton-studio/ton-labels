@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "tonco",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://tonco.io",
+        "description": "",
+        "organization": "tonco"
+    },
+    "addresses": [
+        {
+            "address": "EQC_-t0nCnOFMdp7E7qPxAOCbCWGFz-e3pwxb6tTvFmshjt5",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQBOB4Xhe8sMDr-hy__uy0664idEA5KPi0kHRMJ5Gmv3BIsW",
+            "source": "tonviewer",
+            "comment": "tonco.ton",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-15T00:00:01Z"
+        }
+    ]
+}
