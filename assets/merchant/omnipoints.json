@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "split.tg",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://ton-web.velofinance.io",
+        "description": "",
+        "organization": "omni_points"
+    },
+    "addresses": [
+        {
+            "address": "EQA3k9q3nplkestbtyDeUOWRrRuzjGXzQ6QacMUTCa0dTciQ",
+            "source": "",
+            "comment": "contract",
+            "tags": [],
+            "submittedBy": "chaoseye",
+            "submissionTimestamp": "2025-03-23T18:00:01Z"
+        }
+    ]
+}
