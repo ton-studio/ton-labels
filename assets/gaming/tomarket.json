@@ -39,6 +39,16 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-03-11T00:00:01Z"
+        },
+        {
+            "address": "EQBbfwp9cGDCyedh06zuOrYpGnuwKtgXdRFpTv_mEHZT_bft",
+            "source": "",
+            "comment": "transfer from fee collector",
+            "tags": [
+                "telegram-stars-rewards-withdrawal"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-11T00:00:01Z"
         }
     ]
 }
