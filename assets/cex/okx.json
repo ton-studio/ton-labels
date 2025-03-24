@@ -399,6 +399,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQBH2w_CBbd1SOnm0V6vAasHQ8lFzJklB38BiiHNRQ_9hXWf",
+            "source": "https://github.com/ton-studio/ton-labels/pull/177",
+            "comment": "OKX-11 highload wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-14T01:01:01Z"
         }
     ]
 }
