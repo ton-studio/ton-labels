@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "onus",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "@onus_tap_tap_tap_bot",
+        "description": "",
+        "organization": "onus_tap_tap_tap_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQAwn0JPkz1931VywHu3W-3JWoDfuDdfj8ps_TrWXN-PyW74",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "firstrateeeee",
+            "submissionTimestamp": "2025-03-24T00:00:01Z"
+        }
+    ]
+}
