@@ -1,0 +1,28 @@
+{
+	"metadata": {
+			"label": "kitty_mint",
+			"category": "gaming",
+			"subcategory": "",
+			"website": "https://t.me/kittymintbot",
+			"description": "Crack to Earn. We're meant to Engage-To-Earn $RCAT & $TON",
+			"organization": "kitty_mint"
+	},
+	"addresses": [
+			{
+					"address": "EQC7zus1ncKUiS9l1pHclyB1TwS1igolPzMprppBGMnOETf0",
+					"source": "tonviewer",
+					"comment": "Kitty Mint Withdrawal Transaction",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-19T00:00:01Z"
+			},
+			{
+					"address": "EQCFDIac-Lb8S_nh6L5w1Jteou_6P4ymODBYvo8F6ERoiwa0",
+					"source": "tonviewer",
+					"comment": "Kitty Mint Deposit wallet",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-03-19T00:00:01Z"
+			}
+	]
+}

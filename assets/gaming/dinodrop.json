@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "dinodrop",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://dinodrop.io",
+        "description": "",
+        "organization": "dinodrop"
+    },
+    "addresses": [
+        {
+            "address": "EQD5AKgQvurjOvYRWy3sHASNgRclr-beO0O-bgUdjFyBPi1G",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-20T00:00:01Z"
+        }
+    ]
+}

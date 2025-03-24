@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "giftpot",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/giftpot_bot",
+        "description": "P2P guarantor bot for gifts",
+        "organization": "giftpot"
+    },
+    "addresses": [
+        {
+            "address": "EQBKZbOrKZUaKvlBwr_xz1wCPxVstLM-WeXENzQuKHr0NTif",
+            "source": "",
+            "comment": "chat bot",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-03-22T00:00:01Z"
+        }
+    ]
+}
