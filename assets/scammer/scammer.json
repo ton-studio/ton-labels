@@ -108,6 +108,17 @@
             "submissionTimestamp": "2025-03-19T00:00:00Z"
         },
         {
+            "address": "EQDgPBPXZYYrknVPudtL6PFSav-Mcn6f_UPDicLD8fQdp1hf",
+            "source": "tonviewer",
+            "comment": "Mass spam sender 'Reward 188TON🎁URL: xpton.com'",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-24T00:00:00Z"
+        },
+        {
             "address": "EQCEHLgdtM_NOiXeXF5lCejwQsu61pw_vgsGkRN5iQmKuDEd",
             "source": "tonviewer",
             "comment": "Mimic for TON airdrop",
