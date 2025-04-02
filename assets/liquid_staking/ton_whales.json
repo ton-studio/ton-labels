@@ -19,31 +19,9 @@
             "submissionTimestamp": "2025-01-17T07:07:33Z"
         },
         {
-            "address": "EQCopper1USLs1671BTkydj2IfU7Z7VFUVYGRbjsJfh9OYIg",
-            "source": "",
-            "comment": "whales pool",
-            "tags": [
-                "defi",
-                "pool"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-03-24T12:00:00Z"
-        },
-        {
-            "address": "EQCopper2jDkUHp9SxMxb1JIS8U3dFxIHUejnKpIWQGL2wkn",
-            "source": "",
-            "comment": "whales pool",
-            "tags": [
-                "defi",
-                "pool"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-03-24T12:00:00Z"
-        },
-        {
             "address": "EQBI-wGVp_x0VFEjd7m9cEUD3tJ_bnxMSp0Tb9qz757ATEAM",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Whales Team #2",
             "tags": [
                 "defi",
                 "pool"
@@ -54,7 +32,7 @@
         {
             "address": "EQCY4M6TZYnOMnGBQlqi_nyeaIB1LeBFfGgP4uXQ1VWhales",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Whales Nominators #2",
             "tags": [
                 "defi",
                 "pool"
@@ -65,7 +43,7 @@
         {
             "address": "EQAA_5_dizuA1w6OpzTSYvXhvUwYTDNTW_MZDdZ0CGKeeper",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Tonkeeper pool #1",
             "tags": [
                 "defi",
                 "pool"
@@ -76,7 +54,7 @@
         {
             "address": "EQCOj4wEjXUR59Kq0KeXUJouY5iAcujkmwJGsYX7qPnITEAM",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Whales Team #1",
             "tags": [
                 "defi",
                 "pool"
@@ -87,7 +65,7 @@
         {
             "address": "EQDvvBmP3wUcjoXPY1jHfT4-fgb294imVYH5EHdLnAKeeper",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Tonkeeper pool #2",
             "tags": [
                 "defi",
                 "pool"
@@ -98,7 +76,7 @@
         {
             "address": "EQCkR1cGmnsE45N4K0otPl5EnxnRakmGqeJUNua5fkWhales",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Whales Nominators #1",
             "tags": [
                 "defi",
                 "pool"
@@ -109,7 +87,7 @@
         {
             "address": "EQDFvnxuyA2ogNPOoEj1lu968U4PP8_FzJfrOWUsi_o1CLUB",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Whales Club #1",
             "tags": [
                 "defi",
                 "pool"
@@ -120,7 +98,7 @@
         {
             "address": "EQA_cc5tIQ4haNbMVFUD1d0bNRt17S7wgWEqfP_xEaTACLUB",
             "source": "",
-            "comment": "whales pool",
+            "comment": "Whales Club #2",
             "tags": [
                 "defi",
                 "pool"
@@ -131,7 +109,7 @@
         {
             "address": "EQCpCjQigwF27KQ588VhQv9jm_DUuL_ZLY3HCf_9yZW5_ePN",
             "source": "",
-            "comment": "whales pool",
+            "comment": "ePN pool #2",
             "tags": [
                 "defi",
                 "pool"
@@ -142,7 +120,7 @@
         {
             "address": "EQBYtJtQzU3M-AI23gFM91tW6kYlblVtjej59gS8P3uJ_ePN",
             "source": "",
-            "comment": "whales pool",
+            "comment": "ePN pool #1",
             "tags": [
                 "defi",
                 "pool"
