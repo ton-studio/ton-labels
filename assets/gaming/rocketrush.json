@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "rocketrush",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/rocketrush_ton_bot",
+        "description": "",
+        "organization": "rocketrush"
+    },
+    "addresses": [
+        {
+            "address": "EQBfzJ1yhAtjGf7_dDc-G6cTiWFuXLP8c51njj15ZJkOG6lM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-02T00:00:01Z"
+        }
+    ]
+}

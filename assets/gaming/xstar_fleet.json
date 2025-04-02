@@ -23,6 +23,16 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-10T00:00:01Z"
+        },
+        {
+            "address": "EQAgkaCe_thwZNFPx3qYK8UaQykSY9icTPw-5vktmY9C7Bs1",
+            "source": "",
+            "comment": ".xton(XNAME on TON)",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-02T00:00:01Z"
         }
     ]
 }
