@@ -2,7 +2,7 @@
     "metadata": {
         "label": "fragment",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "onchain_marketplace",
         "website": "https://fragment.com",
         "description": "",
         "organization": "fragment"
@@ -77,7 +77,9 @@
             "address": "EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6",
             "source": "",
             "comment": "gift-minter.ton",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-02-24T00:00:01Z"
         },
@@ -93,7 +95,9 @@
             "address": "EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi",
             "source": "",
             "comment": "Telegram Usernames NFT collection",
-            "tags": ["nft"],
+            "tags": [
+                "nft"
+            ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-13T00:00:01Z"
         }

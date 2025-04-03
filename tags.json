@@ -36,6 +36,10 @@
         "description": "Marketplace can top up Telegram Ads balance"
     },
     {
+        "name": "telegram-gifts",
+        "description": "Marketplace sells Telegram Gifts"
+    },
+    {
         "name": "kyc",
         "description": "App requires KYC"
     },

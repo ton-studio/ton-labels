@@ -13,7 +13,9 @@
             "address": "EQBKZbOrKZUaKvlBwr_xz1wCPxVstLM-WeXENzQuKHr0NTif",
             "source": "",
             "comment": "chat bot",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-03-22T00:00:01Z"
         }
