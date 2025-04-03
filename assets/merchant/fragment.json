@@ -55,6 +55,7 @@
                 "telegram-stars",
                 "telegram-premium",
                 "telegram-ads",
+                "telegram-gifts",
                 "kyc"
             ],
             "submittedBy": "ohld",
@@ -77,9 +78,7 @@
             "address": "EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6",
             "source": "",
             "comment": "gift-minter.ton",
-            "tags": [
-                "telegram-gifts"
-            ],
+            "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-02-24T00:00:01Z"
         },
