@@ -321,6 +321,18 @@
             "submissionTimestamp": "2025-01-01T00:00:01Z"
         },
         {
+            "address": "EQB36psQnydEd_OnjCic4yNeSR8NsMxxJ_49lzBgIW9qU8zB",
+            "source": "",
+            "comment": "stonfi NOT - USD₮ Farm NFT collectio",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
             "address": "EQBno_j3eovi4kCK_ujHskrCvdBZIKFBT0ARpPgDdZNxMBW2",
             "source": "",
             "comment": "stonfi stTON-USDT Farming NFT Collection",
