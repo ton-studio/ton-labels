@@ -47,11 +47,12 @@ class LabelledAddress(BaseModel):
 
 class Metadata(BaseModel):
     label: str
+    name: str = None
+    organization: str
     category: str
     subcategory: str
     website: str
     description: str
-    organization: str
 
     @field_validator("website")
     def validate_website(cls, website):
@@ -81,6 +82,11 @@ class Metadata(BaseModel):
                 f"Category '{category}' is not in the allowed categories list"
             )
         return category
+    
+    def model_post_init(self, __context):
+        if not self.name:
+            # Convert label to name format if name is not provided
+            self.name = self.label.replace("_", " ").capitalize()
 
 
 class LabelledData(BaseModel):

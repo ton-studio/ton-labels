@@ -48,6 +48,7 @@ if __name__ == "__main__":
 
             serialized_labels[address_raw] = {
                 "label": metadata.label,
+                "name": metadata.name,
                 "category": metadata.category,
                 "subcategory": metadata.subcategory,
                 "organization": metadata.organization,

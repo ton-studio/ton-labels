@@ -1,11 +1,12 @@
 {
     "metadata": {
         "label": "giftpot",
+        "name": "Giftpot",
+        "organization": "giftpot",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/giftpot_bot",
-        "description": "P2P guarantor bot for gifts",
-        "organization": "giftpot"
+        "description": "P2P guarantor bot for gifts"
     },
     "addresses": [
         {

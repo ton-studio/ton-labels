@@ -1,11 +1,12 @@
 {
     "metadata": {
         "label": "nest_store",
+        "name": "Nest Store",
         "category": "merchant",
-        "subcategory": "",
+        "organization": "nest",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/nestore_robot",
-        "description": "",
-        "organization": "nest"
+        "description": ""
     },
     "addresses": [
         {

@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "wts",
+        "name": "WTS",
+        "category": "merchant",
+        "organization": "wts",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/wtstonbot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQAvEQri_rPKhcunoIjgOGR3aWhIb8t7jjOCI7V-4NbIRiAb",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-03T00:00:01Z"
+        }
+    ]
+}

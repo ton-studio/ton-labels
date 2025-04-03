@@ -2,7 +2,7 @@
     "metadata": {
         "label": "marketapp",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "onchain_marketplace",
         "website": "https://marketapp.ws",
         "description": "TON NFT Marketplace aggregates all including non-standard deals",
         "organization": "marketapp"
