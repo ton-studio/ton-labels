@@ -2,7 +2,7 @@
     "metadata": {
         "label": "getgems",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "onchain_marketplace",
         "website": "https://getgems.io",
         "description": "",
         "organization": "getgems"
@@ -28,7 +28,9 @@
             "address": "EQBYTuYbLf8INxFtD8tQeNk5ZLy-nAX9ahQbG_yl1qQ-GEMS",
             "source": "tonviewer",
             "comment": "TON NFT Marketplace",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-09T00:00:00Z"
         },
@@ -52,7 +54,9 @@
             "address": "EQDhlVq6cknyPk_SCGZUoXZRbZixNODfcBMCZ3wDfDWLFze7",
             "source": "",
             "comment": "GetGems domains collection",
-            "tags": ["nft"],
+            "tags": [
+                "nft"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-03-21T00:00:01Z"
         }

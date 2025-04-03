@@ -16,6 +16,15 @@ with open("tags.json", "rt") as f:
     tags_data = json.load(f)
 allowed_tags = {item["name"] for item in tags_data}
 
+# Define allowed subcategories for each category
+allowed_subcategories = {
+    "merchant": {"onchain_marketplace", "offchain_marketplace"},
+    "scammer": {"drainer"},
+    "scripted-activity": {"sybil"},
+    "gaming": {"gambling"},
+    "DEX": {"perpetuals", "launchpad"}
+}
+
 
 class LabelledAddress(BaseModel):
     address: str
@@ -47,11 +56,12 @@ class LabelledAddress(BaseModel):
 
 class Metadata(BaseModel):
     label: str
+    name: str = None
+    organization: str
     category: str
     subcategory: str
     website: str
     description: str
-    organization: str
 
     @field_validator("website")
     def validate_website(cls, website):
@@ -81,6 +91,34 @@ class Metadata(BaseModel):
                 f"Category '{category}' is not in the allowed categories list"
             )
         return category
+    
+    @field_validator("subcategory")
+    def validate_subcategory(cls, subcategory, info):
+        category = info.data.get('category')
+        
+        # Allow empty subcategory
+        if subcategory == "":
+            return subcategory
+            
+        # If category has allowed subcategories, validate against them
+        if category in allowed_subcategories:
+            if subcategory not in allowed_subcategories[category]:
+                raise ValueError(
+                    f"Subcategory '{subcategory}' is not allowed for category '{category}'. "
+                    f"Allowed subcategories are: {allowed_subcategories[category]}"
+                )
+        elif subcategory != "":
+            # If category doesn't have defined subcategories, only empty string is allowed
+            raise ValueError(
+                f"Category '{category}' does not allow any subcategories. Only empty string is allowed."
+            )
+            
+        return subcategory
+    
+    def model_post_init(self, __context):
+        if not self.name:
+            # Convert label to name format if name is not provided
+            self.name = self.label.replace("_", " ").capitalize()
 
 
 class LabelledData(BaseModel):

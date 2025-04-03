@@ -1,18 +1,21 @@
 {
     "metadata": {
         "label": "giftpot",
+        "name": "Giftpot",
+        "organization": "giftpot",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/giftpot_bot",
-        "description": "P2P guarantor bot for gifts",
-        "organization": "giftpot"
+        "description": "P2P guarantor bot for gifts"
     },
     "addresses": [
         {
             "address": "EQBKZbOrKZUaKvlBwr_xz1wCPxVstLM-WeXENzQuKHr0NTif",
             "source": "",
             "comment": "chat bot",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-03-22T00:00:01Z"
         }

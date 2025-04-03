@@ -1,18 +1,21 @@
 {
     "metadata": {
         "label": "nest_store",
+        "name": "Nest Store",
         "category": "merchant",
-        "subcategory": "",
+        "organization": "nest",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/nestore_robot",
-        "description": "",
-        "organization": "nest"
+        "description": ""
     },
     "addresses": [
         {
             "address": "EQCDXlSfMUhyLu1KXkUmIH2cdr7jhXi3QsHWGhJF5olm_g1O",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-03-22T00:00:01Z"
         }

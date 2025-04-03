@@ -2,7 +2,7 @@
     "metadata": {
         "label": "marketapp",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "onchain_marketplace",
         "website": "https://marketapp.ws",
         "description": "TON NFT Marketplace aggregates all including non-standard deals",
         "organization": "marketapp"
@@ -16,7 +16,8 @@
                 "telegram-stars",
                 "telegram-premium",
                 "no-kyc",
-                "fee-collector"
+                "fee-collector",
+                "telegram-gifts"
             ],
             "submittedBy": "crazyministr",
             "submissionTimestamp": "2025-01-29T00:00:00Z"
