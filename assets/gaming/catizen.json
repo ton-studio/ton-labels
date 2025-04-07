@@ -55,6 +55,14 @@
             "tags": [],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-12T00:00:01Z"
+        },
+        {
+            "address": "EQDMsz2nJ2UjqUKOd5c7YtA7P6OQa2d6mANYRF15lHeNG-cs",
+            "source": "",
+            "comment": "The same opcode and code_hash like EQBKt3vysOhuL8HZthcA7DJhmJD1VX-4Fz_OOrHLV-kjTVaO",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-07T00:00:01Z"
         }
     ]
 }
