@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "market_bot",
+        "name": "Market",
+        "organization": "market_bot",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/Market_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQBbyrASTRzngmEXH7AHOihwQxxFi9qrn5c4d_asx6Xn1Dmc",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-04-12T00:00:01Z"
+        }
+    ]
+}
