@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "label": "blinkgameai",
+        "name": "Blink Game AI",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/blinkgameai_bot",
+        "description": "",
+        "organization": "blinkgameai"
+    },
+    "addresses": [
+        {
+            "address": "EQBO2MycLjGG1Wl5gqkfdU8bY15X6w-f1Jnblo6o8hm-YUVC",
+            "source": "",
+            "comment": "Blink AI Genesis NFT",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCyQN9x1abXnAmw0N-yrjkRlj3gRKiAQSWvwBsgmQ5kClfS",
+            "source": "",
+            "comment": "Blink AI Genesis NFT Collection Owner",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        }
+    ]
+}
