@@ -119,6 +119,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQDts21W-HlG_4De-hV_4UH3R8g4Mh4ElGuNmIY_du-7ubEe",
+            "source": "",
+            "comment": "kucoin account for withdrawals",
+            "tags": [],
+            "submittedBy": "gosunov",
+            "submissionTimestamp": "2025-04-14T17:00:34Z"
         }
     ]
 }
