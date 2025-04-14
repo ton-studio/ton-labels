@@ -459,6 +459,16 @@
             ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-14T00:00:01Z"
+        },
+        {
+            "address": "EQDsLgnzVohozQSy5q2OiXhEDN4TWrB-t5btIUjfy4fJAFLe",
+            "source": "",
+            "comment": "stonfi_vault_v2 for token DD",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
     ]
 }
