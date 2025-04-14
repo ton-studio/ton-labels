@@ -9,14 +9,6 @@
     },
     "addresses": [
         {
-            "address": "EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6",
-            "source": "tonviewer",
-            "comment": "gift-minter.ton",
-            "tags": [],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-04-14T00:00:01Z"
-        },
-        {
             "address": "EQBD8aBKC4NsnYMqtkCfPQk2EVnieynJQp1UgZVyx1VmR5Ml",
             "source": "tonviewer",
             "comment": "Witch hats",
@@ -130,6 +122,206 @@
             "address": "EQDQ6DjRabTYSAxf2xrZsnsXtqcIm1bj9dF5x_h8lNjWPmH4",
             "source": "tonviewer",
             "comment": "Evil Eyes",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQA3-i1IUFjWyDhaIoCGdYUB4nt2IYaT3T-95CHPrSvV3AfX",
+            "source": "tonviewer",
+            "comment": "Bunny Muffins",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQB8zLzEOFQK3qTyMYgPD8BuzmNwblnouqaB80PW-s2E7nct",
+            "source": "tonviewer",
+            "comment": "Hanging Stars",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQC1gud6QO8NdJjVrqr7qFBMO0oQsktkvzhmIRoMKo8vxiyL",
+            "source": "tonviewer",
+            "comment": "Toy Bears",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDLM65t0shS7gZAg0lMltGHYhsU94PzsMJHhYibmRV7kdUs",
+            "source": "tonviewer",
+            "comment": "Candy Canes",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQBw2tO5UaJ4c_YXt3I8y5KD0k37staZxedV2O5HmryiK0dN",
+            "source": "tonviewer",
+            "comment": "Sharp Tongues",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQBCe75G0AhjqC64B7H_BHP0wgfONX_x98rszmsEwndDVAjG",
+            "source": "tonviewer",
+            "comment": "Ginger Cookies",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCrGA9slCoksgD-NyRDjtHySKN0Ts8k6hdueJkUkZZdD4_K",
+            "source": "tonviewer",
+            "comment": "Signet Rings",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQC8WVW9DSN4PPfFlCW2AHJkXxBUHBFsvnhXiYqSTpD7tXsp",
+            "source": "tonviewer",
+            "comment": "Winter Wreaths",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQBG2o0lp-6Oy86NGEJm717BeTDAw_F5ELkgaX2l9UsfavWE",
+            "source": "tonviewer",
+            "comment": "Flying Brooms",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQBzZLNIr4lie0pTfrbRsANJOtFYwY5gmngRfs84Ras5-aVN",
+            "source": "tonviewer",
+            "comment": "Eternal Candles",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQD7yDu2WCgd9Uzx1dF_DQkWK7IZJJ4Mp9M9g1rGUUiQE43m",
+            "source": "tonviewer",
+            "comment": "Love Potions",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCBK_JBASAA5XVz1D17Pn--kQaMWm0b9wReVtsEdRO4Tgy9",
+            "source": "tonviewer",
+            "comment": "Jester Hats",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDIReleOkTxCD4g_XEm8xj0LYNg6-zMsTGAAwCA-vEbkGBu",
+            "source": "tonviewer",
+            "comment": "Astral Shards",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCehrkZtKDtVe0qyvBAsrHx3hW-hroQyDrS_MZOOVYth2DG",
+            "source": "tonviewer",
+            "comment": "Jingle Bells",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCyAMkb6bNyNlKPH0tJbubk1VVjASqyq9sZwkJ8AbxMkxxU",
+            "source": "tonviewer",
+            "comment": "Trapped Hearts",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQA8DCWyCWyywgOKYORerRoSVevWrUQ_FjKQgNihxY1227x7",
+            "source": "tonviewer",
+            "comment": "Spiced Wines",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQD9ikZq6xPgKjzmdBG0G0S80RvUJjbwgHrPZXDKc_wsE84w",
+            "source": "tonviewer",
+            "comment": "Durov’s Caps",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCefrjhCD2_7HRIr2lmwt9ZaqeG_tdseBvADC66833kBS3y",
+            "source": "tonviewer",
+            "comment": "Homemade Cakes",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQB4x3sT1DVdODzay3H-4VJIdOooS5-kTgyKcYMZWogPOsiq",
+            "source": "tonviewer",
+            "comment": "Berry Boxes",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDL7HMbca0FufrjHFcRoiLkEiOXkXoO_vH2gVUN8JNp4khK",
+            "source": "tonviewer",
+            "comment": "Ion Gems",
             "tags": [
                 "nft"
             ],
