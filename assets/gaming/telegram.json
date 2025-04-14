@@ -9,6 +9,14 @@
     },
     "addresses": [
         {
+            "address": "EQAVgTYjmtsV3VnfkMZB-e_TEs_rhmTyGPTD5fzp2V5sBwm6",
+            "source": "tonviewer",
+            "comment": "gift-minter.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
             "address": "EQBD8aBKC4NsnYMqtkCfPQk2EVnieynJQp1UgZVyx1VmR5Ml",
             "source": "tonviewer",
             "comment": "Witch hats",
@@ -112,6 +120,16 @@
             "address": "EQDumy3bnZYzV4bSWMSSZkmXqx50XuH5d9RlX_yEi2FNlivk",
             "source": "tonviewer",
             "comment": "Eternal Roses",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDQ6DjRabTYSAxf2xrZsnsXtqcIm1bj9dF5x_h8lNjWPmH4",
+            "source": "tonviewer",
+            "comment": "Evil Eyes",
             "tags": [
                 "nft"
             ],
