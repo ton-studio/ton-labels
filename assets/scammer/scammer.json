@@ -194,6 +194,17 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQD9CjuQX8pJVscEr61Ao-2lR4zMIr_4axC2ylPDgtepT_mZ",
+            "source": "",
+            "comment": "USD1 EURC coins scammer",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
     ]
 }
