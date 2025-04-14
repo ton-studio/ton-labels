@@ -1,6 +1,7 @@
 {
     "metadata": {
         "label": "ton_dns",
+        "name": "TON DNS",
         "category": "infrastructure",
         "subcategory": "",
         "website": "https://dns.ton.org",
