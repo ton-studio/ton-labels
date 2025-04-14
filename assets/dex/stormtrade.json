@@ -129,6 +129,17 @@
             ],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-11T00:00:01Z"
+        },
+        {
+            "address": "EQA82SxexxZ_zI60rQborUOBiAHicsGFWmyNE0HTKuQODs0r",
+            "source": "tonviewer",
+            "comment": "to claim Rewards in $STORM",
+            "tags": [
+                "defi",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
     ]
 }

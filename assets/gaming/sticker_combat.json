@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "sticker_combat",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://stickerkombat.com",
+        "description": "",
+        "organization": "sticker_combat"
+    },
+    "addresses": [
+        {
+            "address": "EQB3J8l8yxLA6tOv5K7_O53d_c5vB5GWKOwqJ3ntSUEIt_Vy",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQAaC4Vu8Jja0C1wSyI0W4xQ6xO7UJ4umzgcAF1419iYgORR",
+            "source": "",
+            "comment": "NFT collection owner",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        }
+    ]
+}
