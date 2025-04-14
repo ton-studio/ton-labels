@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "label": "amberharvest",
+    "category": "gaming",
+    "subcategory": "",
+    "website": "https://t.me/amberton",
+    "description": "",
+    "organization": "amberharvest"
+  },
+  "addresses": [
+    {
+      "address": "EQBYlghPFM5pd05MWodM3LxCTGi2p9njRBYiiEBID9meCEFS",
+      "source": "",
+      "comment": "Deposit/withdraw pool",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-04-14T00:00:01Z"
+    },
+    {
+      "address": "EQCBIn4McrAJYHo8bWWOqfx7e3n4G90fBmY7lg74pgLPbaWi",
+      "source": "",
+      "comment": "Daily token distribution wallet",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-04-14T00:00:01Z"
+    }
+  ]
+}
