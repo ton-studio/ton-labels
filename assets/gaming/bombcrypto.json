@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bombcrypto",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://bombcrypto.io",
+        "description": "",
+        "organization": "bombcrypto"
+    },
+    "addresses": [
+        {
+            "address": "EQBrWOuoLjWfHryRh8lbhkPs-xtB0ddh13MUdhp1cBvxKp4j",
+            "source": "",
+            "comment": "NFT collection",
+            "tags": ["nft"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        }
+    ]
+}

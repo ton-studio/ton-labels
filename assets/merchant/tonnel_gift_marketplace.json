@@ -26,6 +26,16 @@
             "tags": [],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-15T00:00:01Z"
+        },
+        {
+            "address": "EQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB42zt",
+            "source": "",
+            "comment": "Withdrawal address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
     ]
 }

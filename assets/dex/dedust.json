@@ -150,6 +150,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQDK7GXQoAL5so_kUhe-pjl7GqXM2S_-rJcnEOPXIvjRu5Ii",
+            "source": "",
+            "comment": "DeDust Vault, DOGS",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
     ]
 }

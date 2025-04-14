@@ -128,6 +128,72 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-22T00:00:00Z"
+        },
+        {
+            "address": "EQAfHEny8unTSAwrD1MKRar8YIjbTGHeUj_axMUAQDJDuXJo",
+            "source": "",
+            "comment": "my_tonkeeper related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQAO2uCBWxzBlTs_RlShZ433Tx0RaiEOMzgUhE-YroIyMCvp",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCc6rVKIVQ7bz3EVHyZ3sfrWVmuPj7jJZqOCQ7ant8m8NDL",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQAF3Uroomb_zZzG2QSKQCSImPyptoue0kHiVVblYjFCYjQQ",
+            "source": "",
+            "comment": "my_tonkeeper related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQA_tjFezNF9VdasBdwMG4wUvn-sI4d66V3Don_WvtQx4Y2d",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQD9CjuQX8pJVscEr61Ao-2lR4zMIr_4axC2ylPDgtepT_mZ",
+            "source": "",
+            "comment": "stonfi_app related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
     ]
 }
