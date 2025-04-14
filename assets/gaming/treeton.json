@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "treeton",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/Treeton_coin",
+      "description": "",
+      "organization": "treeton"
+  },
+  "addresses": [
+      {
+          "address": "EQAs-FAj-W3ZZg_8i4yDnD08H_wbaWK6lboYsqtRZpABwLGh",
+          "source": "",
+          "comment": "Airdrop distributor sending $TREES tokens",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-04-14T00:00:01Z"
+      }
+  ]
+}
