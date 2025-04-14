@@ -30,10 +30,8 @@
         {
             "address": "EQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB42zt",
             "source": "",
-            "comment": "Withdrawal address",
-            "tags": [
-                "telegram-gifts"
-            ],
+            "comment": "Withdrawal address from gift marketplace",
+            "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
         }

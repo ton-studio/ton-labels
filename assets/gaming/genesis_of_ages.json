@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "label": "genesis_of_ages",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/genesis_of_ages",
+        "description": "",
+        "organization": "genesis_of_ages"
+    },
+    "addresses": [
+        {
+            "address": "EQCOEM35K6HTK55j6Qs2OHrb8N6_avRXw6d4cEXB-SwDNKFu",
+            "source": "https://t.me/genesis_of_ages/78",
+            "comment": "Users send NFTs to this address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCAGBb87U_Sq27cOmnjABYJmDiV5eYfBtqDgyU1eWtn0Mmz",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDa13pMHNqvpJ8ygPSe7MYSUh9bEp8WELKiTw5nbfdt-UYP",
+            "source": "",
+            "comment": "NFT collection owner",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        }
+    ]
+}
