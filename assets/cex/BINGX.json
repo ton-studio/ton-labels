@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "BINGX",
+    "category": "CEX",
+    "subcategory": "",
+    "website": "https://bingx.com/",
+    "description": "",
+    "organization": "BINGX"
+  },
+  "addresses": [
+    {
+      "address": "",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-16-04T00:00:01Z"
+    }
+  ]
+}
