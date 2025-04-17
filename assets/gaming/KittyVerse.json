@@ -1,20 +1,21 @@
-{
-    "metadata": {
-        "label": "kitty verse",
-        "category": "gaming",
-        "subcategory": "",
-        "website": "https://x.com/kittyverse_ai",
-        "description": "",
-        "organization": "KittyVerse"
-    },
-    "addresses": [
-        {
-            "address": "0:412451AE5C7AE4A427DA58D02BFE6D3A3DB4602C4C2A87021B60ACA974189577",
-            "source": "",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-15-04T00:00:01Z"
-        }
-    ]
+{ 
+  "metadata": { 
+    "label": "kitty_verse", 
+    "name": "KittyVerse", 
+    "category": "gaming", 
+    "subcategory": "", 
+    "website": "https://x.com/kittyverse_ai", 
+    "description": "", 
+    "organization": "KittyVerse" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQBBJFGuXHrkpCfaWNAr_m06PbRgLEwqhwIbYKypdBiVdyeH", 
+      "source": "", 
+      "comment": "", 
+      "tags": [], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2025-17-04T00:00:01Z" 
+    } 
+  ] 
 }
