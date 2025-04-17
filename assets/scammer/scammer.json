@@ -216,6 +216,28 @@
             ],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCjw3kIBwyToWK6NqwWgtKammPLzeSWllGffrIu5A7WznMk",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-16T00:00:01Z"
+        },
+        {
+            "address": "EQAq_02MmXZhcoUvLh_KruQmM6yMRSe3gR6ZORkYthScksA2",
+            "source": "",
+            "comment": "mimic for $PAWS token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-17T00:00:00Z"
         }
     ]
 }
