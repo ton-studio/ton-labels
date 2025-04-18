@@ -1,0 +1,23 @@
+{
+  "metadata": {
+      "label": "bigpump",
+      "category": "scripted-activity",
+      "subcategory": "sybil",
+      "website": "https://t.me/pocketfi_bot/bigpump",
+      "description": "",
+      "organization": "pocketfi"
+  },
+  "addresses": [
+      {
+          "address": "EQAu0qjfcws3E5SRtl_6l401UoSpvhhaycYivOTdYfeCmYMp",
+          "source": "",
+          "comment": "Wash deploying",
+          "tags": [
+            "suspicious",
+            "defi"
+          ],
+          "submittedBy": "dom-far",
+          "submissionTimestamp": "2025-04-17T00:00:00Z"
+      }
+  ]
+}
