@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "label": "xworld",
+    "category": "gaming",
+    "subcategory": "",
+    "website": "https://t.me/xworld",
+    "description": "",
+    "organization": "xworld"
+  },
+  "addresses": [
+    {
+      "address": "EQB7qdvV6I2AF0hYE0na3JzMjj_Qyu2WPgiyQJDSOb80wL30",
+      "source": "",
+      "comment": "Withdrawal wallet",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-04-18T10:00:01Z"
+    },
+    {
+      "address": "EQAbhPOVKYcTNntQq0eR3Qs-kM0yGhxGQEOrDI9nx6H78rdl",
+      "source": "",
+      "comment": "Deposit wallet",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-04-18T10:00:01Z"
+    }
+  ]
+}
