@@ -23,6 +23,30 @@
 					"tags": [],
 					"submittedBy": "rAndom1ze",
 					"submissionTimestamp": "2025-03-19T00:00:01Z"
+			},
+			{
+					"address": "EQDZaIcpLYgU091X4yybh4RolXcWfdTkEbMbFmB0AAnDdkJi",
+					"source": "tonviewer",
+					"comment": "Kitty Mint Withdraw wallet",
+					"tags": [],
+					"submittedBy": "dddwhdd",
+					"submissionTimestamp": "2025-04-18T00:00:01Z"
+			},
+			{
+					"address": "EQAWRKv1NPL1EbHrCioKpjWEZV1JI8Ew-VZ9iRtXlrkGIh-n",
+					"source": "tonviewer",
+					"comment": "Kitty Mint Withdraw wallet",
+					"tags": [],
+					"submittedBy": "dddwhdd",
+					"submissionTimestamp": "2025-04-18T00:00:01Z"
+			},
+			{
+					"address": "EQCiR4CfwotBADpzsm_cYu4pNhhWd3bLQehhN1tZt3Z_t-HS",
+					"source": "tonviewer",
+					"comment": "Kitty Mint Withdraw wallet",
+					"tags": [],
+					"submittedBy": "dddwhdd",
+					"submissionTimestamp": "2025-04-18T00:00:01Z"
 			}
 	]
 }
