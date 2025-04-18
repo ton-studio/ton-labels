@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "label": "tonapi",
+        "name": "TON API",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://tonconsole.com",
+        "description": "",
+        "organization": "tonapi"
+    },
+    "addresses": [
+        {
+            "address": "EQBGOzawW2QtzY54knlrS_Plqmfxxz7sdtS-b8LgvN2zkUP6",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQDG9ZFkQ_b3BxObEI7c4xfqUqjExeWvr5o8bpPWRoXZXRbw",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQDzP1oeMJI2wh_UErnVIuJKam7zdFwB9-x9cxvA-ETDNHCs",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQCbirY3UHIwuZ3ialXqbZzU_vDP_Kr-LR8V6DXV9dOKQ8FP",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQA706rWcBaMSxxuyb0p_dZbE5Zwtx05xlP7WIJDDh21jvlD",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQAvqLaYvTLGXoyTY0GASnrN6h-S49NmvksOJD3rw9wSYKjz",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQDVpggm0dTxVwhdK8dR0DfGHx_i1VMizVvAKXRWxRPdaXzW",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQBRs2Mf4_kVmB9BFM3rEjfoULf65DBVsT283JblDxwWzgho",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQCHEWoQv8nMNAuDfrA7BZ7hYqrvm2-iLcnkNbPnOhc9-UQi",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        },
+        {
+            "address": "EQALyITmdro9yqvnXOpxw41mke0NaonP2V0ncsMve-ASYkcP",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-18T00:00:01Z"
+        }
+    ]
+}
