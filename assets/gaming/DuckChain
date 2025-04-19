@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "Duck Chain",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/DuckChain_bot",
+        "description": "",
+        "organization": "Duck Chain"
+    },
+    "addresses": [
+        {
+            "address": "EQCIuMlnKW2o-GV1jnfXm4M8f-Yq0HIPVniPUeFIMRGIBMi6",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Jackreachy",
+            "submissionTimestamp": "2025-04-19T00:00:01Z"
+        }
+    ]
+}
