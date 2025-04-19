@@ -39,6 +39,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-05T01:01:01Z"
+        },
+        {
+            "address": "EQBjLOwf3MxcLUDzlvJZ4wTit8868M2RoSk7kr_Fo0DMpq3y",
+            "source": "received tokens from other hot wallets",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-04-19T07:49:01Z"
         }
     ]
 }
