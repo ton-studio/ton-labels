@@ -1,108 +1,116 @@
 {
-    "metadata": {
-        "label": "wallet_in_telegram",
-        "category": "CEX",
-        "subcategory": "",
-        "website": "https://wallet.tg",
-        "description": "",
-        "organization": "wallet_in_telegram"
+  "metadata": {
+    "label": "wallet_in_telegram",
+    "category": "CEX",
+    "subcategory": "",
+    "website": "https://wallet.tg",
+    "description": "",
+    "organization": "wallet_in_telegram"
+  },
+  "addresses": [
+    {
+      "address": "EQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WLfa",
+      "source": "ton weekly slides",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-11-25T20:24:29Z"
     },
-    "addresses": [
-        {
-            "address": "EQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WLfa",
-            "source": "ton weekly slides",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-11-25T20:24:29Z"
-        },
-        {
-            "address": "EQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCAb0",
-            "source": "ton weekly slides",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-11-25T20:24:29Z"
-        },
-        {
-            "address": "EQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQF_w",
-            "source": "ton weekly slides",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-11-25T20:24:29Z"
-        },
-        {
-            "address": "EQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXPqY",
-            "source": "ton weekly slides",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-11-25T20:24:29Z"
-        },
-        {
-            "address": "EQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaHD0",
-            "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-12-12T10:09:26Z"
-        },
-        {
-            "address": "EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm",
-            "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-12-12T10:09:26Z"
-        },
-        {
-            "address": "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh",
-            "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-12-12T10:09:26Z"
-        },
-        {
-            "address": "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90",
-            "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-12-12T10:09:26Z"
-        },
-        {
-            "address": "EQCj22Hf6cbLcmWuvU3EhDEvRW6tFEH7ts_LFbbZzNyJ9YG_",
-            "source": "",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-02-19T00:03:33Z"
-        },
-        {
-            "address": "EQBMunNB4UlTyogGUjHTLR3vYUKuJbHUxh0-b5nQHmd6RP57",
-            "source": "",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-02-19T00:03:33Z"
-        },
-        {
-            "address": "EQDucGxDQdjRQ7LG6cmsteM5sSq0K6uGn0fKl3VrCGlJ74GY",
-            "source": "",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-02-19T00:03:33Z"
-        },
-        {
-            "address": "EQBYLl3J6XKqTGCUR1i7pmWdPVyGokGROY4PuMAjr1UzdKVm",
-            "source": "",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "dddwhdd",
-            "submissionTimestamp": "2025-04-19T00:03:33Z"
-        }
-    ]
+    {
+      "address": "EQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCAb0",
+      "source": "ton weekly slides",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+      "address": "EQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQF_w",
+      "source": "ton weekly slides",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+      "address": "EQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXPqY",
+      "source": "ton weekly slides",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-11-25T20:24:29Z"
+    },
+    {
+      "address": "EQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaHD0",
+      "source": "datalake-test.cex_labels_20241116",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+      "address": "EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm",
+      "source": "datalake-test.cex_labels_20241116",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+      "address": "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh",
+      "source": "datalake-test.cex_labels_20241116",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+      "address": "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90",
+      "source": "datalake-test.cex_labels_20241116",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ziga",
+      "submissionTimestamp": "2024-12-12T10:09:26Z"
+    },
+    {
+      "address": "EQCj22Hf6cbLcmWuvU3EhDEvRW6tFEH7ts_LFbbZzNyJ9YG_",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-02-19T00:03:33Z"
+    },
+    {
+      "address": "EQBMunNB4UlTyogGUjHTLR3vYUKuJbHUxh0-b5nQHmd6RP57",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-02-19T00:03:33Z"
+    },
+    {
+      "address": "EQDucGxDQdjRQ7LG6cmsteM5sSq0K6uGn0fKl3VrCGlJ74GY",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-02-19T00:03:33Z"
+    },
+    {
+      "address": "EQBYLl3J6XKqTGCUR1i7pmWdPVyGokGROY4PuMAjr1UzdKVm",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "dddwhdd",
+      "submissionTimestamp": "2025-04-19T00:03:33Z"
+    },
+    {
+      "address": "UQBkKkBXXPyAtM9EFvirAVVXiNidK87hOi4E7v5CcVy83M_7",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "jeff_ton",
+      "submissionTimestamp": "2025-04-19T18:36:33Z"
+    }
+  ]
 }
