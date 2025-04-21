@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "Star Riser",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/starriser_bot",
+        "description": "Welcome to Star Riser ⭐️ — an exciting action game with high quality and huge rewards with unique Play-To-AI-Drop! 🎁",
+        "organization": "Star Riser"
+    },
+    "addresses": [
+        {
+            "address": "EQCtCUyh1gIlXvWokILogJYoDN0HLbdNC-bvAgWkB02VYTCe",
+            "source": "",
+            "comment": "Address for collecting in-app purchases",
+            "tags": [],
+            "submittedBy": "mtshgames",
+            "submissionTimestamp": "2025-04-21T19:57:01Z"
+        }
+    ]
+}
