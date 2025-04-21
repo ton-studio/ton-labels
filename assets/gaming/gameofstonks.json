@@ -1,0 +1,21 @@
+{
+  "metadata": {
+      "label": "gameofstonks",
+      "name": "Stonks Bot",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/game_of_stonks_bot",
+      "description": "",
+      "organization": "gameofstonks"
+  },
+  "addresses": [
+      {
+          "address": "EQBZ0wJlsNzoo72VQ9r0XXsri446PfGRfSJJJ7NJ4xYZBkD5",
+          "source": "",
+          "comment": "Withdrawal address",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-04-20T00:00:00Z"
+      }
+  ]
+}
