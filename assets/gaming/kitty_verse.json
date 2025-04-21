@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "label": "kitty_verse",
+    "name": "KittyVerse",
+    "category": "gaming",
+    "subcategory": "",
+    "website": "https://t.me/kittyverse_ai_bot",
+    "description": "",
+    "organization": "kitty_verse"
+  },
+  "addresses": [
+    {
+      "address": "EQBBJFGuXHrkpCfaWNAr_m06PbRgLEwqhwIbYKypdBiVdyeH",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "wDRxxx",
+      "submissionTimestamp": "2025-04-19T00:00:01Z"
+    },
+    {
+      "address": "EQDr6eSxPx3olIc5NfPfBTXvK2rU0HIAobR1reGjZLRTVneX",
+      "source": "",
+      "comment": "presale multisig",
+      "tags": [],
+      "submittedBy": "shuva10v",
+      "submissionTimestamp": "2025-04-21T00:00:01Z"
+    }
+  ]
+}
