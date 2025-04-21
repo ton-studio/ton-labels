@@ -1,21 +1,18 @@
 {
   "metadata": {
-      "label": "bigpump",
+      "label": "sybil_EQAU0QJF",
       "category": "scripted-activity",
       "subcategory": "sybil",
-      "website": "https://t.me/pocketfi_bot/bigpump",
-      "description": "",
-      "organization": "pocketfi"
+      "website": "https://github.com/ton-studio/ton-labels/pull/264/files",
+      "description": "Deploys tokens on pocketfi in an automatic manner",
+      "organization": "sybil_EQAU0QJF"
   },
   "addresses": [
       {
           "address": "EQAu0qjfcws3E5SRtl_6l401UoSpvhhaycYivOTdYfeCmYMp",
           "source": "",
-          "comment": "Wash deploying",
-          "tags": [
-            "suspicious",
-            "defi"
-          ],
+          "comment": "",
+          "tags": [],
           "submittedBy": "dom-far",
           "submissionTimestamp": "2025-04-17T00:00:00Z"
       }
