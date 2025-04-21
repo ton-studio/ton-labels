@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "ton_mine",
+    "category": "gaming",
+    "name": "ton mine",
+    "subcategory": "",
+    "website": "https://t.me/TONMine1_bot",
+    "description": "",
+    "organization": "ton_mine"
+  },
+  "addresses": [
+    {
+      "address": "EQA_MBnuz0-4CUV3xO35b3Cjp1zKuNJYPRlJkJTe5-LmKLy2",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "maxutmonarh",
+      "submissionTimestamp": "2025-04-20T00:00:01Z"
+    }
+  ]
+}

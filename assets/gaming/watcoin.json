@@ -1,0 +1,21 @@
+{
+  "metadata": {
+      "label": "watcoin",
+      "category": "gaming",
+      "name": "WATcoin",
+      "subcategory": "",
+      "website": "https://t.me/watcoin",
+      "description": "",
+      "organization": "watcoin"
+  },
+  "addresses": [
+      {
+          "address": "EQBqLMMUf9gLELecQy4OEOKsaJ_ByOB0vzIE7MmDmQNUKFG0",
+          "source": "",
+          "comment": "Airdrop claim address",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-04-21T00:00:01Z"
+      }
+  ]
+}
