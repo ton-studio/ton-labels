@@ -117,6 +117,14 @@
             "tags": [],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-20T00:00:01Z"
+        },
+        {
+            "address": "EQCZkZJBp4XBcbrItUTsTeqeXJSIuAGqZJCpNrdVwkI5FvC-",
+            "source": "",
+            "comment": "Split smart contract handling fiat payments",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-04-20T00:00:00Z"
         }
     ]
 }
