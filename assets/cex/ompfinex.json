@@ -1,21 +1,3 @@
-{
-    "metadata": {
-        "label": "ompfinex",
-        "category": "CEX",
-        "subcategory": "",
-        "website": "https://ompfinex.com",
-        "description": "",
-        "organization": "ompfinex"
-    },
-    "addresses": [
-        {
-            "address": "EQBZsGXF1mJhpTF2YOlu7kdqpqEbdJvcvowNHz2_JCANHHf-",
-            "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-12-12T10:09:26Z"
-        },
         {
             "address": "EQBboPfguejbnJ6l0WR2xkpm_fj9OgV0OsXEkqSgdMN3DEQ_",
             "source": "",
@@ -24,5 +6,3 @@
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-04-23T10:09:26Z"
         }
-    ]
-}
