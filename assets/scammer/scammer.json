@@ -271,6 +271,17 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-21T00:00:01Z"
+        },
+        {
+            "address": "EQBdZmfk67_CeCvURrJWaxg4pL0zusXn77STAOk-JxKeW_9Z",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
         }
     ]
 }
