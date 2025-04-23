@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "duck_master",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://duck-master.com",
+        "description": "",
+        "organization": "duck_master"
+    },
+    "addresses": [
+        {
+            "address": "EQBYzJgy2B3CGsDKusHBtoPAogh3Q---3-zrKdmOWtW3vX0g",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-17T00:00:01Z"
+        }
+    ]
+}

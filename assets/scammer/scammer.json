@@ -194,6 +194,83 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDYjU4L071thDTfiuC41OJQ-YubngBCy7ZKKknm-nFPBAlr",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCDlaQnRVdqZiyq3SB9tvNdKCnB5QXJoX6XCSsPPMcIxqFL",
+            "source": "",
+            "comment": "USD1 EURC coins scammer",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCjw3kIBwyToWK6NqwWgtKammPLzeSWllGffrIu5A7WznMk",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-16T00:00:01Z"
+        },
+        {
+            "address": "EQAq_02MmXZhcoUvLh_KruQmM6yMRSe3gR6ZORkYthScksA2",
+            "source": "",
+            "comment": "mimic for $PAWS token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-17T00:00:00Z"
+        },
+        {
+            "address": "EQBGfQGp4hA7f9zXfPlGfPoLFYC8Cy7fjgbIaHOIblpSyHGk",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-20T00:00:00Z"
+        },
+        {
+            "address": "EQDT296L_zPYycUX_j4HOXu44oibiDGrSo9BEurXs47TK0BK",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-20T00:00:00Z"
+        },
+        {
+            "address": "EQBxgXzQCHjInlOUHx2dw6AESPCXpU_QEceRH6E1NeqAKP-m",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-21T00:00:01Z"
         }
     ]
 }

@@ -459,6 +459,16 @@
             ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-14T00:00:01Z"
+        },
+        {
+            "address": "EQDR-4xEjo6h3y8BkSddLdYlpdlIwmM-zhq5p6A0klJlD6T0",
+            "source": "",
+            "comment": "stonfi stonbassador reward address.",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "johntad110",
+            "submissionTimestamp": "2025-04-22T00:00:00Z"
         }
     ]
 }

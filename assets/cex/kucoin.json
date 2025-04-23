@@ -119,6 +119,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQCFFCKVa1zFxPK7G6wvT85RkExkRSj-O_mBm9uaRpVxZf8E",
+            "source": "https://dune.com/okhlopkov/ton-wallet-analysis?wallet_address_td90d4=0%3A851422956b5cc5c4f2bb1bac2f4fce51904c644528fe3bf9819bdb9a46957165",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "johntad",
+            "submissionTimestamp": "2025-04-16T00:00:01Z"
+        },       
+        {
+            "address": "EQDts21W-HlG_4De-hV_4UH3R8g4Mh4ElGuNmIY_du-7ubEe",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "maxutmonarh",
+            "submissionTimestamp": "2025-04-21T00:00:01Z"
         }
     ]
 }

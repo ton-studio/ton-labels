@@ -15,6 +15,14 @@
 					"tags": ["pool"],
 					"submittedBy": "rAndom1ze",
 					"submissionTimestamp": "2025-03-11T00:00:01Z"
+			},
+			{
+				"address": "EQDUkQbpTVIgt7v66-JTFR-3-eXRFz_4V66F-Ufn6vOg0D5s",
+				"source": "",
+				"comment": "fee collector from swaps within the wallet",
+				"tags": [],
+				"submittedBy": "Caranell",
+				"submissionTimestamp": "2025-04-15T00:00:01Z"
 			}
 	]
 }

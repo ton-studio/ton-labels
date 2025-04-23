@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "kraken",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://kraken.com",
+        "description": "",
+        "organization": "payward"
+    },
+    "addresses": [
+        {
+            "address": "EQBdnCIFZhzSZVL-F96KEsruzUWfBlPHYCh_WBig95WoSuNE",
+            "source": "Deposit & Withdraw address",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-20T00:00:01Z"
+        }
+    ]
+}

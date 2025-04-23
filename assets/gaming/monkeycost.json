@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "monkeycost",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/monkeycost_bot",
+        "description": "",
+        "organization": "monkeycost"
+    },
+    "addresses": [
+        {
+            "address": "EQCwu75i8oi_p2US61hHJPQ89q3J0dsIK0tTzjNEhR6iXXBa",
+            "source": "",
+            "comment": "nft collection",
+            "tags": ["nft"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-15T00:00:01Z"
+        },
+        {
+            "address": "EQB6A6deFHYWbCA9Z2BczOugffexccBmQWT6ojzDnwYMcsmw",
+            "source": "",
+            "comment": "nft mint fee collector address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-15T00:00:01Z"
+        }
+    ]
+}

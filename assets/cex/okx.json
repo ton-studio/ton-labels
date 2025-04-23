@@ -407,6 +407,30 @@
             "tags": [],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-02-14T01:01:01Z"
+        },
+        {
+            "address": "EQDgwX5u7w7s0DNyXV4ApByxlhdwp6xzGYHpaO1GWqZ2qZwH",
+            "source": "",
+            "comment": "OKX-12 highload Notcoin wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-19T01:01:01Z"
+        },
+        {
+            "address": "EQBsJbXy_l7xpqGXj2EfYaUIg_1QoIIrGRdkRfypMYIyY4ng",
+            "source": "",
+            "comment": "hot wallet",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-19T01:01:01Z"
+        },
+        {
+            "address": "EQDLgXrBFtCooTFm93mbNw9h3AboZAzdal0YngUdoCL0pR3M",
+            "source": "",
+            "comment": "used to top up custodial wallets",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-21T01:01:01Z"
         }
     ]
 }

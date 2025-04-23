@@ -95,6 +95,30 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-02T00:00:01Z"
+        },
+        {
+            "address": "EQDRb73cBSd5JtsScPNvRySxqvZM4u6PdldZ899Gnofrpu25",
+            "source": "",
+            "comment": "$SOON staking bank address",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCNX9dxf8ZzBifZELu9_pjCSYhLqR9A6kbGEztgmLe_SwGY",
+            "source": "",
+            "comment": "Giveaway rewards address",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCWxoLJqwwIPdxdFZUPS9kTznzHj03Ty1es2UuqvIgXMXQo",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-17T00:00:01Z"
         }
     ]
 }
