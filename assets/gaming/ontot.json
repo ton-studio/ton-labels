@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "onton",
+        "name": "ONTON",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/theontonbot",
+        "description": "",
+        "organization": "onton"
+    },
+    "addresses": [
+        {
+            "address": "EQDbBfDF9yn0A0qui8PZyUtlDrGlR7MrRLks16ZBXVeEWoRf",
+            "source": "",
+            "comment": "NFT spin payments collection address",
+            "tags": [],
+            "submittedBy": "Jackreachy",
+            "submissionTimestamp": "2025-04-21T00:00:01Z"
+        }
+    ]
+}
