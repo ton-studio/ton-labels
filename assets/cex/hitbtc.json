@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "hitbtc",
+        "name": "HitBTC",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://hitbtc.com",
+        "description": "",
+        "organization": "hitbtc"
+    },
+    "addresses": [
+        {
+            "address": "EQCLBw7bAacA8_akYkx-CG4DbahgYOuwTxmQjuYaNTczXzU3",
+            "source": "",
+            "comment": "hot wallet",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-24T00:00:01Z"
+        }
+    ]
+}
