@@ -386,7 +386,7 @@
         },
         {
             "address": "EQBmoechltZNb69I-ksuqGH2ewSE0tFKWcr3AdjChs5E5RVn",
-            "source": "",
+            "source": "USDT withdrawals",
             "comment": "received all assets from OKX9 wallet",
             "tags": [
                 "has-custodial-wallets"
