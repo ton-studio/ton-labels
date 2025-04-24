@@ -11,7 +11,7 @@
         {
             "address": "EQA0weM6cuoaaLEAd5kT8fFQR9INobWI6nkFcnx5tgeE0fC9",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -19,7 +19,7 @@
         {
             "address": "EQB2L56Q2zoqx-e_rn2LUJMVhV6f7njc6qkNJ0mEX6q7l22q",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -27,7 +27,7 @@
         {
             "address": "EQBHcPpzxBGFhp6A1A_MzPEvBIexogbXG2LEzyG5OPUjKriz",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -347,7 +347,7 @@
         {
             "address": "EQB_LoTHI9i2trGqz4EMjCarI8IgIrRkuHEEstMGWw6nC3Nw",
             "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
+            "comment": "memo deposits",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
@@ -355,7 +355,7 @@
         {
             "address": "EQADON7zS4TG7pE0oEqxYBRQvkRjQKN64lneV8s3vbWQzWUO",
             "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
+            "comment": "memo deposits",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
@@ -363,7 +363,7 @@
         {
             "address": "EQAk2h57jakB5bPdD5jDl_625aXqSDGVqLa9BoLPLFMnrisV",
             "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
@@ -371,7 +371,7 @@
         {
             "address": "EQCbm3Od4lJ65y0hCD9RmNcQxyiEU7RzPlfsrbLhiayCnNuU",
             "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
+            "comment": "memo deposits",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
