@@ -1,28 +1,28 @@
 {
-  "metadata": {
-    "label": "catopia",
-    "category": "gaming",
-    "subcategory": "",
-    "website": "https://catopia.io",
-    "description": "",
-    "organization": "catopia"
-  },
-  "addresses": [
-    {
-      "address": "EQD4_2HkaF-AA4rFMTR5zcNnGDwt3qV34RqXpo76CQl_UcDU",
-      "source": "",
-      "comment": "airdrop address",
-      "tags": [],
-      "submittedBy": "shuva10v",
-      "submissionTimestamp": "2025-04-23T00:00:01Z"
+    "metadata": {
+        "label": "catopia",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://catopia.io",
+        "description": "",
+        "organization": "catopia"
     },
-    {
-      "address": "EQDWtEGDn6qgB6vMNpdLi781iN3wkKpOkm4AWmpDRrVJkTln",
-      "source": "",
-      "comment": "",
-      "tags": [],
-      "submittedBy": "dyshko12345",
-      "submissionTimestamp": "2025-04-23T00:00:01Z"
-    }
-  ]
+    "addresses": [
+        {
+            "address": "EQD4_2HkaF-AA4rFMTR5zcNnGDwt3qV34RqXpo76CQl_UcDU",
+            "source": "",
+            "comment": "airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
+        },
+        {
+            "address": "EQDWtEGDn6qgB6vMNpdLi781iN3wkKpOkm4AWmpDRrVJkTln",
+            "source": "",
+            "comment": "airdrop address",
+            "tags": [],
+            "submittedBy": "dyshko12345",
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
+        }
+    ]
 }
