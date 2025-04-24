@@ -12,7 +12,9 @@
             "address": "EQCRiHBZulagN5CwaW16QCrAaR3_YvzTmOgT-X07Jzb6WLfa",
             "source": "ton weekly slides",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T20:24:29Z"
         },
@@ -20,7 +22,9 @@
             "address": "EQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCAb0",
             "source": "ton weekly slides",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T20:24:29Z"
         },
@@ -28,7 +32,9 @@
             "address": "EQDPBslO_a4m-qodhQkvxNrueOugnmnDbawFHB2P_eNfQF_w",
             "source": "ton weekly slides",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T20:24:29Z"
         },
@@ -36,7 +42,9 @@
             "address": "EQCXrZNESRUInoEiOP8Qq-kGbQsD6j26KoYw-5yfiKpFXPqY",
             "source": "ton weekly slides",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T20:24:29Z"
         },
@@ -44,7 +52,9 @@
             "address": "EQAbROxVNhaw5FUQNwOINL3wvaofBEDhDzMx2YQVhWEqaHD0",
             "source": "datalake-test.cex_labels_20241116",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         },
@@ -52,7 +62,9 @@
             "address": "EQBugU5kUOjFeAZ7tlYpj7TQE5fdFQGNfzTcNp6rpMIRHLwm",
             "source": "datalake-test.cex_labels_20241116",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         },
@@ -60,7 +72,9 @@
             "address": "EQBDanbCeUqI4_v-xrnAN0_I2wRvEIaLg1Qg2ZN5c6Zl1KOh",
             "source": "datalake-test.cex_labels_20241116",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         },
@@ -68,14 +82,16 @@
             "address": "EQDd3NPNrWCvTA1pOJ9WetUdDCY_pJaNZVq0JMaara-TIp90",
             "source": "datalake-test.cex_labels_20241116",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         },
         {
             "address": "EQCj22Hf6cbLcmWuvU3EhDEvRW6tFEH7ts_LFbbZzNyJ9YG_",
             "source": "",
-            "comment": "",
+            "comment": "multisig_v2",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-19T00:03:33Z"
@@ -83,7 +99,7 @@
         {
             "address": "EQBMunNB4UlTyogGUjHTLR3vYUKuJbHUxh0-b5nQHmd6RP57",
             "source": "",
-            "comment": "",
+            "comment": "multisig_v2",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-19T00:03:33Z"
@@ -91,7 +107,7 @@
         {
             "address": "EQDucGxDQdjRQ7LG6cmsteM5sSq0K6uGn0fKl3VrCGlJ74GY",
             "source": "",
-            "comment": "",
+            "comment": "multisig_v2",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-19T00:03:33Z"
@@ -100,7 +116,9 @@
             "address": "EQBYLl3J6XKqTGCUR1i7pmWdPVyGokGROY4PuMAjr1UzdKVm",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-19T00:03:33Z"
         },
@@ -108,7 +126,9 @@
             "address": "EQBkKkBXXPyAtM9EFvirAVVXiNidK87hOi4E7v5CcVy83JI-",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "jeffdsm6426",
             "submissionTimestamp": "2025-04-20T08:53:33Z"
         },
@@ -116,7 +136,9 @@
             "address": "EQDdb_AsWWNHRVKbmajVvu6p9sOKkYjmp-lqQk44IMisCi7d",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-23T00:00:01Z"
         },
@@ -124,7 +146,9 @@
             "address": "EQACOJWu-VUCSSCikcbzcV4pHfGz3SVOr6iwniGi1Y1Yl_UA",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-23T00:00:01Z"
         }
