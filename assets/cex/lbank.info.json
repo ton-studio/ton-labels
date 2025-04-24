@@ -11,7 +11,7 @@
         {
             "address": "EQChSx9FI4Wyu5hK0sREHh0jyuBx_fwJbfulPrujtv8dENct",
             "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
+            "comment": "Deposit / Withdrawal address with memo",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"

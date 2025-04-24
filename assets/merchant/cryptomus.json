@@ -23,7 +23,9 @@
             "address": "EQDn-EI7rtBBpt_lCj4wAtwrUAwQyl8f_gn_LftTIub2ET4q",
             "source": "",
             "comment": "Crypto Acquiring",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         }

@@ -13,8 +13,18 @@
             "address": "EQCLBw7bAacA8_akYkx-CG4DbahgYOuwTxmQjuYaNTczXzU3",
             "source": "",
             "comment": "hot wallet",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-24T00:00:01Z"
+        },
+        {
+            "address": "EQALsnT-BEAc-4QcrqeG5SGoQc31Uw5TiklfB3zqm-Adngsv",
+            "source": "",
+            "comment": "fee sender",
+            "tags": [],
+            "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-24T00:00:01Z"
         }
     ]
