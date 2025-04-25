@@ -431,6 +431,14 @@
             "tags": [],
             "submittedBy": "shuav10v",
             "submissionTimestamp": "2025-04-21T01:01:01Z"
+        },
+        {
+            "address": "EQDY4-KtVxawZU_Vva7KTOhlhx8Ho0jI0ahyebYT5YuJkdla",
+            "source": "",
+            "comment": "received high volume deposits from OKX hot wallet",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-04-25T01:01:01Z"
         }
     ]
 }
