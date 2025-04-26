@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "spell",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://spellwallet.io",
+        "description": "",
+        "organization": "spell"
+    },
+    "addresses": [
+        {
+            "address": "EQBAoxlORALiIhhwzwbH1wYkJFm-MdHmS8g8JIkrtGYouDQF",
+            "source": "https://t.me/spell_wallet/352 (https://tonviewer.com/transaction/7fec180a2c276af65d8fa44d448aeabec23bd6f893ffd0b0dfd90948653af504)",
+            "comment": "reward distribution address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
+        }
+    ]
+}
