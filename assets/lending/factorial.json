@@ -11,13 +11,46 @@
         {
             "address": "EQCrEHHG4Ff8TD3PzuH5tFSwHBD3zxeXaosz48jGLebwiiNx",
             "source": "",
-            "comment": "Basic Pool",
+            "comment": "tsTON / USDT",
             "tags": [
                 "defi",
                 "pool"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-31T00:00:01Z"
+        },
+        {
+            "address": "EQAYJdU9JFRcKAwMZv3MqD0QVjBEMGO_4mgwOJtTBOHR22ec",
+            "source": "factorial website",
+            "comment": "USDT-SLP / USDT",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
+        },
+        {
+            "address": "EQBCXQp2sSTJhvnV6DlBqhTsdNMZc_tJcXQJ5XjoWiy-OAge",
+            "source": "factorial website",
+            "comment": "tsTON / USDT",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
+        },
+        {
+            "address": "EQCOA3gN3Dk-ml66zux_vuia7mTIBTENKxtomD6TDgnFZXoH",
+            "source": "factorial website",
+            "comment": "USDT-SLP / TON-SLP / USDT",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
         }
     ]
 }
