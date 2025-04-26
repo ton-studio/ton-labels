@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ai-coin",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://t.me/aicoin_community",
+        "description": "",
+        "organization": "ai-coin"
+    },
+    "addresses": [
+        {
+            "address": "EQAD5n5HO9zCa3lTQOK_zdALUrP692QPpP14AKubUH7bF53h",
+            "source": "",
+            "comment": "ai-coin reward address",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
+        }
+    ]
+}
