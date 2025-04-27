@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "label": "voxel",
+        "label": "ton_miner",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/voxel_verse_bot",
+        "website": "https://t.me/MineTonApp_bot",
         "description": "",
-        "organization": "voxel"
+        "organization": "ton_miner"
     },
     "addresses": [
         {
-            "address": "EQAcNHtyWeV2ApYmeDBsJwWljIUrDl3-sB5x7Bq8kEzuIFS3",
-            "source": "",
+            "address": "EQBHtWly9rEAaYLZIRXuP4ciGdOqP8shsUuO_XVs-_xpY3Tq",
+            "source": "Deposit address",
             "comment": "",
             "tags": [
                 "has-custodial-wallets"
             ],
             "submittedBy": "dddwhdd",
-            "submissionTimestamp": "2025-04-15T00:00:01Z"
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
         }
     ]
 }
