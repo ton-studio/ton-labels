@@ -39,6 +39,14 @@
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQCXMfLHqUFFft1Yb2o2ax862iofNPnF_l4U2JByM-nRKOsH",
+            "source": "",
+            "comment": "bitpin withdrawal address",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-04-27T01:01:01Z"
         }
     ]
 }
