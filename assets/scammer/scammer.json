@@ -273,17 +273,6 @@
             "submissionTimestamp": "2025-04-21T00:00:01Z"
         },
         {
-            "address": "EQBdZmfk67_CeCvURrJWaxg4pL0zusXn77STAOk-JxKeW_9Z",
-            "source": "",
-            "comment": "Spam ton-airdrops reward sender for scam",
-            "tags": [
-                "scammer",
-                "suspicious"
-            ],
-            "submittedBy": "dddwhdd",
-            "submissionTimestamp": "2025-04-23T00:00:01Z"
-        },
-        {
             "address": "EQCQlraWsPKDufcovMxGc0l23lhF0uqEUweP5n2u6Ej5FZKV",
             "source": "",
             "comment": "Spam ton-airdrops reward sender for scam",
@@ -304,6 +293,24 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-25T00:00:01Z"
+        },
+      {
+
+            "address": "EQByQFVmgWK2DMnlpCYGie5cW_BYWDCXthLEdepAhnX4oU_q",
+
+            "source": "",
+
+            "comment": "Spam 🎁 200 TON reward",
+
+            "tags": [
+
+                "scammer",
+                "suspicious"
+            ],
+
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-04-27T00:00:01Z"
+
         }
     ]
 }
