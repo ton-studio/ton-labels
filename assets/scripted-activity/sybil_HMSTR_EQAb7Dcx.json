@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_HMSTR_EQAb7Dcx",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "Distribute TON, claim & send HMSTR, return fee",
+        "organization": "sybil_HMSTR_EQAb7Dcx"
+    },
+    "addresses": [
+        {
+            "address": "EQAb7Dcx6H_ZdW34jF9rlgy3odCvKlxK07WcmNaFcyh5cykv",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        }
+    ]
+}
