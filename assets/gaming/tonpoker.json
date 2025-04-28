@@ -43,6 +43,16 @@
             "tags": [],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-21T00:00:01Z"
+        },
+        {
+            "address": "EQBGY1y91jTEWZJQmnvn8TQeh0SgG0v6UzbufWLr00LWzHDW",
+            "source": "was deployed & funded by EQB1QBhy",
+            "comment": "Deposit & Withdrawal address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohh",
+            "submissionTimestamp": "2025-04-28T00:00:01Z"
         }
     ]
 }
