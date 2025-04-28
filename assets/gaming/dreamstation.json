@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "dreamstation",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/dreamstationapp",
+        "description": "",
+        "organization": "dreamstation"
+    },
+    "addresses": [
+        {
+            "address": "EQB4iZa4_qDv6dJBsT7fbssjumaT2HZ8Wh42nSbAAF7jRqxk",
+            "source": "",
+            "comment": "in-game deposit address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-28T00:00:01Z"
+        }
+
+        ]
+    }
