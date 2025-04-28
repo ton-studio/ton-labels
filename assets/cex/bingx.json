@@ -36,9 +36,35 @@
             "address": "EQCf5Vv1OqJOU6e99JYdYwRhEKn5GqzuLEKzJKEC92zwgNm3",
             "source": "",
             "comment": "Deposit & Withdraw address",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-21T00:00:00Z"
+        },
+        {
+            "address": "EQB0PZcC1m2DSV8z8IiRok4WXqCnky2WdU8sF59EN4PCpPCh",
+            "source": "",
+            "comment": "Fee for custodial wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-24T00:00:01Z"
+        },
+        {
+            "address": "EQAYXrXJuTlD0qE9tVaxVxu24a02Zy62U2Gz8txKWySilSez",
+            "source": "",
+            "comment": "Fee for custodial wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-24T00:00:01Z"
+        },
+        {
+            "address": "EQBFmHGBV9b-StaWQ8g1DmydUEZWkidiBLI5ea9aonrcirp2",
+            "source": "",
+            "comment": "Withdrawal address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-24T00:00:01Z"
         }
     ]
 }

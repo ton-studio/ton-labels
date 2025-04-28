@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "sybil_Blum_EQAG8KH5",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_Blum_EQAG8KH5"
+    },
+    "addresses": [
+        {
+            "address": "EQAG8KH53VF77UK7d-HsHMFEZzJMP1YtgouR-NZBU_-Wxtk5",
+            "source": "",
+            "comment": "Sent funds to Gate.io 11199085",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQCRjYySJFz6uPW6aFKzLSgOZpd6VrYgHVzLS5Q1XblFo-ue",
+            "source": "",
+            "comment": "Sent funds to Gate.io 11199085",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQCuf9jgMhTnIU61s-Y3Jgv5LCqBDw7jOQJF-zUAvKwc4UsV",
+            "source": "",
+            "comment": "Sent funds to Gate.io 11199085",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        }
+    ]
+}

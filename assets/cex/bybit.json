@@ -19,7 +19,7 @@
         {
             "address": "EQBkGAlMqAVTe2i9JR4DW0BlI25a6hhu5xgmhTdbdUWVQ7Vd",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "withdraws",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -27,7 +27,7 @@
         {
             "address": "EQCTMTmN2R2Fhbl9At-B9T0M5sgD0NBbRMsD6Lg592aXx7cC",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT operations",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -35,7 +35,7 @@
         {
             "address": "EQCMkj1lJzHOBGJmCNo7aQR-pE3qKdd0DWocr0XzDd_CErNz",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS operations",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -43,7 +43,7 @@
         {
             "address": "EQCZ-7akCw_dvl_Q5xyriWqCXdWubIPbuN7aDQlzX45paxCU",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -51,7 +51,7 @@
         {
             "address": "EQD-Q4vH7jEj2VL7T8fidxTsp-0NsC_qlnpJLImgbEPUotuj",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "NOT operations",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -59,7 +59,7 @@
         {
             "address": "EQBcqOrPFO0Z3glXWME_G3wt3bDG7fMIWJjigsjqgEnNlWot",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -75,7 +75,7 @@
         {
             "address": "EQCge0fy6N9JAnWDassuKu3WL5B4GADfzvmiT9wLok4YdPrI",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -83,7 +83,7 @@
         {
             "address": "EQACvGdEXPoGcwBK6RRdYZrwNYNNUN7OvTRVFIhUkwSCihtO",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -91,7 +91,7 @@
         {
             "address": "EQDPkB7XHgfCH34r9Yhqi7hw4mTEnpEQGY9C6RHiXHvsvdMF",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -99,7 +99,7 @@
         {
             "address": "EQCuf9xA0lPsnfpy2ux7qcKBk82Hg39vAUV0OS0AJQeNllht",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -107,7 +107,7 @@
         {
             "address": "EQDH5rK79LO771HqATmHCkXsIXEsQ3RGL-8sG4Q7rBJqa-wB",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -115,7 +115,7 @@
         {
             "address": "EQCtcRV4-JH-3AatB9l0_EXgBqH34QW2gveNoXr2ilMUr31Q",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -123,7 +123,7 @@
         {
             "address": "EQAamDt640mf7Hj6VtbtaLQjSXz9Bs421WmI1z1RnK0QMNcC",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -131,7 +131,7 @@
         {
             "address": "EQA4Po_6cQFtlGI5CENqKENLYtREeZpmpwwSV13dn73tozP3",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -139,7 +139,7 @@
         {
             "address": "EQDjzgXE2pdxMsJKOxAtqLX78uqRczN7Sd40bkpLBX91ebwy",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -147,7 +147,7 @@
         {
             "address": "EQAz26_Yc3sJt00JVhtVWdFU0aANpFQ5y133BeIVKpdAayJJ",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -155,7 +155,7 @@
         {
             "address": "EQDjPvhdF060V8By0e4QIVtpq5tkGS90ITAqscjia3rUvdWd",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -163,7 +163,7 @@
         {
             "address": "EQBNjyWlovsKRL7rJ0XzKplBF2qv2xfgZmXPRdtDTd5Ysx6A",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -171,7 +171,7 @@
         {
             "address": "EQDsWfZZ31JSSpYUb6zvmpgmF5o3nCBaNAEhxMunjXGgvUNx",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -179,7 +179,7 @@
         {
             "address": "EQCqDMN6cKPqetfkJlw6bcsXJrCB4-aKSSUaqJ0m37__DJgC",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -187,7 +187,7 @@
         {
             "address": "EQCnSlaxBareL0J_L4EL3Y8uvZfVMOYl53w9W5Xz6p261J4X",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -195,7 +195,7 @@
         {
             "address": "EQAVKL87Fv8ac0sftJcKhXTKRse3fBV3Wo5VI4-qhwwRORwb",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -203,7 +203,7 @@
         {
             "address": "EQAwssABs7N85Brq8Mqd0god5WqxqIxa69_4nMQmnbe7jTg5",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -211,7 +211,7 @@
         {
             "address": "EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb",
             "source": "ton weekly slides",
-            "comment": "",
+            "comment": "deposit wallet",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T20:24:29Z"
@@ -219,7 +219,7 @@
         {
             "address": "EQAQ4UeX65WJVD_T75kZpIzQN73YncciF7JGCGPFSqS_6nxO",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -227,7 +227,7 @@
         {
             "address": "EQBM5h_UEcWDocyaj0yuc64T0wxMdTl8hUH2nUVjCCCiBgQt",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -235,7 +235,7 @@
         {
             "address": "EQBrLwaTp7NFXGwynoXfJDw_Z1ueRSOHmMvALt02IGTs3bDk",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -243,7 +243,7 @@
         {
             "address": "EQCOBNcg-c3zBAayjDRrFwKNkO3AqlPYmQr-NtnM4L9jeQz-",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -251,7 +251,7 @@
         {
             "address": "EQDNUlwVkE17QCfq4IsxhiQmDzcc6Mn0_MoM23tYOFQQfE_R",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -259,7 +259,7 @@
         {
             "address": "EQCuYqGS2pbiZhYacCzJ9t6RwMNEHxfOulG8RC37IDGjCmeU",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -267,7 +267,7 @@
         {
             "address": "EQBOElaNkAW5VWYHXfTKKBW7VZ_Qq2LFALQZV-w0VyC-_SdS",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -275,7 +275,7 @@
         {
             "address": "EQBKbwqmUgTXDmBCQwYzwXj1yekl8f6z-QDiu9XScPfPrXH9",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -283,7 +283,7 @@
         {
             "address": "EQCe0u-fw_z1IGtSWTTzKmKnG_YlpdNZ5xcyKO11ePR35Ee9",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -291,7 +291,7 @@
         {
             "address": "EQDhuvyJ6uWNAdbStENr92g2vqtulyh6eTkj3b-L6Yei2ZGY",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -299,7 +299,7 @@
         {
             "address": "EQBnO-yjjJfI4iXrSfc55zRY70N6ICfXkKvs_hkJTESCYmsM",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -307,7 +307,7 @@
         {
             "address": "EQD-7_Wc3tCVoVZe4JK7f9VXdpihUlTmRPJJUGHsJZiQBPpG",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -315,7 +315,7 @@
         {
             "address": "EQBUD5m_zbO4HULKy0riXSPxaWgbbfkqZQHl-MJUxd4Po5P4",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -323,7 +323,7 @@
         {
             "address": "EQDOnZ_XWOs_htava3KYlhVuggPxqXX6mOnc6lWk87lQKhTK",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -331,7 +331,7 @@
         {
             "address": "EQDhHpW6CI0PlUhJoZL3ciJ8PER57WTullqcsCwCMJuROQBm",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -339,7 +339,7 @@
         {
             "address": "EQD1AmltGL9X8y9Y0OZVITEHOZ5mCalvcqhEPUSM2gjes_Hk",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -347,7 +347,7 @@
         {
             "address": "EQBUrgTT-7tRTXpLz7vX_dOBVz58y10G2_q-fy0NJWOvGkYT",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -355,7 +355,7 @@
         {
             "address": "EQBGyNYC-fd3Nyib6ocruYAKSwx5VCWK5bjBsTPQpZG7-5UI",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -363,7 +363,7 @@
         {
             "address": "EQA7gSeV9mwW5ZvgUhYXPXC-VYxUDcvJUIv9whg1MNdO6uPN",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -371,7 +371,7 @@
         {
             "address": "EQCGZocc-KHkF2eabGFE0ydGGy28rqG-KwI6c5yp8hYI6EH6",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -379,7 +379,7 @@
         {
             "address": "EQB-ah_GFwD_xNl1jEDa9fMTYLCYNohOnhiuhJI3VJ_ure4G",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -387,7 +387,7 @@
         {
             "address": "EQDLLnL7QfqVevAYY9sVcJK_UQ-J9NkdJNEXTGGwKhdQ-Wiv",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -395,7 +395,7 @@
         {
             "address": "EQCHViRR3TcPCzRdn3S7a0gCbsCSplc8wCwuQLtsTk23U0Yv",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -403,7 +403,7 @@
         {
             "address": "EQBTMdR9Rv-kV1itjp2hyvl32bPGHMThep3auOQ0e8J8XBeL",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -411,7 +411,7 @@
         {
             "address": "EQAtIl_p6sevutsRKgduQp55zTcQEp9loW09UUoXCNIRu17c",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -419,7 +419,7 @@
         {
             "address": "EQDVAwC5qjB-RMoYhCIOsWHNHucIitq1HfKH0I2U49n8clGw",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -427,7 +427,7 @@
         {
             "address": "EQCGWXRiH9m-QjeFPCKNNnP90mgv5_6iG1sxHoQzRTkmO0nb",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -435,7 +435,7 @@
         {
             "address": "EQAEI52HvyWWRP6EDY1i3-sB5yIe9TaO1zDODscULKMfxKOC",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -443,7 +443,7 @@
         {
             "address": "EQDwiOozDblJ3ymw49Xn1fL_tzhwcBoJlU7f9hqn9yMpyW6O",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -451,7 +451,7 @@
         {
             "address": "EQBq8rnjhtsh6LJ7NiRkjZafWPGyQWVeyM5XEpX0c6Miuqtn",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -459,7 +459,7 @@
         {
             "address": "EQAUbrMMxr7lVdNnZJIoWCatWNcgquPNhu6j75zZ3MrGTfp4",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -467,7 +467,7 @@
         {
             "address": "EQAakaxdtFlKUvA-ZJbjs2f1RW0ydBzGcbj0EoxwFgj4R-j2",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -475,7 +475,7 @@
         {
             "address": "EQAoaAhEIhCRLy_jHKoM_xaNjtaMuposjT1ZrAZ7BghylnTx",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -483,7 +483,7 @@
         {
             "address": "EQDCLQgsIixKS2iLv_imxRwAcpq8bEqRv73pmnSC4QTN3ULh",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$NOT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -491,7 +491,7 @@
         {
             "address": "EQBrqaiJe7EHqkmkMSbhEa__0ZeerQnDnv0i1v1PkePlcrxT",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "$DOGS withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -499,7 +499,7 @@
         {
             "address": "EQAm5YIy8YPzwC_PMBvqSsgScmknIR8sfG3VtL71IMf_UrHv",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -507,7 +507,7 @@
         {
             "address": "EQBKHz68xmvc76kCRb31QaUK2hxoikh1NLFYer_9kwOINGaa",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -516,7 +516,9 @@
             "address": "EQB9Ez1OQlyOAN4BVROkTmbm0WOyHnFyCux1eZZeXeKMVV6_",
             "source": "datalake-test.cex_labels_20241116",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         },
@@ -524,7 +526,9 @@
             "address": "EQB_l_Nt2j997cnhL4wJxPief7wXUnqz9n3kw7FVKXpW5L0A",
             "source": "datalake-test.cex_labels_20241116",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         },
@@ -532,7 +536,9 @@
             "address": "EQBKHCC8mm-SlPdfHIen84OotzpIOi5tyzYw3b54s8ytANhS",
             "source": "Proof of reserves audit report: https://www.bybit.com/common-static/cht-static/por/Bybit_PoR_Audit_Nov.pdf",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
         },
@@ -540,7 +546,9 @@
             "address": "EQDy3BhgaGzWWJh-K-2CFlMtjABEYNreqQfMfUrXI2xJa81w",
             "source": "Receive from Bybit 1,Bybit 7",
             "comment": "Receive from Bybit 1,Bybit 7",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-15T00:00:01Z"
         },
@@ -556,7 +564,9 @@
             "address": "EQDPfqI17W9lF-3OmAJu92GOn22BoTMdTmW6cY4s0V-ArRRY",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-15T00:00:01Z"
         },
@@ -564,7 +574,9 @@
             "address": "EQCtkG75GbHcDwN_ArpAkzD1Q-k0ou6goCzpBWnZP4ZjLfoA",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-16T00:00:01Z"
         },
@@ -572,7 +584,9 @@
             "address": "EQDL3cHsaI-70AIpXU7yvpBLj0qw1ip2z3V9zMfZV1WpXIk0",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-17T00:00:01Z"
         }
