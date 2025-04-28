@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "yarunin.ton",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://yarunin.com",
+        "description": "",
+        "organization": "yarunin.com"
+    },
+    "addresses": [
+        {
+            "address": "EQD2Y_Z5TRFh2_qOsAuHxT1d7pDs5Hx0MUmB9BTl5jb1E-Y7",
+            "source": "https://yarunin.com/direct-sale",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "johntad110",
+            "submissionTimestamp": "2024-04-27T00:00:26Z"
+        }
+    ]
+}
