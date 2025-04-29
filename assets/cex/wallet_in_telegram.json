@@ -151,6 +151,16 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-23T00:00:01Z"
+        },
+        {
+            "address": "EQD1BmMYCRqM-1MOxzIQTOOPd4PZKmZ5_8wM4JYLDpTH0DrD",
+            "source": "",
+            "comment": "NOT hot wallet",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
         }
     ]
 }
