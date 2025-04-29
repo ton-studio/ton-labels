@@ -12,7 +12,9 @@
             "address": "EQBHLwAD21SgZeRavXI9aBH6RWorHLr41mHYAUcH_v7G2Iy2",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "RomanHF",
             "submissionTimestamp": "2025-03-17T00:00:01Z"
         }

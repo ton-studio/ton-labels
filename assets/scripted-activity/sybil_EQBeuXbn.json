@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_EQBeuXbn",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "Distributed 0.005 TON to 1k addresses",
+        "organization": "sybil_EQBeuXbn"
+    },
+    "addresses": [
+        {
+            "address": "EQBeuXbnnwUVtm4gQEFEqaMzaBY1shxz9_ojzRbNEactUWZJ",
+            "source": "",
+            "comment": "Distributed 0.005 TON to 1k addresses",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        }
+    ]
+}
