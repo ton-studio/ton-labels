@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_bountybay_EQC4gyDn",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "Send 0.017 TON, execute the BountyBay check-in smart contract",
+        "organization": "sybil_bountybay_EQC4gyDn"
+    },
+    "addresses": [
+        {
+            "address": "EQC4gyDnR2tI1N9VMuYHrKdZAKIsHUxlNkm7du-0ImefcjVz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "rawen7485",
+            "submissionTimestamp": "2025-04-29T19:32:36Z"
+        }
+    ]
+}
