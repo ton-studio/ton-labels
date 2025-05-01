@@ -12,7 +12,9 @@
             "address": "EQAaBt63Ciw74awysnWRiJEqzcA0d_Jt_TdS_tICAbOvUCRS",
             "source": "",
             "comment": "Withdraw Address",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-19T00:00:01Z"
         }

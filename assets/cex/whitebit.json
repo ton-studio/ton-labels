@@ -11,7 +11,7 @@
         {
             "address": "EQAigd8MjqsJejMuIB0UPhErOlGe22dezkpjvpWt9kOrtkG8",
             "source": "",
-            "comment": "Deposit & Withdraw Address",
+            "comment": "Deposit & Withdraw Address, memo",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-20T07:07:33Z"

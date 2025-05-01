@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "label": "sybil_EQDWuULN",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "Distribute fee, then send fee to another address, do Blum trades, send fee back & back to sender. Binance ID used: 126838001",
+        "organization": "sybil_EQDWuULN"
+    },
+    "addresses": [
+        {
+            "address": "EQDWuULN-63V4HYGlPBIlt0etDfF_viIKYEwmA5DxMKOxMAN",
+            "source": "tonviewer",
+            "comment": "Was initially funded from Binance, then distributed TON to other addresses",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQBsbv8lhKsfmYU9-5k_FeQc6ppUGpZ3N47X72sKQnZnPjxN",
+            "source": "tonviewer",
+            "comment": "Received TON from EQDWuULN",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQCR68VChQWqvU9S5GCbOm02HwxmsmUsHRAE_UhmLr1AYoKb",
+            "source": "tonviewer",
+            "comment": "Example of a 2nd step sybil account",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQAoLbEzolrqD-KAZJ2Kh8EFPc6HQcsr3p6rO0Bd7R6s34Yj",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQDuUOW3W8NVF7XDjSzHc_siLpWQY4rNjOo1W3qDbnjeQJR1",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQDym7rbLcvLVujOK6jQyWhKgk4y_euM-mq3JY0HfmzAIrS1",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQBpCBrHzwoSyhYiQc22O2NWzczN2YwDdBfwUWAixDEIdd2s",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQBAsYaeLJvZxmlfZhQenKrsMgiu9kV0phfTp0ibZcGJ4Ne5",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQDPEkqG31N82W80sB0Hk_I6nkTI4PstmC3R68rBIKmzn3t2",
+            "source": "tonviewer",
+            "comment": "Used same Binance ID",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQCp8hJwAUR4kXT-6xfk2sF_FLTOd7XTzw4U9vP3caHBI-HM",
+            "source": "tonviewer",
+            "comment": "Used same Binance ID. Accounts used to farm Sidefans",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQBOM_Ni3eiIAsrP8jM_KpBKw8RR5KZlfdKGiskMNaCsN7Ma",
+            "source": "tonviewer",
+            "comment": "Used same Binance ID",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        }
+    ]
+}

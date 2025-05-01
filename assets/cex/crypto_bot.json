@@ -12,7 +12,9 @@
             "address": "EQCtiv7PrMJImWiF2L5oJCgPnzp-VML2CAt5cbn1VsKAxLiE",
             "source": "datalake-test.cex_labels_20241116",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
         },
@@ -20,7 +22,9 @@
             "address": "EQDshc_H_RAJNi5CG1oBQfUQ1lQBB6tz54Kf2h756Xp14_Cv",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-03-12T14:00:00Z"
         }

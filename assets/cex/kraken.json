@@ -12,7 +12,9 @@
             "address": "EQBdnCIFZhzSZVL-F96KEsruzUWfBlPHYCh_WBig95WoSuNE",
             "source": "Deposit & Withdraw address",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-20T00:00:01Z"
         }

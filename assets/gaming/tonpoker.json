@@ -12,7 +12,9 @@
             "address": "EQB1QBhyiY76wtIDTaV3pFtl8jE_aCrlGeDDTRbz2LaNjWYC",
             "source": "",
             "comment": "Deposit address",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-20T00:00:01Z"
         },
@@ -20,7 +22,9 @@
             "address": "EQA_E56TdEqPTlI85DI8iEQ2rygUwsFbQO7NpTeUcLxipde3",
             "source": "",
             "comment": "Deposit address",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-21T00:00:01Z"
         },
