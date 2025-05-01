@@ -1,0 +1,29 @@
+{
+  "metadata": {
+      "label": "forton",
+      "name": "Forton",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/FortonApp_bot",
+      "description": "",
+      "organization": "forton"
+  },
+  "addresses": [
+      {
+          "address": "EQAvJuEln0lP8c2YMZ4sKGwQRt_kmxmC494v8Y4TTHgOasKJ",
+          "source": "",
+          "comment": "Deposit contract",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-05-01T00:00:01Z"
+      },
+      {
+          "address": "EQCYjXR6tEcnIAhw4e6axCzlqO1zyzFnkny556ZwAzJpqGR9",
+          "source": "",
+          "comment": "Fee collector contract",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-05-01T00:00:01Z"
+      }
+  ]
+}
