@@ -295,7 +295,6 @@
             "submissionTimestamp": "2025-04-25T00:00:01Z"
         },
       {
-
             "address": "EQByQFVmgWK2DMnlpCYGie5cW_BYWDCXthLEdepAhnX4oU_q",
 
             "source": "",
@@ -307,26 +306,44 @@
                 "scammer",
                 "suspicious"
             ],
-
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-04-27T00:00:01Z"
 
         },
-      {
-
-            "address": "EQA50cwLEKMWzJuT8xZ7FfBuzDw5Tc96Ix8cL34ykFGd89ls",
-
+        {
+            "address": "EQBdZmfk67_CeCvURrJWaxg4pL0zusXn77STAOk-JxKeW_9Z",
             "source": "",
-
             "comment": "Spam 🎁 200 TON reward",
-
             "tags": [
-
                 "scammer",
                 "suspicious"
             ],
-
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-29T00:00:01Z"
+        },
+		{
+            "address": "EQBs1ANj02ic3OgXn_GMenl7lhqU-W3DZ5MuCy5WPmT-Ll08",
+            "source": "",
+            "comment": "🎁200TON Reward at https://tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rawen7485",
+            "submissionTimestamp": "2025-04-30T09:54:26Z"
+      },
+      {
+            "address": "EQA50cwLEKMWzJuT8xZ7FfBuzDw5Tc96Ix8cL34ykFGd89ls",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
             "submittedBy": "ef-code",
-            "submissionTimestamp": "2025-04-27T00:00:01Z"
+            "submissionTimestamp": "2025-05-02T00:00:01Z"
+        }
+      
+        
     ]
 }
