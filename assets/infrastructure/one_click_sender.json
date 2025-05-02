@@ -3,14 +3,14 @@
         "label": "one_click_sender",
         "category": "infrastructure",
         "subcategory": "",
-        "website": "https://ton.oneclicksender.com/",
+        "website": "https://ton.oneclicksender.com",
         "description": "One Click Sender is a token multi-send tool that allows you to send multiple tokens at once.",
         "organization": "one_click_sender"
     },
     "addresses": [
         {
             "address": "EQD8HYXj__i36wPU6hGWY8mfCzwj4W4gI89cGojc2iOhBmi_",
-            "source": "https://ton.oneclicksender.com/",
+            "source": "https://ton.oneclicksender.com",
             "comment": "",
             "tags": [],
             "submittedBy": "johntad110",
