@@ -448,9 +448,28 @@
             "address": "EQD3HSnYqkhMxae_K6vngnzRmmrOSOWugdfFxcWyR4hV_yPa",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": ["has-custodial-wallets"],
             "submittedBy": "johntad110",
             "submissionTimestamp": "2025-05-01T01:01:01Z"
+        },
+        {
+            "address": "EQB0Pe-86bTQrmztmIL2MXMT4fZTHw2UwXEG8rpv-vRTP9Qs",
+            "source": "",
+            "comment": "",
+            "tags": ["has-custodial-wallets"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-02T01:01:01Z"
+        },
+        {
+            "address": "EQAHsamD0jg4uG0FtCCkKBP2JPLLT02RaU2Ous8PX0sCre1o",
+            "source": "",
+            "comment": "",
+            "tags": ["has-custodial-wallets"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-02T01:01:01Z"
         }
+
+
+        
     ]
 }
