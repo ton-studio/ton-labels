@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_HMSTR_EQBP13UB",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "Distribute TON, claim & send mintless HMSTR, return fee, send TON & HMSTR to Binance 107975754",
+        "organization": "sybil_HMSTR_EQBP13UB"
+    },
+    "addresses": [
+        {
+            "address": "EQBP13UBcNR0rVjYWgIxFNRrrkfBesYj4TJ6KdW4Gcu5Hqd5",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        }
+    ]
+}
