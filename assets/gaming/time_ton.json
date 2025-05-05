@@ -55,6 +55,14 @@
             "tags": [],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-20T00:00:01Z"
+        },
+        {
+            "address": "EQAkBZb3nd77dfQulgy5tZhLJI-98nn0p_w58-kVBR7CMpak",
+            "source": "tonviewer",
+            "comment": "wallet for verification payments",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
         }
     ]
 }
