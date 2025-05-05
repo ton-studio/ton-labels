@@ -1,12 +1,11 @@
 {
     "metadata": {
-        "label": "Starsov",
-        "name": "Starsov | Buy Telegram Stars",
+        "label": "ltarsov",
+        "name": "Starsov",
         "organization": "starsov",
         "category": "merchant",
         "subcategory": "",
-        "website": "https://t.me/StarsovBot",
-        "description": "⭐️ Cheap Stars provider!"
+        "website": "https://t.me/StarsovBot"
     },
     "addresses": [
         {
