@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "label": "scroogers_bank",
+    "category": "lending",
+    "subcategory": "",
+    "website": "https://t.me/scroogers_bank_bot",
+    "description": "NFT lending app",
+    "organization": "scroogers_bank"
+  },
+  "addresses": [
+    {
+      "address": "EQD76J-0tcftqT-rl6k-SC12gZgaHTBKpwvrUfx4IoEYzoy6",
+      "source": "",
+      "comment": "bank owner address",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-05-05T00:00:01Z"
+    },
+    {
+      "address": "EQC_dIxLWliG8ZInAySYnJ9JDniwvHNMXgouR9kJNFd2BM_-",
+      "source": "",
+      "comment": "Loan pool TON",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-05-05T00:00:01Z"
+    },
+    {
+      "address": "EQD_n1Dc2yKyPSDGeWPNytP4v6FxCyErruZ8GeEjV5hXSk1d",
+      "source": "",
+      "comment": "Loan pool USDT",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-05-05T00:00:01Z"
+    }
+  ]
+}
