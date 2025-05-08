@@ -379,5 +379,17 @@
             "submittedBy": "BiXingzhe",
             "submissionTimestamp": "2025-05-08T00:00:00Z"
         }
+        },
+	    {
+            "address": "EQBaXZyFBbBnDQfBIvsOoS6nxWJzf7yBoGIWG0OuyUrX8S6R",
+            "source": "",
+            "comment": "Spam 🎁1000 USD reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
+	    }
     ]
 }
