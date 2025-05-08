@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "dragonton",
+        "name": "DragonTon",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/dragoneggstonbot",
+        "description": "",
+        "organization": "dragonton"
+    },
+    "addresses": [
+        {
+            "address": "EQCpTrqWMlYPzjz6q8dkxR4DqoXFk6HMaLH9ZCz9c9eTG_eS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Markosoletti",
+            "submissionTimestamp": "2025-05-06T00:00:01Z"
+        }
+    ]
+}
