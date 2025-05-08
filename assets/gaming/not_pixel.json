@@ -39,6 +39,14 @@
             "tags": ["nft"],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-05-01T00:00:01Z"
+        },
+        {
+            "address": "EQBHLz2_V3UfFTVnpJfDd4UMK_rJpEd3X5gCK_t9b-NS7CFx",
+            "source": "",
+            "comment": "PX staking NFT collection",
+            "tags": ["nft"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
         }
     ]
 }
