@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tonbattleground",
+        "name": "Tonbattleground",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TON_BATTLEGROUND_bot",
+        "description": "",
+        "organization": "tonbattleground"
+    },
+    "addresses": [
+        {
+            "address": "EQCCGmhYONdIWiQu8JVzfX7SUq0rKc9yV63DqLMvomFeKGGX",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "MaxStamp",
+            "submissionTimestamp": "2025-05-06T00:00:01Z"
+        }
+    ]
+}
