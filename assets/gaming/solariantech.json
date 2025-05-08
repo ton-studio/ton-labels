@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "solariantech",
+        "name": "Solariantech",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/solariantechbot",
+        "description": "",
+        "organization": "solariantech"
+    },
+    "addresses": [
+        {
+            "address": "EQD9F5xBJbzp4CQdXIxBVHr2irk6L0-JYcMeXgqPux-cRz6O",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "continentalV",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        }
+    ]
+}
