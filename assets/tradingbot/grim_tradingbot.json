@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "grim_tradingbot",
+        "name": "$GRIM Trading Bot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/GrimSniper_Bot",
+        "description": "",
+        "organization": "grim_tradingbot"
+    },
+    "addresses": [
+        {
+            "address": "EQBV1FftfM7gM6REij4bL6Av7Tqn896ImzsytVgG7M2uttpH",
+            "source": "",
+            "comment": "Fee address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
+        }
+    ]
+}
