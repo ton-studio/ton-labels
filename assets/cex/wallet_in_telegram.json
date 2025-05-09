@@ -171,6 +171,16 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-05-01T00:00:01Z"
+        },
+        {
+            "address": "EQAj_lWM30Qkk4Gu82Ry5kpQcqJLqX-2Gy9XkdpgE67JLc5Z",
+            "source": "",
+            "comment": "CATI hot wallet",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-09T00:00:01Z"
         }
     ]
 }
