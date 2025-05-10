@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "crypton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/CryptonLobbyBot",
+        "description": "",
+        "organization": "crypton"
+    },
+    "addresses": [
+        {
+            "address": "EQBdJY4Z6U0qmfN-wBAdVLz87S4iYbLfAmWQo0W5uLBRuwdT",
+            "source": "",
+            "comment": "https://crypton.xyz/fund shares",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-10T00:00:01Z"
+        }
+    ]
+}
