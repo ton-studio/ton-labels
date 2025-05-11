@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "ecorpay",
+      "category": "merchant",
+      "subcategory": "",
+      "website": "https://token.ecorpay.com/",
+      "description": "",
+      "organization": "ecorpay"
+  },
+  "addresses": [
+      {
+          "address": "EQCQ3XICarr2Zyt8Jjus18AdkInf6Zqmrxx24DtJqFdbtaAr",
+          "source": "",
+          "comment": "Ecor token airdrop distributor",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-05-11T00:00:01Z"
+      }
+  ]
+}
