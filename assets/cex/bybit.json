@@ -589,6 +589,16 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-17T00:00:01Z"
+        },
+        {
+            "address": "EQCS0u65GMxYKd4XGJhfhju1zt_PYD_nBdPTfSffvQ__Fh7A",
+            "source": "",
+            "comment": "CATI deposits",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-10T00:00:01Z"
         }
     ]
 }
