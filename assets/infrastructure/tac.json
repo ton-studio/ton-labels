@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "tac",
+    "category": "infrastructure",
+    "subcategory": "",
+    "website": "https://tac.build",
+    "description": "TON EVM sidechain",
+    "organization": "tac"
+  },
+  "addresses": [
+    {
+      "address": "EQARTW5K0ZamQGsmo45iUxTKcwtji8GQm9M_RA3-ykvbf4wE",
+      "source": "",
+      "comment": "First Force Officer's Pass",
+      "tags": ["nft"],
+      "submittedBy": "shuva10v",
+      "submissionTimestamp": "2025-05-10T00:00:01Z"
+    }
+  ]
+}
