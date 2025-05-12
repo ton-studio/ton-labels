@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "sticker_bot",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://sportsbet.io",
+        "description": "",
+        "organization": "open_builders"
+    },
+    "addresses": [
+        {
+            "address": "EQDQoUlIK4LH7R0TABtCcl5YP_pzMJPEqxm7lBbG7s3O71Dw",
+            "source": "",
+            "comment": "treasury & payouts, multisig_v2",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQC-7i3618qf_iFDCZkhHG7V2H1GaXJ70p_KxhzR3ZM3FYTp",
+            "source": "",
+            "comment": "multisig caller",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQB1mt5GmtxzbjqW61IBCSc4Q3hVtoF0cleOn1vHa1y11tvr",
+            "source": "",
+            "comment": "Fragment payouts",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        }
+    ]
+}
