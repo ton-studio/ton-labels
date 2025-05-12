@@ -2,7 +2,7 @@
     "metadata": {
         "label": "tonhedge",
         "name": "Tonhedge",
-        "category": "tradingbot",
+        "category": "dex",
         "subcategory": "",
         "website": "https://t.me/ton_hedge_bot",
         "description": "",
@@ -15,7 +15,7 @@
             "comment": "Staking",
             "tags": [],
             "submittedBy": "Aleks24322",
-            "submissionTimestamp": "2025-05-09T00:00:01Z"
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
         }
     ]
 }
