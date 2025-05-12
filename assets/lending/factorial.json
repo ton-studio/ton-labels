@@ -11,7 +11,18 @@
         {
             "address": "EQCrEHHG4Ff8TD3PzuH5tFSwHBD3zxeXaosz48jGLebwiiNx",
             "source": "",
-            "comment": "tsTON / USDT",
+            "comment": "Basic Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-31T00:00:01Z"
+        },
+        {
+            "address": "EQA3m4H3vTUOeXGW-o6AEyZxv6i79tR-i1f4XiW588HJoqND",
+            "source": "",
+            "comment": "Storm-TON Market",
             "tags": [
                 "defi",
                 "pool"
@@ -22,7 +33,7 @@
         {
             "address": "EQAYJdU9JFRcKAwMZv3MqD0QVjBEMGO_4mgwOJtTBOHR22ec",
             "source": "factorial website",
-            "comment": "USDT-SLP / USDT",
+            "comment": "Storm-USDT Market",
             "tags": [
                 "defi",
                 "pool"
@@ -33,7 +44,7 @@
         {
             "address": "EQBCXQp2sSTJhvnV6DlBqhTsdNMZc_tJcXQJ5XjoWiy-OAge",
             "source": "factorial website",
-            "comment": "tsTON / USDT",
+            "comment": "Advanced Market",
             "tags": [
                 "defi",
                 "pool"
@@ -44,7 +55,7 @@
         {
             "address": "EQCOA3gN3Dk-ml66zux_vuia7mTIBTENKxtomD6TDgnFZXoH",
             "source": "factorial website",
-            "comment": "USDT-SLP / TON-SLP / USDT",
+            "comment": "Advanced-Storm Market",
             "tags": [
                 "defi",
                 "pool"
