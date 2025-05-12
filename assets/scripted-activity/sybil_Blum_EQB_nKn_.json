@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_Blum_EQB_nKn_",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "300",
+        "organization": "sybil_Blum_EQB_nKn_"
+    },
+    "addresses": [
+        {
+            "address": "EQB_nKn_CUftVVAVcgVlFFGuouHUHpzQod7WpfU6Eix1EiTw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        }
+    ]
+}

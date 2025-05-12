@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "label": "sybil_Blum_EQDve13J",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "1100 controlled wallets",
+        "organization": "sybil_Blum_EQDve13J"
+    },
+    "addresses": [
+        {
+            "address": "EQBhgFDZ6GDZCFcyZ5Yn-KXV6j9ReWnhbD0atIzgzx8xyoaQ",
+            "source": "",
+            "comment": "funds redistribution among controlled wallets",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        },
+        {
+            "address": "EQCUr6LROytcjsFd3ad_FzeoqvoD65XZcaLFPOCUuOI3KG9T",
+            "source": "",
+            "comment": "change collection & sent to okx custodial wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        },
+        {
+            "address": "EQDve13JYlerooZIfjkwd8Qz86KYTt5BbdHbXunkqAaSz8Yj",
+            "source": "",
+            "comment": "also sent TON to same okx custodial wallet and funded several TON distributors",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        },
+        {
+            "address": "EQAWS_OY0009lSsK0qSRwXiHPyWU_On0q7MRdjveuGK99JJa",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        },
+        {
+            "address": "EQD01J36oLykkaHIu6T6aBeqxjtiYt0Rh30FY8zExfXesQ_g",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        },
+        {
+            "address": "EQC2yZOtH2mkpXEnVM8LK-hlM9fGYBb9-c9TdfPOclzaxHGV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        },
+        {
+            "address": "EQAHBLdjDprRAGr2X_B1WBc3rPo6nY0IwLTXL6koHq_0SX3Q",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:00Z"
+        }
+    ]
+}
