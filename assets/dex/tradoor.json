@@ -17,6 +17,26 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-03-20T00:00:01Z"
+        },
+        {
+            "address": "EQANNroxzBXXdt1Sm5kIcnNZcrDEzux3dB-e0zROSOGQhPdm",
+            "source": "",
+            "comment": "TON vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQAbMd53-_OCsQI60RTTg-GRUGNm1uFK-MYmRpkIHTojCWft",
+            "source": "",
+            "comment": "V3 USD valut",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
         }
     ]
 }
