@@ -400,6 +400,17 @@
             ],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-05-12T00:00:01Z"
+	    },
+	    {
+            "address": "EQDjS7nGdj1Wa0DdQWfP51BFFl1-MYYQKpS1GJhWcehLqOYc",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
 	    }
     ]
 }
