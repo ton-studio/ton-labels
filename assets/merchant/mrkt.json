@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "mrkt",
+        "name": "MRKT",
+        "organization": "nexusverse",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/mrkt",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQBP_J1rHkREU1ftv6XS1I9UHNragWFMapZnzgZzOCgjBIiO",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
+        }
+    ]
+}
