@@ -12,8 +12,8 @@
         {
             "address": "EQBXZo11H4wUq3azWDphoUhlV710a-7rvUsqZUGLP9tUcf37",
             "source": "",
-            "comment": "Staking",
-            "tags": [],
+            "comment": "TON Hedge LP Token",
+            "tags": ["defi"],
             "submittedBy": "Aleks24322",
             "submissionTimestamp": "2025-05-12T00:00:01Z"
         }
