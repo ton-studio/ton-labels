@@ -181,6 +181,16 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-09T00:00:01Z"
+        },
+        {
+            "address": "EQBtsPAiYytiafDU2_jqYKhEi7wrz8aBLjGvjMZAXCaK9wvX",
+            "source": "",
+            "comment": "HMSTR hot wallet",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
         }
     ]
 }
