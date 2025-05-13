@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "ttc",
+        "name": "Timeton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/timetonbot",
+        "description": "",
+        "organization": "TimeTon"
+    },
+    "addresses": [
+        {
+            "address": "EQAdqjFt2ufdqCnEvK40KahgvpBy9cZyaJrk_melEEDehQFT",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "InvestGuru1",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
+        }
+    ]
+}
