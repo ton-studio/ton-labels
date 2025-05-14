@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsov",
+        "name": "Starsov",
+        "organization": "starsov",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarsovBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCDz6e7hfExr-VaDV0OJEWoAtL1q4TsNNSIRCLb2bc4KxHa",
+            "source": "",
+            "comment": "Starsov's main wallet",
+            "tags": [],
+            "submittedBy": "mtshgames",
+            "submissionTimestamp": "2025-04-21T17:00:02Z"
+        }
+    ]
+}
