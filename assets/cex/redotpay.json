@@ -12,7 +12,9 @@
             "address": "EQCGkOk-Ewt6HvkVXtoXufBs6TAlBncVTjmGxU5tg-tjvTFi",
             "source": "",
             "comment": "hot wallet",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-19T10:09:26Z"
         },
