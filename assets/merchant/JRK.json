@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "jrk",
+        "name": "Jrk",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/jrkCommunity",
+        "description": "",
+        "organization": "JRK"
+    },
+    "addresses": [
+        {
+            "address": "EQAZhDVtOcEhWKl6gydjRpxnN-s8BryMBEjUOIUT_nbD-0QP",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "InvestGuru1",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
+        }
+    ]
+}
