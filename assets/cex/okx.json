@@ -157,7 +157,9 @@
             "address": "EQD5vcDeRhwaLgAvralVC7sJXI-fc2aNcMUXqcx-BQ-OWnOZ",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
         },
