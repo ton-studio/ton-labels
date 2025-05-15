@@ -383,7 +383,9 @@
             "address": "EQBQAGSnFqLxvMV-PXzPH1_hmPDDjG5mhxp4ZABEBKz_cjLG",
             "source": "",
             "comment": "received 1.4B from OKX9 wallet",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-14T01:01:01Z"
         },
@@ -580,6 +582,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-05-14T01:01:01Z"
+        },
+        {
+            "address": "EQB1505WD8vi-F5gXx2x9_tE7J2tM3iuk6HykrDOTuzZs3Sq",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQD2Qq_HzoUy_R_3yczjZ3LtcLgis8_rCinpgHtD9gep3_-G",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
         }
     ]
 }
