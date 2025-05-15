@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "jetton",
+        "name": "Jetstars",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://jetstars.xyz",
+        "description": "",
+        "organization": "jetton"
+    },
+    "addresses": [
+        {
+            "address": "EQBGY1y91jTEWZJQmnvn8TQeh0SgG0v6UzbufWLr00LWzHDW",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky4truli",
+            "submissionTimestamp": "2025-05-15T00:00:01Z"
+        }
+    ]
+}
