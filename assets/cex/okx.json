@@ -656,6 +656,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBOGKXLQ_A8G5WsKQ-bDgZxB1GN9jCI7plJ93WYiXpLlynm",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "Does staking @ tonstakers",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBImtSyquflZFlf-fhIcCuWWtIvhZC57iVGYk8RGdg-nLjW",
+            "source": "",
+            "comment": "Distribute TON among custodial wallets",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
         }
     ]
 }
