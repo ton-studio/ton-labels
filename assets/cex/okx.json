@@ -149,7 +149,9 @@
             "address": "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
         },
@@ -926,6 +928,46 @@
             "tags": [
                 "has-custodial-wallets"
             ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBsuIgpxJJ94Lm51bo65oLx9DS9aD90TEsV_q20l4gfswAi",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCqa-8NrR5jikSFbt9Q5Ry-E0zEnVcym-GuhkDBZlDg8Y_1",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDxXMmqeOkLjqyNSfe_WxiIjsn1Ua8QuOI3qYASEAOaOXpS",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQAjKtkVYt6XarJtNLuDsL3Y7-ui0ljC94xpalkYTiX2NmPx",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDBzyGq1HhumlIFw7bBPDGpzN_a8gfgJN-e1blJe-_Rt7YX",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "Does staking @ tonstakers",
+            "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-05-15T01:01:01Z"
         }
