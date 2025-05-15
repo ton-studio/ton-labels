@@ -73,6 +73,14 @@
             "submissionTimestamp": "2025-05-13T00:00:01Z"
         },
         {
+            "address": "EQB18Su7qonKnUElwRNC5g0j3X5z18kbAugDNZb2x5YWBgsf",
+            "source": "",
+            "comment": "wallet for verification payments",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-15T00:00:01Z"
+        },
+        {
             "address": "EQBvy1gCQONhlogDGMLRfCWHWO-X-T8K-mRTfcDRz0MdxXiC",
             "source": "tonviewer",
             "comment": "",
