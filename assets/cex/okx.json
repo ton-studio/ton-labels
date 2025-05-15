@@ -672,6 +672,262 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBN8d2IB2mXuAwtM0dOSJBeR3zjLn1bDmqN_y07IwUo3yX8",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDb3pJWfb5I7SzuLvjZMUgCOyPy1qR_eJMJJpXZgHz1skxD",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCnqZ978vQmg-utad1Cfr6psT9BCQDRfItrUXhb8UrATqWQ",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBwSbcRQpwTiEXsOnIBKLcneW2p-k7FsmCIzD0d_B1dkMGd",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDxmasoTjikxy5BhobeJ9kUSUoiJzqaStF9-kbUhd7LQYpX",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBBeLqC8q6bQD6IGjWBG11pNP21ByAJh5bzch_sYIC-LF-Y",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDb6sxWx6RLrzSJM8CD35lx73rnO3mrLlIwjgxQx90nOZY_",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDNRC3S9vnf4MbPy-1tC08onXAYihQa1phv2Sf7ABg2hBC3",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDZzHJo16vnMQRHNmjTYfuFdjJxZWDSuY2RWDgWAtorAc8P",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDv9Cy0t8KdBk_esCFe3VVXbHWU5UPNWe1SGT62y4-_2e5V",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCIWYbUsSLX8SwnZG42UpLS_aqX3ul0sQevMwCmspfXGktY",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQAEmz7J1l8AyaYberTWOyZgLesBulrr0EjzfIKqdWQxZueP",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQAJXUF5AqHI8x6EDuh3hozx6gV1Ic62mrsAlFJdByoMx4ue",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCXrAHMexPW_6IwHPHTQF2N_bMM-KJqTVdwCiX4oapUH5-r",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQAB9aiabd1B2qNjnSIcSVT3z8EPuCHNeb5HzaHmxJM9hqls",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "$NOT withdraws",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDKwnQDlRYvStA0bcvjcIOknh2B-adaIMAtWQsCzoTLTh34",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCiV97n9efLmFi8qeAU0SafSkbjZhbWNYABYb38lvln4lxk",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBlYkm2HyAivZoKP6skaw02bfZQyxPj_3NJjAJp61pC3KDf",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQBXzIZ5k-1jQlGR7hGGOMpIJIbrE8XQieWesPHymfoxa5TO",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQAaG6hRNoL78b3zA7VJKQBap_lBzL4ekzYXs2uYfrOaxYHa",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQD3DqNhiMbJebjiugTaOz1yxnDE9SSOp3lHKLrwIfBPrvU6",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQANL6-PmVenYBTCpKXDwNYaQPJ-fJFL__hWR0OHAtYRCtrn",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDtQfz1ZaHdEzCj5taHbAPULBbU-IU5Blba020x_6PFcRTD",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCprDwEuxjCPCMJFDo4N_r2vj3keRrfPY5bqb_-pyHltJM3",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCJPyKujoTaSic1XYuOWkBjnghsjBSRswRC2kPHtGcXRubM",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDV3FPAkxE-U97RrBilbxyzTd_Big1T7UTX9qoTcMrXnG_4",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDuzVa4dFIYdl2tacr2-KFRIJzzS-VLpCh1TXAc30H4Ggah",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDi3Xl2qVUHbPOL0ukDXKtN63swP-3i8KwnN8NuQGu_fb3U",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQCdrSvb9R9aScSpxtSktAAUcGJHMeG9PlpMfzjKzJJxvQg3",
+            "source": "https://www.okx.com/proof-of-reserves/download",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
+        },
+        {
+            "address": "EQDcaktrqeiLZbMS-piyBJ0Te7AttkVwYHKJEHIzJxvhDoKN",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-15T01:01:01Z"
         }
     ]
 }
