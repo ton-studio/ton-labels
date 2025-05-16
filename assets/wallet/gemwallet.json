@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "gemwallet",
+        "name": "Gem Wallet",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://gemwallet.com",
+        "description": "",
+        "organization": "gemwallet"
+    },
+    "addresses": [
+        {
+            "address": "EQDxJKarPSp0bCta9DFgp81Mpt5hpGbuVcSxwfeza0BinzDw",
+            "source": "https://github.com/gemwalletcom/core-ts/blob/0e292ee2cffb6da187063f06487af2ed1c4f20d6/packages/swapper/src/referrer.ts#L14",
+            "comment": "Swap referral address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-16T00:00:01Z"
+        }
+    ]
+}
