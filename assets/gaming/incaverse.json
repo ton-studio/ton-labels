@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "incaverse",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/incaversebot/game",
+        "description": "",
+        "organization": "incaverse"
+    },
+    "addresses": [
+        {
+            "address": "EQApRrRySNTfAMXT3LCqxudUyTNLBs3U_3ZQ_pkciE3Y5Vz8",
+            "source": "",
+            "comment": "Distributes inca token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-17T00:00:01Z"
+        },
+        {
+            "address": "EQDSCR-S4E3Unugwh8TgAK92VQ9j-fAuxgy5O2I6rLC5nGKG",
+            "source": "",
+            "comment": "INCA token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-17T00:00:01Z"
+        }
+    ]
+}
