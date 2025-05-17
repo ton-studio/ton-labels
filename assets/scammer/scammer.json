@@ -294,23 +294,123 @@
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-25T00:00:01Z"
         },
-      {
-
+        {
             "address": "EQByQFVmgWK2DMnlpCYGie5cW_BYWDCXthLEdepAhnX4oU_q",
-
             "source": "",
-
             "comment": "Spam 🎁 200 TON reward",
-
             "tags": [
-
                 "scammer",
                 "suspicious"
             ],
-
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-04-27T00:00:01Z"
-
-        }
+        },
+        {
+            "address": "EQBdZmfk67_CeCvURrJWaxg4pL0zusXn77STAOk-JxKeW_9Z",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-29T00:00:01Z"
+        },
+		{
+            "address": "EQBs1ANj02ic3OgXn_GMenl7lhqU-W3DZ5MuCy5WPmT-Ll08",
+            "source": "",
+            "comment": "🎁200TON Reward at https://tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rawen7485",
+            "submissionTimestamp": "2025-04-30T09:54:26Z"
+      },
+      {
+            "address": "EQA50cwLEKMWzJuT8xZ7FfBuzDw5Tc96Ix8cL34ykFGd89ls",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-02T00:00:01Z"
+	},
+	{
+            "address": "EQBjne5oSg0fNW9aZ_ZQ1Hxqku9KL-eeGcBnbj5nNxL_c026",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        },
+	{
+            "address": "EQBPDt8njdiuBpWwvkLfiLqeiter4FCyMWE4cvZPQDK_23JH",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        },
+	{
+            "address": "EQAAOa0gpiL4vEpZB_wmOtpaREgpXFPdVuqKBj6Btc8OkcdZ",
+            "source": "",
+            "comment": "Spam ❗️MEXC Refund❗️For refund add to contacts +14407652446 and message on telegram",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "AgentDurop",
+            "submissionTimestamp": "2025-05-06T00:00:01Z"
+},
+  {
+            "address": "EQCZA62azRUhscqpPDcbD4eF0blcOrlA8_G_NnbJO586Ful4",
+            "source": "",
+            "comment": "🎁 500TON Reward at https://tonf.cc",
+            "tags": [],
+            "submittedBy": "BiXingzhe",
+            "submissionTimestamp": "2025-05-08T00:00:00Z"
+        },
+	    {
+            "address": "EQBaXZyFBbBnDQfBIvsOoS6nxWJzf7yBoGIWG0OuyUrX8S6R",
+            "source": "",
+            "comment": "Spam 🎁1000 USD reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
+	    },
+	    {
+            "address": "EQDDm7EsaRY5EVgrzR7LAZYdvKGlkB1EhSB-RZsx9OD-Gc3v",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+	    },
+	    {
+            "address": "EQDjS7nGdj1Wa0DdQWfP51BFFl1-MYYQKpS1GJhWcehLqOYc",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
+	    }
     ]
 }

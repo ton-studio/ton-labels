@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "label": "mrbeast",
+        "name": "MrBeast",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TheMrBeast_bot",
+        "description": "",
+        "organization": "mrbeast"
+    },
+    "addresses": [
+        {
+            "address": "EQCgcY5Nx-FaXH2x_8-N40ifyqjjvtq0TsWC-x4Bg4yF3RfG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-29T10:09:26Z"
+        },
+        {
+            "address": "EQDlFUho2J6dMrzT6gJlXrs3M_Fp6oeH6OYmurmwqYZVezKo",
+            "source": "",
+            "comment": "New address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        }
+
+        
+    ]
+}

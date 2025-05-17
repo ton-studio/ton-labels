@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "richbot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/RichRevolutionbot",
+        "description": "",
+        "organization": "richbot"
+    },
+    "addresses": [
+        {
+            "address": "EQANAktlhhOt43RaGR62kxXfN3Npn-TqxMrLWhO1-2xmh3lb",
+            "source": "",
+            "comment": "Claim smart contract",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
+        },
+        {
+            "address": "EQAMhWLCVi3r_qZaGApxDr6Z6Hz43wbaqK1nE53FojA82K8m",
+            "source": "",
+            "comment": "Treasury",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
+        }
+    ]
+}
