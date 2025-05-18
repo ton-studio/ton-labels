@@ -1,0 +1,21 @@
+{ 
+  "metadata": { 
+    "label": "tokentable", 
+    "name": "Tokentable", 
+    "category": "bridge", 
+    "subcategory": "", 
+    "website": "https://sign.global/tokentable", 
+    "description": "", 
+    "organization": "tokentable" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQAE9Eip9_4pFAY2NTnvznG5wu48o8d_N1slC-1EHON_LROw", 
+      "source": "", 
+      "comment": "", 
+      "tags": [], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2025-05-18T00:00:01Z" 
+    } 
+  ] 
+}
