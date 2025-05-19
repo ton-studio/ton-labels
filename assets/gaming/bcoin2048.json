@@ -1,0 +1,21 @@
+{
+  "metadata": {
+      "label": "bcoin2048",
+      "category": "gaming",
+      "name": "Bcoin 2048",
+      "subcategory": "",
+      "website": "https://t.me/Bcoin2048bot",
+      "description": "",
+      "organization": "bcoin2048"
+  },
+  "addresses": [
+      {
+          "address": "EQApTNbdAvdvZdkf3oNKBZVwX-0MCy6PurLDHk71nhaIgWLK",
+          "source": "",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "shuva10v",
+          "submissionTimestamp": "2025-05-17T00:00:01Z"
+      }
+  ]
+}
