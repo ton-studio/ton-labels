@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "litrbull",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/litrbullbot",
+        "description": "",
+        "organization": "dreamstation"
+    },
+    "addresses": [
+        {
+            "address": "EQAuLb7CVa_3OLRsPisEBrZrhwlWV2INgwwesJ-hKKH3Qnj0",
+            "source": "",
+            "comment": "LITR token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQB5jJBwRZhY0liwQ_Fdm05jZkM2XiUFL7TV0JW1pMmECXx1",
+            "source": "",
+            "comment": "Airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
+        }
+    ]
+}

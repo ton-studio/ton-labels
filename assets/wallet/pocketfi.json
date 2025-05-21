@@ -49,6 +49,22 @@
             "tags": [],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-18T00:00:01Z"
+        },
+        {
+            "address": "EQBxo4huVJXaf1ZOdwnnDdxa9OVoyNGhXMsJVzobmxSWITCH",
+            "source": "",
+            "comment": "SWITCH token address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQDbKlvIUsFrPAwdlRTE0d-rOOZEqx5TqRP0LOT5QckTsCri",
+            "source": "",
+            "comment": "SWITCH claim address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
         }
     ]
 }
