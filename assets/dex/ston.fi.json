@@ -469,6 +469,16 @@
             ],
             "submittedBy": "johntad110",
             "submissionTimestamp": "2025-04-22T00:00:00Z"
+        },
+        {
+            "address": "EQAiLV677BgHNXEUuDJ3Cw8K5WOiJSO86xh8YQq2LthJEoED",
+            "source": "",
+            "comment": "stonfi_router_v2: SWITCH",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-22T00:00:01Z"
         }
     ]
 }

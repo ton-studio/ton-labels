@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "label": "duckchain",
+    "category": "infrastructure",
+    "subcategory": "",
+    "website": "https://duckchain.io",
+    "description": "TON EVM sidechain",
+    "organization": "duckchain"
+  },
+  "addresses": [
+    {
+      "address": "EQBYrPnfxisQMLIwtYCKC5KFedToT0OizjPAT3cLlcxIbJhU",
+      "source": "bridge.duckchain.io source code",
+      "comment": "Bridge address",
+      "tags": [],
+      "submittedBy": "shuva10v",
+      "submissionTimestamp": "2025-05-22T00:00:01Z"
+    },
+    {
+      "address": "EQABbkaGs-mjWe6ifQ2h11GOEdGRyAPNrZi41-MK1uX92rSZ",
+      "source": "bridge.duckchain.io source code",
+      "comment": "Staking address",
+      "tags": [],
+      "submittedBy": "shuva10v",
+      "submissionTimestamp": "2025-05-22T00:00:01Z"
+    }
+  ]
+}
