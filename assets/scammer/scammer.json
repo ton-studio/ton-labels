@@ -389,6 +389,39 @@
             ],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-05-08T00:00:01Z"
+	    },
+	    {
+            "address": "EQDDm7EsaRY5EVgrzR7LAZYdvKGlkB1EhSB-RZsx9OD-Gc3v",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+	    },
+	    {
+            "address": "EQDjS7nGdj1Wa0DdQWfP51BFFl1-MYYQKpS1GJhWcehLqOYc",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
+	    },
+	    	 {
+            "address": "EQDGN4P9jchAOBPAAydt_f2ujlGemQ__v8RpZs9D4YwapXwg",
+            "source": "",
+            "comment": "Spam 🎁500TON Reward ",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Johnu234",
+            "submissionTimestamp": "2025-05-19T00:00:01Z"
 	    }
     ]
 }

@@ -171,6 +171,22 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQAx1McP8Fq1_gg2q2Le0l0GnnAgmMyeyZ6gzK7nmPHI_C02",
+            "source": "",
+            "comment": "Distributes referral fees",
+            "tags": [],
+            "submittedBy": "Lucky4truli",
+            "submissionTimestamp": "2025-05-15T00:00:01Z"
+        },
+        {
+            "address": "EQAn5x8wS2nNKiEX6pNmVlN3NnoGz8CEt_9CnNvfxHrTPQHI",
+            "source": "",
+            "comment": "Farming vaults management operations",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-17T00:00:01Z"
         }
     ]
 }
