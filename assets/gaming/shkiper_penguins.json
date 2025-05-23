@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "shkiper_penguins",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/ShkipperCoinBot",
+        "description": "",
+        "organization": "shkiper_penguins"
+    },
+    "addresses": [
+        {
+            "address": "EQAHTR-wH0wb4oPrrVxmQS5R_qivJcnqvb3uFJ0v1Dw9qrpy",
+            "source": "",
+            "comment": "SHKIP token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-23T00:00:01Z"
+        },
+        {
+            "address": "EQAcRdQQ7RxIlay3c4jIG-HeaQ7VZNsdYuPdv7KM5xMudMUo",
+            "source": "",
+            "comment": "SHKIP airdrop distribution address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-23T00:00:01Z"
+        }
+    ]
+}
