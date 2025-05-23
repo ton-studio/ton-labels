@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "label": "scammer",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "https://evpnpromo.com",
+        "description": "",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "EQA1RdAI9YT7SVjE8jOay5pK471H3cAX2_lE7lCwSh5Hk6sJ",
+            "source": "",
+            "comment": "Scammer",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-23T00:00:00Z"
+        }
+
+    ]
+
+}
