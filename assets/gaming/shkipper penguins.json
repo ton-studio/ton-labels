@@ -1,0 +1,21 @@
+{ 
+  "metadata": { 
+    "label": "shkipperpenguins", 
+    "name": "Shkipper Penguins", 
+    "category": "gaming", 
+    "subcategory": "", 
+    "website": "https://t.me/shkippercoinbot", 
+    "description": "", 
+    "organization": "shkipperpenguins" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQAcRdQQ7RxIlay3c4jIG-HeaQ7VZNsdYuPdv7KM5xMudMUo", 
+      "source": "", 
+      "comment": "", 
+      "tags": [], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2025-05-23T00:00:01Z" 
+    } 
+  ] 
+}
