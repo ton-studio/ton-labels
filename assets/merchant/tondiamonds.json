@@ -1,7 +1,7 @@
 {
     "metadata": {
         "label": "tondiamonds",
-        "name": "TON Diamonds"
+        "name": "TON Diamonds",
         "category": "merchant",
         "subcategory": "onchain_marketplace",
         "website": "https://ton.diamonds/",
