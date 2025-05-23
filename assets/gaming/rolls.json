@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "rolls",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/rollsgame_bot",
+        "description": "",
+        "organization": "rolls"
+    },
+    "addresses": [
+        {
+            "address": "EQCUfqjSMEMg5CG8dyCly8DNClV9w0_4TtZ-v-xFd17tpoTy",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-23T00:00:01Z"
+        }
+    ]
+}
