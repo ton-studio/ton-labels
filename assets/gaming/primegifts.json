@@ -12,7 +12,9 @@
             "address": "EQChrQoXmR0Tu2iKCsmBwyQaFTw7AL0M0wXBKbjunJBRARqO",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
