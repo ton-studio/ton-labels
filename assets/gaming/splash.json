@@ -31,6 +31,14 @@
 				"tags": [],
 				"submittedBy": "Caranell",
 				"submissionTimestamp": "2025-03-15T00:00:01Z"
+			},
+			{
+					"address": "EQAE9Eip9_4pFAY2NTnvznG5wu48o8d_N1slC-1EHON_LROw",
+					"source": "tonviewer",
+					"comment": "Splash fee collector wallet",
+					"tags": [],
+					"submittedBy": "rAndom1ze",
+					"submissionTimestamp": "2025-05-15T00:00:01Z"
 			}
 	]
 }
