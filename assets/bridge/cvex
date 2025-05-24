@@ -1,21 +1,29 @@
-{ 
-  "metadata": { 
-    "label": "cryptovalley", 
-    "name": "Cryptovalley", 
-    "category": "DEX", 
-    "subcategory": "", 
-    "website": "https://t.me/cryptovalleyexchange_bot", 
-    "description": "", 
-    "organization": "cvex" 
-  }, 
-  "addresses": [ 
-    { 
-      "address": "EQAE9Eip9_4pFAY2NTnvznG5wu48o8d_N1slC-1EHON_LROw", 
-      "source": "", 
-      "comment": "", 
-      "tags": [], 
-      "submittedBy": "Lucky0041", 
-      "submissionTimestamp": "2025-05-22T00:00:01Z" 
-    } 
-  ] 
+{
+  "metadata": {
+    "label": "cryptovalley",
+    "name": "Cryptovalley",
+    "category": "bridge",
+    "subcategory": "",
+    "website": "https://t.me/cryptovalleyexchange_bot",
+    "description": "",
+    "organization": "cvex"
+  },
+  "addresses": [
+    {
+      "address": "EQAE9Ei9p_4pFAY2NTnvnG5Wu4808d_Ns1c-1EHON_LROw",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-05-24T00:00:00Z"
+    },
+    {
+      "address": "UQCKvOR_sm8UvFx73k14CtmWhqAYMKVKV7T-Dcaf9z1rSUet",
+      "source": "",
+      "comment": "Bridge address on TON used for transferring funds to Arbitrum via CVEX",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-05-24T00:00:01Z"
+    }
+  ]
 }
