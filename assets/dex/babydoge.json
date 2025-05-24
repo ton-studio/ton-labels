@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "babydoge",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://swap.babydoge.com",
+        "description": "",
+        "organization": "babydoge"
+    },
+    "addresses": [
+        {
+            "address": "EQCpS3_v2GP9UDqwBC1IUKmZrXgn-Mb0tSk7UO1CGemyxvX3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+        }
+    ]
+}
