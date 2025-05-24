@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "multisender",
+      "name": "Multisender app",
+      "organization": "multisender",
+      "category": "merchant",
+      "website": "https://ton.multisender.app/",
+      "description": "App to send TON/JETTONs to multiple addresses"
+  },
+  "addresses": [
+      {
+          "address": "EQCpS3_v2GP9UDqwBC1IUKmZrXgn-Mb0tSk7UO1CGemyxvX3",
+          "source": "",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-05-24T00:00:01Z"
+      }
+  ]
+}
