@@ -59,6 +59,14 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-03-21T00:00:01Z"
+        },
+        {
+            "address": "EQC-56PXuMBvlVIDLDiApWp0twKtiyJPQr-xrBwzvXGQgPYM",
+            "source": "",
+            "comment": "Marketplace fee address (multisig)",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "tapswap",
+        "name": "TapSwap",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/tapswap_bot",
+        "description": "",
+        "organization": "tapswap"
+    },
+    "addresses": [
+        {
+            "address": "EQD3r1oCVcarXV7yENw6PQC2Y7Yd29enyseEIlARRC4-HtAp",
+            "source": "",
+            "comment": "TAPS token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+        },
+        {
+            "address": "EQDnbrGvTk1Z7q23Y5428ijtY8fHKaOrxVWERTOHkbILHej3",
+            "source": "",
+            "comment": "TAPS airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+        }
+    ]
+}
