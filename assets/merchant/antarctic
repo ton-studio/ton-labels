@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/antarctic_wallet_bot",
+        "description": "",
+        "organization": "antarctic"
+    },
+    "addresses": [
+        {
+            "address": "EQDArTm2tEdVzEc-XVvKgQ__ndzy-45kjsKvhqsiZ0I-u1zC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-24T10:09:26Z"
+        }
+    ]
+}
