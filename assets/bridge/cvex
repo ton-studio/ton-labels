@@ -18,7 +18,7 @@
       "submissionTimestamp": "2025-05-24T00:00:00Z"
     },
     {
-      "address": "UQCKvOR_sm8UvFx73k14CtmWhqAYMKVKV7T-Dcaf9z1rSUet",
+      "address": "EQCKvOR_sm8UvFx73k14CtmWhqAYMKVKV7T-Dcaf9z1rSRpo",
       "source": "",
       "comment": "Bridge address on TON used for transferring funds to Arbitrum via CVEX",
       "tags": [],
