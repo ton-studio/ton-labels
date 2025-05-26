@@ -23,6 +23,14 @@
 			"tags": ["defi"],
 			"submittedBy": "Caranell",
 			"submissionTimestamp": "2025-03-18T00:00:01Z"
+		},
+		{
+			"address": "EQAbCbnq3QDZCN2qi3wu6pM6e1xrSHkCdtLLSqJnWDYRGhPV",
+			"source": "",
+			"comment": "bridge inside hot_wallet",
+			"tags": ["defi"],
+			"submittedBy": "Caranell",
+			"submissionTimestamp": "2025-05-26T00:00:01Z"
 		}
 	]
 }
