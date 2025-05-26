@@ -10,18 +10,18 @@
   },
   "addresses": [
     {
-      "address": "EQAE9Ei9p_4pFAY2NTnvnG5Wu4808d_Ns1c-1EHON_LROw",
+      "address": "EQAE9Eip9_4pFAY2NTnvznG5wu48o8d_N1slC-1EHON_LROw",
       "source": "",
-      "comment": "",
+      "comment": "Rewards distribution address",
       "tags": [],
       "submittedBy": "Lucky0041",
       "submissionTimestamp": "2025-05-24T00:00:00Z"
     },
     {
-      "address": "EQCKvOR_sm8UvFx73k14CtmWhqAYMKVKV7T-Dcaf9z1rSRpo",
+      "address": "EQB1QBhyiY76wtIDTaV3pFtl8jE_aCrlGeDDTRbz2LaNjWYC",
       "source": "",
       "comment": "Bridge address on TON used for transferring funds to Arbitrum via CVEX",
-      "tags": [],
+      "tags": ["has-custodial-wallets"],
       "submittedBy": "Lucky0041",
       "submissionTimestamp": "2025-05-24T00:00:01Z"
     }
