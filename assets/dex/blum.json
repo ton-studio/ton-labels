@@ -48,6 +48,26 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBdyhUFxfqSHPvr38VOK9Wvo3ZE7Ih-MoAEhx2sEPqrb4Fv",
+            "source": "",
+            "comment": "Jetton Deployer (blumdeployed.ton)",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+        {
+            "address": "EQDZYbfuTPzuPotoGCMKmdQF4f_N-k_JPxSG4-oQYWKlggNE",
+            "source": "",
+            "comment": "commission address (blumcomission.ton)",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
         }
     ]
 }

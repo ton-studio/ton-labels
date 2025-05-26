@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "isma_coin",
+        "name": "ISMA&COIN",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/Ismacoinbot",
+        "description": "",
+        "organization": "isma_coin"
+    },
+    "addresses": [
+        {
+            "address": "EQAoutAj3gkNKjEWNbt_-azFEHFzInFeror7fUknoOgBSntG",
+            "source": "",
+            "comment": "ISMC token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+        {
+            "address": "EQDtLA8RsdsSLIvEsppFWDIKWnZwZAZURFtdXna7jbWLzkH2",
+            "source": "",
+            "comment": "Token airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        }
+    ]
+}

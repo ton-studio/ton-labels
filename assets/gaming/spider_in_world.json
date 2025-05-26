@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "spider_in_world",
+        "category": "gaming",
+        "name": "Spider in World",
+        "subcategory": "",
+        "website": "https://www.spidergo.co",
+        "description": "",
+        "organization": "spider_in_world"
+    },
+    "addresses": [
+        {
+            "address": "EQAwAm_tT9RAvxjAQfdOD1GMj8wCcwu-bH9JlNswK6cZbZWr",
+            "source": "",
+            "comment": "SIW token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+        {
+            "address": "EQBEYBycZOpUV3_PxwI6OC1vm27lFj84O7zcM9deYGd8Sx-X",
+            "source": "",
+            "comment": "Token airdrop",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        }
+    ]
+}
