@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "1win",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://1wrmpj.com/casino",
+        "description": "",
+        "organization": "1win"
+    },
+    "addresses": [
+        {
+            "address": "EQAczOu-Dom5ZDJnM5CnwjRl0eE3mFsWqx9epLVgF_7ALrTu",
+            "source": "",
+            "comment": "",
+            "tags": ["has-custodial-wallets"],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-23T00:00:01Z"
+        }
+    ]
+}

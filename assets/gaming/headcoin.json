@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "headcoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/head_coin_bot",
+        "description": "",
+        "organization": "headcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQBtBYhcPisgxII8I4Y-KZysjl9ZU3Tp_GCbHWmdKnxBG4Mn",
+            "source": "",
+            "comment": "HDCN distribution address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-22T00:00:01Z"
+        },
+        {
+            "address": "EQCN2dkvaosVjpa9XozzN0wm1MBcI2GTN71CWvRzIsSH7IRH",
+            "source": "",
+            "comment": "HDCN token address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-22T00:00:01Z"
+        },
+        {
+            "address": "EQDDK-81iHkvCC-hIYpCORdEF7L2tVPQFGBSXYHdLXtKUWmw",
+            "source": "",
+            "comment": "check-in address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-22T00:00:01Z"
+        }
+    ]
+}
