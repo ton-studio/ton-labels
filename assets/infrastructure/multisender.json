@@ -1,7 +1,7 @@
 {
   "metadata": {
       "label": "multisender",
-      "category": "merchant",
+      "category": "infrastructure",
       "website": "https://ton.multisender.app",
       "subcategory": "",
       "description": "App to send TON/JETTONs to multiple addresses",
