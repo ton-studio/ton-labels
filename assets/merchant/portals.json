@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "portals",
+        "name": "Portals",
+        "organization": "portals",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/portals",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQAE88HHlayJBeMXNDYrFJh1q5UirlODq3q7LhDaXai6goHn",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-27T00:00:01Z"
+        }
+    ]
+}
