@@ -1,29 +1,20 @@
 {
-  "metadata": {
-    "label": "cryptovalley",
-    "name": "Cryptovalley",
-    "category": "bridge",
-    "subcategory": "",
-    "website": "https://t.me/cryptovalleyexchange_bot",
-    "description": "",
-    "organization": "cvex"
-  },
-  "addresses": [
-    {
-      "address": "EQAE9Eip9_4pFAY2NTnvznG5wu48o8d_N1slC-1EHON_LROw",
-      "source": "",
-      "comment": "Rewards distribution address",
-      "tags": [],
-      "submittedBy": "Lucky0041",
-      "submissionTimestamp": "2025-05-24T00:00:00Z"
+    "metadata": {
+        "label": "cryptovalley",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://t.me/cryptovalleyexchange_bot",
+        "description": "",
+        "organization": "cvex"
     },
-    {
-      "address": "EQB1QBhyiY76wtIDTaV3pFtl8jE_aCrlGeDDTRbz2LaNjWYC",
-      "source": "",
-      "comment": "Bridge address on TON used for transferring funds to Arbitrum via CVEX",
-      "tags": ["has-custodial-wallets"],
-      "submittedBy": "Lucky0041",
-      "submissionTimestamp": "2025-05-24T00:00:01Z"
-    }
-  ]
+    "addresses": [
+        {
+            "address": "EQBqEJEFianlLcDs0V0ZFF8oKpyKMe9c_9oHITQ7wwbkFx22",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-28T00:00:01Z"
+        }
+    ]
 }
