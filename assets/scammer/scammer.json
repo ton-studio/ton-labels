@@ -414,12 +414,46 @@
 	    },
 	    	    {
             "address": "EQANaIi3pw5lErP7gWq-_O3np97ezEFCQ-jDrPz_fn1_rMeT",
+	    	 {
+            "address": "EQDGN4P9jchAOBPAAydt_f2ujlGemQ__v8RpZs9D4YwapXwg",
+            "source": "",
+            "comment": "Spam 🎁500TON Reward ",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Johnu234",
+            "submissionTimestamp": "2025-05-19T00:00:01Z"
+	    },
+	    {
+            "address": "EQA7LltZeovTbqRs8Xubaph8EcoyJMxiGnTErvLZLZKBb7ka",
             "source": "",
             "comment": "Spam 🎁500 TON reward",
             "tags": [
                 "scammer",
                 "suspicious"
             ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+	    },
+	    {
+            "address": "EQD_grTU3nw2YQD134bue1BSLt2ZPTYKf0J54lTbEw3VM4CP",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+	    },
+	    {
+            "address": "EQCfrvtntyhBukB80ZGj6AkqOHK2h5DJ_1B4Vdv2SXOptTC_",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-05-28T00:00:01Z"
 	    }
