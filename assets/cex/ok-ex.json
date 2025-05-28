@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ok-ex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://ok-ex.io",
+        "description": "",
+        "organization": "ok-ex"
+    },
+    "addresses": [
+        {
+            "address": "EQBM4AeNmZeFID6rANSZd3Fm6sZnJ7wqNNtJRcu3uNsg-lrj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-28T00:00:01Z"
+        }
+    ]
+}
