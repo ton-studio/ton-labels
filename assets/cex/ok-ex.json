@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "ok-ex",
+        "label": "ok_ex",
         "category": "CEX",
         "subcategory": "",
         "website": "https://ok-ex.io",
         "description": "",
-        "organization": "ok-ex"
+        "organization": "ok_ex"
     },
     "addresses": [
         {
