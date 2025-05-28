@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "mainet",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/mainetbot",
+        "description": "",
+        "organization": "mainet"
+    },
+    "addresses": [
+        {
+            "address": "EQCxFQAexmxOPAgus3ZBs_SlZHcVF7iqAj0UX0BLRb6dCORE",
+            "source": "",
+            "comment": "CORE token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-28T00:00:01Z"
+        },
+        {
+            "address": "EQDIUygCHtYJBS3gwSPos4qQizX2mAayuC7WmAOsPAmL5YFs",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-28T00:00:01Z"
+        }
+    ]
+}
