@@ -11,7 +11,7 @@
     {
       "address": "EQBYrPnfxisQMLIwtYCKC5KFedToT0OizjPAT3cLlcxIbJhU",
       "source": "bridge.duckchain.io source code",
-      "comment": "Bridge address",
+      "comment": "Bridge address & $DUCK Token Treasury",
       "tags": [],
       "submittedBy": "shuva10v",
       "submissionTimestamp": "2025-05-22T00:00:01Z"
@@ -23,14 +23,6 @@
       "tags": [],
       "submittedBy": "shuva10v",
       "submissionTimestamp": "2025-05-22T00:00:01Z"
-    },
-    {
-      "address": "EQBYrPnfxisQMLIwtYCKC5KFedToT0OizjPAT3cLlcxIbJhU",
-      "source": "",
-      "comment": "$DUCK token Treasury",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-05-29T00:00:01Z"
     }
   ]
 }
