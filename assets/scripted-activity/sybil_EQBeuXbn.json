@@ -15,6 +15,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQCuHD75wSf0B7XCOVSdrmTD6wzTZhMLlfpG3Mqpb99sDOPs",
+            "source": "",
+            "comment": "Collects funds from sybil wallets",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:00Z"
+        },
+        {
+            "address": "EQAb38Fj3RtrTkldkN_TU7Wzqlt8KkpSvslcqKmaBoEZ0aMU",
+            "source": "",
+            "comment": "Distributes 0.005 TON",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:00Z"
         }
     ]
 }
