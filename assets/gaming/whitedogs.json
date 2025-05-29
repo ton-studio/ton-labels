@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "whitedogs",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://whitedogs.xyz",
+        "description": "",
+        "organization": "whitedogs"
+    },
+    "addresses": [
+        {
+            "address": "EQC8TyeKPoZgXjqgDu35kTdGrrhCQnys7NbBS7XR1rnj48bn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        }
+    ]
+}
