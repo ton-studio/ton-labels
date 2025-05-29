@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "cattea",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://cattea.ai",
+        "description": "",
+        "organization": "cattea"
+    },
+    "addresses": [
+        {
+            "address": "EQCo6csmfsTKw0jYXWGbYZZkj2m28wEcq8BZwAb5hIvzPvvv",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        }
+    ]
+}

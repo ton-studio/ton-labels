@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "sybil_Duckchain_EQBXR3Vt",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "Broadcasting TON to bridge to Duckchain for potential airdrop",
+        "organization": "sybil_Duckchain_EQBXR3Vt"
+    },
+    "addresses": [
+        {
+            "address": "EQBXR3VtUTaUImzhrW4ZH-hdn-UysNn1mvOG9l-qYY2pC1Bw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T19:32:36Z"
+        },
+        {
+            "address": "EQCzC3nxtKj77iV_VjOyh_trHqk2gE2FXWd7VMYox69FJTT0",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        },
+        {
+            "address": "EQDdUiFQ13mBHVOxilhDLBkAJWZ9n891yRreBTsyv7HXEuvv",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        }
+    ]
+}
