@@ -15,6 +15,38 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-19T10:09:26Z"
-        }
+        },
+        {
+            "address": "EQCDOfS5JeDQAIh30slfQvAkHbgj-ZUUefWyJNDQ3Y1TrMrw",
+            "source": "",
+            "comment": "Distributes AKA token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+        {
+            "address": "EQCHx1W3VVgRqNRoDDKLBvxfSKZwi1xmmgxBejmduXlUoL2h",
+            "source": "",
+            "comment": "Distributes AKORN token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+        {
+            "address": "EQAFhOIn3Wj4caz8LncgGE3t5AWFh5UkwQAXPJxgJTmwfMgy",
+            "source": "",
+            "comment": "Distributes AKS token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+       {
+           "address": "EQAT7yNVd2kGYuo7yK837Qq9PVrFxy2Zjj_gHlf2mTNrhd2g",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-26T10:09:26Z"
+         }
     ]
 }

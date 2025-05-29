@@ -1,0 +1,20 @@
+{
+  "metadata": {
+      "label": "babydoge",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/BabyDogePAWS_bot",
+      "description": "",
+      "organization": "babydoge"
+  },
+  "addresses": [
+      {
+          "address": "EQCLzB00GPgz8qk8H5g93jMypWMdhrN2pZcLAMcbUTnmDdrL",
+          "source": "in-game deposit address",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-05-26T00:00:01Z"
+      }
+  ]
+}
