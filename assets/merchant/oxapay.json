@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "oxapay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://oxapay.com",
+        "description": "",
+        "organization": "oxapay"
+    },
+    "addresses": [
+        {
+            "address": "EQDR-1EQDFNcYuvezd4lRbzufNArctvzxJby2jkn25KqAcsF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-27T00:00:01Z"
+        }
+    ]
+}

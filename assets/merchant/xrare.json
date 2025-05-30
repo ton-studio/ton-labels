@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "label": "xrare",
+        "name": "xRare.io",
+        "category": "merchant",
+        "organization": "xrare",
+        "subcategory": "onchain_marketplace",
+        "website": "https://xrare.io",
+        "description": "NFT marketplace (formerly known as Tonex)"
+    },
+    "addresses": [
+        {
+            "address": "EQB__rhZPDPooVprPQYFgobiy4n-bZwHpzgR2w1s-qCOyRlh",
+            "source": "",
+            "comment": "Sale contract deployment helper",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-20T00:00:01Z"
+        },
+        {
+            "address": "EQD_e1RdLx-t4-D0OCpxzsNFTDRBBpMkMi4TBQEz48awW_qW",
+            "source": "",
+            "comment": "Sale contract deployment helper (old)",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-20T00:00:01Z"
+        },
+        {
+            "address": "EQBFXfhKuJ8hGrwtdtNQSeW0yfAKeYFqXZFw3OAfhj2SjqRz",
+            "source": "",
+            "comment": "Marketplace fee address (tonairplane.ton)",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-20T00:00:01Z"
+        }
+
+        
+    ]
+}
