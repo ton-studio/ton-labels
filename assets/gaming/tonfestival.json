@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "tonfestival",
+    "category": "gaming",
+    "name": "TonFestival",
+    "subcategory": "",
+    "website": "https://t.me/TON_Festival_News",
+    "description": "",
+    "organization": "tonfestival"
+  },
+  "addresses": [
+    {
+      "address": "EQANHW_kt-5lJJE2O6nbCLvj0W9pq83aYXAPEEon5RdRol8g",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-05-30T00:00:01Z"
+    }
+  ]
+}
