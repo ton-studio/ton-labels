@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "sybil_EQCk86o",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_EQCk86o"
+    },
+    "addresses": [
+        {
+            "address": "EQCk86onS6lrH3uHZ_4tf0mN_TDLniihE4aoPZhXxDtpmDYb",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-31T00:00:00Z"
+        },
+        {
+            "address": "EQC02YP9puG163IYS3V7vw7vNtWP6WWm1ty6OIifehvOv1ZO",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-31T00:00:00Z"
+        }
+    ]
+}
