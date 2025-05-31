@@ -159,6 +159,22 @@
             "tags": [],
             "submittedBy": "markysha",
             "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQCvtWEyNxEoDHJLRvv7ryUMmM1T-eu1O7RtOQfMoNDNhJqQ",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQCHDG9cDgtidJANC7M6QIcfxzm4uno31qVNHxQEn8CFGxdB",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
         }
     ]
 }
