@@ -489,6 +489,36 @@
             ],
             "submittedBy": "markysha",
             "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQBSNX_5mSikBVttWhIaIb0f8jJU7fL6kvyyFVppd7dWRO6M",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQAz1D0ZUiG_9XCyjrJ1-xTx-CnmnQ3J3LMKQ7sZTr-XlNZP",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQBqgCTdrtSod76UrcOeALSiLCp3WuNIFQBQvyjjlQMvwLkc",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
         }
     ]
 }
