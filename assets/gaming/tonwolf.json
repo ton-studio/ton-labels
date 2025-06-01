@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "tonwolf",
+    "category": "fund",
+    "name": "TonWolf",
+    "subcategory": "",
+    "website": "https://t.me/tonwolf_meme_bot",
+    "description": "",
+    "organization": "tonwolf"
+  },
+  "addresses": [
+    {
+      "address": "EQDXBQaAqfnpsf5G2F-muesLOOn7lU-AxDzkbijyecZRBrb4",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-05-31T00:00:01Z"
+    }
+  ]
+}
