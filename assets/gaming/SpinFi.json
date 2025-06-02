@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "spinfi",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/SpinfiOnline_bot",
+        "description": "",
+        "organization": "Spinfi"
+    },
+    "addresses": [
+        {
+            "address": "EQDcAnI96x-ADg2HBr3ysOc7KYFEzXFuWBPcIB72pvaUdm2v",
+            "source": "",
+            "comment": "",
+            "tags": ["Withdrawal address"],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-02T00:00:01Z"
+        }
+    ]
+}
