@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_EQAQZt",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_EQAQZt"
+    },
+    "addresses": [
+        {
+            "address": "EQAQZtxRDZx3iymSeCi6KMV9hsDzot1lDnuBBph5h-_V7gxq",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-02T00:00:00Z"
+         }
+    ]
+}
