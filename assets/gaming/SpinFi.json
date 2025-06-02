@@ -5,14 +5,14 @@
         "subcategory": "",
         "website": "https://t.me/SpinfiOnline_bot",
         "description": "",
-        "organization": "Spinfi"
+        "organization": "spinfi"
     },
     "addresses": [
         {
             "address": "EQDcAnI96x-ADg2HBr3ysOc7KYFEzXFuWBPcIB72pvaUdm2v",
             "source": "",
             "comment": "",
-            "tags": ["Withdrawal address"],
+            "tags":"",
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-02T00:00:01Z"
         }
