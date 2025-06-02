@@ -25,7 +25,13 @@ if __name__ == "__main__":
 
     serialized_labels = {}
 
-    for path in Path("assets").rglob("*.json"):
+    for path in Path("assets").rglob("*"):
+        if not path.is_file() or path.name.startswith("."):  # Skip directories and hidden files
+            continue
+
+        if not path.suffix == ".json":
+            raise Exception(f"File should be .json: {path}")
+            
         with open(path, "rt") as f:
             try:
                 data = json.load(f)
