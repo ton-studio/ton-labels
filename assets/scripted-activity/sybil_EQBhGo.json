@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_EQBhGo",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_EQBhGo"
+    },
+    "addresses": [
+        {
+            "address": "EQBhGoV37xl34B7wCvQp5Ab3ZGKhgJV9_XBUFy4zn8mPPOti",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         }
+    ]
+}
