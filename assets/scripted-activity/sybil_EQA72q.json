@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_EQA72q",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_EQA72q"
+    },
+    "addresses": [
+        {
+            "address": "EQA72q_caQT2V0_d6tvE7Hj9Yw0RpXBFhkB8utMB4sca8OTc",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         }
+    ]
+}
