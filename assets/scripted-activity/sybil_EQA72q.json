@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "label": "sybil_EQA72q",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_EQA72q"
+    },
+    "addresses": [
+        {
+            "address": "EQA72q_caQT2V0_d6tvE7Hj9Yw0RpXBFhkB8utMB4sca8OTc",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+          {
+            "address": "EQASXYP-IYqAaM0RAq9naycbkWtmw28rXl0vCuWlBtko0JyH",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+        {
+            "address": "EQBQ9eRBPeaqeBM-_OTMnFaFUj4_KMHlvObtPirxV99OBjbK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+         {
+            "address": "EQBhGoV37xl34B7wCvQp5Ab3ZGKhgJV9_XBUFy4zn8mPPOti",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+          {
+            "address": "EQBoCCrm-_i9Id1eKAsGHPB28FsDCYusC91Xuc2x47LoyIjZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+            {
+            "address": "EQBtsLXOtHLYZsk40MBxAKqSEYaCqInRohsOgCcNxUbiCKPw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+             {
+            "address": "EQCMAfVjBpTcXbffFXbyo6RvD5pP7Ce8TLnuLuaM61_dAebO",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+             {
+            "address": "EQCU2EhrOSQ0jRUB3r8UL_DZCYd7-3ImaVs1N0EInpfhuzkj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         },
+             {
+            "address": "EQD5WuT-D-4CHzIzBF9q5yyKMltbyAHhF_HHMX4EMXbWpAtn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-03T00:00:00Z"
+         }
+    ]
+}
