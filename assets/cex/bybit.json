@@ -599,6 +599,16 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-10T00:00:01Z"
+        },
+        {
+            "address": "EQC90NgG5ixY7Ol3SDRQhAEZRvBUUI6dYsWfnfFXw9f3_Ij0",
+            "source": "",
+            "comment": "USDe",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-03T00:00:01Z"
         }
     ]
 }
