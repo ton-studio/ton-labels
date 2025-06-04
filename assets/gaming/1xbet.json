@@ -22,9 +22,31 @@
             "address": "EQALtxOdhrIrzGvA42EXQ35XOb-Ny88Htx_fVqvKb2whKf7c",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-05-27T00:00:01Z"
+        },
+        {
+            "address": "EQA0-Srp-0bEUbfuN1jJdTpWau6uk9fZq1Or_BQFN25r31ew",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-04T00:00:01Z"
+        },
+        {
+            "address": "EQCM1qvahIzdY11MaZ6ISJ9WnWEGlgT-2lKN4p3SSR9y7Nsd",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-04T00:00:01Z"
         }
     ]
 }
