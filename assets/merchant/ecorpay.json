@@ -1,28 +1,44 @@
 {
   "metadata": {
-      "label": "ecorpay",
-      "category": "merchant",
-      "subcategory": "",
-      "website": "https://token.ecorpay.com",
-      "description": "",
-      "organization": "ecorpay"
+    "label": "ecorpay",
+    "category": "merchant",
+    "subcategory": "",
+    "website": "https://token.ecorpay.com",
+    "description": "",
+    "organization": "ecorpay"
   },
   "addresses": [
-      {
-          "address": "EQCQ3XICarr2Zyt8Jjus18AdkInf6Zqmrxx24DtJqFdbtaAr",
-          "source": "",
-          "comment": "Ecor token airdrop distributor",
-          "tags": [],
-          "submittedBy": "Caranell",
-          "submissionTimestamp": "2025-05-11T00:00:01Z"
-      },
-      {
-        "address": "EQDs4uhpt-KmyUP7FcrnUvIHmDiy8l9OJnBlSwahsQD5N4jA",
-        "source": "",
-        "comment": "Distribute tokens",
-        "tags": [],
-        "submittedBy": "shuva10v",
-        "submissionTimestamp": "2025-05-14T00:00:01Z"
+    {
+      "address": "EQCQ3XICarr2Zyt8Jjus18AdkInf6Zqmrxx24DtJqFdbtaAr",
+      "source": "",
+      "comment": "Ecor token airdrop distributor",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-05-11T00:00:01Z"
+    },
+    {
+      "address": "EQDs4uhpt-KmyUP7FcrnUvIHmDiy8l9OJnBlSwahsQD5N4jA",
+      "source": "",
+      "comment": "Distribute tokens",
+      "tags": [],
+      "submittedBy": "shuva10v",
+      "submissionTimestamp": "2025-05-14T00:00:01Z"
+    },
+    {
+      "address": "EQAT0UOEzIpUnQ1tcbtnVOc7FpNGaeAjZiRYbEKsLvwOVqdS",
+      "source": "",
+      "comment": "Treasury",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-05-30:00:01Z"
+    },
+    {
+      "address": "EQDWfzLIcecis6_J2lN7_HmHIfLNDKd8PeUbQHaqbYa7xLqe",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-05-30:00:01Z"
     }
   ]
 }
