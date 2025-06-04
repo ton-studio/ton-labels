@@ -11,12 +11,12 @@
         {
             "address": "EQCM1qvahIzdY11MaZ6ISJ9WnWEGlgT-2lKN4p3SSR9y7Nsd",
             "source": "",
-            "comment": "",
+            "comment": "This address was funded by 1xbet, probably this gambling sites related but I couldn't find official statements there",
             "tags": [
                 "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-02T00:00:01Z"
-            }
+        }
     ]
 }
