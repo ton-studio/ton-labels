@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "cryptovalley",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://t.me/cryptovalleyexchange_bot",
+        "description": "",
+        "organization": "cvex"
+    },
+    "addresses": [
+        {
+            "address": "EQBqEJEFianlLcDs0V0ZFF8oKpyKMe9c_9oHITQ7wwbkFx22",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-28T00:00:01Z"
+        }
+    ]
+}
