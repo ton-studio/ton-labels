@@ -499,6 +499,28 @@
             ],
             "submittedBy": "markysha",
             "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQDfQJuvPk7dcQGJcQE3KRYrIBtbn44VcbzU5Wh2CHFOlc4a",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-06T00:00:01Z"
+        },
+        {
+            "address": "EQBVDrWhCKMXv6xd-VYRefHddsxgLK8XXznA9cmGX82Ou4rI",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-06T00:00:01Z"
         }
     ]
 }

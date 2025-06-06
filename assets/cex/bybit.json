@@ -609,6 +609,16 @@
             ],
             "submittedBy": "markysha",
             "submissionTimestamp": "2025-06-03T00:00:01Z"
+        },
+        {
+            "address": "EQAczVhQDxArFToz2CCd8sO4NlnCIfyVFiQLsCT6lygYrwCY",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-06T00:00:01Z"
         }
     ]
 }

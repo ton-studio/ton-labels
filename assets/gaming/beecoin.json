@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "beecoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Bee_coinbot",
+        "description": "",
+        "organization": "beecoin"
+    },
+    "addresses": [
+        {
+            "address": "EQBi36Tugro1miHWAaY2yBz9ctSU_xEeQRyeF_a4kwMJv8f5",
+            "source": "",
+            "comment": "found in source code",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-06T01:00:01Z"
+        }
+    ]
+}
