@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "palacenft",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/palacenftbot",
+        "description": "nft marketplace",
+        "organization": "palacenft"
+    },
+    "addresses": [
+        {
+            "address": "EQBWQbMLuAPKqywR7Lm9nWarJYx1s54y1Ua0LRv_nPNllUu3",
+            "source": "",
+            "comment": "address for collecting system comission",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-09T00:00:00Z"
+        },
+        {
+            "address": "EQCrh-d_e0voH3KzW6j7iqFEccCRtYCp1uYI0GFo-Pjxkue7",
+            "source": "",
+            "comment": "parnet comission address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-09T00:00:00Z"
+        }
+    ]
+}
