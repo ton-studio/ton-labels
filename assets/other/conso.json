@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "conso",
+        "name": "conso",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/conso_tg",
+        "description": "Web3 lifestyle community app powered by Telegram",
+        "organization": "conso"
+    },
+    "addresses": [
+        {
+            "address": "EQDUS05ifzV8pKf9yZTjB8iMXI-zjTZS5W48fKab_x6DWvUZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-09T00:00:01Z"
+        }
+    ]
+}
