@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "etnetsa",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://etn.ethio-tech.com/",
+        "description": "information about latest airdrops technology and online courses",
+        "organization": "etnetsa"
+    },
+    "addresses": [
+        {
+            "address": "EQB_71nZqy40gn2uqbsB84ZQoU7vdb0mbCVipQ1LBc9fTn4T",
+            "source": "",
+            "comment": "et netsa drop address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-09T00:00:01Z"
+        }
+    ]
+}
