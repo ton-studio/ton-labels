@@ -39,6 +39,22 @@
             "tags": [],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-04-20T00:00:00Z"
+        },
+        {
+            "address": "EQBh4srSjynQxa1XkZPQZcNDGS1BuWURtIQsomqYd2vX7oll",
+            "source": "",
+            "comment": "WUF token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-10T00:00:00Z"
+        },
+        {
+            "address": "EQCF53hq0tDKmQ2ArlwAyIn1StLZhzVEWzh7pkOFP6JqqMje",
+            "source": "",
+            "comment": "Claim address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-10T00:00:00Z"
         }
     ]
 }
