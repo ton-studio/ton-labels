@@ -22,7 +22,8 @@ allowed_subcategories = {
     "scammer": {"drainer"},
     "scripted-activity": {"sybil"},
     "gaming": {"gambling"},
-    "DEX": {"perpetuals", "launchpad"}
+    "DEX": {"perpetuals", "launchpad"},
+    "defi": {"lending", "yield_aggregator", "liquid_staking"},
 }
 
 
