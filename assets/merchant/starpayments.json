@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "starpayments",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/starpayments",
+        "description": "Collects TG stars from users that sell TG Star-gated content.",
+        "organization": "starpayments"
+    },
+    "addresses": [
+        {
+            "address": "EQCdo-waWAefptiwe7MRWmVL3yxQOi81k_yI3c4C6yZ6GWHn",
+            "source": "",
+            "comment": "Related to onlychats.com, tlink.me",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        }
+    ]
+}
