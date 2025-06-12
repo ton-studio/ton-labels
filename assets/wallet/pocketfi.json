@@ -65,6 +65,14 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQDG6zBfxxmST7Pd-QIBnaL2_6J-UjYqH5_o829pSat_aVPU",
+            "source": "",
+            "comment": "swap fee collector address",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
         }
     ]
 }
