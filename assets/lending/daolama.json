@@ -19,13 +19,21 @@
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-12T00:00:01Z"
         },
-         {
+        {
             "address": "EQAwsDboFl_iGuaflNn5959HOamenkvQEQDwakO55CY2SGB8",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "malisdm",
             "submissionTimestamp": "2025-05-06T00:00:01Z"
+        },
+        {
+            "address": "EQA-6qqPTiIevQO-B8h3xZjATmccTW-qpoi1OAUvID4bqtV4",
+            "source": "",
+            "comment": "daolama-stars.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
         }
     ]
 }

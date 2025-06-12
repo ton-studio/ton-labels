@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "fragment.ton",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://fragment-dton.magic.org",
+        "description": "",
+        "organization": "fragment.ton"
+    },
+    "addresses": [
+        {
+            "address": "EQCzFGWPHmQ0X9G5_FxARFMP-zKcWkM_hwk5R9QNT1P4DdE0",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "no-kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        }
+    ]
+}
