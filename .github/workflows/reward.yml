@@ -20,3 +20,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           x_api_key: ${{ secrets.SOCIETY_API_KEY }}
           x_partner_id: ${{ secrets.SOCIETY_PARTNER_ID }}
+          activity_id: 9865
