@@ -1,9 +1,10 @@
-name: Reward
+name: Add Github User to reward allowlist on PR Merge
 
 on:
-  pull_request:
-    types:
-      - closed
+  push:
+    branches:
+      - main
+      - master
 
 jobs:
   reward:
@@ -13,17 +14,9 @@ jobs:
       contents: read
       pull-requests: write
     steps:
-      - uses: the-ton-tech/toolchain/reward@v1.3.0
+      - name: GH action to reward a contribution
+        uses: ton-society/gh-ton-contribution-reward@v1.1.0
         with:
-          # https://society.ton.org/ton-addresses-labelling-contributor
-          activity_id: 9865
-          xps_min: 0
-          xps_max: 10000
-          # (optional) label for marking the rewarded PR
-          # on_reward_label: rewarded
-          # Credentials of TON Society Platform
-          society_api_key: ${{ secrets.SOCIETY_API_KEY }}
-          society_partner_id: ${{ secrets.SOCIETY_PARTNER_ID }}
-          # GitHub token used to read PR details and post comments/labels
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
+          x_api_key: ${{ secrets.SOCIETY_API_KEY }}
+          x_partner_id: ${{ secrets.SOCIETY_PARTNER_ID }}
