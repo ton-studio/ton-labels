@@ -519,6 +519,16 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQAGV9vw11tKW2QOCYCXEmIdyufM3p5CfcgHcY9NiiBLfZGH",
+            "source": "",
+            "comment": "stonfi_router_v2, USDe, tsUSDe",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
         }
     ]
 }
