@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "verem",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://verem.org",
+        "description": "",
+        "organization": "verem"
+    },
+    "addresses": [
+        {
+            "address": "EQBrXyvxm6MZwSwvi6eu3qlQ3SI314G88ef0662sPKkoFEby",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        }
+  ]
+}
