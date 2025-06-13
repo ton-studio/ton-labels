@@ -41,6 +41,17 @@
             "submissionTimestamp": "2025-01-14T00:00:01Z"
         },
         {
+            "address": "EQDynReiCeK8xlKRbYArpp4jyzZuF6-tYfhFM0O5ulOs5H0L",
+            "source": "",
+            "comment": "jUSDT vault",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-13T00:00:01Z"
+        },
+        {
             "address": "EQAz6ehNfL7_8NI7OVh1Qg46HsuC4kFpK-icfqK9J3Frd6CJ",
             "source": "",
             "comment": "USDT vault",
