@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "label": "bidask",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://bidask.finance",
+        "description": "Concentrated Liquidity DEX",
+        "organization": "bidask"
+    },
+    "addresses": [
+        {
+            "address": "EQDu4acgdnhwncEwNhw27RpksEi1kqrwWd0nnOTgknFqtMfO",
+            "source": "",
+            "comment": "USDe pool",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQAAS3mks4oGKCfJ7VaTLITfqaWC5InGCw00g-b-k70IzLO2",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQC90jjDrbOs1VCX2Az4yOBySSmbqIRJQi2u5BNw0uRsSXI9",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQC6lj_-AFkpkDKZJ38552Dl5itaQEXzD687gRLM22ObjpRl",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQBRllVjMH4jcXV0duockID28_nYGOU7vEj4xkRkLWHb_1_Z",
+            "source": "",
+            "comment": "Bemo pool",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQCsy_O1avgk0Fa-m43YQLe9EBZ2vU4_FmmK3bV53cfGc_vk",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        }
+    ]
+}
