@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "sbtdestroy",
+    "category": "other",
+    "name": "SBT_Destory",
+    "subcategory": "",
+    "website": "https://t.me/SBTDestroyerBot",
+    "description": "",
+    "organization": "SBTDestroyer"
+  },
+  "addresses": [
+    {
+      "address": "EQAfwp-WjlX8w3lU0uNlWp8fVNuc2OqZQbmk5wDmSbbFSgOv", 
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-14T00:00:01Z"
+    }
+  ]
+}
