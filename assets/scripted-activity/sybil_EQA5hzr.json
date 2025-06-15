@@ -1,0 +1,28 @@
+{
+  "metadata": {
+      "label": "sybil_EQA5hzr",
+      "category": "scripted-activity",
+      "subcategory": "sybil",
+      "website": "",
+      "description": "",
+      "organization": "sybil_EQA5hzr"
+  },
+  "addresses": [
+      {
+          "address": "EQA5hzrAauVzClhU4df_Ws4mFFIlxFXlLvM1z_rjDD03DxW-",
+          "source": "",
+          "comment": "Binance 100432476",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-06-12T00:00:00Z"
+		},
+       {
+          "address": "EQBKZd2v0UGyhq8ebw_NGpMPdhnLXQnJO2r5PSXV48L0VrSw",
+          "source": "",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-06-12T00:00:00Z"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "antarctic",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/antarctic_wallet_bot",
+        "description": "",
+        "organization": "antarctic"
+    },
+    "addresses": [
+        {
+            "address": "EQDArTm2tEdVzEc-XVvKgQ__ndzy-45kjsKvhqsiZ0I-u1zC",
+            "source": "",
+            "comment": "Used to top-up custodial wallets to cover gas fees",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-24T10:09:26Z"
+        },
+        {
+            "address": "EQC1NuWj8E9gjV8HrZLN6WXlGZ1mbPnmz9uqxH0d-LuHgeVX",
+            "source": "",
+            "comment": "USDT vault",
+            "tags": ["has-custodial-wallets"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T10:09:26Z"
+        }
+    ]
+}

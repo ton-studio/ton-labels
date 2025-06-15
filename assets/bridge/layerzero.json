@@ -39,6 +39,22 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQAHUAlTa2pxLGKARdhxGGUst8Dm41Ww4piSemU-vJBhfwLF",
+            "source": "",
+            "comment": "Highload Wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQAjpnYUX43uNjL3IqrFA5LyLPC0vo9iTgOCeab1AF-2aYcq",
+            "source": "",
+            "comment": "Ethena minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
         }
     ]
 }

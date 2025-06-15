@@ -1,0 +1,21 @@
+{ 
+  "metadata": { 
+    "label": "pocketbroker", 
+    "name": "Pocket Broker", 
+    "category": "CEX", 
+    "subcategory": "", 
+    "website": "https://pocket-broker.com", 
+    "description": "", 
+    "organization": "pocket" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQBZ_klWkNTSU5HYPgMMDM8PXPk2wpa8qISXVtJ2Skd1J18V", 
+      "source": "", 
+      "comment": "", 
+      "tags": ["has-custodial-wallets"], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2025-05-22T00:00:01Z" 
+    } 
+  ] 
+}

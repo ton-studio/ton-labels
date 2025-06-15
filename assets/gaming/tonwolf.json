@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "label": "tonwolf",
+    "category": "gaming",
+    "name": "TonWolf",
+    "subcategory": "",
+    "website": "https://t.me/tonwolf_meme_bot",
+    "description": "",
+    "organization": "tonwolf"
+  },
+  "addresses": [
+    {
+      "address": "EQDXBQaAqfnpsf5G2F-muesLOOn7lU-AxDzkbijyecZRBrb4",
+      "source": "",
+      "comment": "presale TWOLF",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-02T00:00:01Z"
+    },
+    {
+      "address": "EQCDV-2Ef83Y1jbIfNL2tojYlFN5eYh-z4r7LuO3z87dS0gN",
+      "source": "",
+      "comment": "TWOLF jetton master",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-02T00:00:01Z"
+    },
+    {
+      "address": "EQCzbzVOrJbszVoygd16Uk8cMvgz0f_Rb9aLHz3LCbFuoTZa",
+      "source": "",
+      "comment": "twolf Distributor",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-02T00:00:01Z"
+    }
+  ]
+}
