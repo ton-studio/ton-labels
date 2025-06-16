@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "label": "pengu_clash",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/pengu_clash_bot",
+        "description": "",
+        "organization": "pengu_clash"
+    },
+    "addresses": [
+        {
+            "address": "EQCHPjHlYzEFSaEyJBOkcUEfc7Wo3jSw4EnbpNaFUQ8LeZWe",
+            "source": "",
+            "comment": "NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        },
+        {
+            "address": "EQAxm1fMyZU8-LuV1gaPT6JLBS_h7w2AX4dfnDhllGuf0sF-",
+            "source": "",
+            "comment": "NFT payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        },
+        {
+            "address": "EQDtO0MtTywWAyvzQClrHAcJKxAIEvsyrtWIY4m5ZIVYmWxK",
+            "source": "",
+            "comment": "15% of all NFT payments go to this address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        }
+    ]
+}
