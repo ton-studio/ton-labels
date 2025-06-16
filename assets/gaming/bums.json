@@ -175,6 +175,22 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQBE7HlbIX2mjEsVkiaKKqfLkDXhXl6DlnRys2JVxszYeGOx",
+            "source": "",
+            "comment": "Same payload structure as the other addresses",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        },
+        {
+            "address": "EQC60Kw9CQcnRs1drgFPA3NZtKdQThEENoRVbFBya6CLmxEB",
+            "source": "",
+            "comment": "TG Stars withdrawal address. Used the same Binance ID (108133212) and Gateio ID (392103867) as the other addresses related to Bums.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
         }
     ]
 }
