@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "symptomify",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://symptomify.io",
+        "description": "",
+        "organization": "symptomify"
+    },
+    "addresses": [
+        {
+            "address": "EQBELaQYHeDVkWGT0gC-uo7Cnj11wLAQeFa_lYa_f_1sxR8Y",
+            "source": "",
+            "comment": "symptomify.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        }
+    ]
+}
