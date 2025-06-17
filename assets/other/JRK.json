@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "jrk",
+    "category": "other",
+    "name": "JRK_Coin",
+    "subcategory": "",
+    "website": "https://t.me/jrkCommunity",
+    "description": "",
+    "organization": "jrk"
+  },
+  "addresses": [
+    {
+      "address": "EQAZhDVtOcEhWKl6gydjRpxnN-s8BryMBEjUOIUT_nbD-0QP", 
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-16T00:00:01Z"
+    }
+  ]
+}
