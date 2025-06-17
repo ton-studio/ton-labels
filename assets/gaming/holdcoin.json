@@ -31,6 +31,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-14T00:00:01Z"
+        },
+        {
+            "address": "EQDO8mZXRKfoDnlLKVKrisZy6smIgldtELIpplebrvTdvFK_",
+            "source": "",
+            "comment": "HOLD token treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-04T00:00:01Z"
+        },
+        {
+            "address": "EQABlFVE21y5WyyX_LqPLm7bx5aBVmopUqnSgCqov33trt73",
+            "source": "",
+            "comment": "HOLD coin distribution",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-04T00:00:01Z"
         }
     ]
 }

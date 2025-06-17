@@ -15,6 +15,14 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-23T00:00:01Z"
+        },
+        {
+            "address": "EQCOLJO2dvJsXJ1UNyxzeTwuTEvaJXzr4inqrxehPEKg28Ay",
+            "source": "",
+            "comment": "Smart contract handling withdrawals",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
         }
     ]
 }

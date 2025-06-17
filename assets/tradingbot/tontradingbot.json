@@ -43,6 +43,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBui0LbLRo9sEkwxiDix_eQmOiVXKvV3f1JwcSlHafqJzz-",
+            "source": "",
+            "comment": "Fee Collection, tontradingbotfee.ton",
+            "tags": [
+                "fee-collector"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
         }
     ]
 }

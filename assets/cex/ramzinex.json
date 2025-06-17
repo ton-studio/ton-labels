@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "ramzinex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://ramzinex.com",
+        "description": "",
+        "organization": "ramzinex"
+    },
+    "addresses": [
+        {
+            "address": "EQCCfz8S-OchSTsD189oBfK3NY_gSOXbs6sqyAYIX4SeDmwG",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-24T10:09:26Z"
+        },
+        {
+            "address": "EQALNg_rFGuNZRbrDpP2ZdqABigEEr3Vsj0e79GhhJnmef7i",
+            "source": "",
+            "comment": "deposit address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-24T10:09:26Z"
+        }
+    ]
+}
