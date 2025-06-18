@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "bombie",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/bombiexyzbot",
+        "description": "",
+        "organization": "bombie"
+    },
+    "addresses": [
+        {
+            "address": "EQDRT_Ao3X-wSUwGL9e13FJbyTUb0IH8Y0qG0tzNFL24FnpP",
+            "source": "",
+            "comment": "Bombie Airdrop sender",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQDYVafyW3P0vmXU5Mipo87EHYXsDaeqWwj2JaanlPbqG5Cc",
+            "source": "",
+            "comment": "$BOMB treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQDMlBphD0-xVoydEhpM5M1aNtwG-bJi0gF_Lcuk0CC15fg2",
+            "source": "",
+            "comment": "$BOMB treasury (old, multisig)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        }
+    ]
+}

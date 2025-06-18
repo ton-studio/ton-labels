@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "gogift",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/GoGift_official_bot",
+        "description": "buy and open a case with NFT",
+        "organization": "gogift"
+    },
+    "addresses": [
+        {
+            "address": "EQD6zuddlvZ8PwWJ2aKaPpcAGbYa3hq_z2CRICMNzMVQcNCn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        }
+    ]
+}

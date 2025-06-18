@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "walkcoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TheWalkCoinBot",
+        "description": "",
+        "organization": "walkcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQD3X829OTABBFBWUASyK1h1zAYF7OjkEDWXtVss-DrL_YX3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        }
+    ]
+}
