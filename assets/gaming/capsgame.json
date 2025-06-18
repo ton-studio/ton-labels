@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "capsgame",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/capsgamebot",
+        "description": "",
+        "organization": "capsgame"
+    },
+    "addresses": [
+        {
+            "address": "EQAaQqgAg72NwiPQ1mITLrg91lYOJ7PGbJzPwLECO_IECULy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        }
+    ]
+}
