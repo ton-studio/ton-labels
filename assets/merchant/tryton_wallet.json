@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tryton",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/TryTonwalletbot",
+        "description": "",
+        "organization": "Tryton"
+    },
+    "addresses": [
+        {
+            "address": "EQCv-G3GVVa5pvMIZZZvLRqwGQHJdkKttRMocivR_QM3aP9n",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lcuky0041",
+            "submissionTimestamp": "2025-06-20T10:40:00Z"
+        }
+    ]
+}
