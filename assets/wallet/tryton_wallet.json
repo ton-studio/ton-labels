@@ -1,7 +1,8 @@
 {
     "metadata": {
         "label": "tryton",
-        "category": "merchant",
+        "category": "wallet",
+        "name": "TryTON Wallet",
         "subcategory": "",
         "website": "https://t.me/TryTonwalletbot",
         "description": "",
