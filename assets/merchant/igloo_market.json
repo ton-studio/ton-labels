@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "igloo_sticker_marketplace",
+        "name": "IGLOO Market",
+        "organization": "igloo",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/igloo_market_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQCve_wY5a6G8mnc4yFXESt9jOAIscCnpvOnAxINoxJxeAS0",
+            "source": "Deposit address",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-21T00:00:01Z"
+        },
+        {
+            "address": "EQDuHYS3Uqj-tPMeVlGyYzY80dpLJzyAbLXxphV4Cog1Lpy_",
+            "source": "",
+            "comment": "Withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-21T00:00:01Z"
+        }
+    ]
+}
