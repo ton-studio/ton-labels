@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pulse",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/proxypulse_bot",
+        "description": "",
+        "organization": "pulse"
+    },
+    "addresses": [
+        {
+            "address": "EQA1Py16sIfC-HI7rQ1KVeHWROYESEWetBDsWS2pkJLq0YiD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-24T00:00:01Z"
+        }
+    ]
+}
