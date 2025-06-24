@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "sybil_EQCFjq",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_EQCFjq"
+    },
+    "addresses": [
+        {
+            "address": "EQCFjqOWWP9MfjsGGZU34sJZrt_WR7htmMFJV8YPLWRvUbzw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-24T00:00:00Z"
+        },
+        {
+            "address": "EQCDAFzVXMYmLH83WNh_MLtlUSViHDpRpVaG3tRYbbZmWQKf",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-24T00:00:00Z"
+        }
+    ]
+}
