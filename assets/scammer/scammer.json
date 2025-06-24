@@ -599,8 +599,6 @@
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-06-17T00:00:01Z"
         },
-        {
-            "address": "EQCexCLv8cyhpISBygF8EW3zUK3T-VtfOfFsxuYC0Qrd_DkN",
             {
             "address": "EQCywWDdLXBN8GV8Nh5FKLPv7QxB9og89pRWJheW1ouD7_a6",
             "source": "",
@@ -610,10 +608,6 @@
                 "suspicious"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-06-24T00:00:01Z"
-        },
-        {
-            "address": "EQBhkF-ktJ8-47GnKF0lNLuCHgYu88_Dc_R-F59gElKK6KjI",
             "submissionTimestamp": "2025-06-20T00:00:01Z"
         },
           {
@@ -625,10 +619,32 @@
                 "suspicious"
             ],
             "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-20T00:00:01Z"
+        },
+        {
+            "address": "EQCexCLv8cyhpISBygF8EW3zUK3T-VtfOfFsxuYC0Qrd_DkN",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-24T00:00:01Z"
         },
         {
             "address": "EQBoTRQUxBj04G8J7aJtKHbFuTs64jkewc2bBHGKb7UDGqfH",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-24T00:00:01Z"
+        },
+        {
+            "address": "EQACJNjAMySmV5uN9_1bv69IUJ8-CA3p61dyy_-jkdlKnM-g",
             "source": "",
             "comment": "🎁500TON Bouns at",
             "tags": [
