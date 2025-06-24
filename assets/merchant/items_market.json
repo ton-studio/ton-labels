@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "items_sticker_marketplace",
+        "name": "ITEMS Market",
+        "organization": "items",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/not_games_market_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQDNWYONP8pNaGMyC4OpjKxWDwYWM2zlk2Wd_cf7FZ6IxJ9W",
+            "source": "Deposit address",
+            "comment": "",
+            "tags": ["has-custodial-wallets"],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        }
+    ]
+}
