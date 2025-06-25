@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "igloo_sticker_marketplace",
-        "name": "IGLOO Market",
-        "organization": "igloo",
+        "label": "harbor_sticker_marketplace",
+        "name": "Harbor Market",
+        "organization": "harbor",
         "category": "merchant",
         "subcategory": "",
-        "website": "https://t.me/igloo_market_bot",
+        "website": "https://t.me/harbor_market_bot",
         "description": ""
     },
     "addresses": [
