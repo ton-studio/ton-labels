@@ -644,7 +644,7 @@
             "submissionTimestamp": "2025-06-24T00:00:01Z"
         },
         {
-            "address": "EQBhkF-ktJ8-47GnKF0lNLuCHgYu88_Dc_R-F59gElKK6KjI",
+            "address": "UQBFKXBBqEU9_FwWvQp7gmUtofPAHwFfs6YUB9AntrAFfa0C",
             "source": "",
             "comment": "🎁500TON Bouns at",
             "tags": [
@@ -653,6 +653,50 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-24T00:00:01Z"
+        },
+        {
+            "address": "EQC25ohQcVJNQV8DNQswJujY0nU3XhDZfmfiwX7WYC-1coyl",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQBFKXBBqEU9_FwWvQp7gmUtofPAHwFfs6YUB9AntrAFffDH",
+            "source": "",
+            "comment": "Scam fund collector",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQDZ61x_DTJw2avL3s2U47zfnp1tN3F7YvzxaVRBkc4lfkJ6",
+            "source": "",
+            "comment": "mimic for $TSLA token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQBMRR25uY_mWI3Dsx3CaQAg852WuyEPRo7qSAEkq8sW_QLH",
+            "source": "",
+            "comment": "mimic for $TSLA token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
         }
     ]
 }
