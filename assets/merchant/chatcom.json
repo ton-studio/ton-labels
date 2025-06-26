@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "chatcom",
+    "name": "Chatcom",
+    "organization": "chatcom",
+    "category": "merchant",
+    "subcategory": "AI services",
+    "description": "Telegram bot providing access to ChatGPT, Claude, DeepSeek, Midjourney, and other AI tools",
+    "website": "https://t.me/chatcom"
+  },
+  "addresses": [
+    {
+      "address": "EQDXg84JVwxZCbZRmCD6ukCVjYZkE52rz9hBz4BZUTn2EgfN",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-26T17:40:00Z"
+    }
+  ]
+}
