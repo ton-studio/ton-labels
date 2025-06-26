@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "autogifts",
+        "name": "AutoGifts",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://AutoGiftsBot",
+        "description": "",
+        "organization": "AutoGiftsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCJTkhd1W2wztkVNp_dsKBpv2SIoUWoIyzI7mQrbSrj_NSh",
+            "source": "",
+            "comment": "Admin address used to withdraw profits from the AutoGiftsBot",
+            "tags": [],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        }
+    ]
+}
