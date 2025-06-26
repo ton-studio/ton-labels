@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "torch_",
+        "label": "torch",
         "category": "defi",
         "subcategory": "cdp",
         "website": "https://torch.finance",
         "description": "",
-        "organization": "fiva"
+        "organization": "torch"
     },
     "addresses": [
         {
