@@ -4,7 +4,7 @@
     "name": "Chatcom",
     "organization": "chatcom",
     "category": "merchant",
-    "subcategory": "AI services",
+    "subcategory": "",
     "description": "Telegram bot providing access to ChatGPT, Claude, DeepSeek, Midjourney, and other AI tools",
     "website": "https://t.me/chatcom"
   },
