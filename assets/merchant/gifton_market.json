@@ -4,7 +4,6 @@
         "name": "GiftON Market",
         "organization": "gifton_market",
         "category": "merchant",
-        "subcategory": "offchain_marketplace",
         "website": "https://t.me/gifton_market_bot",
         "description": ""
     },
@@ -14,7 +13,7 @@
             "source": "",
             "comment": "",
             "tags": [
-                "telegram-gifts"
+                "telegram-gifts-marketplace"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-03T00:00:01Z"
