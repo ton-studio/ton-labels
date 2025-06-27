@@ -2,7 +2,6 @@
     "metadata": {
         "label": "fragment",
         "category": "merchant",
-        "subcategory": "onchain_marketplace",
         "website": "https://fragment.com",
         "description": "",
         "organization": "fragment"
@@ -55,7 +54,6 @@
                 "telegram-stars",
                 "telegram-premium",
                 "telegram-ads",
-                "telegram-gifts",
                 "kyc"
             ],
             "submittedBy": "ohld",
