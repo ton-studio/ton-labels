@@ -4,7 +4,7 @@
         "name": "OTC ELF",
         "organization": "otcelf",
         "category": "merchant",
-        "subcategory": "offchain_marketplace",
+        "subcategory": "",
         "website": "https://t.me/GiftElfRobot",
         "description": "P2P guarantor bot for gifts and more"
     },
@@ -14,7 +14,7 @@
             "source": "",
             "comment": "chat bot",
             "tags": [
-                "telegram-gifts"
+                "telegram-gifts-marketplace"
             ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-03-22T00:00:01Z"
