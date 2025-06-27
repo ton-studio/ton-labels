@@ -4,7 +4,7 @@
         "name": "TONNEL Marketplace",
         "organization": "tonnel",
         "category": "merchant",
-        "subcategory": "offchain_marketplace",
+        "subcategory": "",
         "website": "https://market.tonnel.network",
         "description": ""
     },
@@ -14,7 +14,7 @@
             "source": "Deposit address",
             "comment": "https://dune.com/ton_foundation/tonnel-tg-gifts",
             "tags": [
-                "telegram-gifts"
+                "telegram-gifts-marketplace"
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-02-24T00:00:01Z"
@@ -31,7 +31,9 @@
             "address": "EQDuWa_y780rpiEerTv5JZtBq8skovWp0NPLHtJVi3RB42zt",
             "source": "",
             "comment": "Withdrawal address from gift marketplace",
-            "tags": [],
+            "tags": [
+                "telegram-gifts-marketplace"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
