@@ -5,14 +5,14 @@
         "category": "merchant",
         "subcategory": "",
         "website": "https://ton.place",
-        "description": "Personal or administrative wallet of Andrew Goglev, associated with TON Place platform",
+        "description": "",
         "organization": "ton_place"
     },
     "addresses": [
         {
             "address": "EQD4zf0G0iSZHG2uM9a5yJGmG0h7HcFOv1ryXNEArGSvun0O",
             "source": "",
-            "comment": "",
+            "comment": "Personal or administrative wallet of Andrew Goglev, associated with TON Place platfor",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-26T00:00:01Z"
