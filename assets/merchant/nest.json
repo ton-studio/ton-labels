@@ -4,7 +4,7 @@
         "name": "Nest Store",
         "category": "merchant",
         "organization": "nest",
-        "subcategory": "offchain_marketplace",
+        "subcategory": "",
         "website": "https://t.me/nestore_robot",
         "description": ""
     },
@@ -14,7 +14,7 @@
             "source": "",
             "comment": "",
             "tags": [
-                "telegram-gifts"
+                "telegram-gifts-marketplace"
             ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-03-22T00:00:01Z"
