@@ -23,7 +23,7 @@ allowed_subcategories = {
     "scripted-activity": {"sybil"},
     "gaming": {"gambling"},
     "DEX": {"perpetuals", "launchpad"},
-    "defi": {"lending", "yield_aggregator", "liquid_staking", "perpetuals"},
+    "defi": {"lending", "yield_aggregator", "liquid_staking", "perpetuals", "cdp"},
 }
 
 

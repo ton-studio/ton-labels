@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "factorial",
+        "label": "affluent",
         "category": "lending",
         "subcategory": "",
-        "website": "https://factorial.finance",
+        "website": "https://affluent.org",
         "description": "",
-        "organization": "factorial"
+        "organization": "affluent"
     },
     "addresses": [
         {
@@ -32,7 +32,7 @@
         },
         {
             "address": "EQAYJdU9JFRcKAwMZv3MqD0QVjBEMGO_4mgwOJtTBOHR22ec",
-            "source": "factorial website",
+            "source": "affluent website",
             "comment": "Storm-USDT Market",
             "tags": [
                 "defi",
@@ -43,7 +43,7 @@
         },
         {
             "address": "EQBCXQp2sSTJhvnV6DlBqhTsdNMZc_tJcXQJ5XjoWiy-OAge",
-            "source": "factorial website",
+            "source": "affluent website",
             "comment": "Advanced Market",
             "tags": [
                 "defi",
@@ -54,7 +54,7 @@
         },
         {
             "address": "EQCOA3gN3Dk-ml66zux_vuia7mTIBTENKxtomD6TDgnFZXoH",
-            "source": "factorial website",
+            "source": "affluent website",
             "comment": "Advanced-Storm Market",
             "tags": [
                 "defi",
