@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "label": "ton_place",
+         "name": "TON Place",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://ton.place",
+        "description": "",
+        "organization": "ton_place"
+    },
+    "addresses": [
+        {
+            "address": "EQD4zf0G0iSZHG2uM9a5yJGmG0h7HcFOv1ryXNEArGSvun0O",
+            "source": "",
+            "comment": "Personal or administrative wallet of Andrew Goglev, associated with TON Place platform",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQAdTmZiH5q7gUq6nLuQhhSvaoi78b4mrQWYf6kBeFXeNnTp",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQDYSZBaCuRRKjT4FmgYDMgfrO-MQonM3FOeljPHw9sQwYlE",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        }
+    ]
+}
