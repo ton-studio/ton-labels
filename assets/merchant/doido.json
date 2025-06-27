@@ -4,7 +4,6 @@
     "name": "DOIDO Market",
     "organization": "doido",
     "category": "merchant",
-    "subcategory": "offchain_marketplace",
     "website": "https://t.me/doido_marketplace_bot",
     "description": ""
   },
@@ -13,7 +12,7 @@
       "address": "EQDps_FERyVVK61XHGAsiuS4_G0e-iYdITVqzlvJazgDiUAB",
       "source": "",
       "comment": "Deposit address",
-      "tags": ["telegram-gifts"],
+      "tags": ["telegram-gifts-marketplace"],
       "submittedBy": "igorator",
       "submissionTimestamp": "2025-06-25T17:55:01Z"
     },
@@ -21,7 +20,7 @@
       "address": "EQBQRHhzDC7fAIbOdK6TyJw_a0ovLc5yyrKb4SRBEY7mcLX_",
       "source": "",
       "comment": "withdrawal address",
-      "tags": [],
+      "tags": ["telegram-gifts-marketplace"],
       "submittedBy": "igorator",
       "submissionTimestamp": "2025-06-25T17:55:01Z"
     }
