@@ -3,7 +3,7 @@
         "label": "tondiamonds",
         "name": "TON Diamonds",
         "category": "merchant",
-        "subcategory": "onchain_marketplace",
+        "subcategory": "",
         "website": "https://ton.diamonds",
         "description": "",
         "organization": "tondiamonds"
