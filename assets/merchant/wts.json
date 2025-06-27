@@ -4,7 +4,7 @@
         "name": "WTS",
         "category": "merchant",
         "organization": "wts",
-        "subcategory": "offchain_marketplace",
+        "subcategory": "",
         "website": "https://t.me/wtstonbot",
         "description": ""
     },
@@ -14,7 +14,7 @@
             "source": "",
             "comment": "",
             "tags": [
-                "telegram-gifts"
+                "telegram-gifts-marketplace"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-03T00:00:01Z"
