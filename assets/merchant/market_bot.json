@@ -4,7 +4,7 @@
         "name": "Market",
         "organization": "market_bot",
         "category": "merchant",
-        "subcategory": "offchain_marketplace",
+        "subcategory": "",
         "website": "https://t.me/Market_bot",
         "description": ""
     },
@@ -14,7 +14,7 @@
             "source": "",
             "comment": "",
             "tags": [
-                "telegram-gifts"
+                "telegram-gifts-marketplace"
             ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-04-12T00:00:01Z"
