@@ -4,6 +4,7 @@
         "name": "GiftON Market",
         "organization": "gifton_market",
         "category": "merchant",
+        "subcategory": "",
         "website": "https://t.me/gifton_market_bot",
         "description": ""
     },
