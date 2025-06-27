@@ -18,7 +18,6 @@ allowed_tags = {item["name"] for item in tags_data}
 
 # Define allowed subcategories for each category
 allowed_subcategories = {
-    "merchant": {"onchain_marketplace", "offchain_marketplace"},
     "scammer": {"drainer"},
     "scripted-activity": {"sybil"},
     "gaming": {"gambling"},
