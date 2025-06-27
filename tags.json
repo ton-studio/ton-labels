@@ -36,8 +36,8 @@
         "description": "Marketplace can top up Telegram Ads balance"
     },
     {
-        "name": "telegram-gifts",
-        "description": "Telegram Gifts Marketplace’s manager address"
+        "name": "telegram-gifts-marketplace",
+        "description": "Address of offchain marketplace which allow trading telegram gifts"
     },
     {
         "name": "kyc",
