@@ -23,6 +23,22 @@
           "tags": [],
           "submittedBy": "Lucky0041",
           "submissionTimestamp": "2025-06-29T00:00:00Z"
-		}
-	]
+	},
+	 {
+          "address": "EQARk8RYXv5n1lw6Uti3_PEWAtqcPmhTBXJtSoFGeaJWFPgV",
+          "source": "",
+          "comment": "Distribution of 0.11 TON to multiple addresses for Sybil activity.",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-06-29T00:00:00Z"
+	},
+	{
+          "address": "EQCNN4aC-NplSVZBVmbPOQRLQUkWT7xbWbypfIB9qBLjiFyE",
+          "source": "",
+          "comment": "Accumulation of BLUM tokens",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-06-29T00:00:00Z"
+	}
+    ]
 }
