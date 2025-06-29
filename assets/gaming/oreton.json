@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "oreton",
+    "category": "gaming",
+    "name": "OreTon",
+    "subcategory": "",
+    "website": "https://t.me/OreTON_bot",
+    "description": "",
+    "organization": "oreton"
+  },
+  "addresses": [
+    {
+      "address": "EQDcEhQKVk91HmxsudDQsj0nxuVULdg7bAohtehDgGqmaOLX",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "JackeyMonuy",
+      "submissionTimestamp": "2025-06-27T00:00:01Z"
+    }
+  ]
+}
