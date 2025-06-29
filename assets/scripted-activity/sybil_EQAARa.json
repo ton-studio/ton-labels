@@ -1,0 +1,28 @@
+{
+  "metadata": {
+      "label": "sybil_EQAARa",
+      "category": "scripted-activity",
+      "subcategory": "sybil",
+      "website": "",
+      "description": "",
+      "organization": "sybil_EQAARa"
+  },
+  "addresses": [
+      {
+          "address": "EQAARalKNscMGBeFJQP4smB9wD5A4fHeG_5tvGQHGDVUqaC1",
+          "source": "",
+          "comment": "Accumulation of the remaining funds from Sybil activity and transfer of 356 TON to the address UQB_MZY",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-06-29T00:00:00Z"
+		},
+       {
+          "address": "EQB_MZYCsq3_tD3TzncduXNbxGmPb2Gyemfsrb3w0ArKwa1s",
+          "source": "",
+          "comment": "Accumulation of funds from multiple addresses and withdrawal to OKX",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-06-29T00:00:00Z"
+		}
+	]
+}
