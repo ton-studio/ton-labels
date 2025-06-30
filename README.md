@@ -12,6 +12,10 @@ After each commit to the main branch artefacts are compiled and pushed:
 2. Run `build_assets.py` to validate a schema of your JSON against the data models described in `models.py`.
 3. If you want to add a new category or a tag, make sure to add them to `categories.json` and `tags.json`.
 
+### Telegram Gifts marketplaces
+
+To add offchain telegram gifts marketplace you should add subcategory `offchain_marketplace` label — if trades are hapenning offchain(or does not use standard NFT contracts) and tag `telegram-gifts` for each address used by marketplace(deposits, withdraws).
+
 ## Help Us Label Active TON Addresses and Earn TON
 
 We need your help labeling unknown addresses on the TON Blockchain. You can find the list of addresses that need labeling, along with the rules for earning TON rewards, on this Dune dashboard:
