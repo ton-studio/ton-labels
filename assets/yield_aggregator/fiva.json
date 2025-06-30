@@ -34,7 +34,7 @@
         },
         {
             "address": "EQBY5JE96x_U5fSSsAzBj8d-_ZbK-5AihJ2rzjTZAtNqsntL",
-            "source": "",
+            "source": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/fiva/index.js",
             "comment": "SY eUSDT (01Sep2025)",
             "tags": [],
             "submittedBy": "ohld",
@@ -156,6 +156,54 @@
             "address": "EQC57U5O4_OGLSEgX498PpmNqSYzcXx63wvOdtkCoe5LHcfo",
             "source": "",
             "comment": "SY tsUSDe (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQAPICp-A_2QNEb7xiBwAoeypEnhrtY5tJ_1vGGujjVvflTl",
+            "source": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/fiva/index.js",
+            "comment": "tsTON01Sep2025",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQB7mAJdOoatcYNB6dXL722-you09EjGIMEV3nUIN9WQ5jq7",
+            "source": "",
+            "comment": "stgUSDWallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQC2OdSIRyDofBjKYtR-ZN-Xk3eHN9gEujY7deoHNRBdZ5QG",
+            "source": "",
+            "comment": "Staked Telegram USD stgUSD jetton_master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQA0Pobx0rXc7MlfXvUAZlC_U4MRGJ4FKGq79dHbBJ7RsuyB",
+            "source": "",
+            "comment": "USDTSlpSyMinter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQD5A2ygwSgAXXTqI-OkAOY72bXn8-mRgE9wOEFLKgu6ifbD",
+            "source": "NOTSlpSyMinter",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQB9nQdgwdaTXG6F7mDEErPuuJza6lmCfQjun-PXK3iJXm2h",
+            "source": "",
+            "comment": "TONSlpSyMinter",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-06-12T00:00:01Z"

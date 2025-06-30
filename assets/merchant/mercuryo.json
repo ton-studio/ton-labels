@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "mercuryo",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://mercuryo.io",
+        "description": "",
+        "organization": "mercuryo"
+    },
+    "addresses": [
+        {
+            "address": "EQC7MPAYs9V24d5GX902fvaCZsSeE84oz4PEirSC8jAG7FIh",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        }
+    ]
+}
