@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "label": "arnold_arni",
+    "category": "other",
+    "subcategory": "",
+    "name": "Arnold Arni",
+    "website": "https://arnold-arni.site",
+    "description": "",
+    "organization": "arnold_arni"
+  },
+  "addresses": [
+    {
+      "address": "EQCv3xY8iuGlF2lE2C2tlSR3oIS9jxtqImO1OWvFh6T95Bew",
+      "source": "",
+      "comment": "Arnold NFT dividends",
+      "tags": [],
+      "submittedBy": "JackReachy",
+      "submissionTimestamp": "2025-06-30T00:00:01Z"
+    },
+      {
+      "address": "EQAtgfvEWgaZ1zpuN8MTvJuMtmqp8-GWBbxL4ujGQefgN2-B",
+      "source": "",
+      "comment": "Arnold NFT collections",
+      "tags": [],
+      "submittedBy": "JackReachy",
+      "submissionTimestamp": "2025-06-30T00:00:01Z"
+    }
+  ]
+}
