@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "sybil_Blum_EQA1L3",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_Blum_EQA1L3"
+    },
+    "addresses": [
+        {
+            "address": "EQA1L3rVnP4HxIf8zMzpqTd4gG7nOffLBBfB_Kb41QaG7Ckm",
+            "source": "",
+            "comment": "Accumulates funds after Sybil script activity",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-02T00:00:00Z"
+        },
+        {
+            "address": "EQBGgyr65k1Z9amrZLgJ7sPoUN7ufphcycOOfM9Qkg5WFVKs",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-02T00:00:00Z"
+        }
+    ]
+}
