@@ -599,7 +599,7 @@
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-06-17T00:00:01Z"
         },
-            {
+        {
             "address": "EQCywWDdLXBN8GV8Nh5FKLPv7QxB9og89pRWJheW1ouD7_a6",
             "source": "",
             "comment": "🎁500TON Bouns at",
@@ -610,7 +610,7 @@
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-20T00:00:01Z"
         },
-          {
+        {
             "address": "EQBNspgz_2k86p5l5x4k4IyW-E2vq5P2nyrYNurFduB0Zc2Q",
             "source": "",
             "comment": "🎁500TON Bouns at",
@@ -658,6 +658,65 @@
             "address": "EQAEwd38WyUTPqFkBNyJKEVARMS2guY6EaVPU1WiZM_1FbsP",
             "source": "",
             "comment": "🎁500TON Bouns at, 150 Telegram Stars Ref#pdJCwW0aL",
+        {
+            "address": "EQC25ohQcVJNQV8DNQswJujY0nU3XhDZfmfiwX7WYC-1coyl",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQDlZy8lR5DoGskK16aQab_kGNtyL-ff1pcHsbW2JFf7OTS9",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQBFKXBBqEU9_FwWvQp7gmUtofPAHwFfs6YUB9AntrAFffDH",
+            "source": "",
+            "comment": "Scam fund collector",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQDZ61x_DTJw2avL3s2U47zfnp1tN3F7YvzxaVRBkc4lfkJ6",
+            "source": "",
+            "comment": "mimic for $TSLA token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQBMRR25uY_mWI3Dsx3CaQAg852WuyEPRo7qSAEkq8sW_QLH",
+            "source": "",
+            "comment": "mimic for $TSLA token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQCJDYmsMzXCcGucs8gNEZ8XAwu6hB85fo1-mnccIHjqxVKH",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
             "tags": [
                 "scammer",
                 "suspicious"
@@ -669,12 +728,19 @@
             "address": "EQAk44WXYhGYBpKoPWKcnm6q7Plam-LSXZQNZ6ld7lHYC-I1",
             "source": "",
             "comment": " Official New event! Join to get 888 mobile phone number! contact us! tg：daolanba",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+         {
+            "address": "EQBAN0OnPhwrmYSx-Nh7EIQD05qsm04mEI5DQjnABXUL83F2",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
             "tags": [
                 "scammer",
                 "suspicious"
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-07-02T00:00:01Z"
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
         }
     ]
 }

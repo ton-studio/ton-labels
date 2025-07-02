@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_Blum_EQATceo",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_Blum_EQATceo"
+    },
+    "addresses": [
+        {
+            "address": "EQATceoKdmTAscteyhAxWdA0PKDbcQwRAggCgE2kXf69rpya",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-26T00:00:00Z"
+        }
+    ]
+}

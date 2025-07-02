@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "torch",
+        "category": "defi",
+        "subcategory": "cdp",
+        "website": "https://torch.finance",
+        "description": "",
+        "organization": "torch"
+    },
+    "addresses": [
+        {
+            "address": "EQBugHw3qUX71i5_mbUMYUAUnxdy513v5zKeLZdVhCp1J8xI",
+            "source": "",
+            "comment": "$tgUSD minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQCJ7ASxOkI6Ws5Bh8J74XZbRX8861jFgTZT42DXv71-UISf",
+            "source": "",
+            "comment": "$tgUSD jetton_master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQA7KcGx7Jy4rMg7orvAlEyo1BwAHJ2Wd3p7C8MYbGCX7x1U",
+            "source": "",
+            "comment": "$tgUSD treasury, receives incoming USDT from users",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        }
+    ]
+}
