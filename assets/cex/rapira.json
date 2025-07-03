@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "rapira",
+        "category": "CEX",
+         "name": "Rapira",
+        "subcategory": "",
+        "website": "https://rapira.net",
+        "description": "",
+        "organization": "rapira"
+    },
+    "addresses": [
+        {
+            "address": "EQBwhUXO-PwBGAIllqBWBEphgz6SNhO_cP0eJfAz_v2KPBFE",
+            "source": "",
+            "comment": "deposit address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-03-07T10:09:26Z"
+        }
+    ]
+}
