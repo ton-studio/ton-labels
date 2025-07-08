@@ -62,6 +62,39 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-26T00:00:01Z"
+        },
+        {
+            "address": "EQCNgBmHVBRWpMeZE7E92RM-Gecnv88LJaXAlmqn4WAfJIA9",
+            "source": "https://github.com/duneanalytics/spellbook/pull/8457/files",
+            "comment": "Advanced-Tradoor Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        },
+        {
+            "address": "EQBQMDjWVLeX0vAUNDTRL-aA665EItLzSvONywKDHXJRCuxB",
+            "source": "https://github.com/duneanalytics/spellbook/pull/8457/files",
+            "comment": "Vault Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        },
+        {
+            "address": "EQA9iTdgsPxvk08idCXQoefGqJGLTDQFy4W34AtEj7Z_25iT",
+            "source": "https://github.com/duneanalytics/spellbook/pull/8457/files",
+            "comment": "Ethena Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
         }
     ]
 }
