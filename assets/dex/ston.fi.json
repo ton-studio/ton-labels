@@ -481,14 +481,6 @@
             "submissionTimestamp": "2025-05-22T00:00:01Z"
         },
         {
-            "address": "EQCwiRZrfUSlMM0dz-Hm4KW1IqaFz1Pwxg3-t0jQDt36qOar",
-            "source": "",
-            "comment": "stonfiswapokref",
-            "tags": [
-                "defi"
-            ],
-            "submittedBy": "GloriaKinsburg",
-            "submissionTimestamp": "2025-07-08T00:00:01Z"
             "address": "EQDTb1w1TCohFqnNcyPrrbbBJQdAwwPn8DbCoaSUd0S5T4fB",
             "source": "",
             "comment": "stonfi_router_v2",
@@ -537,6 +529,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQCwiRZrfUSlMM0dz-Hm4KW1IqaFz1Pwxg3-t0jQDt36qOar",
+            "source": "",
+            "comment": "StonfiSwapOkRef",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "GloriaKinsburg",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
         }
     ]
 }
