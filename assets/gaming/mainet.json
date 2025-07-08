@@ -11,7 +11,7 @@
         {
             "address": "EQCxFQAexmxOPAgus3ZBs_SlZHcVF7iqAj0UX0BLRb6dCORE",
             "source": "",
-            "comment": "CORE token",
+            "comment": "CORE jetton_master",
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-28T00:00:01Z"
@@ -19,10 +19,18 @@
         {
             "address": "EQDIUygCHtYJBS3gwSPos4qQizX2mAayuC7WmAOsPAmL5YFs",
             "source": "",
-            "comment": "",
+            "comment": "Receives CORE",
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-28T00:00:01Z"
+        },
+        {
+            "address": "EQA4zM-0Q99FEFp22BFc83Dp7_q5wtHGts4L_BTlrPwOFZ_O",
+            "source": "",
+            "comment": "Receives TON",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-04T00:00:01Z"
         }
     ]
 }

@@ -22,7 +22,8 @@ allowed_subcategories = {
     "scammer": {"drainer"},
     "scripted-activity": {"sybil"},
     "gaming": {"gambling"},
-    "DEX": {"perpetuals", "launchpad"}
+    "DEX": {"perpetuals", "launchpad"},
+    "defi": {"lending", "yield_aggregator", "liquid_staking", "perpetuals", "cdp"},
 }
 
 
@@ -36,7 +37,10 @@ class LabelledAddress(BaseModel):
 
     @field_validator("address")
     def validate_address(cls, address: str) -> str:
-        address_uf = Address(address).to_str(True, is_bounceable=True)
+        try:
+            address_uf = Address(address).to_str(True, is_bounceable=True)
+        except Exception as e:
+            raise ValueError(f"Invalid address: {address}: {e}")
 
         if address_uf != address:
             raise ValueError(

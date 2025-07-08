@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_EQAN_es",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_tac_nft_EQAN_es"
+    },
+    "addresses": [
+        {
+            "address": "EQAN_esKji5v6CIf7wYQK4rpC1G8KSB6eoEhuJQ8zPgurBcd",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-22T00:00:00Z"
+         }
+    ]
+}

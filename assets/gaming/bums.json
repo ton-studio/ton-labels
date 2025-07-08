@@ -111,6 +111,94 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-22T00:00:01Z"
+        },
+        {
+            "address": "EQC0GVxe6wTYp3F7fcOft3JeE1pNmvq16y_gLtdI-PNHpiE2",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQDXCEcO7AG02mXffF4Fxrs3NQzqeq17Lo0xSkddlWOy8LbD",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQB3Q-uIVWIXzkw9YnnPtPluSGJ14k9cISyBu6MgMT6op961",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQANwQc6c1x4eZqexAamo6SH89SVD9zLZGUvwagYFqJIwy-u",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQDwPpAret0cnSCbM4MMyoKKnqb3GhzUgMnbB8_6BtkXqNEJ",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQBBeBxaKp6I5hRjpaex2_LhCDY9nvKdvLY5iDOLdSxy1Wo2",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQCvtWEyNxEoDHJLRvv7ryUMmM1T-eu1O7RtOQfMoNDNhJqQ",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQCHDG9cDgtidJANC7M6QIcfxzm4uno31qVNHxQEn8CFGxdB",
+            "source": "",
+            "comment": "Rewards distribution address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQBE7HlbIX2mjEsVkiaKKqfLkDXhXl6DlnRys2JVxszYeGOx",
+            "source": "",
+            "comment": "Same payload structure as the other addresses",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        },
+        {
+            "address": "EQC60Kw9CQcnRs1drgFPA3NZtKdQThEENoRVbFBya6CLmxEB",
+            "source": "",
+            "comment": "TG Stars withdrawal address. Used the same Binance ID (108133212) and Gateio ID (392103867) as the other addresses related to Bums.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        },
+         {
+            "address": "EQCVTpkARARpiT7dlYyzotqQNY7HsnagWCXW_pNUJXjq-FRl",
+            "source": "",
+            "comment": "TG Stars withdrawal address. Shares the same Binance ID (107642146) as other addresses linked to Bums",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
         }
     ]
 }

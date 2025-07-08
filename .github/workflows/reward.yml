@@ -1,0 +1,23 @@
+name: Add Github User to reward allowlist on PR Merge
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  reward:
+    name: Reward
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - name: GH action to reward a contribution
+        uses: ton-society/gh-ton-contribution-reward@v1.4.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          x_api_key: ${{ secrets.SOCIETY_API_KEY }}
+          x_partner_id: ${{ secrets.SOCIETY_PARTNER_ID }}
+          activity_id: 9865

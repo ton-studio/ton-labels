@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "zkme",
+        "name": "zkMe",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://app.zk.me",
+        "description": "Identity Hub",
+        "organization": "zkme_labs"
+    },
+    "addresses": [
+        {
+            "address": "EQBYR06WaFeXR2ijrHOixAjQvW7_pUOvnqsWuWszzck4dL61",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-09T00:00:01Z"
+        }
+    ]
+}

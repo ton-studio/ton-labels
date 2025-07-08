@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "label": "ethena",
+        "name": "Ethena on TON",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://ethena.fi",
+        "description": "",
+        "organization": "ethena"
+    },
+    "addresses": [
+        {
+            "address": "EQDQ5UUyPHrLcQJlPAczd_fjxn8SLrlNQwolBznxCdSlfQwr",
+            "source": "https://docs.ethena.fi/solution-design/key-addresses#token-contracts-on-other-chains",
+            "comment": "tsUSDe token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-02T00:00:01Z"
+        },
+        {
+            "address": "EQChGuD1u0e7KUWHH5FaYh_ygcLXhsdG2nSHPXHW8qqnpZXW",
+            "source": "https://docs.ethena.fi/solution-design/key-addresses#token-contracts-on-other-chains",
+            "comment": "USDe vault",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-02T00:00:01Z"
+        },
+        {
+            "address": "EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f",
+            "source": "https://docs.ethena.fi/solution-design/key-addresses#token-contracts-on-other-chains",
+            "comment": "USDe token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-02T00:00:01Z"
+        },
+        {
+            "address": "EQDEiWddpcdKFArC4AnHcpyKwt9ML0oK6xbljkC0J6vzgHAL",
+            "source": "",
+            "comment": "Boost APY distributor",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        }
+    ]
+}
