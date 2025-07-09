@@ -95,6 +95,72 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-07-08T00:00:01Z"
+        },
+        {
+            "address": "EQAaU-r8oRCkS8DfLOMT8-BwJ7vhCqJKa_OjZ6uGceQWQhlR",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Basic market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQCnwE3JD4As-i39Dvk9MD2f2h94LdxPFvu0-xzyzH4wTFhE",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Advanced market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQBxsS-WfHyJhuo6DUmqaa-4fRv00i7vFYE6oub2IL7jLa8y",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Vault market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQAjB_b_AdNeiYRlxgWx5CiDbFpGSMJJ6q0wzsOktfrBnyYV",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Advanced-Tradoor Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQDkyPd9kJVZa90StDWtvmsY1LWCWSssLxpDQjsg8tys9Rwv",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Storm-TON Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQB4dsOX_DJy9lQoh7nuL_Ah2nj8tEtRkb48_EDuE3cKpMuD",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Advanced-Storm Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
         }
     ]
 }
