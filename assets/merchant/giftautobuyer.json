@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "giftautobuyer",
+        "name": "GiftAutoBuyer",
+        "organization": "giftautobuyer",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "",
+        "website": "https://t.me/AutoGiftRobot"
+    },
+    "addresses": [
+        {
+            "address": "EQD_5QW00WeqQJBojrQvxyYOxhrb4mD7qVCpVV56rRTxUy2x",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "GloriaKinsburg",
+            "submissionTimestamp": "2025-07-08T17:00:02Z"
+        }
+    ]
+} 
