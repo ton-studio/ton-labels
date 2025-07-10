@@ -37,6 +37,38 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQBvQZTPliJQf9lG5VGfN5PgUTOkbsoNKu4OX8yES9RmlF8l",
+            "source": "",
+            "comment": "Smart contract caller: stake/unstake/price update",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQDRfMrqesMiYleuWxFjrn115vUYFnmEqmHiRXz3SFYtUDNN",
+            "source": "",
+            "comment": "Smart contract caller: stake/unstake/price update",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQAmgBqlg3MncrJcUAwWAlr4MUetT6KvUDudpSfFX_eY9yMP",
+            "source": "",
+            "comment": "Smart contract caller: stake/unstake/price update",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQBXlaLbZs_zxzEfVvNymz8P99HgSZQK5U42q2YWsMD8-Gvo",
+            "source": "",
+            "comment": "Smart contract caller: stake/unstake/price update",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
         }
     ]
 }
