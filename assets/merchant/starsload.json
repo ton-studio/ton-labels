@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "starsload",
+        "name": "StarsLoad",
+        "organization": "starsload",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/star_nn_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBE1dRtcwrrTw2Cor16a3mgpB0mWcm8E6UY_o6xT69f8C7B",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-10T17:00:02Z"
+        }
+    ]
