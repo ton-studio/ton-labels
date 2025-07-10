@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_Dogs_EQAtPj",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_Dogs_EQAtPj"
+    },
+    "addresses": [
+        {
+            "address": "EQAtPjPMFDk7bntkwq3AP4-ZVg5E-ekq2w-rWpJSn86CZ4vv",
+            "source": "",
+            "comment": "Sybil-related things connected with DOGS, sending to Binance ID 103570386",
+            "tags": [],
+            "submittedBy": "NotVredina",
+            "submissionTimestamp": "2025-07-09T00:00:00Z"
+        }
+    ]
+}
