@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tonenot",
+        "name": "TONeNOT",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/TONeNOT_ROBOT",
+        "description": "",
+        "organization": "tonenot"
+    },
+    "addresses": [
+        {
+            "address": "EQAq6fF5JdW8wnC9f-RVU87Sg1vKBsaJ-pnmlLIFtY6HuMYH",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "GloriaKinsburg",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        }
+    ]
+}
