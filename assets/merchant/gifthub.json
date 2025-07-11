@@ -2,7 +2,7 @@
   "metadata": {
     "label": "gifthub",
     "name": "GiftHub",
-    "organization": "Telegram Gift Marketplace",
+    "organization": "gifthub",
     "category": "merchant",
     "subcategory": "offchain_marketplace",
     "website": "https://t.me/gift_mplace_bot",
@@ -10,7 +10,7 @@
   },
   "addresses": [
     {
-      "address": "UQBIehGbRjN7AlVYoqZ9BoHHtQqZc1FaJOJSs0QDZ3P72MQH",
+      "address": "EQBIehGbRjN7AlVYoqZ9BoHHtQqZc1FaJOJSs0QDZ3P72JnC",
       "source": "",
       "comment": "Main deposit/withdrawal address of GiftHub",
       "tags": ["telegram-gifts"],
