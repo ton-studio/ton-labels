@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "bitstars",
+        "name": "BitStars",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/BitStarRobot",
+        "description": "",
+        "organization": "bitstars"
+    },
+    "addresses": [
+        {
+            "address": "EQBEsIARNMOmiuPPRmdYOLw7kxnCydvnhTQBRgQ3dQ-g3Ji0",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-11T00:00:01Z"
+        },
+        {
+            "address": "EQCMn7EkkLMbQtvGfBgjGxpD0vEZzupEXvSbQFDAzXRo7_vi",
+            "source": "",
+            "comment": "deposit address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-11T00:00:01Z"
+        }
+    ]
+}
