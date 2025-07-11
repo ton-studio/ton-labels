@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "gifthub",
+    "name": "GiftHub",
+    "organization": "Telegram Gift Marketplace",
+    "category": "merchant",
+    "subcategory": "offchain_marketplace",
+    "website": "https://t.me/gift_mplace_bot",
+    "description": "Buy, sell, and exchange collectible Telegram gifts, and host giveaways within Telegram"
+  },
+  "addresses": [
+    {
+      "address": "UQBIehGbRjN7AlVYoqZ9BoHHtQqZc1FaJOJSs0QDZ3P72MQH",
+      "source": "",
+      "comment": "Main deposit/withdrawal address of GiftHub",
+      "tags": ["telegram-gifts"],
+      "submittedBy": "HenuZiO",
+      "submissionTimestamp": "2025-07-11T00:00:01Z"
+    }
+  ]
+}
