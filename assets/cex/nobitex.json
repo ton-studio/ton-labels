@@ -47,6 +47,22 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-22T00:00:01Z"
+        },
+        {
+            "address": "EQDeokJviFMgvQocUk_b7Q-dt3UC7kOWtaEaqDnOBpeJt9dB",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "Lexichnek",
+            "submissionTimestamp": "2025-07-12T00:00:01Z"
+        },
+        {
+            "address": "EQBhsmwzM0X9_1Aj3dCWUXWYNIjj0JAPoB3e2iXiVrOTKvAq",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "Lexichnek",
+            "submissionTimestamp": "2025-07-12T00:00:01Z"
         }
     ]
 }
