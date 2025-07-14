@@ -529,6 +529,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQBCAUfvMMSn-WHP0bKDs4wUVOK1r55OuHJIq25_QnVFCFye",
+            "source": "",
+            "comment": "Referral fees",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-14T00:00:01Z"
         }
     ]
 }
