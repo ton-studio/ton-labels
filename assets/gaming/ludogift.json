@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ludogift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/LudoGift_bot",
+        "description": "buy and open a case with NFT",
+        "organization": "ludogift"
+    },
+    "addresses": [
+        {
+            "address": "EQDhahVQqxghTeVsbV2i3Ae0sFZHH61NcxSIeVdWPNUOLD4R",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-17T00:00:01Z"
+        }
+    ]
+}
