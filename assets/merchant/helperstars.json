@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "helperstars",
+        "name": "HelperStars & Premium",
+        "organization": "helperstars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars&Premium marketplace",
+        "website": "https://t.me/HelperStars_Robot"
+    },
+    "addresses": [
+        {
+            "address": "EQCYCJq_RNjghLRmmekkPe_EPlNhrGU-5H1tHZkUzcj-C-eQ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-10T17:00:02Z"
+        }
+    ]
+}

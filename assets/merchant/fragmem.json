@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "fragmem",
+        "name": "FragMem",
+        "organization": "fragmem",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/FragMemBot"
+    },
+    "addresses": [
+        {
+            "address": "EQAp3m8uY6RnxcMsLTXG1L5eDxkqZGSuKIaG7rpqD1wjQCNq",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-10T17:00:02Z"
+        }
+    ]
+}
