@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "gifts_giveaway",
+        "name": "Gifts Giveaway",
+        "organization": "giftaway",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/giftaway",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQDDDkEhCXo0rahvU_azFM0-oUGpSjOLAjluLsV38hAi0GGc",
+            "source": "",
+            "comment": "Telegram Stars withdrawal address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-10T00:00:01Z"
+        }
+    ]
+}

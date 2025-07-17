@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "easy_sticker_marketplace",
+        "name": "Easy Market",
+        "organization": "easy",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/easy_mrktbot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQAFcFqiKbzVHdyMlevthUr132ybhS19ewQx26G23KVr2HOG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        }
+    ]
+}

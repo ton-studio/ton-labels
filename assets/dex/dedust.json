@@ -199,10 +199,18 @@
          {
             "address": "EQBCAUfvMMSn-WHP0bKDs4wUVOK1r55OuHJIq25_QnVFCFye",
             "source": "",
-            "comment": "Fee‑Vault Minter",
+            "comment": "Fee‑Vault Minter, omniston_referral",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-07-15T00:00:01Z"
+         },
+        {
+            "address": "EQCRaW1KN4BdhFzBYegwaFDuT51ynWH6aRZoM_QE0zzsXb8H",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lexichnek",
+            "submissionTimestamp": "2025-07-14T00:00:01Z"
         }
     ]
 }
