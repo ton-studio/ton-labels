@@ -12,9 +12,7 @@
       "address": "EQARTW5K0ZamQGsmo45iUxTKcwtji8GQm9M_RA3-ykvbf4wE",
       "source": "",
       "comment": "First Force Officer's Pass",
-      "tags": [
-        "nft"
-      ],
+      "tags": ["nft"],
       "submittedBy": "shuva10v",
       "submissionTimestamp": "2025-05-10T00:00:01Z"
     },
@@ -22,9 +20,7 @@
       "address": "EQA6uOK43ERsRGPBdV36Vx-bjWZoT6rjA-gQItmHH-ylv_6-",
       "source": "",
       "comment": "First Force Officer's Pass",
-      "tags": [
-        "nft"
-      ],
+      "tags": ["nft"],
       "submittedBy": "shuva10v",
       "submissionTimestamp": "2025-05-10T00:00:01Z"
     },
@@ -32,9 +28,7 @@
       "address": "EQDe-g7ds5azgdijv0YyGmS4flgqH_gUqP4o2pIvkOHcxJ9M",
       "source": "",
       "comment": "First Force NFT collection",
-      "tags": [
-        "nft"
-      ],
+      "tags": ["nft"],
       "submittedBy": "shuva10v",
       "submissionTimestamp": "2025-06-20T00:00:01Z"
     },
@@ -42,83 +36,9 @@
       "address": "EQBnQrL9cnNQWtS9vPr58RQenUhF0RtJ1B_KElGx-8o71gxe",
       "source": "",
       "comment": "First Force NFT minter",
-      "tags": [
-        "nft"
-      ],
+      "tags": ["nft"],
       "submittedBy": "shuva10v",
       "submissionTimestamp": "2025-06-20T00:00:01Z"
-    },
-    {
-      "address": "EQB_hJi_mg8AxypE6d3xfM6jWbRb3R_r1CpVSdMJyWaWzH4_",
-      "source": "",
-      "comment": "$TAC token minter, miltisig",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "EQA44cuq8OkFh61JPu-5FaghceqiCZfTbsXAL_DoCXb9akwZ",
-      "source": "",
-      "comment": "$TAC airdrop claim",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "EQAgpWmO8nBUrmfOOldIEmRkLEwV-IIfVAlJsphYswnuL80R",
-      "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
-      "comment": "CCL",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "EQAChAswsPNsU2k3A5ZDO_cfhWknCGS6WMG2Jz15USMwxMdw",
-      "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
-      "comment": "JettonProxy",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "EQBpUijPLYC9dcmw8Y-d23E9iX-2HBCupc5oqoYgXnORSRmi",
-      "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
-      "comment": "settings",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "EQDDqOCQr6EPBmJnFF-dDKuNFLctG-SEYFhz66m17uisfLXh",
-      "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
-      "comment": "NFT Proxy",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "",
-      "source": "",
-      "comment": "",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "",
-      "source": "",
-      "comment": "",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
-    },
-    {
-      "address": "",
-      "source": "",
-      "comment": "",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-07-17T00:00:01Z"
     }
   ]
 }
