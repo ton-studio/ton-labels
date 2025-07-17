@@ -143,6 +143,16 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-06-03T00:00:01Z"
+        },
+        {
+            "address": "EQBbQJe23kk5H77ruxpwPNbnZRArUiWTNt8Qorqti_ICFdsi",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-17T00:00:01Z"
         }
     ]
 }
