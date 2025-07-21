@@ -6,6 +6,11 @@ on:
         required: false
         default: '100'  # Default value shown in UI
         type: string
+      page:
+        description: 'The page number of merged PRs to fetch'
+        required: false
+        default: '1'  # Default value shown in UI
+        type: string
 
 jobs:
   reward:
@@ -21,4 +26,5 @@ jobs:
           x_api_key: ${{ secrets.SOCIETY_API_KEY }}
           x_partner_id: ${{ secrets.SOCIETY_PARTNER_ID }}
           per_page: ${{ inputs.per_page }}
+          page: ${{ inputs.page }}
           activity_id: 9865
