@@ -67,7 +67,7 @@
     {
       "address": "EQAgpWmO8nBUrmfOOldIEmRkLEwV-IIfVAlJsphYswnuL80R",
       "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
-      "comment": "CCL",
+      "comment": "CCL (Cross chain layer)",
       "tags": [],
       "submittedBy": "ohld",
       "submissionTimestamp": "2025-07-17T00:00:01Z"
@@ -95,6 +95,14 @@
       "tags": [],
       "submittedBy": "ohld",
       "submissionTimestamp": "2025-07-17T00:00:01Z"
+    },
+    {
+      "address": "EQB9Yo7kY7hlsVB6aei8ZkSpiI2OPC_kkbh5KAoUrKW04ZxW",
+      "source": "",
+      "comment": "Cross chain assets handler",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-07-18T00:00:00Z"
     }
   ]
 }
