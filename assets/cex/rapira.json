@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "label": "rapira",
+        "category": "CEX",
+         "name": "Rapira",
+        "subcategory": "",
+        "website": "https://rapira.net",
+        "description": "",
+        "organization": "rapira"
+    },
+    "addresses": [
+        {
+            "address": "EQBwhUXO-PwBGAIllqBWBEphgz6SNhO_cP0eJfAz_v2KPBFE",
+            "source": "",
+            "comment": "deposit address",
+            "tags": [    
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-03T10:09:26Z"
+        },
+        {
+            "address": "EQA9LLdOBB3wVgRdO6S-9lD5OMVT24bR2rH4C8nCOP4__u4u",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-03T10:09:26Z"
+        }
+    ]
+}

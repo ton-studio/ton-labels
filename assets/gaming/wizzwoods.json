@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "label": "wizzwoods",
+    "category": "gaming",
+    "name": "Wizzwoods",
+    "subcategory": "",
+    "website": "https://t.me/WizzwoodsBot",
+    "description": "",
+    "organization": "wizzwoods"
+  },
+  "addresses": [
+    {
+      "address": "EQCgI0XMVjgYk8dfoI2edl5Kmn1h8420kpyOaqKZ0nC9wy_0",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-30T00:00:01Z"
+    },
+    {
+      "address": "EQCkEJTa6xtr_8wdyUGWBh4PNRIZuCHQivdmlzoCSb8Y7R2t",
+      "source": "",
+      "comment": "TG Stars withdrawal address. Shares Gate io ID 193013540 with other addresses linked to Wizzwoods",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-06-30T00:00:01Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+on:
+  workflow_dispatch:
+    inputs:
+      per_page:
+        description: 'Number of merged PRs to process'
+        required: false
+        default: '100'  # Default value shown in UI
+        type: string
+      page:
+        description: 'The page number of merged PRs to fetch'
+        required: false
+        default: '1'  # Default value shown in UI
+        type: string
+
+jobs:
+  reward:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ton-society/gh-ton-contribution-reward/.github/actions/rewards-for-merged-prs@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          x_api_key: ${{ secrets.SOCIETY_API_KEY }}
+          x_partner_id: ${{ secrets.SOCIETY_PARTNER_ID }}
+          per_page: ${{ inputs.per_page }}
+          page: ${{ inputs.page }}
+          activity_id: 9865

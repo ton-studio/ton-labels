@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "sybil_goatgaming_EQAwuH",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_goatgaming_EQAwuH"
+    },
+    "addresses": [
+        {
+            "address": "EQAwuHHOGuioR2Xjxb0B2Kb3dyoER3a12h9pcdhg8InFPfR6",
+            "source": "",
+            "comment": "Accumulates funds after Sybil script activity",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-15T00:00:00Z"
+        },
+        {
+            "address": "EQCXjqRDe2wDZ89k3Ybe9q9NCs1vSuDGqh8vUaZKcbPz-esK",
+            "source": "",
+            "comment": "Accumulation of Blum tokens after Sybil activity",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-02T00:00:00Z"
+        }
+    ]
+}

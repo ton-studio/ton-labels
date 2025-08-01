@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "hypergift",
+        "name": "Hypergift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/Hypergifts_bot",
+        "description": "",
+        "organization": "hypergift"
+    },
+    "addresses": [
+        {
+            "address": "EQD7mBnqpCsVbCPJQK4l-23JZNrSoq0X0l4H3mAZs6laG-lP",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-11T00:00:01Z"
+        }
+    ]
+}
