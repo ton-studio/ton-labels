@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "tapxbattle",
+        "name": "TAPX",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/tapxbattle_bot",
+        "description": "",
+        "organization": "tapxbattle"
+    },
+    "addresses": [
+        {
+            "address": "EQA_GNzKanhcrrNgeyvZlaeoTetQXdsST0jKCxBZkqbcz6kz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-14T10:09:26Z"
+        },
+        {
+            "address": "EQBEreryraH2ZLmUelEPfRjNVZ6nDn2hod229C-aNUaPYoe7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        }
+    ]
+}

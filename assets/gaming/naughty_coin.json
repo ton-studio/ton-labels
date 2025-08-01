@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "naughty_coin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/naughtycoinofficial_bot",
+        "description": "",
+        "organization": "naughty_coin"
+    },
+    "addresses": [
+        {
+            "address": "EQBze_j1FLk5hYondKCdFeVNeaQW9F5dydFtZG_-tNodXtps",
+            "source": "",
+            "comment": "$NOTY task",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        }
+    ]
+}
