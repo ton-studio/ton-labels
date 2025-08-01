@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "label": "rolls",
+        "name": "Rolls",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/rollsgame_bot",
+        "description": "",
+        "organization": "rolls"
+    },
+    "addresses": [
+        {
+            "address": "EQCUfqjSMEMg5CG8dyCly8DNClV9w0_4TtZ-v-xFd17tpoTy",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-23T00:00:01Z"
+        },
+        {
+            "address": "EQBOy5OebFhmst7FhdKdC47swrJ7UJSWXW52k9QXNmdgP80Y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-14T10:09:26Z"
+        }
+
+        
+    ]
+}

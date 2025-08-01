@@ -39,6 +39,22 @@
             "tags": [],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-11T00:00:01Z"
+        },
+        {
+            "address": "EQBy1AOVS5AnCvZfSc0KEzaVwgUtI6JDwJnqIOkbkFpc_AXA",
+            "source": "tonviewer",
+            "comment": "Lost Dogs: Vaults - NFT collection",
+            "tags": [],
+            "submittedBy": "aleksandrkaekhtin",
+            "submissionTimestamp": "2025-03-28T09:30:00Z"
+        },
+        {
+            "address": "EQBY28OwvT4PjI2O_ftdXK4xp8BeAFazCP7NQ7lKCfViSMBG",
+            "source": "tonviewer",
+            "comment": "Lost Dogs: Vaults - Vault contract",
+            "tags": [],
+            "submittedBy": "aleksandrkaekhtin",
+            "submissionTimestamp": "2025-03-28T09:30:00Z"
         }
     ]
 }

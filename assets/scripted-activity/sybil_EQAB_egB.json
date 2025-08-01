@@ -1,0 +1,44 @@
+{
+	"metadata": {
+		"label": "sybil_EQAB_egB",
+		"category": "scripted-activity",
+		"subcategory": "sybil",
+		"website": "https://github.com/ton-studio/ton-labels/pull/156",
+		"description": "Duckchain and Kitty Mint farm",
+		"organization": "sybil_EQAB_egB"
+	},
+	"addresses": [
+		{
+			"address": "EQAB_egBSB24osZgUW9WEyMhwvmcyOdc8UtWnCL-yDhcnhkB",
+			"source": "tonviewer",
+			"comment": "Farm Kitty Mint receiver",
+			"tags": [],
+			"submittedBy": "rAndom1ze",
+			"submissionTimestamp": "2025-03-15T00:00:00Z"
+		},
+		{
+			"address": "EQAfhaqOy7hOPPD7j0rxq1roFLIrJXYv4GtBxEmDdU0p5F6t",
+			"source": "tonviewer",
+			"comment": "accumulate DUCK and cashout to OKX-10",
+			"tags": [],
+			"submittedBy": "rAndom1ze",
+			"submissionTimestamp": "2025-03-15T00:00:00Z"
+		},
+		{
+			"address": "EQDeGKnzr92bSqauqgOLfbdK9v66An98Jnb0FH4JpMoWk6Vg",
+			"source": "",
+			"comment": "accumulate DUCK",
+			"tags": [],
+			"submittedBy": "ohld",
+			"submissionTimestamp": "2025-05-29T00:00:00Z"
+		},
+		{
+			"address": "EQAOmJ_qWAV-cKZbaEJ5KzVJd3pKnnnPABp7U9yQcPciADMW",
+			"source": "",
+			"comment": "distribute and accumulate TON",
+			"tags": [],
+			"submittedBy": "ohld",
+			"submissionTimestamp": "2025-05-29T00:00:00Z"
+		}
+	]
+}

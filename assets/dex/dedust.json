@@ -106,6 +106,111 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-10T00:00:01Z"
+        },
+        {
+            "address": "EQACpR7Dc3393EVHkZ-7pg7zZMB5j7DAh2NNteRzK2wPGqk1",
+            "source": "",
+            "comment": "DeDust Vault, $stTON",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQAf4BMoiqPf0U2ADoNiEatTemiw3UXkt5H90aQpeSKC2l7f",
+            "source": "",
+            "comment": "DeDust Vault, $DUST",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQAJxbmwhwJw-FomFlt1RYukdeTltiCmWlsurQsQMRJhZfdB",
+            "source": "",
+            "comment": "DeDust Vault, $NOT",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQBNZB91JJX9Ub7KMEAUoQNVcQlCsob5e_WMFbvsML_UoAKD",
+            "source": "",
+            "comment": "$DUST staking",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQDK7GXQoAL5so_kUhe-pjl7GqXM2S_-rJcnEOPXIvjRu5Ii",
+            "source": "",
+            "comment": "DeDust Vault, DOGS",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDW-gU5pQNs6vJkUPO5_x7aWy7Lwk_HTH1kXNKH8aLPCE1H",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQAx1McP8Fq1_gg2q2Le0l0GnnAgmMyeyZ6gzK7nmPHI_C02",
+            "source": "",
+            "comment": "Distributes referral fees",
+            "tags": [],
+            "submittedBy": "Lucky4truli",
+            "submissionTimestamp": "2025-05-15T00:00:01Z"
+        },
+        {
+            "address": "EQAn5x8wS2nNKiEX6pNmVlN3NnoGz8CEt_9CnNvfxHrTPQHI",
+            "source": "",
+            "comment": "Farming vaults management operations",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-17T00:00:01Z"
+        },
+        {
+            "address": "EQD69z_XrGu1xfaXKRqfKexJXrRUwPgLnFGinh6AHtXRKQat",
+            "source": "",
+            "comment": "DeDust Vault, $USDe",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+         {
+            "address": "EQBCAUfvMMSn-WHP0bKDs4wUVOK1r55OuHJIq25_QnVFCFye",
+            "source": "",
+            "comment": "Fee‑Vault Minter, omniston_referral",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-15T00:00:01Z"
+         },
+        {
+            "address": "EQCRaW1KN4BdhFzBYegwaFDuT51ynWH6aRZoM_QE0zzsXb8H",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lexichnek",
+            "submissionTimestamp": "2025-07-14T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "label": "ton_mine",
+    "category": "gaming",
+    "name": "ton mine",
+    "subcategory": "",
+    "website": "https://t.me/TONMine1_bot",
+    "description": "",
+    "organization": "ton_mine"
+  },
+  "addresses": [
+    {
+      "address": "EQA_MBnuz0-4CUV3xO35b3Cjp1zKuNJYPRlJkJTe5-LmKLy2",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "maxutmonarh",
+      "submissionTimestamp": "2025-04-20T00:00:01Z"
+    },
+    {
+      "address": "EQBg4M75Zh1axtcN0U7_GLj5mIZz8hCbSOK3o_qcQQIU4Fkm",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-04-30T00:00:01Z"
+    },
+    {
+      "address": "EQDq0OUsD0gK41sC4DWRsaynzequJe49Y70siVLM0w3peop5",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-04-30T00:00:01Z"
+    },
+    {
+      "address": "EQDs-aF_uqr8qBIykNvubuTI82rYA5x4Ntg3mw6bzxgXqDL_",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-04-30T00:00:01Z"
+    }
+  ]
+}

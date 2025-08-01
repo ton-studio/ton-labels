@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "scammer_camelshouse",
+        "category": "scammer",
+        "subcategory": "drainer",
+        "website": "https://t.me/CamelsHouseBot",
+        "description": "Mini-app mimic to airdrop but drains user's wallet",
+        "organization": "camelshouse"
+    },
+    "addresses": [
+        {
+            "address": "EQBe-OxgGw8mHgBpbafhc652p7eLgp8dqEwFU8mKh5vsL3a8",
+            "source": "",
+            "comment": "Drainer contract (forwards all tokens to the owner)",
+            "submittedBy": "shuva10v",
+            "tags": [],
+            "submissionTimestamp": "2025-03-18T00:00:00Z"
+        },
+        {
+            "address": "EQAVGoM9kvSkLKWYV9Yok18b8LpzyQ0Vp2S_Qpgu19K2WknZ",
+            "source": "",
+            "comment": "Scammer main wallet to collect funds",
+            "submittedBy": "shuva10v",
+            "tags": [],
+            "submissionTimestamp": "2025-03-18T00:00:00Z"
+        },
+        {
+            "address": "EQBR4EqZpp_EyhD662RDvqtCkEHinIAPCQPBTL5zVice1fYv",
+            "source": "",
+            "comment": "Used to spam CAMEL tokens to users",
+            "submittedBy": "shuva10v",
+            "tags": [],
+            "submissionTimestamp": "2025-03-18T00:00:00Z"
+        },
+        {
+            "address": "EQBGrCiq6t7XbrgHdpmqhrGTA61iR64J3wTJGsaen2FMmzPo",
+            "source": "",
+            "comment": "claim contract",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-14T00:00:01Z"
+        }
+    ]
+}

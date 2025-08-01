@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tabdeal",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://tabdeal.org",
+        "description": "",
+        "organization": "tabdeal"
+    },
+    "addresses": [
+        {
+            "address": "EQBmLDcxBiP21Vn4Jet3Th-DWyNl8JVmsbdAi8FvxHT38aiu",
+            "source": "",
+            "comment": "Memo deposits",
+            "tags": [],
+            "submittedBy": "rawen7485",
+            "submissionTimestamp": "2025-04-18T13:29:55Z"
+        }
+    ]
+}

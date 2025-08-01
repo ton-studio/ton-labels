@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "case",
+        "name": "Case",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/case_official_bot",
+        "description": "",
+        "organization": "case"
+    },
+    "addresses": [
+        {
+            "address": "EQDy8VEZi7yDfxvE460U00a8xWC0yHaKMDfXY5Xb7IggxI4A",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-16T00:00:01Z"
+        }
+    ]
+}

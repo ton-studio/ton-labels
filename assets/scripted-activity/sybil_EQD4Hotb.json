@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "label": "sybil_EQD4Hotb",
+    "category": "scripted-activity",
+    "subcategory": "sybil",
+    "website": "",
+    "description": "sends 0.006 TON to various addresses to trigger operations on the @wcoin_tapbot",
+    "organization": "sybil_EQD4Hotb"
+  },
+  "addresses": [
+    {
+      "address": "EQD4HotblEP_nz_h8B5LRBZFj1C1SMd3fnF6dC48mrzauXbJ",
+      "source": "",
+      "comment": "sends 0.006 TON to various addresses to trigger operations on the @wcoin_tapbot",
+      "tags": [],
+      "submittedBy": "awtifalak",
+      "submissionTimestamp": "2025-05-01T00:00:00Z"
+    },
+    {
+      "address": "EQCp5FBvefQi5PtjpUOPzx166QfYWilIomp83bOheXwVVsUb",
+      "source": "",
+      "comment": "Receives funds from sybil wallets to send to Bybit 19019159",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-05-29T00:00:00Z"
+    }
+  ]
+}

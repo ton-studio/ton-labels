@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "gh_arena",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/GHArenaBot",
+        "description": "",
+        "organization": "gh_arena"
+    },
+    "addresses": [
+        {
+            "address": "EQCgbwmEkrTq7ZpzJC_zMbtnQ58GAdTkx_kKgznj_12Uw4Cm",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQBxJKGzKDviqzmRAshNwrmznIVflGOPlJjK4wfobWL40aqf",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        }
+    ]
+}

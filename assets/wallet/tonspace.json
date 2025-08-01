@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "tonspace",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://t.me/tonspace_news_en/30",
+        "description": "",
+        "organization": "wallet_in_telegram"
+    },
+    "addresses": [
+        {
+            "address": "EQAWBU6svKDidBIH9XCPV2X5lQV0rAVMdzhosQpickLh-upM",
+            "source": "",
+            "comment": "TON Space Badges",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        }
+    ]
+}

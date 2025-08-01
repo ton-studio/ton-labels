@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "ton_miner",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/MineTonApp_bot",
+        "description": "",
+        "organization": "ton_miner"
+    },
+    "addresses": [
+        {
+            "address": "EQBHtWly9rEAaYLZIRXuP4ciGdOqP8shsUuO_XVs-_xpY3Tq",
+            "source": "Deposit address",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "rebor",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://www.rebor.xyz",
+        "description": "",
+        "organization": "rebor"
+    },
+    "addresses": [
+        {
+            "address": "EQDYKYS8AzklaT0ixEu-p-_yFPZPtKXrRiC63e7xKo_cb_oS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-24T00:00:01Z"
+        },
+        {
+            "address": "EQAHa4bfFzdDLkZBh5F9gKicXgerM-VLuZgKmU9UhxBDmCii",
+            "source": "",
+            "comment": "REB token",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-03-24T00:00:01Z"
+        },
+        {
+            "address": "EQBuw7HFbmAVsMu54czANErtujCFz4KzxliFSc6EXhtkVwDb",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-24T00:00:01Z"
+        }
+    ]
+}

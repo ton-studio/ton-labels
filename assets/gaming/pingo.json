@@ -1,0 +1,36 @@
+{
+  "metadata": {
+      "label": "pingo",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://pingo.work",
+      "description": "",
+      "organization": "pingo"
+  },
+  "addresses": [
+      {
+          "address": "EQAgTQe9Q98t2EY8h1X5RoaezAqvBpAPkVJaXoeyctirya58",
+          "source": "",
+          "comment": "pingo reward distributor",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-03-17T00:00:01Z"
+      },
+      {
+        "address": "EQBQdIfOOJU67fACqKjMKKgllXHzYpCgEUhsTqq6es7X75Sk",
+        "source": "",
+        "comment": "pingo reward fee collector",
+        "tags": [],
+        "submittedBy": "Caranell",
+        "submissionTimestamp": "2025-03-17T00:00:01Z"
+      },
+      {
+        "address": "EQCErt42loRpoDDZN8bsTbVgahGlP_PET3zRjkoQsKA4LUsn",
+        "source": "",
+        "comment": "pingo staking",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-04-15T00:00:01Z"
+      }
+  ]
+}

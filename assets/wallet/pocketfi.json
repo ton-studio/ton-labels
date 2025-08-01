@@ -41,6 +41,38 @@
             "tags": [],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-03-12T00:00:01Z"
+        },
+        {
+            "address": "EQDI0nPAMnsc88w78djz9y5NwpTa2xT5juVwiw3ySsBHQnca",
+            "source": "",
+            "comment": "$SWITCH autoclaim payments",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-18T00:00:01Z"
+        },
+        {
+            "address": "EQBxo4huVJXaf1ZOdwnnDdxa9OVoyNGhXMsJVzobmxSWITCH",
+            "source": "",
+            "comment": "$SWITCH jetton_master",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQDbKlvIUsFrPAwdlRTE0d-rOOZEqx5TqRP0LOT5QckTsCri",
+            "source": "",
+            "comment": "$SWITCH claim address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQDG6zBfxxmST7Pd-QIBnaL2_6J-UjYqH5_o829pSat_aVPU",
+            "source": "",
+            "comment": "swap fee collector address",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonhash",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TonHashAppBot",
+        "description": "",
+        "organization": "tonhash"
+    },
+    "addresses": [
+        {
+            "address": "EQCNhlLU65nJUwwKEPQ-PEZoFfZV6XBkt4UQA9pniXvm57Qa",
+            "source": "",
+            "comment": "tonhash.ton",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        }
+    ]
+}

@@ -84,6 +84,773 @@
             ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-13T00:00:00Z"
+        },
+        {
+            "address": "EQAIzTnzG-9SKoxtzNXEsbWZpBzixESsZ1UoqYj84btC-io9",
+            "source": "",
+            "comment": "mimic for $PAWS, $TON and $USDT tokens",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-03-15T00:00:00Z"
+        },
+        {
+            "address": "EQC1mgYAUhDEP6iUk6QDnESKTDx5pveqvQ6iu5w8JQ4ZTmr1",
+            "source": "",
+            "comment": "mimic for $PAWS token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-18T00:00:00Z"
+        },
+        {
+            "address": "EQDtJi4jzmmnj9q7oBmgounQZd_iTOMoOOm6wRiR0fSX03IV",
+            "source": "tonviewer",
+            "comment": "Mass spam sender Reward 99TON my_tonkeeper.t.me",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-03-19T00:00:00Z"
+        },
+        {
+            "address": "EQDgPBPXZYYrknVPudtL6PFSav-Mcn6f_UPDicLD8fQdp1hf",
+            "source": "tonviewer",
+            "comment": "Mass spam sender 'Reward 188TON🎁URL: xpton.com'",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-24T00:00:00Z"
+        },
+        {
+            "address": "EQCEHLgdtM_NOiXeXF5lCejwQsu61pw_vgsGkRN5iQmKuDEd",
+            "source": "tonviewer",
+            "comment": "Mimic for TON airdrop",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-22T00:00:00Z"
+        },
+        {
+            "address": "EQAfHEny8unTSAwrD1MKRar8YIjbTGHeUj_axMUAQDJDuXJo",
+            "source": "",
+            "comment": "my_tonkeeper related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQAO2uCBWxzBlTs_RlShZ433Tx0RaiEOMzgUhE-YroIyMCvp",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCc6rVKIVQ7bz3EVHyZ3sfrWVmuPj7jJZqOCQ7ant8m8NDL",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQAF3Uroomb_zZzG2QSKQCSImPyptoue0kHiVVblYjFCYjQQ",
+            "source": "",
+            "comment": "my_tonkeeper related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQA_tjFezNF9VdasBdwMG4wUvn-sI4d66V3Don_WvtQx4Y2d",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQD9CjuQX8pJVscEr61Ao-2lR4zMIr_4axC2ylPDgtepT_mZ",
+            "source": "",
+            "comment": "stonfi_app related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDYjU4L071thDTfiuC41OJQ-YubngBCy7ZKKknm-nFPBAlr",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCDlaQnRVdqZiyq3SB9tvNdKCnB5QXJoX6XCSsPPMcIxqFL",
+            "source": "",
+            "comment": "USD1 EURC coins scammer",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCjw3kIBwyToWK6NqwWgtKammPLzeSWllGffrIu5A7WznMk",
+            "source": "",
+            "comment": "tonkeeper_airdrop related scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-16T00:00:01Z"
+        },
+        {
+            "address": "EQAq_02MmXZhcoUvLh_KruQmM6yMRSe3gR6ZORkYthScksA2",
+            "source": "",
+            "comment": "mimic for $PAWS token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-17T00:00:00Z"
+        },
+        {
+            "address": "EQBGfQGp4hA7f9zXfPlGfPoLFYC8Cy7fjgbIaHOIblpSyHGk",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-20T00:00:00Z"
+        },
+        {
+            "address": "EQDT296L_zPYycUX_j4HOXu44oibiDGrSo9BEurXs47TK0BK",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-20T00:00:00Z"
+        },
+        {
+            "address": "EQBxgXzQCHjInlOUHx2dw6AESPCXpU_QEceRH6E1NeqAKP-m",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-21T00:00:01Z"
+        },
+        {
+            "address": "EQCQlraWsPKDufcovMxGc0l23lhF0uqEUweP5n2u6Ej5FZKV",
+            "source": "",
+            "comment": "Spam ton-airdrops reward sender for scam",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-25T00:00:01Z"
+        },
+        {
+            "address": "EQAINe9sPQjOt7SAe36NkaiJmpw1bIIEQ5r56y6rwstm6w-x",
+            "source": "",
+            "comment": "mimic for $BLUM token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-25T00:00:01Z"
+        },
+        {
+            "address": "EQByQFVmgWK2DMnlpCYGie5cW_BYWDCXthLEdepAhnX4oU_q",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-04-27T00:00:01Z"
+        },
+        {
+            "address": "EQBdZmfk67_CeCvURrJWaxg4pL0zusXn77STAOk-JxKeW_9Z",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-29T00:00:01Z"
+        },
+        {
+            "address": "EQBs1ANj02ic3OgXn_GMenl7lhqU-W3DZ5MuCy5WPmT-Ll08",
+            "source": "",
+            "comment": "🎁200TON Reward at https://tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "rawen7485",
+            "submissionTimestamp": "2025-04-30T09:54:26Z"
+        },
+        {
+            "address": "EQA50cwLEKMWzJuT8xZ7FfBuzDw5Tc96Ix8cL34ykFGd89ls",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-02T00:00:01Z"
+        },
+        {
+            "address": "EQBjne5oSg0fNW9aZ_ZQ1Hxqku9KL-eeGcBnbj5nNxL_c026",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        },
+        {
+            "address": "EQBPDt8njdiuBpWwvkLfiLqeiter4FCyMWE4cvZPQDK_23JH",
+            "source": "",
+            "comment": "Spam 🎁 200 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        },
+        {
+            "address": "EQAAOa0gpiL4vEpZB_wmOtpaREgpXFPdVuqKBj6Btc8OkcdZ",
+            "source": "",
+            "comment": "Spam ❗️MEXC Refund❗️For refund add to contacts +14407652446 and message on telegram",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "AgentDurop",
+            "submissionTimestamp": "2025-05-06T00:00:01Z"
+        },
+        {
+            "address": "EQCZA62azRUhscqpPDcbD4eF0blcOrlA8_G_NnbJO586Ful4",
+            "source": "",
+            "comment": "🎁 500TON Reward at https://tonf.cc",
+            "tags": [],
+            "submittedBy": "BiXingzhe",
+            "submissionTimestamp": "2025-05-08T00:00:00Z"
+        },
+        {
+            "address": "EQBaXZyFBbBnDQfBIvsOoS6nxWJzf7yBoGIWG0OuyUrX8S6R",
+            "source": "",
+            "comment": "Spam 🎁1000 USD reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
+        },
+        {
+            "address": "EQDDm7EsaRY5EVgrzR7LAZYdvKGlkB1EhSB-RZsx9OD-Gc3v",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQDjS7nGdj1Wa0DdQWfP51BFFl1-MYYQKpS1GJhWcehLqOYc",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQDGN4P9jchAOBPAAydt_f2ujlGemQ__v8RpZs9D4YwapXwg",
+            "source": "",
+            "comment": "Spam 🎁500TON Reward ",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Johnu234",
+            "submissionTimestamp": "2025-05-19T00:00:01Z"
+        },
+        {
+            "address": "EQA7LltZeovTbqRs8Xubaph8EcoyJMxiGnTErvLZLZKBb7ka",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+        },
+        {
+            "address": "EQD_grTU3nw2YQD134bue1BSLt2ZPTYKf0J54lTbEw3VM4CP",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+        },
+        {
+            "address": "EQCfrvtntyhBukB80ZGj6AkqOHK2h5DJ_1B4Vdv2SXOptTC_",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+        },
+        {
+            "address": "EQBUJeD9xbyyVPFxqEa5NL1kVTaoBSW90Q2BJHugSnd3449V",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "GloriaKinsburg",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        },
+        {
+            "address": "EQANaIi3pw5lErP7gWq-_O3np97ezEFCQ-jDrPz_fn1_rMeT",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "GloriaKinsburg",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        },
+        {
+            "address": "EQCuIfbcymtSBOXLRl3bOCmf9hnccF_gZudBiWYY0iKOjTIc",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQBljTX8Yr4IPdCSWhNM-9vm93Ne8LqHKzr2W1Ys2Fxlkg6F",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQDfQJuvPk7dcQGJcQE3KRYrIBtbn44VcbzU5Wh2CHFOlc4a",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-06T00:00:01Z"
+        },
+        {
+            "address": "EQBVDrWhCKMXv6xd-VYRefHddsxgLK8XXznA9cmGX82Ou4rI",
+            "source": "",
+            "comment": "Spam 🎁500 TON reward",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-06T00:00:01Z"
+        },
+        {
+            "address": "EQD5t68Y7VPzokwuA3L7ZFs7V5_xXxF2yuFKorP4m9_BZ7oD",
+            "source": "",
+            "comment": "Spam 🎁500TON Bouns",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-09T00:00:01Z"
+        },
+        {
+            "address": "EQCUjM4qB11yb-PeHmu8_jjZ16oz0G55PjyrNM6CW_bd9tB1",
+            "source": "",
+            "comment": "Spam 🎁500TON Bouns",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-06-09T00:00:01Z"
+        },
+        {
+            "address": "EQBx5wegWvTbUQljXErnkQMWR8_2qnPta0IZAI6wci85ga4J",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-10T00:00:01Z"
+        },
+        {
+            "address": "EQB92w9-DTPdtUptE07rAjISfgWf2l04u_98D6lweyQglcTS",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQC-S4trYACvaZOpWtYEb69IrXEvkhVSyKb4qkRn_hytFCEr",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQDQHDI9wjPy6QV5tJGCbqaYheLI8wC15jvExJMHA4UAF4vr",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-06-15T00:00:01Z"
+        },
+        {
+            "address": "EQBWXPkWl16KGEqpD8KypoJ4xug_BamidfzHoJGhbXY5SsK5",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-06-17T00:00:01Z"
+        },
+        {
+            "address": "EQCywWDdLXBN8GV8Nh5FKLPv7QxB9og89pRWJheW1ouD7_a6",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-20T00:00:01Z"
+        },
+        {
+            "address": "EQBNspgz_2k86p5l5x4k4IyW-E2vq5P2nyrYNurFduB0Zc2Q",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-20T00:00:01Z"
+        },
+        {
+            "address": "EQCexCLv8cyhpISBygF8EW3zUK3T-VtfOfFsxuYC0Qrd_DkN",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-24T00:00:01Z"
+        },
+        {
+            "address": "EQBoTRQUxBj04G8J7aJtKHbFuTs64jkewc2bBHGKb7UDGqfH",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-24T00:00:01Z"
+        },
+        {
+            "address": "EQBhkF-ktJ8-47GnKF0lNLuCHgYu88_Dc_R-F59gElKK6KjI",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-24T00:00:01Z"
+        },
+        {
+            "address": "EQC25ohQcVJNQV8DNQswJujY0nU3XhDZfmfiwX7WYC-1coyl",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQDlZy8lR5DoGskK16aQab_kGNtyL-ff1pcHsbW2JFf7OTS9",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQBFKXBBqEU9_FwWvQp7gmUtofPAHwFfs6YUB9AntrAFffDH",
+            "source": "",
+            "comment": "Scam fund collector",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQDZ61x_DTJw2avL3s2U47zfnp1tN3F7YvzxaVRBkc4lfkJ6",
+            "source": "",
+            "comment": "mimic for $TSLA token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQBMRR25uY_mWI3Dsx3CaQAg852WuyEPRo7qSAEkq8sW_QLH",
+            "source": "",
+            "comment": "mimic for $TSLA token",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "JackeyMonuy",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQCJDYmsMzXCcGucs8gNEZ8XAwu6hB85fo1-mnccIHjqxVKH",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQBAN0OnPhwrmYSx-Nh7EIQD05qsm04mEI5DQjnABXUL83F2",
+            "source": "",
+            "comment": "🎁500TON Bouns at",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQAEwd38WyUTPqFkBNyJKEVARMS2guY6EaVPU1WiZM_1FbsP",
+            "source": "",
+            "comment": "✅500TON AIRDROP Get https://tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-02T00:00:01Z"
+        },
+        {
+            "address": "EQAk44WXYhGYBpKoPWKcnm6q7Plam-LSXZQNZ6ld7lHYC-I1",
+            "source": "",
+            "comment": "Official New event! Join to get 888 mobile phone number! Contact us! tg:   daolanba",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-02T00:00:01Z"
+        },
+        {
+            "address": "EQBtpiIgEoQBLzoeaNILUtDWCUj3oQQL-uAKHer3xlyYFOKJ",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-29T00:00:01Z"
+        },
+        {
+            "address": "EQCMvmvSQjSBlKangfzqz-_tZFLyURkgxr7mt4fZcQFwkLue",
+            "source": "",
+            "comment": "500TON at 📲tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-29T00:00:01Z"
+        },
+        {
+            "address": "EQCGCBhZdMuZDiq4M0wN5L5GDWA_J-NnZzaJzLTCOPyh0uoc",
+            "source": "",
+            "comment": "🎁500TON at 📲tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-29T00:00:01Z"
+        },
+        {
+            "address": "EQA67jx-4D8eA5fq3kDFlERv2727EX4Kr2T3maSr1eIXsvG1",
+            "source": "",
+            "comment": "🎁500TON at 📲tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-29T00:00:01Z"
+        },
+        {
+            "address": "EQD2dNOUuJjEWxk1G2knwkuC_EPpUVYs8NX5F8QNS3vrHDZD",
+            "source": "",
+            "comment": "🎁700$ at 📲TONSAVE.COM",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-29T00:00:01Z"
+        },
+        {
+            "address": "EQC8IMZQ_gDCVb_xv-mPsxTSTXzSqMbgo6lo_Cw24TE5iYV9",
+            "source": "",
+            "comment": "Accumulation of funds from scam-related activity",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-29T00:00:01Z"
+        },
+        {
+            "address": "EQBfq5KPvxJuCGRlxnzRW6bBohc6jN6rBujPa2gJ2y0OLCre",
+            "source": "",
+            "comment": "🎁700$ at 🌐TONSAVE.COM, system-alerts.ton",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQC_OR8NXj1zHM4aSxiP7X4du0ym0wPGFdqoIIVmjolYwqdn",
+            "source": "",
+            "comment": "🌏tontg.org Claim 500USD",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
         }
     ]
 }

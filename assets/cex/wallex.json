@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "label": "wallex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://wallex.ir",
+        "description": "",
+        "organization": "wallex"
+    },
+    "addresses": [
+        {
+            "address": "EQDHuT2Kiu5svuOAQ9Jdu0jKaQ0TBwwxDf-3ouxHl8-RebaI",
+            "source": "",
+            "comment": "Memo deposits",
+            "tags": [],
+            "submittedBy": "rawen7485",
+            "submissionTimestamp": "2025-04-20T15:29:48Z"
+        },
+        {
+            "address": "EQDcLs9hF1R8LESUyJjARQB-0l91Ir6D8rkAGFM9zSAqXRIu",
+            "source": "",
+            "comment": "Cold wallet",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-07T00:00:01Z"
+        },
+        {
+            "address": "EQABTruiipbnmqdcvN9_IJu-zn3QiyBP0qqNBCWrB1wONscj",
+            "source": "",
+            "comment": "Hot wallet",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-07T00:00:01Z"
+        },
+        {
+            "address": "EQCxxjmqkzW22CiljbP30oa0-yiT5oaWJ0-uh2wUi04itL6b",
+            "source": "",
+            "comment": "Hot wallet",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-07T00:00:01Z"
+        },
+        {
+            "address": "EQA33qtch9dtGGNAdObjfRq7mLG1z9PCwsLIUit0H3lThqmE",
+            "source": "",
+            "comment": "Hot wallet",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-07T00:00:01Z"
+        }
+    ]
+}

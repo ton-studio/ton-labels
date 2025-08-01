@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "puparty",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/puparty_bot",
+        "description": "",
+        "organization": "puparty"
+    },
+    "addresses": [
+        {
+            "address": "EQCnOw3L-zWFtTVXUePuAgHctXoVRAjQuxfH2TOTXKomSG9_",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
+        },
+        {
+            "address": "EQCOLJO2dvJsXJ1UNyxzeTwuTEvaJXzr4inqrxehPEKg28Ay",
+            "source": "",
+            "comment": "Smart contract handling withdrawals",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQAJRz5fjUcTIhaIHh9jbkeHQn4u6SbhQ5M-2dewh2_geSjc",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQB-J99_ocX-M_E2heNK5kLcTNk06o1YPOmkLVPHlsg6IXNC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        }
+    ]
+}

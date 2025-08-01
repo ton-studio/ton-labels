@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bodypump",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/bodypump_app_bot",
+        "description": "",
+        "organization": "bodypump"
+    },
+    "addresses": [
+        {
+            "address": "EQCCRtrXqmn95tzu0e2OlFWym9EeVt9bLkrHuck_Iz5QI8JQ",
+            "source": "",
+            "comment": "anti-bot verification",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        }
+    ]
+}

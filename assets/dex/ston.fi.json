@@ -321,6 +321,18 @@
             "submissionTimestamp": "2025-01-01T00:00:01Z"
         },
         {
+            "address": "EQB36psQnydEd_OnjCic4yNeSR8NsMxxJ_49lzBgIW9qU8zB",
+            "source": "",
+            "comment": "stonfi NOT - USD₮ Farm NFT collectio",
+            "tags": [
+                "defi",
+                "pool",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
             "address": "EQBno_j3eovi4kCK_ujHskrCvdBZIKFBT0ARpPgDdZNxMBW2",
             "source": "",
             "comment": "stonfi stTON-USDT Farming NFT Collection",
@@ -447,6 +459,76 @@
             ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-14T00:00:01Z"
+        },
+        {
+            "address": "EQDR-4xEjo6h3y8BkSddLdYlpdlIwmM-zhq5p6A0klJlD6T0",
+            "source": "",
+            "comment": "stonfi stonbassador reward address.",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "johntad110",
+            "submissionTimestamp": "2025-04-22T00:00:00Z"
+        },
+        {
+            "address": "EQAiLV677BgHNXEUuDJ3Cw8K5WOiJSO86xh8YQq2LthJEoED",
+            "source": "",
+            "comment": "stonfi_router_v2: SWITCH",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-22T00:00:01Z"
+        },
+        {
+            "address": "EQDTb1w1TCohFqnNcyPrrbbBJQdAwwPn8DbCoaSUd0S5T4fB",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQBSNX_5mSikBVttWhIaIb0f8jJU7fL6kvyyFVppd7dWRO6M",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQAz1D0ZUiG_9XCyjrJ1-xTx-CnmnQ3J3LMKQ7sZTr-XlNZP",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQBqgCTdrtSod76UrcOeALSiLCp3WuNIFQBQvyjjlQMvwLkc",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-31T00:00:01Z"
+        },
+        {
+            "address": "EQAGV9vw11tKW2QOCYCXEmIdyufM3p5CfcgHcY9NiiBLfZGH",
+            "source": "",
+            "comment": "stonfi_router_v2, USDe, tsUSDe",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
         }
     ]
 }

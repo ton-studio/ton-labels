@@ -1,0 +1,85 @@
+{
+  "metadata": {
+      "label": "planetx",
+      "name": "Planet X",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/PlanetX_gamebot",
+      "description": "",
+      "organization": "planetx"
+  },
+  "addresses": [
+      {
+          "address": "EQAlgykmYyMWd8qnO2lFsmECn4AiQO4DuLC2NcBELqBbMdhd",
+          "source": "",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "shuva10v",
+          "submissionTimestamp": "2025-04-09T00:00:01Z"
+      },
+      {
+        "address": "EQCRkavEHiqfybB1p_zfKQEg02qWvcXkOHHiT451gsrF6i-p",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-04-17T00:00:01Z"
+      },
+      {
+        "address": "EQDEd7Rg1B_CiU5Pm9w-pApuHqnzABJbW7j65YW9FmS7dWtH",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-04-23T00:00:01Z"
+      },
+      {
+        "address": "EQB9GPDQ1JCDwF2yxuwJwEYIi9aWj2ptEgPJC5sT1Fx7bLJa",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-05-05T00:00:01Z"
+      },
+      {
+        "address": "EQAN68ZthzCveRXUSiFbNWZIIjzKxjmVUiY1pl--56t_dL6a",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-05-05T00:00:01Z"
+      },
+      {
+        "address": "EQBSTieY8luldjqYyx0LvkkhF-hscyxkPUC6qoId86lnAc7S",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-05-17T00:00:01Z"
+      },
+      {
+        "address": "EQBlpp91d1SDF2_q9Tqj7qFs_YQR5USn7Z8Dpcdw2F7AQBP4",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-05-17T00:00:01Z"
+      },
+      {
+        "address": "EQAMRSriU8Ovgo9FgAwbTQKH9F0V4OcxuGJ4ivI80nhNu4Kq",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-05-17T00:00:01Z"
+      },
+      {
+        "address": "EQAElkQD6FtKZa6CTnsJB7h98N8lGyvH8rd-pGuYSmZeSCgM",
+        "source": "",
+        "comment": "",
+        "tags": [],
+        "submittedBy": "shuva10v",
+        "submissionTimestamp": "2025-07-07T00:00:01Z"
+      }
+  ]
+}

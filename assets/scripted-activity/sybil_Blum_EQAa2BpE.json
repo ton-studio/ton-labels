@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "sybil_Blum_EQAa2BpE",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "Send 0.7-0.9 TON, execute Blum trade, return fee back to sender",
+        "organization": "sybil_Blum_EQAa2BpE"
+    },
+    "addresses": [
+        {
+            "address": "EQAa2BpErWnFjbbhsbFgpp_-umpqK2vuxkgCF293T3BS65PL",
+            "source": "",
+            "comment": "Distributed fee to ~1k addresses",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQA5fgsuKlv1KjbXxZ2oF83Jb6-gdTj1eyt8rFBO6A530ksx",
+            "source": "",
+            "comment": "Received 200 TON from EQAa2BpE and do sybil stuff with it",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+        {
+            "address": "EQBmVhTC_Q8R5nJYAdzapfa-RQWvPyhDOYVPTNWrRLVyI8IH",
+            "source": "",
+            "comment": "Sent 500 TON to EQAa2BpE to do sybil stuff with it",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-25T00:00:00Z"
+        },
+         {
+            "address": "EQCytxBdqZ_kPfRSreyxk57PfJhkn1O5JetlVcj9aqxigi9Y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-29T00:00:00Z"
+        }
+    ]
+}

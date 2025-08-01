@@ -16,6 +16,16 @@ with open("tags.json", "rt") as f:
     tags_data = json.load(f)
 allowed_tags = {item["name"] for item in tags_data}
 
+# Define allowed subcategories for each category
+allowed_subcategories = {
+    "merchant": {"onchain_marketplace", "offchain_marketplace"},
+    "scammer": {"drainer"},
+    "scripted-activity": {"sybil"},
+    "gaming": {"gambling"},
+    "DEX": {"perpetuals", "launchpad"},
+    "defi": {"lending", "yield_aggregator", "liquid_staking", "perpetuals", "cdp"},
+}
+
 
 class LabelledAddress(BaseModel):
     address: str
@@ -27,7 +37,10 @@ class LabelledAddress(BaseModel):
 
     @field_validator("address")
     def validate_address(cls, address: str) -> str:
-        address_uf = Address(address).to_str(True, is_bounceable=True)
+        try:
+            address_uf = Address(address).to_str(True, is_bounceable=True)
+        except Exception as e:
+            raise ValueError(f"Invalid address: {address}: {e}")
 
         if address_uf != address:
             raise ValueError(
@@ -47,11 +60,12 @@ class LabelledAddress(BaseModel):
 
 class Metadata(BaseModel):
     label: str
+    name: str = None
+    organization: str
     category: str
     subcategory: str
     website: str
     description: str
-    organization: str
 
     @field_validator("website")
     def validate_website(cls, website):
@@ -70,7 +84,10 @@ class Metadata(BaseModel):
 
     @field_validator("label", "organization")
     def validate_key(cls, value):
-        if not re.match(r"^[a-z0-9._]+$", value):
+        if value.startswith("sybil_"):
+            # If it starts with sybil_, allow any characters after
+            return value
+        elif not re.match(r"^[a-z0-9._]+(?:_EQ[A-Za-z0-9_]+)?$", value):
             raise ValueError(f"{value} must be lowercase and can only contain '.', '_'")
         return value
 
@@ -81,6 +98,34 @@ class Metadata(BaseModel):
                 f"Category '{category}' is not in the allowed categories list"
             )
         return category
+    
+    @field_validator("subcategory")
+    def validate_subcategory(cls, subcategory, info):
+        category = info.data.get('category')
+        
+        # Allow empty subcategory
+        if subcategory == "":
+            return subcategory
+            
+        # If category has allowed subcategories, validate against them
+        if category in allowed_subcategories:
+            if subcategory not in allowed_subcategories[category]:
+                raise ValueError(
+                    f"Subcategory '{subcategory}' is not allowed for category '{category}'. "
+                    f"Allowed subcategories are: {allowed_subcategories[category]}"
+                )
+        elif subcategory != "":
+            # If category doesn't have defined subcategories, only empty string is allowed
+            raise ValueError(
+                f"Category '{category}' does not allow any subcategories. Only empty string is allowed."
+            )
+            
+        return subcategory
+    
+    def model_post_init(self, __context):
+        if not self.name:
+            # Convert label to name format if name is not provided
+            self.name = self.label.replace("_", " ").capitalize()
 
 
 class LabelledData(BaseModel):

@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "label": "affluent",
+        "category": "lending",
+        "subcategory": "",
+        "website": "https://affluent.org",
+        "description": "",
+        "organization": "affluent"
+    },
+    "addresses": [
+        {
+            "address": "EQCrEHHG4Ff8TD3PzuH5tFSwHBD3zxeXaosz48jGLebwiiNx",
+            "source": "",
+            "comment": "Basic Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-31T00:00:01Z"
+        },
+        {
+            "address": "EQA3m4H3vTUOeXGW-o6AEyZxv6i79tR-i1f4XiW588HJoqND",
+            "source": "",
+            "comment": "Storm-TON Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-31T00:00:01Z"
+        },
+        {
+            "address": "EQAYJdU9JFRcKAwMZv3MqD0QVjBEMGO_4mgwOJtTBOHR22ec",
+            "source": "affluent website",
+            "comment": "Storm-USDT Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
+        },
+        {
+            "address": "EQBCXQp2sSTJhvnV6DlBqhTsdNMZc_tJcXQJ5XjoWiy-OAge",
+            "source": "affluent website",
+            "comment": "Advanced Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
+        },
+        {
+            "address": "EQCOA3gN3Dk-ml66zux_vuia7mTIBTENKxtomD6TDgnFZXoH",
+            "source": "affluent website",
+            "comment": "Advanced-Storm Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-26T00:00:01Z"
+        },
+        {
+            "address": "EQCNgBmHVBRWpMeZE7E92RM-Gecnv88LJaXAlmqn4WAfJIA9",
+            "source": "https://github.com/duneanalytics/spellbook/pull/8457/files",
+            "comment": "Advanced-Tradoor Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        },
+        {
+            "address": "EQBQMDjWVLeX0vAUNDTRL-aA665EItLzSvONywKDHXJRCuxB",
+            "source": "https://github.com/duneanalytics/spellbook/pull/8457/files",
+            "comment": "Vault Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        },
+        {
+            "address": "EQA9iTdgsPxvk08idCXQoefGqJGLTDQFy4W34AtEj7Z_25iT",
+            "source": "https://github.com/duneanalytics/spellbook/pull/8457/files",
+            "comment": "Ethena Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        },
+        {
+            "address": "EQAaU-r8oRCkS8DfLOMT8-BwJ7vhCqJKa_OjZ6uGceQWQhlR",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Basic market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQCnwE3JD4As-i39Dvk9MD2f2h94LdxPFvu0-xzyzH4wTFhE",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Advanced market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQBxsS-WfHyJhuo6DUmqaa-4fRv00i7vFYE6oub2IL7jLa8y",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Vault market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQAjB_b_AdNeiYRlxgWx5CiDbFpGSMJJ6q0wzsOktfrBnyYV",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Advanced-Tradoor Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQDkyPd9kJVZa90StDWtvmsY1LWCWSssLxpDQjsg8tys9Rwv",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Storm-TON Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQB4dsOX_DJy9lQoh7nuL_Ah2nj8tEtRkb48_EDuE3cKpMuD",
+            "source": "",
+            "comment": "FactorialTON jetton_wallet which holds TON for Advanced-Storm Market",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        }
+    ]
+}

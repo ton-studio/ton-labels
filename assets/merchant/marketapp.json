@@ -2,7 +2,7 @@
     "metadata": {
         "label": "marketapp",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "onchain_marketplace",
         "website": "https://marketapp.ws",
         "description": "TON NFT Marketplace aggregates all including non-standard deals",
         "organization": "marketapp"
@@ -16,7 +16,8 @@
                 "telegram-stars",
                 "telegram-premium",
                 "no-kyc",
-                "fee-collector"
+                "fee-collector",
+                "telegram-gifts"
             ],
             "submittedBy": "crazyministr",
             "submissionTimestamp": "2025-01-29T00:00:00Z"
@@ -41,6 +42,30 @@
             "tags": [],
             "submittedBy": "crazyministr",
             "submissionTimestamp": "2025-01-29T00:00:00Z"
+        },
+        {
+            "address": "EQBTGRpXgB3iQq74pHNcnKzFU_S4j4WGnubOiYYLU5JFOHwU",
+            "source": "",
+            "comment": "TON NFT Deployer",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-15T00:00:00Z"
+        },
+        {
+            "address": "EQDljQaFrI6QoFw0vvn6GDdbt-oJC3g0GXBhos-vS2qg5HZk",
+            "source": "",
+            "comment": "Marketapp GIFT Sender",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-04-14T00:00:00Z"
+        },
+        {
+            "address": "EQAUC-q6jvUOgu27X3TuQhY4Rh_2NP2IrOxijq_cMckWFMXT",
+            "source": "",
+            "comment": "TG stars proxy",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-26T00:00:00Z"
         }
     ]
 }

@@ -31,6 +31,132 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-01-23T00:00:01Z"
+        },
+        {
+            "address": "EQASEhZfTWtuI6801v1tkOJkMGrr5yynLG8ck7OuE_KukX5t",
+            "source": "",
+            "comment": "PX staking NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-05-01T00:00:01Z"
+        },
+        {
+            "address": "EQBHLz2_V3UfFTVnpJfDd4UMK_rJpEd3X5gCK_t9b-NS7CFx",
+            "source": "",
+            "comment": "PX staking NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
+        },
+        {
+            "address": "EQAuKvSU_JOosXjU9P0qcYUiuuHOkhBCZr-zUOTy0NBiRzhA",
+            "source": "",
+            "comment": "PX staking NFT collection",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-24T00:00:01Z"
+        },
+        {
+            "address": "EQAfwp-WjlX8w3lU0uNlWp8fVNuc2OqZQbmk5wDmSbbFSgOv",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-17T00:00:01Z"
+        },
+        {
+            "address": "EQAgm0HoaUrts2UsaU91h0ATCDq4rpo3gTyugFx1EjvKT-mQ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-17T00:00:01Z"
+        },
+        {
+            "address": "EQC6QB5TBOJ-Wco8rkyk-VWRQcpZ39xuD4663GjVO19lzk-A",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-17T00:00:01Z"
+        },
+        {
+            "address": "EQDgwLw1wZgCDKCx22hoWYeqqOq3wDOex7aj98Wo7Ykdz9FA",
+            "source": "",
+            "comment": "Admin of Not Pixel Telegram Tournament #2 NFT",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQDxPnc-hOZTW5pxFFt56pny-W3UuEs7ktzf-tAGNCkxtOl1",
+            "source": "",
+            "comment": "Not Pixel Telegram Tournament #2",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQBS2g3azWI4ky8GjWy7mo0cxHIMyRFKF3aS-y1b8K9BkNt6",
+            "source": "",
+            "comment": "Contract admin and @notpixel NFT holder",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQD-bsbXbzKLhjQZhejOZo2lcU-x3YBDfgFoC3FnvZWW0Z_s",
+            "source": "",
+            "comment": "PX Staking 180",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQBRYPckONyCLsGU8wB0Moc8p65_R91TkPCIvw4gj25MO0bP",
+            "source": "",
+            "comment": "PX Staking 90",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQCdI9pkM-77GpBArIx8g3KisYVjZAvF3wBcSXQcAX0eAw8S",
+            "source": "",
+            "comment": "PX Staking 90",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQBoOlZ4B2IQZW7D-fjAP9yvPDFWA53AmxyHZwnJm0pcN2BS",
+            "source": "",
+            "comment": "PX Treasury, multisig",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-18T00:00:01Z"
+        },
+        {
+            "address": "EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX",
+            "source": "",
+            "comment": "$PX jetton master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-23T00:00:01Z"
         }
     ]
 }

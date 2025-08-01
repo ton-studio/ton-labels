@@ -2,7 +2,7 @@
     "metadata": {
         "label": "whalecasino",
         "category": "gaming",
-        "subcategory": "",
+        "subcategory": "gambling",
         "website": "https://t.me/whalesocials",
         "description": "",
         "organization": "whale"
@@ -12,7 +12,9 @@
             "address": "EQDxap_cQvPmSGQlmclkDxemuaOjMZgLoXDHOzmAHsIGiY2o",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ch4rter",
             "submissionTimestamp": "2025-03-04T00:00:01Z"
         }

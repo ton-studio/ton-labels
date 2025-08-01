@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "tondiamonds",
+        "name": "TON Diamonds",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://ton.diamonds",
+        "description": "",
+        "organization": "tondiamonds"
+    },
+    "addresses": [
+        {
+            "address": "EQCJTkhd1W2wztkVNp_dsKBpv2SIoUWoIyzI7mQrbSrj_NSh",
+            "source": "",
+            "comment": "TON Diamonds fee and royalties collector",
+            "tags": [
+                "nft",
+                "fee-collector"
+            ],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-23T00:00:01Z"
+        }
+    ]
+}

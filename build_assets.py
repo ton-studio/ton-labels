@@ -24,8 +24,15 @@ if __name__ == "__main__":
     logger.info(f"Building assets for commit {sha}")
 
     serialized_labels = {}
+    label_to_file = {}  # Track which file each label comes from
 
-    for path in Path("assets").rglob("*.json"):
+    for path in Path("assets").rglob("*"):
+        if not path.is_file() or path.name.startswith("."):  # Skip directories and hidden files
+            continue
+
+        if not path.suffix == ".json":
+            raise Exception(f"File should be .json: {path}")
+            
         with open(path, "rt") as f:
             try:
                 data = json.load(f)
@@ -34,6 +41,14 @@ if __name__ == "__main__":
 
         labelled_data = LabelledData(**data)
         metadata = labelled_data.metadata
+
+        # Check for duplicate label across files
+        label = metadata.label
+        if label in label_to_file and label not in ["scammer"]:  # allow multiple scammer labels
+            raise Exception(
+                f"Label '{label}' is present in both {label_to_file[label]} and {path}. Each label must be unique across all JSON files."
+            )
+        label_to_file[label] = path
 
         for address_data in labelled_data.addresses:
             address = Address(address_data.address)
@@ -48,6 +63,7 @@ if __name__ == "__main__":
 
             serialized_labels[address_raw] = {
                 "label": metadata.label,
+                "name": metadata.name,
                 "category": metadata.category,
                 "subcategory": metadata.subcategory,
                 "organization": metadata.organization,

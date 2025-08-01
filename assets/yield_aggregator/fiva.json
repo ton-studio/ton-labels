@@ -1,0 +1,212 @@
+{
+    "metadata": {
+        "label": "fiva",
+        "category": "defi",
+        "subcategory": "yield_aggregator",
+        "website": "https://thefiva.com",
+        "description": "",
+        "organization": "fiva"
+    },
+    "addresses": [
+        {
+            "address": "EQAkxIRGXgs2vD2zjt334MBjD3mXg2GsyEZHfzuYX_trQkFL",
+            "source": "",
+            "comment": "PT tsTON (30-Jun-2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQAxGi9Al7hamLAORroxGkvfap6knGyzI50ThkP3CLPLTtOZ",
+            "source": "",
+            "comment": "SY tsTON (30-Jun-2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQAcy60qg22RCq87A_qgYK8hooEgjCZ44yxhdnKYdlWIfKXL",
+            "source": "",
+            "comment": "YT tsTON (30-Jun-2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQBY5JE96x_U5fSSsAzBj8d-_ZbK-5AihJ2rzjTZAtNqsntL",
+            "source": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/fiva/index.js",
+            "comment": "SY eUSDT (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQD85CKO5kFfsDhwjaWdxscytVR0FT9fkQ1ARbJYWTczIPSl",
+            "source": "",
+            "comment": "PT eUSDT (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQBg7sjr2zon3Vh5VEb5ma1lf8elC4hkwsfDo6euWTrBACvg",
+            "source": "",
+            "comment": "YT eUSDT (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQDUzG-R5K-TuffIySsI5CvysOhRfhiJhundAWboBV-28eTU",
+            "source": "",
+            "comment": "PT USDT-SLP (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQDLqPppdVfv4bVqV6bpCYwmDUVCsem2LV5zda3fMIKgCxkH",
+            "source": "",
+            "comment": "SY USDT-SLP",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQD0qUoQ-xhF6rMRIMI6odVKAPxAVOEpuEqf6bdgWw8Nx5AS",
+            "source": "",
+            "comment": "PT TON-SLP (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQBeLuWFjniPGnAyy7gVKJkA1mXptxP-dgBswKIY5su6NHFd",
+            "source": "",
+            "comment": "SY TON-SLP",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQCdt6W200XwNHWL7ol2BcvwM26O7YC0s58Z6ojooZb65oYf",
+            "source": "",
+            "comment": "PT stgUSD (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQDZ5tUI1HqO4rFMT0i_JsajmmO_imvUi1z7CFI9jvKXgtXC",
+            "source": "",
+            "comment": "YT TON-SLP (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQDlXX9oDYb_JS9EHSz5-b9oiGW0kM-wg15o6W5CjzEbLxGH",
+            "source": "",
+            "comment": "SY stgUSD (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQBZU_ZFAl8_nACqkJ_Gl6fKEyAJ0uNiMc2borzmrF2KM_Bp",
+            "source": "",
+            "comment": "YT stgUSD (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQD7KJ3gfuDRGxFV-BzthNDYvy4mYLCsmeDHGrqof0wTnaeW",
+            "source": "",
+            "comment": "PT USDe (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQDafE9flDXaRCnhrprgPj_sJNJb502Dov1GDruIRjarHscs",
+            "source": "",
+            "comment": "SY USDe (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQAUbCmPl30FFIN827U8UqTOsaq7iJuYifRtAPrIFXwbT8vl",
+            "source": "",
+            "comment": "YT USDe (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQCYBDshAgSrPiTW2JqBFpOadHYz_ds5m2vmEDz8EDunk_lH",
+            "source": "",
+            "comment": "Deployer",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQC57U5O4_OGLSEgX498PpmNqSYzcXx63wvOdtkCoe5LHcfo",
+            "source": "",
+            "comment": "SY tsUSDe (01Sep2025)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQAPICp-A_2QNEb7xiBwAoeypEnhrtY5tJ_1vGGujjVvflTl",
+            "source": "https://github.com/DefiLlama/DefiLlama-Adapters/blob/main/projects/fiva/index.js",
+            "comment": "tsTON01Sep2025",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQB7mAJdOoatcYNB6dXL722-you09EjGIMEV3nUIN9WQ5jq7",
+            "source": "",
+            "comment": "stgUSDWallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQC2OdSIRyDofBjKYtR-ZN-Xk3eHN9gEujY7deoHNRBdZ5QG",
+            "source": "",
+            "comment": "Staked Telegram USD stgUSD jetton_master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQA0Pobx0rXc7MlfXvUAZlC_U4MRGJ4FKGq79dHbBJ7RsuyB",
+            "source": "",
+            "comment": "USDTSlpSyMinter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQD5A2ygwSgAXXTqI-OkAOY72bXn8-mRgE9wOEFLKgu6ifbD",
+            "source": "NOTSlpSyMinter",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        },
+        {
+            "address": "EQB9nQdgwdaTXG6F7mDEErPuuJza6lmCfQjun-PXK3iJXm2h",
+            "source": "",
+            "comment": "TONSlpSyMinter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-12T00:00:01Z"
+        }
+    ]
+}

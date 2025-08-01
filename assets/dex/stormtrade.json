@@ -41,6 +41,17 @@
             "submissionTimestamp": "2025-01-14T00:00:01Z"
         },
         {
+            "address": "EQDynReiCeK8xlKRbYArpp4jyzZuF6-tYfhFM0O5ulOs5H0L",
+            "source": "",
+            "comment": "jUSDT vault",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-13T00:00:01Z"
+        },
+        {
             "address": "EQAz6ehNfL7_8NI7OVh1Qg46HsuC4kFpK-icfqK9J3Frd6CJ",
             "source": "",
             "comment": "USDT vault",
@@ -129,6 +140,17 @@
             ],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-11T00:00:01Z"
+        },
+        {
+            "address": "EQA82SxexxZ_zI60rQborUOBiAHicsGFWmyNE0HTKuQODs0r",
+            "source": "tonviewer",
+            "comment": "to claim Rewards in $STORM",
+            "tags": [
+                "defi",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
         }
     ]
 }

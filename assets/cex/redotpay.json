@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "redotpay",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.redotpay.com",
+        "description": "",
+        "organization": "redotpay"
+    },
+    "addresses": [
+        {
+            "address": "EQCGkOk-Ewt6HvkVXtoXufBs6TAlBncVTjmGxU5tg-tjvTFi",
+            "source": "",
+            "comment": "hot wallet",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-19T10:09:26Z"
+        },
+        {
+            "address": "EQDQBJCO7FhKx83TqasFO1TIy8JhyOAQBy8GQb_qARphvONd",
+            "source": "",
+            "comment": "used to top up custodial user wallets with TON for transfers",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-19T10:09:26Z"
+        }
+    ]
+}

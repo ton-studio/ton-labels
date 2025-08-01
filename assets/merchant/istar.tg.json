@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "istar_tg",
+        "name": "iStar",
+        "organization": "istar_tg",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://istar.tg",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQA2OZD8LGvAXJidERBAu4sWOq6RHivcKgqx_ePEgPDnOAkt",
+            "source": "tonviewer & tx comments",
+            "comment": "chat bot",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-23T00:00:01Z"
+        }
+    ]
+}

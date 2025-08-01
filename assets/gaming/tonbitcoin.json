@@ -1,0 +1,28 @@
+{
+  "metadata": {
+      "label": "tonbitcoin",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/tBTCminer_bot",
+      "description": "mine to earn tBTC",
+      "organization": "tonbitcoin"
+  },
+  "addresses": [
+      {
+          "address": "EQBG5L_8ygKAxX2Avyg6n7uvP93bcb-yk0Ia3YuuH9XbZhrS",
+          "source": "",
+          "comment": "kw withdrawal distributor address",
+          "tags": [],
+          "submittedBy": "Caranell",
+          "submissionTimestamp": "2025-04-14T00:00:01Z"
+      },
+      {
+          "address": "EQASp_CpNEoFI-HvTurh74NTxdV_vuXGGd1PzsJsinnJjRTs",
+          "source": "",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "dddwhdd",
+          "submissionTimestamp": "2025-04-18T00:00:01Z"
+      }
+  ]
+}

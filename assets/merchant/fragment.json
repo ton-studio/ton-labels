@@ -2,7 +2,7 @@
     "metadata": {
         "label": "fragment",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "onchain_marketplace",
         "website": "https://fragment.com",
         "description": "",
         "organization": "fragment"
@@ -55,6 +55,7 @@
                 "telegram-stars",
                 "telegram-premium",
                 "telegram-ads",
+                "telegram-gifts",
                 "kyc"
             ],
             "submittedBy": "ohld",
@@ -93,7 +94,9 @@
             "address": "EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi",
             "source": "",
             "comment": "Telegram Usernames NFT collection",
-            "tags": ["nft"],
+            "tags": [
+                "nft"
+            ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-13T00:00:01Z"
         }

@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tonmine",
+        "name": "TON Mine",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TONMineApp_bot",
+        "description": "",
+        "organization": "tonmine"
+    },
+    "addresses": [
+        {
+            "address": "EQDJwkY4ltJpZ62MQt5qntB6JGRCITdZmMNIuMbTeBIuaQpG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-25T00:00:01Z"
+        }
+    ]
+}

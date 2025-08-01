@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "bridgers",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://bridgers.xyz",
+        "description": "Bridge & cross-chain swap.",
+        "organization": "bridgers"
+    },
+    "addresses": [
+        {
+            "address": "EQA7x9ynlRUvgiWsQRUTTkLwznG3ZyFDKprejQej75HDTo54",
+            "source": "https://docs-bridgers-en.bridgers.xyz",
+            "comment": "Main Contract",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-04-10T12:00:00Z"
+        },
+        {
+            "address": "EQCqTuPS-cMN9SSRhaFrwJOGL7dKkFF8C0a05g2WzI9uRJ19",
+            "source": "https://docs-bridgers-en.bridgers.xyz",
+            "comment": "Main Contract",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-05T00:00:01Z"
+        }
+    ]
+}

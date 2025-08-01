@@ -36,6 +36,10 @@
         "description": "Marketplace can top up Telegram Ads balance"
     },
     {
+        "name": "telegram-gifts",
+        "description": "Telegram Gifts Marketplace’s manager address"
+    },
+    {
         "name": "kyc",
         "description": "App requires KYC"
     },
@@ -66,5 +70,9 @@
     {
         "name": "pool",
         "description": "Liquidity pool"
+    },
+    {
+        "name": "has-custodial-wallets",
+        "description": "Has custodial wallets which send deposits to this address"
     }
 ]

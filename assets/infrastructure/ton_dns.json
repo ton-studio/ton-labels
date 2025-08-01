@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "ton_dns",
+        "name": "TON DNS",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://dns.ton.org",
+        "description": "TON DNS Domains",
+        "organization": "ton_dns"
+    },
+    "addresses": [
+        {
+            "address": "EQC3dNlesgVD8YbAazcauIrXBPfiVhMMr5YYk2in0Mtsz0Bz",
+            "source": "tonviewer",
+            "comment": ".ton DNS Domains",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        }
+    ]
+}

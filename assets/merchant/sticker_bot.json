@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "label": "sticker_bot",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/sticker_bot",
+        "description": "",
+        "organization": "open_builders"
+    },
+    "addresses": [
+        {
+            "address": "EQDQoUlIK4LH7R0TABtCcl5YP_pzMJPEqxm7lBbG7s3O71Dw",
+            "source": "",
+            "comment": "treasury & payouts, multisig_v2",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQC-7i3618qf_iFDCZkhHG7V2H1GaXJ70p_KxhzR3ZM3FYTp",
+            "source": "",
+            "comment": "multisig caller",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQB1mt5GmtxzbjqW61IBCSc4Q3hVtoF0cleOn1vHa1y11tvr",
+            "source": "",
+            "comment": "Fragment payouts",
+            "tags": [],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-05-12T00:00:01Z"
+        },
+        {
+            "address": "EQDp9NHGgeKzT0mDq6L01E_iVUt5zkpWvwi-vADMeMNpuOa8",
+            "source": "",
+            "comment": "refaund",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-14T00:00:01Z"
+        },
+        {
+            "address": "EQBfuEnLEUF8JEbXpknjmxGqeZsNR2CX9MIJfZVi99M1OHzA",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-06-14T00:00:01Z"
+        },
+        {
+            "address": "EQA9ufTbNOu9O6pUKT3rIM_hoWIuIluv3vQWB68s3NJgb7MJ",
+            "source": "",
+            "comment": "TG stars withdrawal address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-16T00:00:01Z"
+        },
+        {
+            "address": "EQDSMBKWC7fs5Lb31BhVM8yElKrWnAePLLJyOlecxJgimenO",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-02T00:00:01Z"
+        },
+        {
+            "address": "EQDhvXKd1zbVDnjUNTvhGlLBFVLhCBKDncuXXfxjMUdlh4zB",
+            "source": "",
+            "comment": "refund",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-02T00:00:01Z"
+        },
+        {
+            "address": "EQDI9B8PosOrsjJfh4rA3woWZd4hk_2fUQPGELmfOaEEZH4n",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-07T00:00:01Z"
+        },
+        {
+            "address": "EQBEhphgpKn7PewXUofUITaHRz-oTBG2j1A7V0tzoRA5H77B",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-07-07T00:00:01Z"
+        },
+        {
+            "address": "EQApvLZ1LDIgGHQYTqXoKAUQXOxCsz9D8dVz7_7SH-WwEJx7",
+            "source": "",
+            "comment": "Sappy stickers sale",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-09T00:00:01Z"
+        },
+        {
+            "address": "EQBIlr44ZcXKckBaMVwopKDb9bbkkLzYWTh2ND9ue93OUCbF",
+            "source": "",
+            "comment": "Azuki Garden sale",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-14T00:00:01Z"
+        },
+        {
+            "address": "EQA-ag1xl5h-kzjck7g4bSvQdazhgyADlIVE73BVVPWJuUPF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-17T00:00:01Z"
+        }
+    ]
+}

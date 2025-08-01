@@ -11,10 +11,26 @@
         {
             "address": "EQDIe44-vwvjAh4hyubSPPN9mjfWNr9wI9oN1qOCDNMvC9SB",
             "source": "",
-            "comment": "",
+            "comment": "wallet-teabank.ton",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-17T00:00:01Z"
+        },
+        {
+            "address": "EQBXspGL5Wq0CmOzsFpYDQh8Kz7IiabNS4_HC-saYTt0vG7l",
+            "source": "",
+            "comment": "tea_bank_bot wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQCBs51VcAbiZDehbsxSbdfVX9WIuXvIB2HdGOzeqnTcHyrf",
+            "source": "",
+            "comment": "teabank-wallet.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
         }
     ]
 }

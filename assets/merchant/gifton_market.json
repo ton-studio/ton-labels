@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "gifton_market",
+        "name": "GiftON Market",
+        "organization": "gifton_market",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/gifton_market_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQA6Enl0uveWA524v1xV_uz4COJiLUObhm717AhIB153rOqb",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-03T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "metadata": {
+        "label": "labrador_adventures",
+        "name": "Labrador Adventures",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/LabradorAdventuresBot",
+        "description": "",
+        "organization": "labrador_adventures"
+    },
+    "addresses": [
+        {
+            "address": "EQDBu4MwbignVmSAd9Io5o99Db9d5d9jF9nNFj8Zsik7XPXA",
+            "source": "",
+            "comment": "$LABR buyback address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQCzCexHUzrrzFqr-QW99ZfYUofBflVn5P3WRS6rUUvQSq8U",
+            "source": "",
+            "comment": "Telegram Stars cash out address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQDdOQX0H8BTqkl77I1UDUgYKuCfwFvZUSoS9bHU_KcgFPPb",
+            "source": "",
+            "comment": "$LABR token broadcaster",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQDsjxmRt6uL0wc5PzEQDy-Q5wFOqV5ZP86l3Cy1mLjiqyJE",
+            "source": "",
+            "comment": "$LABR jetton_master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T00:00:01Z"
+        },
+        {
+            "address": "EQBymkhJqGmNftpm88WONMZA669qBNL35P2xsjVZFfkcFm96",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        }
+    ]
+}

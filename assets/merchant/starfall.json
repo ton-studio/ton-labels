@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "starfall",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/starfall_tg_bot",
+        "description": "",
+        "organization": "starfall"
+    },
+    "addresses": [
+        {
+            "address": "EQAzGhD3q4VNAS0d9y8TnUReH5BuqkH9vK-2zlupX92Upz-B",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-stars"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-26T10:09:26Z"
+        },
+        {
+            "address": "EQCNg_mCcS1B7YyN5y0cVLrMchYg7_6kJxqgmH2M5wQF5gT5",
+            "source": "",
+            "comment": "https://t.me/starfallrobot",
+            "tags": [
+                "telegram-stars"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-10T10:09:26Z"
+        }
+    ]
+}

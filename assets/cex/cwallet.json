@@ -11,10 +11,18 @@
         {
             "address": "EQAj7vKLbaWjaNbAuAKP1e1HwmdYZ2vJ2xtWU8qq3JafkfxF",
             "source": "datalake-test.cex_labels_20241116",
-            "comment": "",
+            "comment": "Deposits",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQDBqRLTLDTU7e2rbdwQJ3w76PWu2Kyt0SjiTB4g-DaCV3QM",
+            "source": "",
+            "comment": "Withdrawals",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-08T00:00:01Z"
         }
     ]
 }

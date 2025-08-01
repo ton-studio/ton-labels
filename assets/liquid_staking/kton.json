@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "kton",
+        "category": "liquid-staking",
+        "subcategory": "",
+        "website": "https://kton.io",
+        "description": "KTON (old tonstake)",
+        "organization": "kton"
+    },
+    "addresses": [
+        {
+            "address": "EQDimd1K4r33iPcj7d_mmajTAoQdBJwgh2emlJoZ9ogIKUhf",
+            "source": "",
+            "comment": "Withdraw From TonStake.com for KTON",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-04-15T00:00:00Z"
+        }
+    ]
+}

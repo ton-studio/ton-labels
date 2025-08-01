@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "tonpoker",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/tonpoker",
+        "description": "",
+        "organization": "tonpoker"
+    },
+    "addresses": [
+        {
+            "address": "EQAnn9jfCwWO0rjofDRV8tFAYotVlFNW2JvGVx6pSU3zylrl",
+            "source": "",
+            "comment": "Withdrawal address",
+            "tags": [],
+            "submittedBy": "dddwhdd",
+            "submissionTimestamp": "2025-03-21T00:00:01Z"
+        },
+        {
+            "address": "EQABa_nBCXXD_ZT4yOQpQYDrQhmKlKjhMmyIqRpmXCjuB3rw",
+            "source": "",
+            "comment": "Medieval Deck NFT collection",
+            "tags": ["nft"],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-20T00:00:01Z"
+        }
+    ]
+}

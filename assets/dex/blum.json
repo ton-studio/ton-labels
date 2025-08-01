@@ -48,6 +48,162 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQBdyhUFxfqSHPvr38VOK9Wvo3ZE7Ih-MoAEhx2sEPqrb4Fv",
+            "source": "",
+            "comment": "Jetton Deployer (blumdeployed.ton)",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+        {
+            "address": "EQDZYbfuTPzuPotoGCMKmdQF4f_N-k_JPxSG4-oQYWKlggNE",
+            "source": "",
+            "comment": "commission address (blumcomission.ton)",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-26T00:00:01Z"
+        },
+        {
+            "address": "EQA09avzhB82uY-eVlmM7c7HyVRDjJ5InvTNf0eC2ltdZ5Z5",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQDJ9nuQSIq_CU4AXlWSPVleSv1E4linJ-ufJlwZBjWIuVzE",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQCbkbXUS3xgURua5j06b6fVtZglMXppAhtBwTjKnasuB3dE",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQAaazgqvnXLGcpQdxVrtSBDTVOHuYC1VF8EtEeiD-6OwHzx",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQAgurmIvJhQ-Q6OUYIzceG-J7odXBKFVkeszslT71Ny0qjt",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQAPlwiUPs5rb9fM68Rey-iWOKL7PSQvi2OVQkM8wIEtlRvx",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQB2BI4ZTHiGCCKMID_Wc1D3VI5ZePdnA3l3VAxzUUfoH5-G",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQDr9A212cHYH9z1-cKij-7YEtSa1FjXeVY15NGtWjBk_SfN",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQBZpsdEIQD8mplFhmVCvjnKnHOME7-p7sZlno_OrIxnm2CX",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQC9AhWE15AKwK0N1vON9xNxcdEXjTP8JqJya-Bdx7h-szU1",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQBNbSEyFqzLLxjl_Nb0xlRxexmz8-KUVLDUqyQVnaAa8e8d",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQCvJfIyBwZ7TPyC2YnuRW22ehhgb6QWLHpGUofjoae0DHW_",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQD6Nt9lcUlSe9dMGsPjRRwlhMyVq2xGxEbVdGTaydjirSsf",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQDVqQbnCUc5KtLeES1SQH28aD5xQhFVO8wCGIFhxy8MO2t0",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQCGNQ7XbT9OtYd0sHwU_bY6tO8AaHsBDC2s4Uo_Lu42U29Z",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQBvY0Klh1R11ZH0_4j0nFQpvuVMhYob3kmWx-gOyWwtRXcn",
+            "source": "",
+            "comment": "BLUM airdrop address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
+        },
+        {
+            "address": "EQCAj5oiRRrXokYsg_B-e0KG9xMwh5upr5I8HQzErm0_BLUM",
+            "source": "",
+            "comment": "BLUM jetton_master",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-06-29T00:00:01Z"
         }
     ]
 }

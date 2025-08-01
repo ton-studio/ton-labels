@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "label": "1xbet",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/xBetChannel",
+        "description": "",
+        "organization": "1xbet"
+    },
+    "addresses": [
+        {
+            "address": "EQBHLwAD21SgZeRavXI9aBH6RWorHLr41mHYAUcH_v7G2Iy2",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "RomanHF",
+            "submissionTimestamp": "2025-03-17T00:00:01Z"
+        },
+        {
+            "address": "EQALtxOdhrIrzGvA42EXQ35XOb-Ny88Htx_fVqvKb2whKf7c",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-05-27T00:00:01Z"
+        },
+        {
+            "address": "EQA0-Srp-0bEUbfuN1jJdTpWau6uk9fZq1Or_BQFN25r31ew",
+            "source": "",
+            "comment": "received all funds from other 1xbet address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-06-04T00:00:01Z"
+        }
+    ]
+}

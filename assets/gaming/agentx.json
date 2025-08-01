@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "agentx",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/agntxbot",
+        "description": "",
+        "organization": "agentx"
+    },
+    "addresses": [
+        {
+            "address": "EQBZur_G3tWJkPyQSj8udMrH5P4XrT_jgbg3XvxnVYte2pU5",
+            "source": "",
+            "comment": "Ton Payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        },
+        {
+            "address": "EQBgPR64aqMfhkNR6JcWVV0N1sjmNAllvtv688xn8sJe9YvE",
+            "source": "",
+            "comment": "USDT Payments",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-07-08T00:00:01Z"
+        }
+    ]
+}

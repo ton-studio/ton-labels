@@ -54,5 +54,17 @@
     {
         "name": "fund",
         "description": "Funds' assets on TON Blockchain"
+    },
+    {
+        "name": "scripted-activity",
+        "description": "Addresses that aggregate funds or coordinate actions involving automated onchain entities such as sybils, botnets, or scripted services"
+    },
+    {
+        "name": "other",
+        "description": "Other cases"
+    },
+    {
+        "name": "defi",
+        "description": "DeFi protocols"
     }
 ]

@@ -55,6 +55,30 @@
             "tags": [],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-03-12T00:00:01Z"
+        },
+        {
+            "address": "EQDMsz2nJ2UjqUKOd5c7YtA7P6OQa2d6mANYRF15lHeNG-cs",
+            "source": "",
+            "comment": "The same opcode and code_hash like EQBKt3vysOhuL8HZthcA7DJhmJD1VX-4Fz_OOrHLV-kjTVaO",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-07T00:00:01Z"
+        },
+        {
+            "address": "EQCELnMVFOUKkjN1ApaV2Ghg6c4t0OxYxudm01SACExWZg6V",
+            "source": "",
+            "comment": "S2 Airdrop address: https://tonviewer.com/transaction/f73835c2ed28a75dced5b1fb654b36f7a29b4dcd142c8d7b7856a2286ac2276b",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-09T00:00:01Z"
+        },
+        {
+            "address": "EQAA5KeN7TXa7_EBxb2juNpAsMH2qO16_PUer8Io_UJUqdRx",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-05-22T00:00:01Z"
         }
     ]
 }

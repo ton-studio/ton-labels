@@ -1,20 +1,54 @@
 {
-  "metadata": {
-      "label": "gatto",
-      "category": "gaming",
-      "subcategory": "",
-      "website": "https://t.me/gatto_gamebot",
-      "description": "",
-      "organization": "gatto"
-  },
-  "addresses": [
-      {
-          "address": "EQBw8SGTFdcidZJbpNavGA-xBq6fGVlrAzlNWT6l48HPv9VE",
-          "source": "https://gatto-game.gitbook.io/gatto-or-whitepaper/version-on-english/rules-and-useful-links/qa",
-          "comment": "Converting NFTs to in-game items (pets)",
-          "tags": [],
-          "submittedBy": "Caranell",
-          "submissionTimestamp": "2025-03-14T00:00:01Z"
-      }
-  ]
+    "metadata": {
+        "label": "gatto",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/gatto_gamebot",
+        "description": "",
+        "organization": "gatto"
+    },
+    "addresses": [
+        {
+            "address": "EQBw8SGTFdcidZJbpNavGA-xBq6fGVlrAzlNWT6l48HPv9VE",
+            "source": "https://gatto-game.gitbook.io/gatto-or-whitepaper/version-on-english/rules-and-useful-links/qa",
+            "comment": "Converting NFTs to in-game items (pets)",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-14T00:00:01Z"
+        },
+        {
+            "address": "EQA2glKDbvezR0KZstAqNmHLEpkOHId1RYAGwza06XLCOLTl",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQBi01YXMYnPnv_rddXJeU4CD47lHyzlZ45JmKObIPL5V9rV",
+            "source": "",
+            "comment": "gatto.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQA7CIh3cKqJZfhl__oHIvJY6PBqOe26t2ipU_BNYpPqBcXU",
+            "source": "",
+            "comment": "claim address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQBL7weQLNfwCVCIuio9bAfWJr3z7nkGZUfo6VVK5lUvi2N4",
+            "source": "",
+            "comment": "Gatto | Eggs nft collection",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-05-29T00:00:01Z"
+        }
+    ]
 }
