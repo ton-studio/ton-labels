@@ -65,6 +65,38 @@
             "tags": [],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-05-02T00:00:01Z"
+        },
+        {
+            "address": "EQBOA2x34UB4OaotzoM4VNY7PxK0o4euvuVfo_19i4c9BLWM",
+            "source": "",
+            "comment": "$WCOIN minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQB6iRgqzrPPMlvM6gm7bUxPkGcPRVmRiVNYRwIqN_JfGCJ-",
+            "source": "",
+            "comment": "$WCOIN treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQAspNiZqKsessjbzVxkMKL8WzEAO6l4bNNKNuOrQlN5uJkY",
+            "source": "",
+            "comment": "$WCOIN airdrop sender",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQCR64BbZuz_79nhapHNSEa4J1y-E-GgsumQlh2d0YEuson4",
+            "source": "",
+            "comment": "$WCOIN admin / founder",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
         }
     ]
 }
