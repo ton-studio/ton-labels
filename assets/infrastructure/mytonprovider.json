@@ -6,7 +6,7 @@
         "subcategory": "",
         "website": "https://mytonprovider.org",
         "description": "Platform for launching and managing decentralized storage providers on the TON network",
-        "organization": "MyTonProvider"
+        "organization": "mytonprovider"
     },
     "addresses": [
         {
