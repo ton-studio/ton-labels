@@ -10,7 +10,7 @@
     },
     "addresses": [
         {
-            "address": "UQANnr96uGtGRnStzqcsEyZcUZTkVPt0HdlaTQLlQ7LhwWmk",
+            "address": "EQANnr96uGtGRnStzqcsEyZcUZTkVPt0HdlaTQLlQ7LhwTRh",
             "source": "tonviewer",
             "comment": "Smart contract handling payments from users for file storage and distributing rewards to storage providers",
             "tags": [],
