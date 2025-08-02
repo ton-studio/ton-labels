@@ -9,6 +9,16 @@
     },
     "addresses": [
         {
+            "address": "EQAAoyu0C-aMYGPVEoMfuAge2-meJWeO5KLJKrKWJAJAKXGL",
+            "source": "",
+            "comment": "DeDust Contract Executor",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Matsharik",
+            "submissionTimestamp": "2025-08-02T12:53:01Z"
+        },
+        {
             "address": "EQDa4VOnTYlLvDJ0gZjNYm5PXfSmmtL6Vs6A_CZEtXCNICq_",
             "source": "",
             "comment": "DeDust Vault, TON",
