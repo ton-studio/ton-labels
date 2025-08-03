@@ -1,0 +1,29 @@
+{
+  "metadata": {
+      "label": "wrapped_pi",
+      "name": "Wrapped Pi",
+      "category": "gaming",
+      "subcategory": "",
+      "website": "https://t.me/wrappedpi_bot",
+      "description": "",
+      "organization": "wrappedpi"
+  },
+  "addresses": [
+      {
+          "address": "EQCL8biitXa9VWtqli0jQbkCSfSsmYL9Woy9o2H-47BnrFnN",
+          "source": "",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-07-08T00:00:01Z"
+      },
+      {
+          "address": "EQDAVBy2DZXiRk3ol_V3EBxgTw0E8HaWNTBXEohe7zEOX6H8",
+          "source": "",
+          "comment": "",
+          "tags": [],
+          "submittedBy": "Lucky0041",
+          "submissionTimestamp": "2025-07-08T00:00:01Z"
+      }
+  ]
+}

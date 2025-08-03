@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starship",
+        "name": "Starship",
+        "organization": "starship",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarsShipBot"
+    },
+    "addresses": [
+        {
+            "address": "EQAl5OfBxs5gq-5iTpIhz-26adLyyc-3Li7hSAozHyfgXSsx",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-10T17:00:02Z"
+        }
+    ]
+}

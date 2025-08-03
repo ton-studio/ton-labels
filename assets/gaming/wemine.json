@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "wemine",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/WeMineBot",
+        "description": "",
+        "organization": "wemine"
+    },
+    "addresses": [
+        {
+            "address": "EQBs3UlY1jqagOzH97pi7_y9Bq-F0IefP0Gqi9M63qMW7aqQ",
+            "source": "",
+            "comment": "$WeMine minter & treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQAz5r3p2gjoTdepSZwKH8OdW23My50Dbqnu8YYuQNzspKXe",
+            "source": "",
+            "comment": "$WeMine withdrawals",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQDeoHZick8uPItqXOhrpLePyolRG2BM7srjG76WcUFEWW6e",
+            "source": "",
+            "comment": "$WeMine 1 TON payments ",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        }
+    ]
+}
