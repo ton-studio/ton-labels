@@ -820,6 +820,28 @@
             "submissionTimestamp": "2025-07-29T00:00:01Z"
         },
         {
+            "address": "EQBfq5KPvxJuCGRlxnzRW6bBohc6jN6rBujPa2gJ2y0OLCre",
+            "source": "",
+            "comment": "🎁700$ at 🌐TONSAVE.COM, system-alerts.ton",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQC_OR8NXj1zHM4aSxiP7X4du0ym0wPGFdqoIIVmjolYwqdn",
+            "source": "",
+            "comment": "🌏tontg.org Claim 500USD",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
             "address": "EQAMOBmTGdgDmZ4NEkCb4E0ephnkp1Cq2E5RcP_FjVari1Cu",
             "source": "",
             "comment": "",
