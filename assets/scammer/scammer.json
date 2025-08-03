@@ -754,7 +754,6 @@
             "submissionTimestamp": "2025-07-02T00:00:01Z"
         },
         {
-            "address": "EQAMOBmTGdgDmZ4NEkCb4E0ephnkp1Cq2E5RcP_FjVari1Cu",
             "address": "EQBtpiIgEoQBLzoeaNILUtDWCUj3oQQL-uAKHer3xlyYFOKJ",
             "source": "",
             "comment": "",
@@ -763,12 +762,6 @@
                 "suspicious"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-08-03T00:00:01Z"
-        },
-         {
-            "address": "EQCUsic2lZUE1kqRmPv6vBhcZFBbeFTgtVQQViRdGn8nMOyr",
-            "source": "",
-            "comment": "🎁700$ at 🌐TONSAVE",
             "submissionTimestamp": "2025-07-29T00:00:01Z"
         },
         {
@@ -802,7 +795,6 @@
                 "suspicious"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-08-03T00:00:01Z"
             "submissionTimestamp": "2025-07-29T00:00:01Z"
         },
         {
@@ -828,26 +820,26 @@
             "submissionTimestamp": "2025-07-29T00:00:01Z"
         },
         {
-            "address": "EQBfq5KPvxJuCGRlxnzRW6bBohc6jN6rBujPa2gJ2y0OLCre",
+            "address": "EQAMOBmTGdgDmZ4NEkCb4E0ephnkp1Cq2E5RcP_FjVari1Cu",
             "source": "",
-            "comment": "🎁700$ at 🌐TONSAVE.COM, system-alerts.ton",
+            "comment": "",
             "tags": [
                 "scammer",
                 "suspicious"
             ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-08-01T00:00:01Z"
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-03T00:00:01Z"
         },
         {
-            "address": "EQC_OR8NXj1zHM4aSxiP7X4du0ym0wPGFdqoIIVmjolYwqdn",
+            "address": "EQCUsic2lZUE1kqRmPv6vBhcZFBbeFTgtVQQViRdGn8nMOyr",
             "source": "",
-            "comment": "🌏tontg.org Claim 500USD",
+            "comment": "🎁700$ at 🌐TONSAVE",
             "tags": [
                 "scammer",
                 "suspicious"
             ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-08-01T00:00:01Z"
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-03T00:00:01Z"
         }
     ]
 }
