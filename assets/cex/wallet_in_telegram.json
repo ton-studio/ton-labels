@@ -191,6 +191,16 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-13T00:00:01Z"
+        },
+         {
+            "address": "EQD32aV84dYxSaegia7munkNjpj0GjgWtnLgOTjA4iLu1Qrw",
+            "source": "",
+            "comment": "TAC hot wallet",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-04T00:00:01Z"
         }
     ]
 }
