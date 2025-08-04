@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "omniston",
+        "category": "defi",
+        "subcategory": "yield_aggregator",
+        "website": "https://omniston.ston.fi",
+        "description": "",
+        "organization": "omniston"
+    },
+    "addresses": [
+        {
+            "address": "EQAAoyu0C-aMYGPVEoMfuAge2-meJWeO5KLJKrKWJAJAKXGL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-04T00:00:01Z"
+        }
+    ]
+}
