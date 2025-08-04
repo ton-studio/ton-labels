@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "mytonprovider",
+        "name": "My Ton Provider",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://mytonprovider.org",
+        "description": "Platform for launching and managing decentralized storage providers on the TON network",
+        "organization": "mytonprovider"
+    },
+    "addresses": [
+        {
+            "address": "EQANnr96uGtGRnStzqcsEyZcUZTkVPt0HdlaTQLlQ7LhwTRh",
+            "source": "tonviewer",
+            "comment": "Smart contract handling payments from users for file storage and distributing rewards to storage providers",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-02T00:00:01Z"
+       }
+    ]
+}
