@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "barboskich_stars_exchange",
+        "name": "Barboskich Stars Exchange",
+        "organization": "barsboskich",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/barboshop_robot"
+    },
+    "addresses": [
+        {
+            "address": "EQDIREDeTVgdNNuK1y0qdT5yRM-bC8LDBSrSAyIlzJ2zBft3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-03T17:00:02Z"
+        }
+    ]
+}
