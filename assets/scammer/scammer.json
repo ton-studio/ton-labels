@@ -840,6 +840,28 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQAMOBmTGdgDmZ4NEkCb4E0ephnkp1Cq2E5RcP_FjVari1Cu",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-03T00:00:01Z"
+        },
+        {
+            "address": "EQCUsic2lZUE1kqRmPv6vBhcZFBbeFTgtVQQViRdGn8nMOyr",
+            "source": "",
+            "comment": "🎁700$ at 🌐TONSAVE",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-03T00:00:01Z"
         }
     ]
 }
