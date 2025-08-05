@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "bizland_bot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/BizLand_bot",
+        "description": "",
+        "organization": "bizland_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDp03puTbt4XP-t6Dvd6YP30X5_xYaSt00atVCoeqWwNTYs",
+            "source": "",
+            "comment": "bizland-wallet.ton",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
+        },
+        {
+            "address": "EQDX6r848YDuCD2W8CppvmyPbzaWH6Shao5Ac-wSN14HC_p5",
+            "source": "",
+            "comment": "bizland-payout.ton",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "civilizationton_bot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/CivilizationTon_bot",
+        "description": "",
+        "organization": "civilizationton_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQA-uKB7lRsIzdjVzYCYDOkbPKUMeRZcCgehRHhX7hOwZ8lT",
+            "source": "",
+            "comment": "planet-ton.ton",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
+        }
+    ]
+}
