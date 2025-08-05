@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "easygift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/EasyGiftDropbot",
+        "description": "buy and open a case with NFT",
+        "organization": "easygift"
+    },
+    "addresses": [
+        {
+            "address": "EQAktyb1_stOb6v2LEqbz7WY7K-PGBIIGa98SZ0qWz5F3JsY",
+            "source": "",
+            "comment": "TG Stars withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-06T00:00:01Z"
+        },
+           {
+            "address": "EQB5zpcxoissxrzHZO-ViMI8HkUW94qbeIkNw69_35ZvtM0l",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-06T00:00:01Z"
+        }
+    ]
+}
