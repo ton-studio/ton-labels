@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "Inal Kardan",
+        "category": "person",
+        "subcategory": "",
+        "website": "https://x.com/ikardanoff",
+        "description": "Director Of Gaming at TON Foundation",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "EQDQpNrKz-vUyfP5VR5k7e8Zl0Q1rxl98148nmH02dY115EE",
+            "source": "tonkeeper ton-assets",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "charter",
+            "submissionTimestamp": "2025-08-05T00:00:00Z"
+        }
+    ]
+}
