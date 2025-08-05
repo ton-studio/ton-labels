@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sasha_plotvinov",
+        "category": "person",
+        "subcategory": "",
+        "website": "https://t.me/alexstarter",
+        "description": "founder OpenBuilders",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "EQCDeVB-qE24XrlO7WHZa4HR-ve_hqkjW6F7eij4PBktTRc9",
+            "source": "tonkeeper ton-assets",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "charter",
+            "submissionTimestamp": "2025-08-11T00:00:00Z"
+        }
+    ]
+}
