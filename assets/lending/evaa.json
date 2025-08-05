@@ -62,5 +62,15 @@
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-06T00:00:01Z"
         }
+        {
+            "address": "EQA_LrHIdSqJQk5sDp-zFAC8IZeRWLN6awG97uG3ItREukxV",
+            "source": "",
+            "comment": "Evaa multisig",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "charter",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
+        },
     ]
 }
