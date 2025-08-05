@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "Awesome Doge",
+        "category": "person",
+        "subcategory": "",
+        "website": "https://t.me/awesome_doge",
+        "description": "ton core and cofounder tonX",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "EQCfxMffkn5hL_kpCpeh0FqLipc93v1gmMzyYtdUuN4EbV-l",
+            "source": "tonkeeper ton-assets",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "charter",
+            "submissionTimestamp": "2025-08-05T00:00:00Z"
+        }
+    ]
+}
