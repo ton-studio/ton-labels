@@ -111,6 +111,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-07-17T00:00:01Z"
+        },
+        {
+            "address": "EQDbf6jUgQPfDywn5ordm9MQK0Kd5bDwECyhp7g8hebSCv47",
+            "source": "",
+            "comment": "Wallet for withdrawing stars",
+            "tags": [],
+            "submittedBy": "charter",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
         }
     ]
 }
