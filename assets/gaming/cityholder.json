@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "cityholder",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/agntxbot",
+        "description": "",
+        "organization": "cityholder"
+    },
+    "addresses": [
+        {
+            "address": "EQBZur_G3tWJkPyQSj8udMrH5P4XrT_jgbg3XvxnVYte2pU5",
+            "source": "",
+            "comment": "TG Stars withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
+        }
+    ]
+}
