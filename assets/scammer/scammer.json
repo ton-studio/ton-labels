@@ -862,6 +862,28 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-03T00:00:01Z"
+        },
+        {
+            "address": "EQASAuk6FEx3ypcC6IsywscfZum11TeT-DV7RqZNhzvum3Yn",
+            "source": "",
+            "comment": "🎁700$ at 🌐TONSAVE.COM",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
+        },
+        {
+            "address": "EQB2lBKDEpl8Q_YmMGcu7syJ3v9eV9vwhklWn8e2IdtXEH6N",
+            "source": "",
+            "comment": "🎁700$ at 🌐TONKEEP.SALE, system-messages.ton",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
         }
     ]
 }

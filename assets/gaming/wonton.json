@@ -9,17 +9,9 @@
     },
     "addresses": [
         {
-            "address": "EQCR1O_30_L6XImgRFeMJCuoKo8gD-J3KLx4KamPk2o83ECw",
-            "source": "",
-            "comment": "",
-            "tags": [],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2025-01-01T00:00:01Z"
-        },
-        {
             "address": "EQB71OBhikfNAFktyIYeNOvreiGvPK5qBMK0HWg_tUWHyFYL",
             "source": "",
-            "comment": "Check in 0.05 TON",
+            "comment": "Checkins",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
@@ -35,7 +27,7 @@
         {
             "address": "EQB2MfIcTbwtshE8VOv0YA6ZWpb9bbj79D_SUXHZYv04X47c",
             "source": "",
-            "comment": "",
+            "comment": "TON Withdraws",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-13T00:00:01Z"
@@ -43,7 +35,7 @@
         {
             "address": "EQCdhk7kONozcJ6cy6VKDUwtAb6EhZelXJHS1xZ4XOC-O26s",
             "source": "",
-            "comment": "",
+            "comment": "Jetton Withdraws",
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-15T00:00:01Z"
