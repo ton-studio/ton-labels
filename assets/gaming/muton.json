@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "muton_bot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/muuton_bot",
+        "description": "",
+        "organization": "muton_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDrsum1pV6cT8JHooDUkdPC2PF3rH5xFxFEQyKi_O8CDPk4",
+            "source": "",
+            "comment": "pay-muton.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-05T00:00:01Z"
+        }
+    ]
+}
