@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "Nick Nekilov",
+        "category": "person",
+        "subcategory": "",
+        "website": "https://t.me/NickNekilov",
+        "description": "Founder of DeDust",
+        "organization": "individual"
+    },
+    "addresses": [
+        {
+            "address": "EQDz0wQL6EEdgbPkFgS7nNmywzr468AvgLyhH7PIMALxPB6G",
+            "source": "tonkeeper ton-assets",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "charter",
+            "submissionTimestamp": "2024-11-22T00:00:00Z"
+        }
+    ]
+}
