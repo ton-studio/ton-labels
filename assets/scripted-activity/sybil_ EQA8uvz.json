@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "sybil_EQA8uvz",
+    "category": "scripted-activity",
+    "subcategory": "sybil",
+    "website": "",
+    "description": "",
+    "organization": "sybil_EQA8uvz"
+  },
+  "addresses": [
+    {
+      "address": "EQA8uvzpoedychiEHvwQJaEXlf3kYRSQSg216JbbSSctdxoC",
+      "source": "",
+      "comment": "Accumulates funds after Sybil script activity",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-08-05T00:00:00Z"
+    }
+  ]
+}
