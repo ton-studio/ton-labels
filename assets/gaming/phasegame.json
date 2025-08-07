@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "myballs",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/myballs",
+        "description": "",
+        "organization": "myballs"
+    },
+    "addresses": [
+        {
+            "address": "EQAT0-Ckh-6Zyz2k_zG8Xf_NIwQOxda7U79A-uLLI7jhB-C2",
+            "source": "",
+            "comment": "phasegame.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-06T00:00:01Z"
+        }
+    ]
+}

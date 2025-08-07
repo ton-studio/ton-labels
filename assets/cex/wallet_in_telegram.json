@@ -192,7 +192,7 @@
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-13T00:00:01Z"
         },
-         {
+        {
             "address": "EQD32aV84dYxSaegia7munkNjpj0GjgWtnLgOTjA4iLu1Qrw",
             "source": "",
             "comment": "TAC hot wallet",
@@ -201,6 +201,14 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-04T00:00:01Z"
+        },
+        {
+            "address": "EQCnzJYQdI0bx0m5FkCtvWzPtX_zgAhKV_3kdf6jU6VEzpbk",
+            "source": "",
+            "comment": "USD Earn custody",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-06T00:00:01Z"
         }
     ]
 }
