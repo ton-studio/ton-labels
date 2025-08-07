@@ -11,7 +11,7 @@
         {
             "address": "EQCzflcDPbIdELlQ5hQ7ZYwQw79CW9GTAllgrvfyLbz0_OZs",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON Withdraw",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -19,7 +19,7 @@
         {
             "address": "EQAOFVD6NvK-2_Oe9RZO1Q-g7r1UdHO7l3rerFqG9uJwG_id",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "USDT withdraw",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -27,7 +27,7 @@
         {
             "address": "EQCIjq_nM67Yg2NOzUO6_M-U4VyY4kOUVl0Bt3MiPEEgeYOS",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "TON Withdraw",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -35,7 +35,7 @@
         {
             "address": "EQCA1BI4QRZ8qYmskSRDzJmkucGodYRTZCf_b9hckjla6dZl",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
-            "comment": "",
+            "comment": "deposits",
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
@@ -127,7 +127,7 @@
             "tags": [],
             "submittedBy": "johntad",
             "submissionTimestamp": "2025-04-16T00:00:01Z"
-        },       
+        },
         {
             "address": "EQDts21W-HlG_4De-hV_4UH3R8g4Mh4ElGuNmIY_du-7ubEe",
             "source": "",
@@ -149,7 +149,7 @@
             "source": "",
             "comment": "",
             "tags": [
-                 "has-custodial-wallets"
+                "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-07-17T00:00:01Z"
