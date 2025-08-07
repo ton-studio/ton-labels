@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_believers",
+        "category": "fund",
+        "subcategory": "",
+        "website": "https://www.orbs.com",
+        "description": "",
+        "organization": "orbs"
+    },
+    "addresses": [
+        {
+            "address": "EQBJbS35Ec-efHt7bOxPl3Vitw7CXLUBU_CT0r0NnVnOtpGy",
+            "source": "",
+            "comment": "Ton Believers Fund",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-07T00:00:01Z"
+        }
+    ]
+}
