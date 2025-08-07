@@ -35,7 +35,7 @@
         {
             "address": "EQBMr86RvZfLmy42_-3eTjygFDG9Ll7qtGSO6zU0GZNTKEVz",
             "source": "https://tonviewer.com",
-            "comment": "TBF supporter - 2,000,150 TON; https://tonviewer.com/transaction/yNwKrKhdMUYrQCwfvu28ONsgT4dIXaf7KxH51MOWTvQ=,transaction/ba8fee2c57b153a746a746c289095e0497617bc0e317777d42eb0abb545d7bd6.transaction/0840d58dbb4b8afe07c2b9e43b47d0365ca5dfbbfe8a0d99619cf549103c80b1 ",
+            "comment": "TBF supporter - 23,500,150 TON; https://tonviewer.com/transaction/0840d58dbb4b8afe07c2b9e43b47d0365ca5dfbbfe8a0d99619cf549103c80b1 , ba8fee2c57b153a746a746c289095e0497617bc0e317777d42eb0abb545d7bd6 , e148b5f5c29bde326c63c203d2c08a5a0f47177b3a1e5f4c7a7ee3f975caf4b7 , fe199d4a40f7ccad5181c8ea4d0556da4cd3be432108fc8a20904b847b85fcbb , f087f37d52ebd882a0774e814728a83f70984bc8a1c95865c2e2a68afb575986 ",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-07T00:00:01Z"
@@ -52,6 +52,14 @@
             "address": "EQCZr_8lQFzq_GL2jLXHg6gPKcuNdhOsm3imMkW-bK-zuadu",
             "source": "https://t.me/DeepTon/751",
             "comment": "TBF supporter - 2,249,000 TON; https://tonviewer.com/transaction/b618dec87043e7dbf0741f2e0e713071e9d9d29cb435fd6dd0dbd55f0ff96b10, a52cdb744d16cf910709ca2faae60407cc998841d08de9f7eb2d258e2c64a3a4 , 7a4ccfbe999d66e410cdc6365a06591396c70cbd0468cb094b542d270826fde2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-07T00:00:01Z"
+        },
+        {
+            "address": "EQCCEeeeuJE8Qjhz3ulJKqKITj_hRxKPIdxowrLPSvV6Krq7",
+            "source": "https://t.me/DeepTon/751",
+            "comment": "TBF supporter - 1,519,297 TON; https://tonviewer.com/transaction/17a1614952ef861a6c330e2208f2fc75a120c7eb94b1afe537eb891d8c6f0b39 , cfc9c53bb08d347871d0dc21b06a35fe238bde2ca82dcf84cec104d01f420ab2",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-07T00:00:01Z"
