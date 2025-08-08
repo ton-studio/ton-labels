@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "orbs",
+        "category": "fund",
+        "subcategory": "",
+        "website": "https://www.orbs.com",
+        "description": "",
+        "organization": "orbs"
+    },
+    "addresses": [
+        {
+            "address": "EQBJbS35Ec-efHt7bOxPl3Vitw7CXLUBU_CT0r0NnVnOtpGy",
+            "source": "https://t.me/DeepTon/741",
+            "comment": "TBF supporter - 10,045 TON ",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-08T00:00:01Z"
+        }
+    ]
+}
