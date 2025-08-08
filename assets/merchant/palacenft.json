@@ -24,13 +24,21 @@
             "submittedBy": "markysha",
             "submissionTimestamp": "2025-06-09T00:00:00Z"
         },
-         {
+        {
             "address": "EQAA6t_8NanJY7xJk44MyXH1gmerWLuSNNL_7-N4kF2ESQF7",
             "source": "",
             "comment": "Withdrawal address",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-03T00:00:00Z"
+        },
+        {
+            "address": "EQCIBA48LQiFAlCCzzX50BiNoALhD8QwBOTRaMSBqAs4_j4n",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-06T00:00:00Z"
         }
     ]
 }

@@ -603,7 +603,7 @@
         {
             "address": "EQC90NgG5ixY7Ol3SDRQhAEZRvBUUI6dYsWfnfFXw9f3_Ij0",
             "source": "",
-            "comment": "USDe",
+            "comment": "USDe withdrawals",
             "tags": [
                 "has-custodial-wallets"
             ],
@@ -613,19 +613,19 @@
         {
             "address": "EQAczVhQDxArFToz2CCd8sO4NlnCIfyVFiQLsCT6lygYrwCY",
             "source": "",
-            "comment": "",
+            "comment": "USDT withdrawals",
             "tags": [
                 "has-custodial-wallets"
             ],
             "submittedBy": "markysha",
             "submissionTimestamp": "2025-06-06T00:00:01Z"
         },
-                {
+        {
             "address": "EQA1WsKiwW7srxNBeFZ47LpsPBv0h6m649QDHm28GdK56LfT",
             "source": "",
             "comment": "BOMB",
             "tags": [
-                 "has-custodial-wallets"
+                "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-20T00:00:01Z"
@@ -635,7 +635,7 @@
             "source": "",
             "comment": "TAC",
             "tags": [
-                 "has-custodial-wallets"
+                "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-07-17T00:00:01Z"
