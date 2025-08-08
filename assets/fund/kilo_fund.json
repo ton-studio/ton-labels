@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "kilo_fund",
+        "category": "fund",
+        "subcategory": "",
+        "website": "https://kilo.fund",
+        "description": "",
+        "organization": "kilo_fund"
+    },
+    "addresses": [
+        {
+            "address": "EQBMGB5OWAx8xebwAPo4olRu4nRdRMfznYYK4S7z5Oi4R-P0",
+            "source": "https://t.me/DeepTon/744",
+            "comment": "TBF supporter - 10.000 TON",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-08T00:00:01Z"
+        }
+    ]
+}

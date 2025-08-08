@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "dfw_labs",
+        "category": "fund",
+        "subcategory": "",
+        "website": "https://www.dwf-labs.com",
+        "description": "",
+        "organization": "dfw_labs"
+    },
+    "addresses": [
+        {
+            "address": "EQCtyYwoEZi4ipi1_SPrS6SOFvZLW6pTWFtT4UsywlExoDQD",
+            "source": "https://t.me/DeepTon/742",
+            "comment": "TBF supporter - 10.000 TON",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-08T00:00:01Z"
+        }
+    ]
+}
