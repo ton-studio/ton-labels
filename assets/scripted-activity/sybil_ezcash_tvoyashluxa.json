@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_ezcash_tvoyashluxa",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_ezcash_tvoyashluxa"
+    },
+    "addresses": [
+        {
+            "address": "EQDJEoHr-iJ-fJc3wBdYbEaAGjc2juOS4woRLREpZyiAQtA0",
+            "source": "",
+            "comment": "Created 670 wallets to farm ezcash drop via 0xprocessing.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-11T00:00:00Z"
+        }
+    ]
+}
