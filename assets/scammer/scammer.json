@@ -906,6 +906,17 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-11T00:00:01Z"
+        },
+        {
+            "address": "EQAuEYIkASlZolGQfnIzJ6s_i9H5dCbcFEPF2uBV2j-SayJ2",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-11T00:00:01Z"
         }
     ]
 }
