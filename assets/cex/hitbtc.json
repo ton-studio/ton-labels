@@ -26,6 +26,16 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-24T00:00:01Z"
+        },
+        {
+            "address": "EQBTPqSpW3-ktsq_MR2ieAxBy1mud62r4nNrboeQs7NN5qTS",
+            "source": "",
+            "comment": "hot wallet, sends all incoming finds to another hot wallet",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-08-11T00:00:01Z"
         }
     ]
 }
