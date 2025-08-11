@@ -884,6 +884,28 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-05T00:00:01Z"
+        },
+        {
+            "address": "EQBr0PHmimTxO5KoIgF4AZ_Aef9yP04-qBWCuMtmpRRfYuDL",
+            "source": "",
+            "comment": "🎁500TON Bouns at https://tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-11T00:00:01Z"
+        },
+        {
+            "address": "EQCKyq0pIPxovRFzYl913AYs6JnlrAPMnFVWmM4lBp2K-HDA",
+            "source": "",
+            "comment": "🎁500TON Bouns at https://tontg.org",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-11T00:00:01Z"
         }
     ]
 }
