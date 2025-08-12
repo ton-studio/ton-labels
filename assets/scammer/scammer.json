@@ -928,6 +928,39 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQBt2zRcZYKZSCeRi-H7tCJLEneC7qjqYsExInTPXjDD-pJw",
+            "source": "",
+            "comment": "75TON🎁tgspins.top",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQATaWt9o-PIstWd-LdPtxEBgRoKvLATuSI1is4VWQvPi6Zp",
+            "source": "",
+            "comment": "collects fees from other spammer accounts",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQCY1dXQI7a8dFBPP7mtGJ04ORAAb12V4fwusZoSZruB5x8m",
+            "source": "",
+            "comment": "jetton master, 'tsTON receive at tston.my'",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
         }
     ]
 }
