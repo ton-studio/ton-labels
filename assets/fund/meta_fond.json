@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "meta_fond",
+    "category": "fund",
+    "subcategory": "",
+    "website": "https://t.me/ToNmetasilense",
+    "description": "",
+    "organization": "meta_fond"
+  },
+  "addresses": [
+    {
+      "address": "EQCtyYwoEZi4ipi1_SPrS6SOFvZLW6pTWFtT4UsywlExoDQD",
+      "source": "https://t.me/ToNmetasilense",
+      "comment": "DFC, m5, Starsbank and other projects on TON",
+      "tags": [],
+      "submittedBy": "rAndom1ze",
+      "submissionTimestamp": "2025-08-13T00:00:01Z"
+    }
+  ]
+}
