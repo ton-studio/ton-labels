@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "crypton_super_bot",
+        "name": "Crypton Super Bot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/CryptonSuperBot",
+        "description": "",
+        "organization": "crypton_super_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQANEJE_yu0ovyQMAk2nrE9qV_YBfCcdBYiEBLhxkTzc6f5M",
+            "source": "",
+            "comment": "fees collection address",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        }
+    ]
+}
