@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "roqqu",
+        "name": "Roqqu",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://roqqu.io",
+        "description": "",
+        "organization": "roqqu"
+    },
+    "addresses": [
+        {
+            "address": "EQAaFrxGr7Dv0XpGq_AdKXfHFOIQ6ccPdO74ZyecHv_YR92c",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T00:00:01Z"
+        }
+    ]
+}
