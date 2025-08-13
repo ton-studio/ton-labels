@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "webmoney",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://merchant.webmoney.com",
+        "description": "",
+        "organization": "webmoney"
+    },
+    "addresses": [
+        {
+            "address": "EQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkIqa",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T10:40:00Z"
+        }
+    ]
+}
