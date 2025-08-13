@@ -3,7 +3,7 @@
         "label": "webmoney",
         "category": "merchant",
         "subcategory": "",
-        "website": "https://merchant.webmoney.com",
+        "website": "https://www.webmoney.com",
         "description": "",
         "organization": "webmoney"
     },
@@ -11,7 +11,7 @@
         {
             "address": "EQDwacBggisEQ-h-HW63UiI9mtIA-lRAT1upXPioiyhCkIqa",
             "source": "",
-            "comment": "",
+            "comment": "https://merchant.webmoney.com",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-13T10:40:00Z"
