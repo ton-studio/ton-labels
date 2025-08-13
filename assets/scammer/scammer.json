@@ -917,6 +917,93 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-11T00:00:01Z"
+        },
+        {
+            "address": "EQA53goR-_oSPl1sF8aeJE0EYVPsQRP8NurF6yQaA3pKGWPg",
+            "source": "",
+            "comment": "Your reward is 👉airton܂site👈",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQBt2zRcZYKZSCeRi-H7tCJLEneC7qjqYsExInTPXjDD-pJw",
+            "source": "",
+            "comment": "75TON🎁tgspins.top",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQATaWt9o-PIstWd-LdPtxEBgRoKvLATuSI1is4VWQvPi6Zp",
+            "source": "",
+            "comment": "collects fees from other spammer accounts",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQCY1dXQI7a8dFBPP7mtGJ04ORAAb12V4fwusZoSZruB5x8m",
+            "source": "",
+            "comment": "jetton master, 'tsTON receive at tston.my'",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQBF9imJZfFU9CcKAprKpniMCrp0Dlf6ofhjk-MWxslsjWYC",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T00:00:01Z"
+        },
+        {
+            "address": "EQD0N3pA5hTDqQ0OPxzjNX0WK4PcQUA4rP7ZJcpUVhSNipBn",
+            "source": "",
+            "comment": "🎁500TON Bouns at https://tontg.org",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T01:01:01Z"
+        },
+        {
+            "address": "EQBiwXEmRMwmJr88mHOGOt3jAPE_WwLWAiIu7Kfb-StvPzln",
+            "source": "",
+            "comment": "🎁500TON Bouns at https://tontg.org",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T01:01:01Z"
+        },
+        {
+            "address": "EQB3m32AN-iOeACsXRwUTyrzKY0wF9hbZvxVxG-dxK81OB4-",
+            "source": "",
+            "comment": "🎁700$ claim at TONSAVE.SPACE",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T01:01:01Z"
+        },
+        {
+            "address": "EQCOutA9yaMyHnz4Ur5zR7eZdQIKm0iHqeCOEfzQm232s-xA",
+            "source": "",
+            "comment": "tonsave-com, system-alerts.ton",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-12T01:01:01Z"
         }
     ]
 }
