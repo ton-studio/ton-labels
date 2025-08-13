@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonheistbot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/tonheistbot",
+        "description": "",
+        "organization": "tonheistbot"
+    },
+    "addresses": [
+        {
+            "address": "EQCx4e2df0OrkzqaH6Kk5qKu-TVd69w7mGwgRSufcgK6DhE0",
+            "source": "",
+            "comment": "deposit address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-13T00:00:01Z"
+        }
+    ]
+}
