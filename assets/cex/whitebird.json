@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "label": "whitebird",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://whitebird.io",
+        "description": "",
+        "organization": "whitebird"
+    },
+    "addresses": [
+        {
+            "address": "EQBUsHxm28cfy2YwdaA6VIUz0Wzayc3Ogqv9wjzXn6mXbYss",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T10:09:26Z"
+        },       
+        {
+            "address": "EQA-oTiiefl7EwLfmgu4JwtDDFbU9ycMA1HcgalmRPrtcAiW",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T10:09:26Z"
+        },
+         {
+            "address": "EQB5PBjAs2LzGwQbInTVlQukLnZ8okcLTUYSm1n2mbaRUYyD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T10:09:26Z"
+        },
+        {
+            "address": "EQBt1lz8EeF5xCMBTCUg55rum34jeaguBQ3ubAVXU0nNTgln",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T10:09:26Z"
+        },
+        {
+            "address": "EQAbpEDbs4bjO7GzMZNaiKKc0r-YZpbfyGWKCA9tCyw0HNX9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T10:09:26Z"
+        }
+    ]
+}

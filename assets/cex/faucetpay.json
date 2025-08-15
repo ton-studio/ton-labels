@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "faucetpay",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://faucetpay.io",
+        "description": "",
+        "organization": "faucetpay"
+    },
+    "addresses": [
+        {
+            "address": "EQD14kgmngE0fNYVs7_9dw78V3rPhNt7_Ee-7X3ykDORQvMp",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T07:07:33Z"
+        }
+    ]
+}

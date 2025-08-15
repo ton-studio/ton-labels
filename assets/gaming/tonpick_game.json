@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "tonpick_game",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://tonpick.game",
+        "description": "",
+        "organization": "tonpick"
+    },
+    "addresses": [
+        {
+            "address": "EQArGJSQ00bjada2GPZS8lsvobmf9anpY3EB7QuYl8YfORlo",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T00:00:01Z"
+        }
+    ]
+}
