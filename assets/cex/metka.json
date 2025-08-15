@@ -17,6 +17,16 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-16T00:00:01Z"
+        },
+        {
+            "address": "EQDLg_0rko1lbH50a24xRA3bCvroByHfQvKzuFzrqbeMeIhu",
+            "source": "",
+            "comment": "Withdrawal address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-14T00:00:01Z"
         }
     ]
 }
