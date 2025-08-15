@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "sybil_EQCF1t",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "sybil_EQCF1t"
+    },
+    "addresses": [
+        {
+            "address": "EQCF1tAw-XI26SQxx5xa4xe20_a94WJFTDEOKxkgHrh1T-zQ",
+            "source": "",
+            "comment": "sibil activity related to Vertus",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-14T00:00:00Z"
+        },
+        {
+            "address": "EQCWvZz4mLiSmha0wHvi7VEKSNZ2ysGMKst1uIyEnOak_VH9",
+            "source": "",
+            "comment": "sibil activity related to SideFans",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-14T00:00:00Z"
+        },
+        {
+            "address": "EQBWHzovupOqdUWHxXlE2NKjdMCZkzSZO_DSWEMZ_-hB4uLp",
+            "source": "",
+            "comment": "sibil activity related to Vertus",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-14T00:00:00Z"
+        },
+        {
+            "address": "EQAcnJbEfLo9-I0u7Br1_hB3o-H6XZmDv_sXv1nkFENkge8t",
+            "source": "",
+            "comment": "sibil activity related to DuckChain",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-14T00:00:00Z"
+        }
+    ]
+}
