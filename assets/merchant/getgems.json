@@ -67,6 +67,14 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-24T00:00:01Z"
+        },
+        {
+            "address": "EQBYOcF_BenPd4jD2i3M5geZ_rAoP2QAy4d5dukCsui51UPe",
+            "source": "",
+            "comment": "Marketplace fee address for withdrawal NFT gifts offchain between users",
+            "tags": [],
+            "submittedBy": "ch4rter",
+            "submissionTimestamp": "2025-08-13T00:00:01Z"
         }
     ]
 }
