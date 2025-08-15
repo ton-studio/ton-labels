@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "xdao",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/xdaoapp",
+        "description": "",
+        "organization": "xdao"
+    },
+    "addresses": [
+        {
+            "address": "EQA7fFOEOreAwm_BAZIeTQnMyaTMpnW4AWCunTfxSOUsmlRi",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-08-13T00:00:01Z"
+        }
+    ]
+}
