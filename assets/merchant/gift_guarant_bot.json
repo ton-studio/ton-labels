@@ -2,7 +2,7 @@
     "metadata": {
         "label": "gift_guarant_bot",
         "name": "Gift Guarant",
-        "organization": "",
+        "organization": "gift_guarant_bot",
         "category": "merchant",
         "subcategory": "offchain_marketplace",
         "website": "https://t.me/GiftGuarantBot",
