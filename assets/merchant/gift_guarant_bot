@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "gift_guarant_bot",
+        "name": "Gift Guarant",
+        "organization": "",
+        "category": "gift_guarant_bot",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/GiftGuarantBot",
+        "description": "P2P guarantor bot for gifts"
+    },
+    "addresses": [
+        {
+            "address": "EQCUzRrQc2tYwHkRWchcuXp7lWg8dBG6as5E0OR6YeZnTwz6",
+            "source": "",
+            "comment": "chat bot",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "rdmcd",
+            "submissionTimestamp": "2025-08-16T00:00:01Z"
+        }
+    ]
+}
