@@ -3,7 +3,7 @@
         "label": "gift_guarant_bot",
         "name": "Gift Guarant",
         "organization": "",
-        "category": "gift_guarant_bot",
+        "category": "merchant",
         "subcategory": "offchain_marketplace",
         "website": "https://t.me/GiftGuarantBot",
         "description": "P2P guarantor bot for gifts"
