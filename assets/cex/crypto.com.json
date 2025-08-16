@@ -15,6 +15,15 @@
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+    "addresses": [
+        {
+            "address": "EQA5RV_bp9SykVaJFeUbQ53Nwe0LIWAvKdea1l-kumWzj4QM",
+            "source": "OKX TON explorer",
+            "comment": "withdrawal",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-08-16T09:09:35Z"
         }
     ]
 }
