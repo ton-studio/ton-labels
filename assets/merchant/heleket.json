@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "metka",
-        "category": "CEX",
+        "label": "heleket",
+        "category": "merchant",
         "subcategory": "",
-        "website": "https://metka.cc",
+        "website": "https://heleket.com",
         "description": "",
-        "organization": "metka"
+        "organization": "heleket"
     },
     "addresses": [
         {
