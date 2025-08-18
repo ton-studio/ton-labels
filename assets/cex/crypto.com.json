@@ -15,6 +15,30 @@
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQA5RV_bp9SykVaJFeUbQ53Nwe0LIWAvKdea1l-kumWzj4QM",
+            "source": "OKX TON explorer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-08-16T00:00:01Z"
+        },
+        {
+            "address": "EQAAgSvOzjuIFf-wrQ2RFOGMpqXAH1gZFcMqER-8ib-M2qio",
+            "source": "OKX TON explorer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-08-18T00:00:01Z"
+        },
+        {
+            "address": "EQD0BRQt-QdIEbsjuRsMqzDlBkUAEfQixShDECoKEOXRc9pU",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-08-18T00:00:01Z"
         }
     ]
 }
