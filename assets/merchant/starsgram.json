@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsgram",
+        "name": "Starsgram",
+        "organization": "starsgram",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/starsgram_official_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQCklcyK2ZwtlNElyHKX-q7WKtWegMwaiXYBGa62I7HInClt",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-18T17:00:02Z"
+        }
+    ]
+}
