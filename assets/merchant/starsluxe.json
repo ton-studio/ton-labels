@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsluxe",
+        "name": "Starsluxe",
+        "organization": "starsluxe",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarsLuxe_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBKzoUmscq38-sPfeErgF65Qr7OEdxWeAko6wiEwVqK5u3Q",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-18T17:00:02Z"
+        }
+    ]
+}
