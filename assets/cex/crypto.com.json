@@ -23,6 +23,22 @@
             "tags": [],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-08-16T00:00:01Z"
+        },
+        {
+            "address": "EQAAgSvOzjuIFf-wrQ2RFOGMpqXAH1gZFcMqER-8ib-M2qio",
+            "source": "OKX TON explorer",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-08-18T00:00:01Z"
+        },
+        {
+            "address": "EQD0BRQt-QdIEbsjuRsMqzDlBkUAEfQixShDECoKEOXRc9pU",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-08-18T00:00:01Z"
         }
     ]
 }
