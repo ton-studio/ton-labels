@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "donuts_tg",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://www.donuts.tg",
+        "description": "",
+        "organization": "donuts_tg"
+    },
+    "addresses": [
+        {
+            "address": "EQB6g9UecRaAXd2926MH6uz2we81bI1dX-9vk15-Lf6sAtvS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-18T00:00:01Z"
+        }
+    ]
+}
