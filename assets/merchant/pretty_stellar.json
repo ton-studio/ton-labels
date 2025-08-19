@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "pretty_stellar",
+        "name": "pretty_stellar",
+        "organization": "pretty_stellar",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/PrettyStellarBot"
+    },
+    "addresses": [
+        {
+            "address": "EQC8nw7gxvSdz9gjKBbzcuZaiOA3chyj_L_mVynmXe8SKX3Z",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}
