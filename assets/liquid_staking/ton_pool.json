@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "label": "ton_pool",
+        "category": "liquid-staking",
+        "subcategory": "",
+        "website": "https://ton-pool.com",
+        "description": "TON Pool is a TON mining service that provides infrastructure for distributing coins through PoW givers",
+        "organization": "chorus_one""
+    },
+    "addresses": [
+        {
+            "address": "EQBN5uMyngPBKG2mwXmfqj3rZWP2tLMaY9NsmUOiJUZ3r9_f",
+            "source": "",
+            "comment": "TON Pool withdraw 1",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+         {
+            "address": "EQDTz0IU5l1_qWuNscNGRTDwVa_QXbColTanvLCLPA-42lDp",
+            "source": "",
+            "comment": "TON Pool withdraw 2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "EQBoG6BHwfFPTEUsxXW8y0TyHN9_5Z1_VIb2uctCd-NDmCbx",
+            "source": "",
+            "comment": "TON Pool withdraw 3",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "EQA4FvvNgz9GThubbM4F4CQBZR26uP6UH13CoEODBAOXJAs0",
+            "source": "",
+            "comment": "TON Pool withdraw 3",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef-kkdY_B7p-77TLn2hUhM6QidWrrsl8FYWCIvBMpZKprKDH",
+            "source": "",
+            "comment": "PoW Giver 1",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+         {
+            "address": "Ef8SYc83pm5JkGt0p3TQRkuiM58O9Cr3waUtR9OoFq716uj0",
+            "source": "",
+            "comment": "PoW Giver 2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef-FV4QTxLl-7Ct3E6MqOtMt-RGXMxi27g4I645lw6MTWg0f",
+            "source": "",
+            "comment": "PoW Giver 3",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef_NSzfDJI1A3rOM0GQm7xsoUXHTgmdhN5-OrGD8uwL2JHBa",
+            "source": "",
+            "comment": "PoW Giver 4",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef8gf1PQy4u2kURl-Gz4LbS29eaN4sVdrVQkPO-JL80VhFww",
+            "source": "",
+            "comment": "PoW Giver 5",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef8kO6K6Qh6YM4ddjRYYlvVAK7IgyW8Zet-4ZvNrVsmQ4PgP",
+            "source": "",
+            "comment": "PoW Giver 6",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef-P_TOdwcCh0AXHhBpICDMxStxHenWdLCDLNH5QcNpwMMn2",
+            "source": "",
+            "comment": "PoW Giver 7",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef91o4NNTryJ-Cw3sDGt9OTiafmETdVFUMvylQdFPoOxInls",
+            "source": "",
+            "comment": "PoW Giver 8",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef9iWhwk9GwAXjtwKG-vN7rmXT3hLIT23RBY6KhVaynRrDkx",
+            "source": "",
+            "comment": "PoW Giver 9",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "Ef8JfFUEJhhpRW80_jqD7zzQteH6EBHOzxiOhygRhBdt44YH",
+            "source": "",
+            "comment": "PoW Giver 10",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        }
+    ]
+}
