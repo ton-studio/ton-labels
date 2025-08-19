@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starnex",
+        "name": "Starnex",
+        "organization": "starnex",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/starnex_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQCaouXddXyxllJvkYZAQiVNVbIWdI9jmM-LPg0lzb18CDzh",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}

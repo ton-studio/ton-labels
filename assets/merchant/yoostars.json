@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "yoostars",
+        "name": "yoostars",
+        "organization": "yoostars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/yoostars_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQB1P5rIETTL8Woq-1VgcEGlOcLQWuZQLdUcpMUk669E9nom",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "queenstars",
+        "name": "queenstars",
+        "organization": "queenstars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/QueenStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQDo1eGwJyEslbdd5dEv2hPSmAPV1bXP_MwYl1bFYl-6eAzB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}
