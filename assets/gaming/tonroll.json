@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "tonroll",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://tonroll.com",
+        "description": "",
+        "organization": "tonroll"
+    },
+    "addresses": [
+        {
+            "address": "EQCs-ZCjL-bF6XnUmgzR-v2jgoTWfp4o2limYKxiH69pggXy",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
+        }
+    ]
+}
