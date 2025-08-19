@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "otc_ton_market",
+        "name": "otc ton market",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/otcplaces",
+        "description": "OTC Market — peer-to-peer platform for direct TON token trading without centralized exchanges.https://x.com/ton_blockchain/status/1476294615372283904"
+        "organization": "otc_ton_market"
+    },
+    "addresses": [
+        {
+            "address": "EQBNaV2nd9-OGDmWXNip6SizsygyGrhd7CQ-hkJ6xm7b6NhC",
+            "source": "https://intel.arkm.com/explorer/address/0:4D695DA777DF8E1839965CD8A9E928B3B328321AB85DEC243E86427AC66EDBE8",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
+        },
+        {
+            "address": "EQC8SFJHv-ujGUUKVzVd9ytU3ySK5jnga_yQ51igX-emn4th",
+            "source": "https://intel.arkm.com/explorer/address/0:BC485247BFEBA319450A57355DF72B54DF248AE639E06BFC90E758A05FE7A69F",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
+        }
+    ]
+}
