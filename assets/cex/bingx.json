@@ -65,6 +65,16 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-24T00:00:01Z"
+        },
+        {
+            "address": "EQAcTZcOiHkdYxm48iGc0JvpT0ol_kHi9j8haoZLiaxAO_ED",
+            "source": "",
+            "comment": "Withdrawal and deposit address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
         }
     ]
 }
