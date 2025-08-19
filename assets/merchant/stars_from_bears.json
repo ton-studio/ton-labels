@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_from_bears",
+        "name": "Stars from Bears",
+        "organization": "stars_from_bears",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/BearsStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQAEMI-6P4ev7z7W7Kr82mnZ2b5iquJfc01EdFck4NdFoJ1p",
+            "source": "",
+            "comment": "This address is also linked to the following bots:https://t.me/sennksstarsbot , artcrystarsbot , podarkitelegramstars_bot  ",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}
