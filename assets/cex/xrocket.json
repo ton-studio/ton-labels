@@ -69,6 +69,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-06T00:00:01Z"
+        },
+        {
+            "address": "EQAyLimAmXoLvgsY44DEhRjMG1wtWod6zZO7baOpIARtkasM",
+            "source": "",
+            "comment": "TON fees for custodial wallets refill",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
         }
     ]
 }
