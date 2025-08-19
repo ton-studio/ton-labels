@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "maestro",
+        "name": "Maestro Trading Bot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/maestro",
+        "description": "",
+        "organization": "maestro"
+    },
+    "addresses": [
+        {
+            "address": "EQBk4BgQvZ8zhlCPkdtfKC6bXTxJvwsguy-p-7Eh7K5vQ9LB",
+            "source": "",
+            "comment": "Fee address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-16T00:00:01Z"
+        }
+    ]
+}

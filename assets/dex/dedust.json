@@ -235,6 +235,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-05T00:00:01Z"
+        },
+        {
+            "address": "EQAQ0dxsuV_gpTneZfomMNOvAsmQEWRW6rWm_yakHQwRinFR",
+            "source": "",
+            "comment": "DeDust Vault, $CUB",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
+        },
+        {
+            "address": "EQApCCRtRKSXDEY8IULoTJX6JaLUBkpyeE5vzY7inSFEuJYk",
+            "source": "",
+            "comment": "DeDust Vault, $FROMG",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
         }
     ]
 }

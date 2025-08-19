@@ -2,7 +2,7 @@
     "metadata": {
         "label": "rapira",
         "category": "CEX",
-         "name": "Rapira",
+        "name": "Rapira",
         "subcategory": "",
         "website": "https://rapira.net",
         "description": "",
@@ -13,7 +13,7 @@
             "address": "EQBwhUXO-PwBGAIllqBWBEphgz6SNhO_cP0eJfAz_v2KPBFE",
             "source": "",
             "comment": "deposit address",
-            "tags": [    
+            "tags": [
                 "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",

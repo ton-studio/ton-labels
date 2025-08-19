@@ -17,6 +17,16 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-04-20T00:00:01Z"
+        },
+        {
+            "address": "EQB0UTB186aI5ja2rb4CQm5zla_1oXNR10T0vjDcB08Pm6Gt",
+            "source": "Deposit & Withdraw address",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-19T00:00:01Z"
         }
     ]
 }
