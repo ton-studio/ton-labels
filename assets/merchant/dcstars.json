@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "dcstars",
+        "name": "dcstars",
+        "organization": "dcstars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars&Premium marketplace",
+        "website": "https://t.me/dcstarsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQDWlAdG7pN7Nhhoq3EgzAY1fbeDTMSdEZQwp9WMG_XuErIL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}
