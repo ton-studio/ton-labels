@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_wallet",
+        "name": "stars_wallet",
+        "organization": "stars_wallet",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/Stars_wallet_autobot"
+    },
+    "addresses": [
+        {
+            "address": "EQANWdK96m-LS_yYZVTme4LepX1ZNppEcD-6k3W_KNdNZzrw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}
