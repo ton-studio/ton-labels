@@ -1,0 +1,44 @@
+{
+    "metadata": {
+        "label": "ton_pool",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://ton-pool.com",
+        "description": "TON Pool is a TON mining service that provides infrastructure for distributing coins through PoW givers",
+        "organization": "chorus_one"
+    },
+    "addresses": [
+        {
+            "address": "EQBN5uMyngPBKG2mwXmfqj3rZWP2tLMaY9NsmUOiJUZ3r9_f",
+            "source": "",
+            "comment": "TON Pool withdraw 1",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+         {
+            "address": "EQDTz0IU5l1_qWuNscNGRTDwVa_QXbColTanvLCLPA-42lDp",
+            "source": "",
+            "comment": "TON Pool withdraw 2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "EQBoG6BHwfFPTEUsxXW8y0TyHN9_5Z1_VIb2uctCd-NDmCbx",
+            "source": "",
+            "comment": "TON Pool withdraw 3",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        },
+        {
+            "address": "EQA4FvvNgz9GThubbM4F4CQBZR26uP6UH13CoEODBAOXJAs0",
+            "source": "",
+            "comment": "TON Pool withdraw 4",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T07:07:33Z"
+        }
+    ]
+}
