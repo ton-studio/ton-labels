@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "fiatstar",
+        "name": "fiatstar",
+        "organization": "fiatstar",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/FiatStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCRkMylr5wj_CRgsZAPF7nfucMmLoClPL7N_9EbxYDrFT-y",
+            "source": "",
+            "comment": "This address is also linked to the following bots: https://t.me/SplitTgStarsBot, MyStoreOnThePhoneBot",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}

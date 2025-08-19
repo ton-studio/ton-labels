@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "labubu_star",
+        "name": "LabubuStar",
+        "organization": "labubu_star",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/LabubuStarsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQCRGnccIFznQqxm_oBm8PHz95iOe89Oe6hRAhSlAaMctuo6",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}

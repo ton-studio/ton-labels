@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "llesbot",
+        "name": "lleSBot",
+        "organization": "llesbot",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/llesrobot"
+    },
+    "addresses": [
+        {
+            "address": "EQAUmaWDQ6LyzTcy__ux3rn2yi-VufBjCR4kVHcAlksizibu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}

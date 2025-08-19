@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "ethereal_autostars",
+        "name": "Ethereal AutoStars",
+        "organization": "ethereal_autostars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/EtherealStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQAEld9Q-giDSFsn-UQHMIBS9OEPb5mbzsBPt9brArARn_NA",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-19T17:00:02Z"
+        }
+    ]
+}
