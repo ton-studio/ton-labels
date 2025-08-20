@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "stonks_gift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/StonksGiftBot",
+        "description": "",
+        "organization": "stonks_gift"
+    },
+    "addresses": [
+        {
+            "address": "EQD43cwMRxDtlHl0CztK0Jqz66xvEKyC998u2BNw-UFBHJt9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        }
+    ]
+}

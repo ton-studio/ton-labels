@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsbuy",
+        "name": "Starsbuy",
+        "organization": "starsbuy",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/starsbuybot"
+    },
+    "addresses": [
+        {
+            "address": "EQDqE8h3r1bazQSZWcX3jj0iSFPD4hyGriytVgL0eS0RsQJ_",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T17:00:02Z"
+        }
+    ]
+}

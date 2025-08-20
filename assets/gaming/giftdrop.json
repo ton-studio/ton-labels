@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "giftdrop",
+        "name": "Gift Drop",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/giftdropbot",
+        "description": "",
+        "organization": "giftdrop"
+    },
+    "addresses": [
+        {
+            "address": "EQDbyHz5QH3DbOn812o6W2s6KslqBavLwZqkYbteMfWQhktD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        }
+    ]
+}
