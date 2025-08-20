@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "rs_spider",
+        "name": "RS Spider - Buy TG Stars",
+        "organization": "rs_spider",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/RS_spider_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBJkCT2vIP0Bb6k7B8gAu8t4XEt3vjVg1bGg-BcuSoml8SW",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T17:00:02Z"
+        }
+    ]
+}

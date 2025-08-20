@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "majestic",
+        "name": "Majestic",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/MajesticGameBot",
+        "description": "",
+        "organization": "majestic"
+    },
+    "addresses": [
+        {
+            "address": "EQA-XJlzvNIbHdux9lppfyAId3XB0zXSiVnghr43duusvIp4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        }
+    ]
+}
