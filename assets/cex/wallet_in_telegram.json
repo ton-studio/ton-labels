@@ -249,6 +249,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+        {
+            "address": "EQAa0H9qM7I0-i_I177rrNgS36JeG7N1kt2gzxMi1hEnhg-A",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
         }
     ]
 }
