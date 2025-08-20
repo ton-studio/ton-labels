@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "barbos_stars",
+        "name": "Barbos Stars",
+        "organization": "barsboskich",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/barbosstars_robot"
+    },
+    "addresses": [
+        {
+            "address": "EQCRkMylr5wj_CRgsZAPF7nfucMmLoClPL7N_9EbxYDrFT-y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T17:00:02Z"
+        }
+    ]
+}
