@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "cerberus",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/CerberusOnTon",
+        "description": "The official Telegram dog shilled by Telegram itself",
+        "organization": "cerberus"
+    },
+    "addresses": [
+        {
+            "address": "EQBfJzPJQq3ZvlvR05lbkEN9AN3Z912wrbsa0r-Rj2aUeEo9",
+            "source": "",
+            "comment": "reward address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:01Z"
+        },
+          {
+            "address": "EQCW5WKxTu2EHMO4Cq4EOT9Ui-XqBItJ56335ojVlpJFbf_a",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:01Z"
+        }
+    ]
+}
