@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "evosim",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/evosimgame_bot",
+        "description": "",
+        "organization": "evosim"
+    },
+    "addresses": [
+        {
+            "address": "EQBH53MleJwQN3W1S3YjZwArYoQBHO5Y8Yd25FgS2mcWk5Pl",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+         {
+            "address": "EQBoRhE6jL9oLfxCwKuPCMitUOeEtf0gey4jfeBcBfpqtWSi",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+        {
+            "address": "EQAAFxSbaUDxlQvfjSmHRC2drry2Mo5RUsZ_Z9e8co4Un2ou",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        }
+    ]
+}
