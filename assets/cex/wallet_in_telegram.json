@@ -209,6 +209,46 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-06T00:00:01Z"
+        },
+        {
+            "address": "EQC0A6qMmvWwpuDllUqRYYZ1gpwzES_sVd606WgjBu8ggDn-",
+            "source": "",
+            "comment": "Fee top up and collection from custodial wallets",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+        {
+            "address": "EQB2GT_5ja_4Q31LyarnwbKabk07xWIKQolan3747qtPVJcd",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+        {
+            "address": "EQDZB5uJW1UOT_FlbKQ6YBP-NjMLsq6lJgNZn45XjYl8p2ac",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+        {
+            "address": "EQClmLnBb9cpJmMl5BXDA1aXBbHKnBbMTw9XXi1XX7n-ftR_",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
         }
     ]
 }
