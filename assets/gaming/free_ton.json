@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "free_ton",
+        "name": "Free Ton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Miningapp_bot",
+        "description": "most likely a scam mini app",
+        "organization": "free_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQBolueM2UBIP1o6ybnh2rQ0YJcaeFQaqiHOBPV8mU2jfc7-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-22T00:00:01Z"
+        }
+    ]
+}
