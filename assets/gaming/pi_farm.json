@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "pi_farm",
+        "name": "Pi Farm App",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/MiningTRON01_BOT",
+        "description": "most likely a scam mini app",
+        "organization": "pi_farm"
+    },
+    "addresses": [
+        {
+            "address": "EQB1kQ2zzN14O3xxR9E1nE9iufOe8dohbYr1KINgCRiWw6cr",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-22T00:00:01Z"
+        }
+    ]
+}
