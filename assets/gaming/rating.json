@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "rating",
+        "name": "Rating",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/the_ton_rating_bot",
+        "description": "",
+        "organization": "rating"
+    },
+    "addresses": [
+        {
+            "address": "EQDmQRg9b3eQUFGFryAkOLyYAoERwXVQo2eZtNt9KaWXKF4y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-22T00:00:01Z"
+        }
+    ]
+}
