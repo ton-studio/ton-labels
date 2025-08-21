@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitpapa",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://bitpapa.com",
+        "description": "",
+        "organization": "bitpapa"
+    },
+    "addresses": [
+        {
+            "address": "EQC0kGd6JNN_N8GOwL1Z1nw5-hs0tB7Aq_MUOwl-r9fzqeqN",
+            "source": "https://intel.arkm.com/explorer/address/0:b490677a24d37f37c18ec0bd59d67c39fa1b34b41ec0abf3143b097eafd7f3a9",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T19:52:44Z"
+        }
+    ]
+}
