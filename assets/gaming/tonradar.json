@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tonradar",
+        "name": "Ton Radar",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TonRadar7Bot",
+        "description": "most likely a scam mini app",
+        "organization": "tonradar"
+    },
+    "addresses": [
+        {
+            "address": "EQBNoDeV7cLX8gcloyXUVY0cm6D6E_RuG6Ri04tkirHXmH0m",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-22T00:00:01Z"
+        }
+    ]
+}
