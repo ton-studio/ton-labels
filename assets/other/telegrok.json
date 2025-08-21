@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "telegrok",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/TeleGrokTON",
+        "description": "meme coin",
+        "organization": "telegrok"
+    },
+    "addresses": [
+        {
+            "address": "EQAi86qLslF1lCmt22GFGssoBxgW0EKPXIfrbNscNswelX5p",
+            "source": "",
+            "comment": "reward address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:01Z"
+        },
+          {
+            "address": "EQDd3pSYAm014FLH9B2pykKSdUpTeeQK4TEQoy2k7J87SvK8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:01Z"
+        }
+    ]
+}
