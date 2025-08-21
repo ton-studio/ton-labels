@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "startonus",
+        "name": "Startonus",
+        "organization": "startonus",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/startonus_bot",
+        "description": "Sell your NFT with Startonus automatic mint"
+    },
+    "addresses": [
+        {
+            "address": "EQAJjDYKuZc12gwMtWCd3iNTYXTiD0AERW_f6YEdHipcX_f0",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:01Z"
+        }
+    ]
+}
