@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "outmine",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/OutmineBot",
+        "description": "",
+        "organization": "outmine"
+    },
+    "addresses": [
+        {
+            "address": "EQC0GJM6APs_vdhbvuMfHCPEUQ2j6pVQjmuizPhFeW2DZYms",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+         {
+            "address": "EQBYmjxzcu7ecxjc2bDRxywico_-xJX9j4NMhnQzOhbdsHDW",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        }
+    ]
+}

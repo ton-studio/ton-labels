@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "thermos",
+        "name": "Thermos",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/thermos",
+        "description": "Gift Aggregator",
+        "organization": "swap_coffee_team"
+    },
+    "addresses": [
+        {
+            "address": "EQAxBWn4XNWD2TyYxZ3ofSjGll9UEutDpNToAxMib4vUxw1J",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-20T00:00:01Z"
+        }
+    ]
+}
