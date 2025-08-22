@@ -5,7 +5,7 @@
         "category": "gaming",
         "subcategory": "",
         "website": "https://t.me/TONMineApp_bot",
-        "description": "",
+        "description": "most likely a scam mini-app",
         "organization": "tonmine"
     },
     "addresses": [
@@ -16,6 +16,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-25T00:00:01Z"
+        },
+        {
+            "address": "EQCq_dZOPLinl6_rvvhwkB5vAePvHwGQM66x52MqpKFCJiG3",
+            "source": "",
+            "comment": "https://t.me/TONMineApps_bot",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-22T00:00:01Z"
         }
     ]
 }
