@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "bigantapp",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/bigantappbot",
+        "description": "",
+        "organization": "bigantapp"
+    },
+    "addresses": [
+        {
+            "address": "EQCWtHOcJEmRChClmVANL6jzRCeSrs5JLuvCwTvWqL4UJsmt",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:26Z"
+        },
+          {
+            "address": "EQAWRRwynZmCxE0guJPLkFcU7Eu5aAZEXlaK-sj0g6HcQQoZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:26Z"
+        }
+    ]
+}

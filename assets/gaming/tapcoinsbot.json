@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tapcoinsbot",
+        "name": "TapcoinsBot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TapCoinsBot",
+        "description": "",
+        "organization": "tapcoinsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQAebdctnt2DE6nSS3dkFHmdxHa4ml_Y8U_SShBYdGCYqj_9",
+            "source": "https://t.me/theTapCoins/252",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T00:00:01Z"
+        }
+    ]
+}

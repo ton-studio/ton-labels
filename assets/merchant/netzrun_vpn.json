@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "netzrun",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/netzrun_bot",
+        "description": "Fast and reliable VPN service in Telegram",
+        "organization": "netzrun"
+    },
+    "addresses": [
+        {
+            "address": "EQBqIGSCEbbCd_yMOEd_laydrwUipd_wGTDz3fn-HEZPx6-u",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-21T10:40:00Z"
+        }
+    ]
+}
