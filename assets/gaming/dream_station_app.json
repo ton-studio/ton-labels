@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "dream_station",
+        "name": "DreamStation App",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/BitcoinWelfare_bot",
+        "description": "most likely a scam mini-app",
+        "organization": "dream_station"
+    },
+    "addresses": [
+        {
+            "address": "EQDnpYrPtUjfcZYBIVDUTZGnyRzcGx0sSOM9ZgMgQu0htVsh",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-22T00:00:01Z"
+        }
+    ]
+}
