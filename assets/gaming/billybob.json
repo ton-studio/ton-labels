@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "billybob",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/BillyBobRobot",
+        "description": "",
+        "organization": "billybob"
+    },
+    "addresses": [
+        {
+            "address": "EQDgwfc6u6HmJo1usukFkupBL442QYFaHuVeBb3D2zk9Nw5L",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        },
+        {
+            "address": "EQAeEe1zpZFOvNhaZakNxqNXZzEB9lMeCRe9c80GofpJQlBp",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        }
+    ]
+}
