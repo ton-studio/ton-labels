@@ -639,6 +639,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-07-17T00:00:01Z"
+        },
+        {
+            "address": "EQBM4CZrN7qeciWu-oPR4QIUvaw61W3cNcowSJiLyKq3Jh2r",
+            "source": "",
+            "comment": "XAUt0",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
         }
     ]
 }

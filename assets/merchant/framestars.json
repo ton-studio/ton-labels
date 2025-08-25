@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "framestars",
+        "name": "Framestars",
+        "organization": "framestars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/Framestars_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBmVB2crOEoXeXZpunhvUoZB5olgu4_Iw1ThIJzHjH6_AT_",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T17:00:02Z"
+        }
+    ]
+}

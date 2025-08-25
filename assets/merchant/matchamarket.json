@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "matchamarket",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/matchamarket_bot",
+        "description": "nft marketplace",
+        "organization": "matchamarket"
+    },
+    "addresses": [
+        {
+            "address": "EQBjn68pFwdWj3VkbZQF2GLAo2uUuJhpPcJL4tuRM_MOWTup",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:00Z"
+        }
+    ]
+}
