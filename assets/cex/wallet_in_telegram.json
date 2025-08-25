@@ -259,6 +259,26 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+         {
+            "address": "EQBVtyI_BN0fLhs_KOStYo_myrYABPKA-wpYzSf8WQsurMb5",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        },
+        {
+            "address": "EQC3vnGsG0DkNts2ch2cIOgtROePwehqitFeALHMFoMdzyeT",
+            "source": "tonviewer",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
         }
     ]
 }

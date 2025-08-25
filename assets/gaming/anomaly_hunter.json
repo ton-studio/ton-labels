@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "anomaly_hunter",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/anomalyhunter_bot",
+        "description": "",
+        "organization": "anomaly_hunter"
+    },
+    "addresses": [
+        {
+            "address": "EQC-e-Ct-CgdHlEI09IuJ-jh0VlMclEiIOOsEIP60x8UCI3T",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        }
+    ]
+}
