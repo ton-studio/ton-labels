@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "label": "earlygift_market",
+        "name": "EarlyGift Market",
+        "organization": "earlygift_market",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/EarlyGift_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQBKj6HNHp4l4IDcWer9hEyGpqSyED_vB0rCBPtNzsFSYm9e",
+            "source": "",
+            "comment": "This address may be used by the owner for personal transactions that are not related to the application’s activities",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        },
+        {
+            "address": "EQDgOOSnLuXaJL4hCJ8YeftF7vfWtWiuglh_ihaEMxLXz5D1",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        }
+    ]
+}
