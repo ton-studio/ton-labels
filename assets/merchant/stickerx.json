@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "stickerx",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/stkrX_bot",
+        "description": "nft marketplace",
+        "organization": "stickerx"
+    },
+    "addresses": [
+        {
+            "address": "EQB7pPjW265LnqeKN3q6dkSgfg76QoRGBfNgoH6qSeRfoZkV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:00Z"
+        }
+    ]
+}
