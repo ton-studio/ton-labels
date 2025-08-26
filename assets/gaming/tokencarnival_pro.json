@@ -1,20 +1,20 @@
 {
     "metadata": {
-        "label": "prosper_pig",
+        "label": "tokencarnival_pro.",
         "category": "gaming",
         "subcategory": "gambling",
-        "website": "https://t.me/ProsperPig_bot",
+        "website": "https://t.me/AIapp01_bot",
         "description": "",
-        "organization": "prosper_pig"
+        "organization": "tokencarnival_pro"
     },
     "addresses": [
         {
             "address": "EQDTXGoX8khotESSR1_Jy6pVDrhtyXXHNWVUlwzXCTbgggv9",
             "source": "",
-            "comment": "",
+            "comment": "also relates to https://t.me/ProsperPig_bot",
             "tags": [],
             "submittedBy": "JackeyMonuy",
-            "submissionTimestamp": "2025-08-24T00:00:01Z"
+            "submissionTimestamp": "2025-08-26T00:00:01Z"
         }
     ]
 }
