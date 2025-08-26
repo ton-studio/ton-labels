@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "skinhouse",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://skinhouse.gg",
+        "description": "",
+        "organization": "skinhouse"
+    },
+    "addresses": [
+        {
+            "address": "EQAI3U28urL_iEt-kvRulm640Rj4QtNb53rK9G7tU0wUCtEM",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        }
+    ]
+}

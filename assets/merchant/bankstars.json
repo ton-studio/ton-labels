@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "bankstars",
+        "name": "Bank Stars",
+        "organization": "bankstars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/BanksStarsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQC7ST8641lgBtIJWgyMxGvZDTljBg0BkrNbqJCLuj4Vup6v",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T17:00:02Z"
+        }
+    ]
+}
