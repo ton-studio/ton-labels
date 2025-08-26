@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonow",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/ToMission_Bot",
+        "description": "Sharing one’s own referral link, as well as using other people’s referral links in exchange for a reward",
+        "organization": "tonow"
+    },
+    "addresses": [
+        {
+            "address": "EQBfup1kVtZJWoZHnXymis4VMCi9lEUu9ksNKZqcF6TXsuWu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T00:00:01Z"
+        }
+    ]
+}

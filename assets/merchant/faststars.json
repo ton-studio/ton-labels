@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "faststars",
+        "name": "Fast Stars",
+        "organization": "faststars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/STARS_FAST_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBD7RPNoUG8t2QbK4zvArKNLOWU5wjOjn6hwdpfMA0T_JSq",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-25T17:00:02Z"
+        }
+    ]
+}
