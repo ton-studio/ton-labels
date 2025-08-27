@@ -103,6 +103,30 @@
       "tags": [],
       "submittedBy": "Caranell",
       "submissionTimestamp": "2025-07-18T00:00:00Z"
+    },
+    {
+      "address": "EQCqA58CdGiSns8cK-rJJMim3uAw6ksF08UU1AN29wNoagZt",
+      "source": "",
+      "comment": "Retranslator: EVM -> TAC bridge proxy",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-08-27T00:00:00Z"
+    },
+    {
+      "address": "EQDYYA3699xsLF9y5dGbWL7KoXdoaTjOh7kyhPG_MELU3xa5",
+      "source": "",
+      "comment": "Retranslator: EVM -> TAC bridge proxy",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-08-27T00:00:00Z"
+    },
+    {
+      "address": "EQAd31gAUhdO0d0NZsNb_cGl_Maa9PSuNhVLE9z8bBSjX6Gq",
+      "source": "",
+      "comment": "Retranslator: EVM -> TAC bridge proxy",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-08-27T00:00:00Z"
     }
   ]
 }
