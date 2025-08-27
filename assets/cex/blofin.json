@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "blofin",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://blofin.com",
+        "description": "",
+        "organization": "blofin"
+    },
+    "addresses": [
+        {
+            "address": "EQABlbgTwNXZds4fnfdDnQ9GG-vUrebORaA4hbRmleZP5JAb",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-27T10:09:26Z"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "ourbit",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.ourbit.com",
+        "description": "",
+        "organization": "ourbit"
+    },
+    "addresses": [
+        {
+            "address": "EQCBdDjlsObrETq3TXP8lffsGSR9vm7iekLD0BZNYUw8oRAU",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-27T00:00:01Z"
+      }
+    ]
+}
