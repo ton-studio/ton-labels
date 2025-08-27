@@ -119,14 +119,6 @@
       "tags": [],
       "submittedBy": "ohld",
       "submissionTimestamp": "2025-08-27T00:00:00Z"
-    },
-    {
-      "address": "EQAd31gAUhdO0d0NZsNb_cGl_Maa9PSuNhVLE9z8bBSjX6Gq",
-      "source": "",
-      "comment": "Retranslator: EVM -> TAC bridge proxy",
-      "tags": [],
-      "submittedBy": "ohld",
-      "submissionTimestamp": "2025-08-27T00:00:00Z"
     }
   ]
 }
