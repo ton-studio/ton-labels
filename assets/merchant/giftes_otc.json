@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "giftes_otc",
+        "name": "Giftes OTC",
+        "organization": "giftes_otc",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/GiftesOtcBot",
+        "description": "P2P guarantor bot for gifts"
+    },
+    "addresses": [
+        {
+            "address": "EQBHcr8-j8I7i6XxlqcYKr52SmqCUJJciDCQzPBNlLREmtiE",
+            "source": "",
+            "comment": "chat bot",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        }
+    ]
+}
