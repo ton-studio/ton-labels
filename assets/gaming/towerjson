@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "tower",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TowerTon_bot",
+        "description": "",
+        "organization": "tower"
+    },
+    "addresses": [
+        {
+            "address": "EQDhppX6_hfbkGJ_IGXFAIh2DAKyceVEVNSWPdlhMUhgSYn1",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        },
+         {
+            "address": "EQAYKFEok2aXI8KcIFek7cWyhGvAxaPoA5gu_JSGJ4dopeul",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        }
+    ]
+}
