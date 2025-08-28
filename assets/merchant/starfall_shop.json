@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "starfall_shop",
+        "name": "StarFall Shop",
+        "organization": "starfall",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarfallShopRobot"
+    },
+    "addresses": [
+        {
+            "address": "EQDU0qh4EdB-lQgSa6h2imi-Pkzi9kuCxjXZkLEtu1vm-Dpf",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T17:00:02Z"
+        },
+        {
+            "address": "EQCMLHyq-EUVLoECs_L3mE0lo0M8-ZKlYC-X0-lquyP65Pns",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T17:00:02Z"
+        }
+    ]
+}
