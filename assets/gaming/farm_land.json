@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "farm_land",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/FarmyLand_bot",
+        "description": "",
+        "organization": "farm_land"
+    },
+    "addresses": [
+        {
+            "address": "EQDrR7ig8w-JQa-OJ6nWIk2OPZXXhxq_lispcpwNRWfEURkk",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        },
+          {
+            "address": "EQBUI7YcpaZD5Tpw1hLwi0CcZjWWbrVVUGh2DREYrfuYWtBa",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        }
+    ]
+}
