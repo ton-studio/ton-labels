@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "cryptocloud",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://cryptocloud.plus",
+        "description": "",
+        "organization": "cryptocloud"
+    },
+    "addresses": [
+        {
+            "address": "EQDEayV61zzJEIsCVLUC8C5C2LC--OZMsCYb6alqoXrSMqEe",
+            "source": "",
+            "comment": "Crypto Acquiring",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T10:09:26Z"
+        }
+    ]
+}
