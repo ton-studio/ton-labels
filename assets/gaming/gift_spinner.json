@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gift_spinner",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/GiftSpinnerBot",
+        "description": "",
+        "organization": "gift_spinner"
+    },
+    "addresses": [
+        {
+            "address": "EQBaMOPDUoE9BE0Zw5nyhCm0ulz1hHmHccOKUHTWWmX751t6",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        }
+    ]
+}

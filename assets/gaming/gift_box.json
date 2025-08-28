@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gift_box",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/giftbox",
+        "description": "",
+        "organization": "gift_box"
+    },
+    "addresses": [
+        {
+            "address": "EQCF0VFIF_Rv13ZNplUYQeF2hVGiOqslilhAelzvr5t6MHLI",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        }
+    ]
+}

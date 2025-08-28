@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "1xbit",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://1xbit1.com",
+        "description": "",
+        "organization": "1xbit"
+    },
+    "addresses": [
+        {
+            "address": "EQDwxdbZLqb_1MW6pHMBGLvKoQZmsUmBa52FAXa0Son4atpw",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        }
+    ]
+}

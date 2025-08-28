@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gift_raffle",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/giftrafflepvp_bot",
+        "description": "",
+        "organization": "gift_raffle"
+    },
+    "addresses": [
+        {
+            "address": "EQDYxANgkGjPs7i60av3V9lGGS69cXhv8YI5xKCXXCeuKLqu",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T00:00:01Z"
+        }
+    ]
+}
