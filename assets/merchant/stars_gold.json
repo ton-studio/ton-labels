@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_gold",
+        "name": "Stars Gold",
+        "organization": "stars_gold",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarsGd_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBE1dRtcwrrTw2Cor16a3mgpB0mWcm8E6UY_o6xT69f8C7B",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-28T17:00:02Z"
+        }
+    ]
+}
