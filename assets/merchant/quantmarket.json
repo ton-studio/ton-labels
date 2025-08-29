@@ -3,9 +3,9 @@
         "label": "quantmarket",
         "name": "Quant Market",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/QuantMarketRobot",
-        "description": "offchain_marketplace",
+        "description": "",
         "organization": "quantmarket"
     },
     "addresses": [
