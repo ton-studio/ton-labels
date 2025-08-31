@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tapref_shop",
+        "name": "TapRef Shop",
+        "organization": "tapref_shop",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace&Referral boosting",
+        "website": "https://t.me/TapRefBot"
+    },
+    "addresses": [
+        {
+            "address": "EQA3bVfDS0yIKdt93AAScHTkh68bn440WurRhbwwNtk3VFwD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T17:00:02Z"
+        }
+    ]
+}
