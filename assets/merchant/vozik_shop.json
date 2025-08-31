@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "vozik_shop",
+        "name": "Vozik Shop",
+        "organization": "vozik_shop",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/VozikStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCaUtZMlwzReurj3xwsnIiKIxEHWJmreuq6WWO26lrKxAbp",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T17:00:02Z"
+        }
+    ]
+}
