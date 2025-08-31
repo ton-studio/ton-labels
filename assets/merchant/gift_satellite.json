@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "gift_satellite",
+        "name": "Gift Satellite",
+        "organization": "gift_satellite",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Gift Satellite is an app for tracking and purchasing gifts",
+        "website": "https://t.me/gift_satellite_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDZUZGqe7TyFFzWZ5Xlu0u3-o6nxzj-babyuiVue2h0a8Wl",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T17:00:02Z"
+        }
+    ]
+}
