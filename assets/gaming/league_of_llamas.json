@@ -1,15 +1,15 @@
 {
     "metadata": {
-        "label": "wcoin",
+        "label": "league_of_llamas",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/Whatsgamesbot",
+        "website": "https://t.me/unite_io_bot",
         "description": "",
-        "organization": "wcoin"
+        "organization": "league_of_llamas"
     },
     "addresses": [
         {
-            "address": "EQAJuZjR74cISocQIGLuWRw0x2NqN9C5kdZUuOWzoC83mSBE",
+            "address": "EQAwylfBfCZ_osHIuEQ9dN50k_mWVY5vyqreSxOWdQRycGkO",
             "source": "",
             "comment": "",
             "tags": [],
