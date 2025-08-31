@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "memstar",
+        "name": "Mem Star",
+        "organization": "memstar",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/MemGiftStarBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCfoNKW8MSUW_cShlx2eeUaV3ODlESYqPTsY44qM4cjpQF4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T17:00:02Z"
+        }
+    ]
+}
