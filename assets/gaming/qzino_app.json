@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "qzino",
+        "name": "Qzino App",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/qzino_official_bot",
+        "description": "",
+        "organization": "qzino"
+    },
+    "addresses": [
+        {
+            "address": "EQD_EkYl9bFmFWZl7YrtG02C0qTkeqFS_-kYWmdvms-kWvEn",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T00:00:01Z"
+        }
+    ]
+}
