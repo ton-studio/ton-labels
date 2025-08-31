@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "label": "w_coin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://w-coin.io",
+        "description": "",
+        "organization": "w_coin"
+    },
+    "addresses": [
+        {
+            "address": "EQDRIUegyY-P0_jWGufyvDEUNnaOZO7oqXG9caQ3-OAxRUcx",
+            "source": "",
+            "comment": "W-Coin Pre-Market",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQARWUDd_uFgeL-Xk_ECGaDWKoF7T9tgPH2ZSj-3QweetZAV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-02-24T00:00:01Z"
+        },
+        {
+            "address": "EQAq4SXiWmgsve0zqMzZRmCErBC_CjZjU_P0Csptw5XlTRAL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "evrvle",
+            "submissionTimestamp": "2025-03-14T00:00:01Z"
+        },
+        {
+            "address": "EQBcZ26BGnj1c2W0ozZopTiQuMeAOCv2VhHJy9wvcxUn9RHR",
+            "source": "",
+            "comment": "Jackpot lottery",
+            "tags": [],
+            "submittedBy": "shuva10v",
+            "submissionTimestamp": "2025-04-07T00:00:01Z"
+        },
+        {
+            "address": "EQB6mWfpPkVNpyQqQM5na2XgKktstZgx_HATUl5mAmfWwed4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-04-24T00:00:01Z"
+        },
+        {
+            "address": "EQAeaY2a67WrJgTREVGxU4iVpCr70XtPS7nF13HVkOtQ3fR4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-04-29T00:00:01Z"
+        },
+        {
+            "address": "EQAxNqCNs_nygU9-BLvUrT2GqI8XEbT4DVQXueHtoiDspGCs",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-05-02T00:00:01Z"
+        },
+        {
+            "address": "EQBOA2x34UB4OaotzoM4VNY7PxK0o4euvuVfo_19i4c9BLWM",
+            "source": "",
+            "comment": "$WCOIN minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQB6iRgqzrPPMlvM6gm7bUxPkGcPRVmRiVNYRwIqN_JfGCJ-",
+            "source": "",
+            "comment": "$WCOIN treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQAspNiZqKsessjbzVxkMKL8WzEAO6l4bNNKNuOrQlN5uJkY",
+            "source": "",
+            "comment": "$WCOIN airdrop sender",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQCR64BbZuz_79nhapHNSEa4J1y-E-GgsumQlh2d0YEuson4",
+            "source": "",
+            "comment": "$WCOIN admin / founder",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQB3hLJKFoS72fFB0FWQLEbwiJA1K4nQVmuCIXXVSLAFjupQ",
+            "source": "",
+            "comment": "$WCOIN airdrop sender",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T00:00:01Z"
+        },
+         {
+            "address": "EQCVm27O-1kd-X7Z2cy_Dge4pX64Cdtq236gxpOlHWJ5hnia",
+            "source": "",
+            "comment": "$WCOIN airdrop sender",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T00:00:01Z"
+        },
+        {
+            "address": "EQD_n0SpDbMYlFL_tv19Wo_H032Zac-VuK2rc4Qn39WUGj1Y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T00:00:01Z"
+        }
+    ]
+}
