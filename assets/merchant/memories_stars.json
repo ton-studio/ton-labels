@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "memories_stars",
+        "name": "Memories Stars",
+        "organization": "memories_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/MemoriesStars_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDPPkyuU0vRz_Sl8BgxPs_ByDUEVcRfpnQX1uxw7lLjf5pH",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T17:00:02Z"
+        }
+    ]
+}
