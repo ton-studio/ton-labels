@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sent_ton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/SentTON_bot",
+        "description": "",
+        "organization": "sent_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQCFMCzFogKOfhNbHunJ-vWKdT38eRC6GI4VCmod9tPNRevc",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}
