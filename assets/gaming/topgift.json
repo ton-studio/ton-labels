@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "topgift",
+        "name": "TopGift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/TopGiftRobot",
+        "description": "",
+        "organization": "topgift"
+    },
+    "addresses": [
+        {
+            "address": "EQBuFpBmTs2748lkeSWO40vIdvoLApya1J_jgCL4sGvuvD9Z",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}
