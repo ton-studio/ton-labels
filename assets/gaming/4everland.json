@@ -1,15 +1,15 @@
 {
     "metadata": {
-        "label": "wcoin",
+        "label": "4everland",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/Whatsgamesbot",
+        "website": "https://t.me/tg_4everland_bot",
         "description": "",
-        "organization": "wcoin"
+        "organization": "4everland"
     },
     "addresses": [
         {
-            "address": "EQAJuZjR74cISocQIGLuWRw0x2NqN9C5kdZUuOWzoC83mSBE",
+            "address": "EQA0RCBkM4O64pNXuVe8lQ4b7gEi7ZzWxAjHyvRyKa82yNYI",
             "source": "",
             "comment": "",
             "tags": [],

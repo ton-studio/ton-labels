@@ -1,25 +1,22 @@
 {
     "metadata": {
-        "label": "topgift",
-        "name": "TopGift",
-        "name": "Top Gift",
+        "label": "qzino",
+        "name": "Qzino App",
         "category": "gaming",
         "subcategory": "gambling",
-        "website": "https://t.me/TopGiftRobot",
+        "website": "https://t.me/qzino_official_bot",
         "description": "",
-        "organization": "topgift"
+        "organization": "qzino"
     },
     "addresses": [
         {
-            "address": "EQBuFpBmTs2748lkeSWO40vIdvoLApya1J_jgCL4sGvuvD9Z",
+            "address": "EQD_EkYl9bFmFWZl7YrtG02C0qTkeqFS_-kYWmdvms-kWvEn",
             "source": "",
-            "comment": "Deposit address",
             "comment": "",
             "tags": [
                 "telegram-gifts"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-09-01T00:00:01Z"
             "submissionTimestamp": "2025-08-31T00:00:01Z"
         }
     ]

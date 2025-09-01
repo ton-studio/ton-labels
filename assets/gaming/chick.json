@@ -1,15 +1,15 @@
 {
     "metadata": {
-        "label": "wcoin",
+        "label": "chick",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/Whatsgamesbot",
+        "website": "https://t.me/ChickHouseBot",
         "description": "",
-        "organization": "wcoin"
+        "organization": "chick"
     },
     "addresses": [
         {
-            "address": "EQAJuZjR74cISocQIGLuWRw0x2NqN9C5kdZUuOWzoC83mSBE",
+            "address": "EQALXiXD0oleDRXGCVCPPIlJmdJ1Feqf-aOAwhk-xAYTfOWd",
             "source": "",
             "comment": "",
             "tags": [],

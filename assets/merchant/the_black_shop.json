@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "the_black_shop",
+        "name": "the_black_shop",
+        "organization": "the_black_shop",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/TheBlackShopBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCzjuIrEkcnALX-cLcgvFPFH1zygtBEr650HFj55gE63D7U",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T17:00:02Z"
+        }
+    ]
+}

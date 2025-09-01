@@ -1,15 +1,15 @@
 {
     "metadata": {
-        "label": "wcoin",
+        "label": "joker",
         "category": "gaming",
         "subcategory": "",
-        "website": "https://t.me/Whatsgamesbot",
+        "website": "https://t.me/joker_neobot",
         "description": "",
-        "organization": "wcoin"
+        "organization": "joker"
     },
     "addresses": [
         {
-            "address": "EQAJuZjR74cISocQIGLuWRw0x2NqN9C5kdZUuOWzoC83mSBE",
+            "address": "EQCQs6IBHS-0T3hUGcfFRj7yjqXV7JnVdm3wX2jy0auqkzD7",
             "source": "",
             "comment": "",
             "tags": [],

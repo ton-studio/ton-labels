@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "melbet",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://melbet.com",
+        "description": "",
+        "organization": "melbet"
+    },
+    "addresses": [
+        {
+            "address": "EQAl6qOcLBSdFrWgz53J3LVaeLxtYOGcEYUlu-M9USoJyuAX",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-31T00:00:01Z"
+        }
+    ]
+}
