@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "go_ton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/max898_bot",
+        "description": "",
+        "organization": "go_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQAWzYo1pC4-mzQaYOWjhYy5uXyN6UQjVGdkCrXiZXyKWQo8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}

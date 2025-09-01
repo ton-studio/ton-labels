@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "x_coin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/XCoinPlus_bot",
+        "description": "",
+        "organization": "x_coin"
+    },
+    "addresses": [
+        {
+            "address": "EQASy4Z2GTTFteyUkxO0J9yCi_VGOJbH7adBc5jU4GUo0zFn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}
