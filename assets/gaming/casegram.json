@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "casegram",
+        "name": "CaseGram",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/casegrambot",
+        "description": "",
+        "organization": "casegram"
+    },
+    "addresses": [
+        {
+            "address": "EQBnjfZaPnYqInf3OErn2IXOv7Nv5RoyX3GrbyOSLsHZLqXC",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}
