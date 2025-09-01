@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "buffy_drop",
+        "name": "Buffy Drop",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/BuffyDropbot",
+        "description": "",
+        "organization": "buffy_drop"
+    },
+    "addresses": [
+        {
+            "address": "EQDtdx8IuJSveUhzRjhTkBUF-e8DzNCtjOrCSBSOKlHLZnJu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T10:09:26Z"
+        },
+        {
+            "address": "EQDncp7V8nHGImSeWDqs1NMTaOBERhSxEPRri78AjLeW56v3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}

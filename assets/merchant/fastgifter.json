@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "fastgifter",
+        "name": "FastGifter",
+        "organization": "fastgifter",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace&auto-buy TG gifts",
+        "website": "https://t.me/FastGifterBot"
+    },
+    "addresses": [
+        {
+            "address": "EQAZB6ylKKkYep41OL-c5zoJDbRywaXxNQq6FlV0cn9OPWQk",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T17:00:02Z"
+        }
+    ]
+}
