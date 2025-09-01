@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "giftup",
+        "name": "GiftUp",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/GiftUpRobot",
+        "description": "",
+        "organization": "giftup"
+    },
+    "addresses": [
+        {
+            "address": "EQAVl-kNca_8lY76kp672DpjPLoZJN7mw8v1SL8PMe4a5mv-",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}
