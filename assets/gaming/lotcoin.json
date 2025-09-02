@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "lotcoin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/lotcoin_gamebot",
+        "description": "",
+        "organization": "lotcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQB3VevqL_QZWf5c5MFxhPtIj-OEGB3aQ4mX58yVCFSjuEUe",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-02T00:00:01Z"
+        }
+    ]
+}
