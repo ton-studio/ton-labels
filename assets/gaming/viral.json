@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "viral",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Vlralbot",
+        "description": "",
+        "organization": "viral"
+    },
+    "addresses": [
+        {
+            "address": "EQBJSGcoWTcjdkWFSxA4A6sLmnD5uFKoKHFEHc3LqGJvFTFf",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-02T00:00:01Z"
+        }
+    ]
+}

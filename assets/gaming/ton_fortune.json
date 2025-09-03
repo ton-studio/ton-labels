@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_fortune",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TONFortuneapp_bot",
+        "description": "",
+        "organization": "ton_fortune"
+    },
+    "addresses": [
+        {
+            "address": "EQCVJDPg-d0WKlU7ZpgcwQGHU-2uDWtfBRnHQ_yxnIPAxGIa",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-02T00:00:01Z"
+        }
+    ]
+}
