@@ -3,7 +3,7 @@
         "label": "thermos",
         "name": "Thermos",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/thermos",
         "description": "Gift Aggregator",
         "organization": "swap_coffee_team"
