@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "betpandacasino",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://betpandacasino.io ",
+        "description": "",
+        "organization": "betpanda"
+    },
+    "addresses": [
+        {
+            "address": "EQD4-WvqfMtXeImZPD_KB9xkinW4itxz616B5vit3949fraB",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+    ]
+}
