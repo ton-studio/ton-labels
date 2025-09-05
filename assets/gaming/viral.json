@@ -1,20 +1,19 @@
 {
     "metadata": {
-        "label": "tonlounge",
-        "name": "TonLounge",
+        "label": "viral",
         "category": "gaming",
-        "subcategory": "gambling",
-        "website": "https://t.me/TonLoungeBot",
+        "subcategory": "",
+        "website": "https://t.me/Vlralbot",
         "description": "",
-        "organization": "tonlounge"
+        "organization": "viral"
     },
     "addresses": [
         {
-            "address": "EQA7FrqGBwKsAIVGwAqspTSWJKDgAB7nQ_hoK5J9WZK9XK4n",
+            "address": "EQBJSGcoWTcjdkWFSxA4A6sLmnD5uFKoKHFEHc3LqGJvFTFf",
             "source": "",
             "comment": "",
             "tags": [
-                "telegram-gifts"
+                "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-09-02T00:00:01Z"

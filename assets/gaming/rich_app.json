@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "rich_app",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/RichAppVIP_BOT",
+        "description": "",
+        "organization": "rich_app"
+    },
+    "addresses": [
+        {
+            "address": "EQBPxyGu7S8dL69JcUPN4VP8FmADLlfCYXBva2N575worTLb",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-01T00:00:01Z"
+        }
+    ]
+}
