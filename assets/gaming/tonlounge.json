@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "tonlounge",
+        "name": "TonLounge",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/TonLoungeBot",
+        "description": "",
+        "organization": "tonlounge"
+    },
+    "addresses": [
+        {
+            "address": "EQA7FrqGBwKsAIVGwAqspTSWJKDgAB7nQ_hoK5J9WZK9XK4n",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+       }
+    ]
