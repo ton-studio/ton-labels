@@ -4,7 +4,7 @@
         "name": "Memgift",
         "category": "merchant",
         "organization": "memgift",
-        "subcategory": "",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/MemeGiftBot",
         "description": ""
     },
