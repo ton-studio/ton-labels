@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "the_race_b",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/race/beta",
+        "description": "",
+        "organization": "the_race_b"
+    },
+    "addresses": [
+        {
+            "address": "EQDpeUlg_7y9t5dqrpN3n94abe0Yl1xMwTT0Dk1D2lnuv8pr",
+            "source": "",
+            "comment": "TG Stars withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+    ]
+}
