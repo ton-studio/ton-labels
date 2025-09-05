@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "memgift",
+        "name": "Memgift",
+        "category": "merchant",
+        "organization": "memgift",
+        "subcategory": "",
+        "website": "https://t.me/MemeGiftBot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQC_mZxpa3_fBI-09gui4I1AtdKB61xf-7A4jPHGJaImxkfT",
+            "source": "",
+            "comment": "TG Stars withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+    ]
+}
