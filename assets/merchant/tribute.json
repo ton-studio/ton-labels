@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tribute",
+        "name": "Tribute",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/tribute",
+        "description": "Monetize content through subscriptions and donations",
+        "organization": "tribute"
+    },
+    "addresses": [
+        {
+            "address": "EQBOPwhEz80JgwsptM7QVSBAV4aMq6z3pnqxPCzpcwak2Fz3",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+    ]
+}

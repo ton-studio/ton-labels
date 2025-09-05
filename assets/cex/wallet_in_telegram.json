@@ -279,6 +279,14 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-25T00:00:01Z"
+        },
+         {
+            "address": "EQA2JYPGPywx6Sn590nUd06B2HgOkFvJ-cCnTO6yTEdacbUG",
+            "source": "",
+            "comment": "cold wallet",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
         }
     ]
 }

@@ -5,7 +5,7 @@
         "category": "gaming",
         "subcategory": "gambling",
         "website": "https://t.me/giftdropbot",
-        "description": "",
+        "description": "onchain_marketplace",
         "organization": "giftdrop"
     },
     "addresses": [
@@ -13,9 +13,21 @@
             "address": "EQDbyHz5QH3DbOn812o6W2s6KslqBavLwZqkYbteMfWQhktD",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+                {
+            "address": "EQA9wPR7CLqr-dPg32SDRwYETWsAqjkiY33XBF-gIFv0_k8A",
+            "source": "",
+            "comment": "TG Stars withdrawal address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
         }
     ]
 }
