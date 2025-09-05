@@ -3,7 +3,7 @@
         "label": "swiftgifts",
         "name": "Swift Gifts",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/swiftgifts_official_bot",
         "description": "Gift Aggregator",
         "organization": "swiftgifts"
