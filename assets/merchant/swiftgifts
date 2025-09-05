@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "label": "swiftgifts",
+        "name": "Swift Gifts",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/swiftgifts_official_bot",
+        "description": "Gift Aggregator",
+        "organization": "swiftgifts"
+    },
+    "addresses": [
+        {
+            "address": "EQDhn9PFMcluVAT02zHT6iJEnaN7NC0i2gkzSYw2plDeUmVr",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        },
+        {
+            "address": "EQDZu1Rw3Wn6-BS4pDYodLTrb1-MbjkdupkZSIQS1ss6EjNw",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+    ]
+}
