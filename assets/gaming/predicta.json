@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "predicta",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/Predicta_Market_Bot",
+        "description": "Bets on various events",
+        "organization": "predicta"
+    },
+    "addresses": [
+        {
+            "address": "EQCvlm9mJBeTaFRSsFS89ajxXoRv0gtacyBKnT7VllnNDce2",
+            "source": "",
+            "comment": "deposit TON",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        },
+        {
+            "address": "EQDKFG9muqqO_a3vnr9iGvrL0Hcv2VIZmbHQbP9y2e0yPvPw",
+            "source": "",
+            "comment": "deposit USDT",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+    ]
+}

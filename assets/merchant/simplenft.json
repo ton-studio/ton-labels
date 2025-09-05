@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "simplenft",
+        "name": "SimpleNFT",
+        "category": "merchant",
+        "organization": "simplenft",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/SimpleNFTbot",
+        "description": "NFT & SBT creation and monetization"
+    },
+    "addresses": [
+        {
+            "address": "EQBOaJOKsRJ_GjXCwBdcvPtQI5Faya8zxiKAyFNy3wRWt9EW",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-05T00:00:01Z"
+        }
+    ]
+}
