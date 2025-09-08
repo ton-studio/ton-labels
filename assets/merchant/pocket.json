@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "pocket",
+        "name": "Pocket",
+        "organization": "pearls_by_gems",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/CollectiblesPocketBot",
+        "description": "Pocket is a new initiative from Pearls by Gems. While Pearls Drops focuses on large-scale collections, Pocket offers a cozy space for digital gifts and collectibles from artists"
+    },
+    "addresses": [
+        {
+            "address": "EQB-f8daa5ASr4lySxT8GYco5DtkWsK8MNjAIC4apdvNBmX8",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-08T00:00:01Z"
+        }
+    ]
+}

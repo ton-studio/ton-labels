@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_vault_chain",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/HubTONCoinBot",
+        "description": "",
+        "organization": "ton_vault_chain"
+    },
+    "addresses": [
+        {
+            "address": "EQDY6EZh8d95GrrKRNolHLHQu9bkLXE57OQwRul71T0Xh4or",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-08T00:00:01Z"
+        }
+    ]
+}

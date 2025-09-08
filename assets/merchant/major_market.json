@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "major_market",
+        "name": "Major Market",
+        "organization": "major_market",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/major",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQCxGTF-jLcgRUD1Jk_NTJd3aQk706XsJmu2SsvuKnt-7c7c",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-08T00:00:01Z"
+        }
+    ]
+}
