@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "meerkat_coin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/meerkat_coin_bot",
+        "description": "",
+        "organization": "meerkat_coin"
+    },
+    "addresses": [
+        {
+            "address": "EQClGBbvCOOnafKCXsrZVkkG5g3y8A9PAYzu39RcV1rdCNiV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-08T00:00:01Z"
+        }
+    ]
+}
