@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "label": "randomgodbot",
+    "name": "RandomGodBot",
+    "organization": "",
+    "category": "merchant",
+    "subcategory": "stars marketplace",
+    "website": "https://t.me/RandomGodBot",
+    "description": ""
+  },
+  "addresses": [
+    {
+      "address": "",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "ef-code",
+      "submissionTimestamp": "2025-09-08T00:00:00Z"
+    }
+  ]
+}
