@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "epic_gift",
+        "name": "Epic Gift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/epic_gift_bot",
+        "description": "",
+        "organization": "epic_gift"
+    },
+    "addresses": [
+        {
+            "address": "EQD2G4XIHqXYPWIsagPnlwwSYJi1ob0GNXprvyrWo-zFUMep",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "JackReachy",
+            "submissionTimestamp": "2025-09-06T00:00:01Z"
+        }
+    ]
+}
