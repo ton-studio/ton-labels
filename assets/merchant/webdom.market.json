@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "webdom_market",
+        "name": "Webdom Market",
+        "organization": "webdom",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://webdom.market",
+        "description": "Sell, trade, track and buy TON domains"
+    },
+    "addresses": [
+        {
+            "address": "EQD7-a6WPtb7w5VgoUfHJmMvakNFgitXPk3sEM8Gf_WEBDOM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-08T00:00:01Z"
+        }
+    ]
+}
