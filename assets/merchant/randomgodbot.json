@@ -1,12 +1,12 @@
 {
-  "metadata": {
-    "label": "randomgodbot",
-    "name": "RandomGodBot",
-    "organization": "",
-    "category": "merchant",
-    "subcategory": "",
-    "website": "https://t.me/randomgodbot",
-    "description": ""
+    "metadata": {
+        "label": "randomgodbot",
+        "name": "RandomGodBot",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/randomgodbot",
+        "description": "",
+        "organization": "random"
   },
   "addresses": [
     {
