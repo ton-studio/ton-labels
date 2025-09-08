@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "unknown_coin",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/coin_unk_bot",
+        "description": "",
+        "organization": "unknown_coin"
+    },
+    "addresses": [
+        {
+            "address": "EQBJ0ndQjfvY5KlOx9Maslz3QoBj_Ma5Ts9VOlaCr9lhX2Gw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-08T00:00:01Z"
+        }
+    ]
+}
