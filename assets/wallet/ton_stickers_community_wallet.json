@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_stickers_community_wallet",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://ton.org",
+        "description": "Stickers Community Wallet is a transparent fund for raffles, lotteries, and creator support in the TON ecosystem",
+        "organization": "the_open_network"
+    },
+    "addresses": [
+        {
+            "address": "EQDo0y1Ix8Wzqms84bFjL8Vh51RPaEIYwziBBRIi1NMadXui",
+            "source": "https://blog.ton.org/ton-stickers-community-wallet-transparent-creator-funding",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-08T00:00:01Z"
+        }
+    ]
+}
