@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sunspace_wallet",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/SunSpace_Robot",
+        "description": "Buy Telegram Stars & Premium, stake $SPC token",
+        "organization": "sunspace_wallet"
+    },
+    "addresses": [
+        {
+            "address": "EQCYpELAEcy0uelT2VYQSsqvBJ3XoymUnBOAFMGi7ABGk22x",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:00Z"
+        }
+    ]
+}

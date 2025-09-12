@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gmgnbet",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/gmgnbet_bot",
+        "description": "",
+        "organization": "gmgnbet"
+    },
+    "addresses": [
+        {
+            "address": "EQC49VDLJO4O9fvbhb_H0u9goc5YarO-wE24Rv-w7wEESS-B",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        }
+    ]
+}

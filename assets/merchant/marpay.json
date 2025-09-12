@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "marpay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/MarPay_bot",
+        "description": "Payment processing",
+        "organization": "marymarin_studio"
+    },
+    "addresses": [
+        {
+            "address": "EQALyqQHni2OufJCDD-yzEvrzG3UG05R2WbWufUJiZmWd3iy",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        },
+        {
+            "address": "EQATk_zxBXsf8eI8Kkbqt0VG97t-4a9h6lNikKU1pzJeSMdh",
+            "source": "",
+            "comment": "Smart contract fee & distribution",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        }
+    ]
+}
