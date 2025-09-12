@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "vodkatradebot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/VodkaTradeBot",
+        "description": "",
+        "organization": "vodkatradebot"
+    },
+    "addresses": [
+        {
+            "address": "EQB-mGF27lOSK6L0CbTpMaMPO-9VNBzLs7vWkzD4OJyZNjzC",
+            "source": "",
+            "comment": "referral address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}
