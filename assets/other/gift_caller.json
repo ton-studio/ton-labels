@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "gift_caller",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/GiftCallerBot",
+        "description": "Calls directly in Telegram when new gifts or upgrades are released",
+        "organization": "gift_caller"
+    },
+    "addresses": [
+        {
+            "address": "EQASo6F_oJ8B_OHUVllnwtvrQw8ovg_tmdbN_OmOnesGUtZH",
+            "source": "",
+            "comment": "Telegram Stars cash out address",
+            "tags": [],
+            "submittedBy": "JackReachy",
+            "submissionTimestamp": "2025-09-09T00:00:01Z"
+         }
+    ]
+}
