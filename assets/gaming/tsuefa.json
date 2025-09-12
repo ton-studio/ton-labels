@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "tsuefa",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/tsuefa",
+        "description": "",
+        "organization": "tsuefa"
+    },
+    "addresses": [
+        {
+            "address": "EQBEZT4W_O2pS50zo_lKbz0-fwj_xzwdEHQhjhBXY2lixwKD",
+            "source": "",
+            "comment": "deposit address",
+            "tags": [],
+            "submittedBy": "JackReachy",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        },
+        {
+            "address": "EQD-AySVG_rgDrOGIfxvEKm_Lc9vY850YpHMAJ7fY183_0sy",
+            "source": "",
+            "comment": "Telegram Stars cashout address and withdrawal address (also used by @starsbankingbot)",
+            "tags": [],
+            "submittedBy": "JackReachy",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        }
+    ]
+}
