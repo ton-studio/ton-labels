@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "advancestars",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/advancestars_bot",
+        "description": "",
+        "organization": "advance_stars"
+    },
+    "addresses": [
+        {
+            "address": "EQBESRgF0tZMP8l2J93xLrFI5thcVuEZEdWMCJT7qq4IQp7N",
+            "source": "",
+            "comment": "Telegram stars cashout address",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-09-09T00:00:00Z"
+        }
+    ]
+}
