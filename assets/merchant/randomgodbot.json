@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "randomgodbot",
+        "name": "RandomGodBot",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/randomgodbot",
+        "description": "",
+        "organization": "random"
+  },
+  "addresses": [
+    {
+      "address": "EQB-r4a-X3g-gon3LaIwbhfOHCZSxZYsx6RhCCwVT0AH8-Qt",
+      "source": "",
+      "comment": "Telegram Stars cash out address",
+      "tags": [],
+      "submittedBy": "ef-code",
+      "submissionTimestamp": "2025-09-08T00:00:00Z"
+    }
+  ]
+}
