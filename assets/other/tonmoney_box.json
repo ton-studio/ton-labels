@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonmoney_box",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/Tonoreum_Bot",
+        "description": "SocialFi quests for TON rewards",
+        "organization": "tonmoney_box"
+    },
+    "addresses": [
+        {
+            "address": "EQCwSJtWJ96ry61Zvcg_Anz-XgH4KUJ1tGdrAVqsiff0u266",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        }
+    ]
+}
