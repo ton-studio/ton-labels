@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "spend.tg",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://spend.tg",
+        "description": "",
+        "organization": "major"
+    },
+    "addresses": [
+        {
+            "address": "EQAm_CW7fnhrvGYE7EH7bNwpMfV8EU4Kxz1TGjLbhM7XkRw2",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "no-kyc"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        }
+    ]
+}
