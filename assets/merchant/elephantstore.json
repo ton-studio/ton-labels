@@ -3,7 +3,7 @@
         "label": "elephantstore",
         "name": "ElephantStore",
         "category": "merchant",
-        "subcategory": "",
+        "subcategory": "offchain_marketplace",
         "website": "https://t.me/ElephantStoreBot",
         "description": "",
         "organization": "elephantstore"
