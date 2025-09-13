@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "snatch",
+        "name": "snatch",
+        "organization": "snatch",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Purchasing Telegram Stars & Premium, and enabling auto-purchase of Telegram gifts",
+        "website": "https://t.me/giftstars_autobuy_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBo2cql_Dpe8vYstDJKP8GhcntYeRNN9nVepGfStCRP82OD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "arbuz321",
+            "submissionTimestamp": "2025-09-14T17:00:02Z"
+        }
+    ]
+}
