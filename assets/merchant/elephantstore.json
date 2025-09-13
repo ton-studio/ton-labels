@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "elephantstore",
+        "name": "ElephantStore",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/ElephantStoreBot",
+        "description": "",
+        "organization": "elephantstore"
+    },
+    "addresses": [
+        {
+            "address": "EQBVHnZBVt0VrB4EZSEbIuPTojZJ0wu-1lfLb017TfA6pQVH",
+            "source": "",
+            "comment": "Telegram Stars cashout address and NFT deployer",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-09-13T00:00:01Z"
+        }
+    ]
+}
