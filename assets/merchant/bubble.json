@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "bubble",
+        "name": "Bubble",
+        "organization": "bubble",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/bubble_market_bot",
+        "description": "Telegram NFTs aggregator"
+    },
+    "addresses": [
+        {
+            "address": "EQD0inJ6nAod9fMNosqBsHqNCJhN00W64349omISxnqx39hg",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-14T00:00:01Z"
+        }
+    ]
+}

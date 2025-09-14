@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "loots",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/LootsPlayBot",
+        "description": "",
+        "organization": "loots"
+    },
+    "addresses": [
+        {
+            "address": "EQABoF2p0ygjQQ8l6NYA0mdr117mOY3ysjtVyq9rrEPcNaGL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-14T00:00:01Z"
+        }
+    ]
+}
