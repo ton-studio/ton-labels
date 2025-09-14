@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_shop",
+        "name": "Stars Shop",
+        "organization": "https://t.me/TGBuyStarsBot",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Buying Telegram stars, Telegram premium, and gifts",
+        "website": "https://t.me/TGBuyStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "UQDC6aBYG--mtH-HdIwgta9-RumHI28ylkU-0wh7Fv1YKU5S",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "arbuz321",
+            "submissionTimestamp": "2025-09-14T17:00:02Z"
+        }
+    ]
+}
