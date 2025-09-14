@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "bfg",
+        "name": "Bfg",
+        "organization": "https://t.me/bfgproject",
+        "category": "gaming",
+        "subcategory": "",
+        "description": "",
+        "website": "https://t.me/bfgproject"
+    },
+    "addresses": [
+        {
+            "address": "UQAHbQveS084NOyDkPsp_fGZSif3lexO_4zvyVkC96ipYTxH",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "arbuz321",
+            "submissionTimestamp": "2025-09-14T17:00:02Z"
+        }
+    ]
+}
