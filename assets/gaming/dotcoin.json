@@ -1,0 +1,21 @@
+{
+   "metadata": {
+       "label": "dotcoin",
+       "name": "Dotcoin",
+       "organization": "https://t.me/dotcoin_bot",
+       "category": "gaming",
+       "subcategory": "gambling",
+       "description": "Bot with lotteries for telegram gifts",
+       "website": "https://t.me/dotcoin_bot"
+   },
+   "addresses": [
+       {
+           "address": "UQBUJ9HHhz9F1fqGUSDYyUiiOhQbX8jOLbKkn0GBDy-rj_ba",
+           "source": "",
+           "comment": "",
+           "tags": [],
+           "submittedBy": "arbuz321",
+           "submissionTimestamp": "2025-09-14T17:00:02Z"
+       }
+   ]
+}
