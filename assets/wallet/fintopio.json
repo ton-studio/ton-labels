@@ -2,15 +2,15 @@
    "metadata": {
        "label": "fintopio",
        "name": "Fintopio",
-       "organization": "https://t.me/fintopio",
-       "category": "merchant",
+       "organization": "fintopio",
+       "category": "wallet",
        "subcategory": "",
        "description": "Fintopio – wallet in telegram",
        "website": "https://t.me/fintopio"
    },
    "addresses": [
        {
-           "address": "UQD7THHQshUNKxio14vla6EaqpHxVnlItwum6x7oBSORwM-5",
+           "address": "EQD7THHQshUNKxio14vla6EaqpHxVnlItwum6x7oBSORwJJ8",
            "source": "",
            "comment": "",
            "tags": [],
