@@ -2,7 +2,7 @@
    "metadata": {
        "label": "dotcoin",
        "name": "Dotcoin",
-       "organization": "https://t.me/dotcoin_bot",
+       "organization": "dotcoin",
        "category": "gaming",
        "subcategory": "gambling",
        "description": "Bot with lotteries for telegram gifts",
@@ -10,7 +10,7 @@
    },
    "addresses": [
        {
-           "address": "UQBUJ9HHhz9F1fqGUSDYyUiiOhQbX8jOLbKkn0GBDy-rj_ba",
+           "address": "EQBUJ9HHhz9F1fqGUSDYyUiiOhQbX8jOLbKkn0GBDy-rj6sf",
            "source": "",
            "comment": "",
            "tags": [],
