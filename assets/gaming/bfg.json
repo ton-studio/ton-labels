@@ -2,7 +2,7 @@
     "metadata": {
         "label": "bfg",
         "name": "Bfg",
-        "organization": "https://t.me/bfgproject",
+        "organization": "bfg",
         "category": "gaming",
         "subcategory": "",
         "description": "",
@@ -10,7 +10,7 @@
     },
     "addresses": [
         {
-            "address": "UQAHbQveS084NOyDkPsp_fGZSif3lexO_4zvyVkC96ipYTxH",
+            "address": "EQAHbQveS084NOyDkPsp_fGZSif3lexO_4zvyVkC96ipYWGC",
             "source": "",
             "comment": "",
             "tags": [],
