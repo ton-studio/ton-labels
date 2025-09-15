@@ -287,6 +287,24 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-09-05T00:00:01Z"
+        },
+        {
+            "address": "EQD0KKBwkytx2eZCylIhmujl-dG0RYMG5iVgSG176z0IVuYu",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-15T00:00:01Z"
+        },
+        {
+            "address": "EQCWULrv4afVSJNRbaVO6LcJoRisdnFaujnBQptKSXBH0W7L",
+            "source": "",
+            "comment": "cold wallet",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-15T00:00:01Z"
         }
     ]
 }
