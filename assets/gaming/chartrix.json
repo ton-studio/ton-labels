@@ -2,7 +2,7 @@
     "metadata": {
         "label": "chartrixbot_ai",
         "name": "ChartrixBot AI",
-        "organization": "https://t.me/ChartrixBot",
+        "organization": "chartrix",
         "category": "gaming",
         "subcategory": "",
         "description": "Bot for communication with AI characters from any fandom. Films, games, anime",
@@ -10,7 +10,7 @@
     },
     "addresses": [
         {
-            "address": "UQAwN6PpFOo1LFVIh5hkVjearXvrqOvPD-nyqLjVz-fPbiIp",
+            "address": "EQAwN6PpFOo1LFVIh5hkVjearXvrqOvPD-nyqLjVz-fPbn_s",
             "source": "",
             "comment": "",
             "tags": [],
