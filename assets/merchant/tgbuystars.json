@@ -2,7 +2,7 @@
     "metadata": {
         "label": "stars_shop",
         "name": "Stars Shop",
-        "organization": "https://t.me/TGBuyStarsBot",
+        "organization": "stars_shop",
         "category": "merchant",
         "subcategory": "",
         "description": "Buying Telegram stars, Telegram premium, and gifts",
@@ -10,7 +10,7 @@
     },
     "addresses": [
         {
-            "address": "UQDC6aBYG--mtH-HdIwgta9-RumHI28ylkU-0wh7Fv1YKU5S",
+            "address": "EQDC6aBYG--mtH-HdIwgta9-RumHI28ylkU-0wh7Fv1YKROX",
             "source": "",
             "comment": "",
             "tags": [],
