@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "hypergapbot",
+        "name": "HyperGapBot",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://hypergapbot.com",
+        "description": "This is an anonymous chat bot for communication in Telegram.",
+        "organization": "hypergapbot"
+    },
+    "addresses": [
+        {
+            "address": "EQC25BaS7mGkUw5aBkx3En5e72rtFmXT8-Y6Qc3-4MhAIJBv",
+            "source": "",
+            "comment": "Telegram Stars cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-09-14T00:00:01Z"
+        }
+    ]
+}
