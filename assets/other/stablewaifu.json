@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stablewaifu",
+        "name": "StableWaifu",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/StableWaifuBot",
+        "description": "Telegram bot for generating and editing anime-style images based on user prompts.",
+        "organization": "stablewaifu"
+    },
+    "addresses": [
+        {
+            "address": "EQAdlfF6WB2mNXhTYgOIPZKvw_5lmJad--qP5zFOnWCdThqV",
+            "source": "",
+            "comment": "Telegram Stars cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-09-14T00:00:01Z"
+        }
+    ]
+}
