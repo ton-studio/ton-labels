@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "kayple",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://kayple.io",
+        "description": "",
+        "organization": "kayple"
+    },
+    "addresses": [
+        {
+            "address": "EQD2GGByNZSamsrCwvVFRJusBkRZ2Agavvl2GHyqWL230Qwi",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
+        },
+        {
+            "address": "EQA-RyOkZOlqNhzRq60zL7AsbYNvVsemmxNl8sQXw_5GO2ij",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
+        }
+    ]
+}

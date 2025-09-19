@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "spendapp",
+        "name": "Spend App",
+        "organization": "major",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/spendtgbot",
+        "description": "TG Stars marketplace"
+    },
+    "addresses": [
+        {
+            "address": "EQANvQrhZdnFuw3DKsYeQwffxnTdER9TTZ_br2eT_lTu_mGz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
+        }
+    ]
+}

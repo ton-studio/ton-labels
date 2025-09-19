@@ -87,6 +87,24 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-28T00:00:01Z"
+        },
+        {
+            "address": "EQDBfjyvFnIzGi5jN94W2GWDGU9Z8JBA6uirv6vQMThBVgKR",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
+        },
+        {
+            "address": "EQB1Z8IvyczP4iZlD0KwRK5DSdLtZJwuLBc3Tg1flEwc0vPK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
         }
     ]
 }

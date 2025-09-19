@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pollo",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/pollovotebot",
+        "description": "Bets on various events",
+        "organization": "pollo"
+    },
+    "addresses": [
+        {
+            "address": "EQB_URMNuTxB3KYDxEuKpgPnru1wq9mlExvL2k1xDZPn-d9X",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
+        }
+    ]
+}

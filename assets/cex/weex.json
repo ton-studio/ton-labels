@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "weex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.weex.com",
+        "description": "",
+        "organization": "weex"
+    },
+    "addresses": [
+        {
+            "address": "EQB4XClemsAbLvlDjobh-VjUn7oEy9CITWPoG9WkTO2qRx_m",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        }
+    ]
+}

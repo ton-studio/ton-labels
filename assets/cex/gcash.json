@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "gcash",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://new.gcash.com",
+        "description": "",
+        "organization": "gcash"
+    },
+    "addresses": [
+        {
+            "address": "EQAfHjIJQHHa095Nwobf3k3a-yg3iZASZmbjjRumccTpwmLy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        },
+        {
+            "address": "EQDjc50fVSlg_WeTJMJrquWdKii3yc0BASYwg4ll7cjviUfI",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        }
+    ]
+}

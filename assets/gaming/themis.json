@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "themis",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/themis_gifts_bot",
+        "description": "",
+        "organization": "themis"
+    },
+    "addresses": [
+        {
+            "address": "EQCKQ29H-1MIUg-o_wTax7TzRbgFJ-UcnGA4mKBeA4-c2NJL",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
+        }
+    ]
+}
