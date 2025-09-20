@@ -39,6 +39,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-05T01:01:01Z"
-        }
+        } 
+        {
+           "address": "UQDwYTRHbSZ8l3cGtkAhlISkNjaNo1K_VjeBosPFKK0VCrnn",
+           "source": "https://tonviewer.com/address/UQDwYTRHbSZ8l3cGtkAhlISkNjaNo1K_VjeBosPFKK0VCrnn",
+           "comment": "High-frequency deposits/withdrawals; directly transacts with known Binance hot wallets (see screenshots).",
+           "tags": ["exchange", "binance", "hot_wallet"],
+           "submittedBy": "francishope",
+           "submissionTimestamp": 2025-09-20T11:25:00Z
+        },  
     ]
 }
