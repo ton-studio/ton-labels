@@ -40,5 +40,13 @@
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-05T01:01:01Z"
         }
+        {
+            "address": "UQDwYTRHbSZ8l3cGtkAhlISkNjaNo1K_VjeBosPFKK0VCrnn",
+            "source": "https://tonalytica.redoubt.online/queries/776/source",
+            "comment": "High volume activity, multiple transactions linked with known Binance wallets.",
+            "tags": [],
+            "submittedBy": "francishope",
+            "submissionTimestamp": "2025-09-20T12:00:00Z"
+        }
     ]
 }
