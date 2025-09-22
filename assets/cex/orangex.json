@@ -11,7 +11,7 @@
         {
             "address": "EQDQDgCmmlZSo_5G6PwkC5Eqes9Mk4x3hx8erEReDH7cNbiq",
             "source": "",
-            "comment": "",
+            "comment": "Custodial (shared, memo-based)",
             "tags": [
                 "has-custodial-wallets"
             ],
@@ -22,7 +22,9 @@
             "address": "EQBYmzKzUJJWqiOHieTF1MVevy07g3ZJZIR3GT9cwcvDSf1Y",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-09-19T10:09:26Z"
         }
