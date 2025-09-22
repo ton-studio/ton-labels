@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "remitano",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://remitano.com",
+        "description": "",
+        "organization": "remitano"
+    },
+    "addresses": [
+        {
+            "address": "EQBjLOwf3MxcLUDzlvJZ4wTit8868M2RoSk7kr_Fo0DMpq3y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Luckyy0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        },
+        {
+            "address": "EQDVijXEFADCsh28_VfJY9n4fRpCOD0efHu16t9hi7AoacOx",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Luckyy0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        },
+        {
+            "address": "EQAalBbmMXxXxx3J2es0FXSRpDfSk2CPJ3j_Mgxwx5GCzBvN",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Luckyy0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        }
+    ]
+}
