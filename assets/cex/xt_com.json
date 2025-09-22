@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "xt",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.xt.com",
+        "description": "",
+        "organization": "xt"
+    },
+    "addresses": [
+        {
+            "address": "EQClY1gzhY11xrYn2chQjDo8X6dNZohqUA4Y5-KibmsfHwO9",
+            "source": "",
+            "comment": "deposit",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        },
+        {
+            "address": "EQBGR6jV86zPtXzEKceesBFfVMhEfdwluRqYO7kTsW1RR5JY",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        },
+        {
+            "address": "EQDSBBmlrRW95LkW1ky4izVORPqOKs92faWpLpcXsTKB13YZ",
+            "source": "",
+            "comment": "deposit",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        }
+    ]
+}

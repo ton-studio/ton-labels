@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "triv",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://triv.co.id",
+        "description": "",
+        "organization": "triv"
+    },
+    "addresses": [
+        {
+            "address": "EQBdDG46A0juoBNRrJXxqT-6Zb6SxDm9Iic23qFZQ3xF5z5_",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        },
+        {
+            "address": "EQAfVpmfwikB3jxprM_8BciPVdtQ3gCMM5_qEFUYGbtWZkfJ",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T10:09:26Z"
+        }
+    ]
+}

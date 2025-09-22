@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "durov_stars",
+        "name": "Durov Stars",
+        "organization": "durov_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/DurovStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCccob10RHKIM_puAXhkbk_siwETuVbxTgSy0JptHCa70Zj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T17:00:02Z"
+        }
+    ]
+}

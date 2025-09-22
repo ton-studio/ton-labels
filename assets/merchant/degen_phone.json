@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "degen_phone",
+        "name": "Degen Phone",
+        "category": "merchant",
+        "organization": "degen_phone",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/DegenPhoneTonBot",
+        "description": "Private, NFT-powered phone numbers"
+    },
+    "addresses": [
+        {
+            "address": "EQBurhK2ywvnVmuCK-1hFNeAeRD4b69HGwRwTltoLzWQSKc7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-19T00:00:01Z"
+        }
+    ]
+}
