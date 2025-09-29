@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "aruai",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://tonvalidators.org/pool/?pool_address=Ef8iYtiliIeS9JcCOXbpkBYXiYOlF64fPhmnCgwyAKkQHHZt",
+        "description": "Validator operator in TON",
+        "organization": "aruai"
+    },
+    "addresses": [
+        {
+            "address": "Ef-OPifyoV5nimEj-g9u1_Z5WzkiySKDxiB2SydAf42amhXL",
+            "source": "",
+            "comment": "Aruai #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef8iYtiliIeS9JcCOXbpkBYXiYOlF64fPhmnCgwyAKkQHHZt",
+            "source": "",
+            "comment": "Aruai #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
