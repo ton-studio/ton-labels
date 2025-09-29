@@ -1,0 +1,212 @@
+{
+    "metadata": {
+        "label": "ton_strategy",
+        "category": "fund",
+        "subcategory": "",
+        "website": "https://www.tonstrat.com",
+        "description": "TON Strategy Co. (NASDAQ: TONX)",
+        "organization": "ton_strategy"
+    },
+    "addresses": [
+        {
+            "address": "EQBMGB5OWAx8xebwAPo4olRu4nRdRMfznYYK4S7z5Oi4R-P0",
+            "source": "",
+            "comment": "TON Strategy Pool 1",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef_fWaI5nByt4fAqN3Y0C_Ffw8C_-Ys4ixOxOYj-ErmJp6jG",
+            "source": "",
+            "comment": "TON Strategy Pool 2",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef_auHeZUjJISFIX_HXH0C71LazTHe_p7OpKNxFrU5_mAdKG",
+            "source": "",
+            "comment": "TON Strategy Pool 3",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef9b5oodn5ge19j932BnPWydqYMM3Bf7jIJXTQXTGsoOZeik",
+            "source": "",
+            "comment": "TON Strategy Pool 4",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef94CotSakcuOVEhLxG-1KV6pKZ6IoF1UhVKgYjbD-mdZaCj",
+            "source": "",
+            "comment": "TON Strategy Pool 5",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef8ZducbksnCdH5rNaDc9zyjUecCQgItcCWoKHqWwxZUX5Jh",
+            "source": "",
+            "comment": "TON Strategy Pool 6",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef97Bat2G3XwnXJwyDDwZSkVUUUWjK_ne-LiIBXosqBI5e9B",
+            "source": "",
+            "comment": "TON Strategy Pool 7",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef8QeBBgzb64Xey4p4WvL8Rj-Jd5ejjw89FdpAeIiyFPclQv",
+            "source": "",
+            "comment": "TON Strategy Pool 8",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef-RlzajUPUcUqjPejcsB_9DC5WwQ8gze7bHau2qXPnDp3nd",
+            "source": "",
+            "comment": "TON Strategy Pool 9",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef_ce_eqT0XRfrBX38tqCWXWR3NF4HAdKXZIltevF7BqMnjp",
+            "source": "",
+            "comment": "TON Strategy Pool 10",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef_ZgfY3E_JxlqRhsj1IULVMUxpfe9tm5ydDXP_NJ7-18BCw",
+            "source": "",
+            "comment": "TON Strategy Pool 11",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef8_HUmoTA2eR4WCC03GgZVi3XFF1lm4RQcodnjcNNez9605",
+            "source": "",
+            "comment": "TON Strategy Pool 12",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef-ImTh9tOD-7fEImTmCsC0DDw4ysykGurzldphDAG_sLzeh",
+            "source": "",
+            "comment": "TON Strategy Pool 13",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef_W3ic8GE33EAdrBVqKV4sRW7xY8DtvZ1YcksDnNB4f6O3P",
+            "source": "",
+            "comment": "TON Strategy Pool 14",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef9WPBhLMw9LKp5eXBaok2tXGE1zLQt6zdOoksbJ7sWGOSGM",
+            "source": "",
+            "comment": "TON Strategy Pool 15",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef-CL7XSaer5YuR6T-1HnBxfHCfODtt9jVj_l-7Jj8Rem8cC",
+            "source": "",
+            "comment": "TON Strategy Pool 16",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef9OOZ5dcReDksVzYQzJc3FJfaV4b9GRnzaI0j6KQJakvHBd",
+            "source": "",
+            "comment": "TON Strategy Pool 17",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef88qoEnZ-9cmsuOi7d8NoRl96WckAOe6fHtoSTM1GgGvf9m",
+            "source": "",
+            "comment": "TON Strategy Pool 18",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef8DPx_LD5PVbLpDpvt6n9Rdzmj9Pl5D-JJdCwbzClRFFF58",
+            "source": "",
+            "comment": "TON Strategy Pool 19",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        },
+        {
+            "address": "Ef_ixJH8wfk5BPzdAy4K-a805eTSI15IlWnm_KC06YrKJVqL",
+            "source": "",
+            "comment": "TON Strategy Pool 20",
+            "tags": [
+              "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T00:00:01Z"
+        }
+    ]
+}
