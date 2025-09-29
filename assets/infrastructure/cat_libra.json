@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "cat_libra",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://t.me/catchain",
+        "description": "Validator operator in TON",
+        "organization": "cat_libra"
+    },
+    "addresses": [
+        {
+            "address": "Ef98be2ASo4xA_t2Q2VIH0cdpYKylDyfhL3nL7Byjz180VaU",
+            "source": "",
+            "comment": "CAT Libra #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef8h5pd9_ZuWJOlilBH6a_LOACxl_R6DJbWHhut7QLDLWSgf",
+            "source": "",
+            "comment": "CAT Libra #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
