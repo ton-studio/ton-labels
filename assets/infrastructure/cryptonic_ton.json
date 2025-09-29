@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "cryptonic_ton",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://t.me/UltraValidatorsBot",
+        "description": "Validator operator in TON",
+        "organization": "cryptonic_ton"
+    },
+    "addresses": [
+        {
+            "address": "Ef8DEasP8aOZ9Wd-E4TI-0Xt9TOJHRoxb0HRmV14vz-Faw4c",
+            "source": "",
+            "comment": "Cryptonic TON #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef9hqGNdqb0W9GndT8Jlpz_MAvLggV4U3oCbE4fItgn9GQ3t",
+            "source": "",
+            "comment": "Cryptonic TON #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
