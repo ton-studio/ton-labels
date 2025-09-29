@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "luca's_tonpool",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "dr.jessamond@gmail.com",
+        "description": "Validator operator in TON",
+        "organization": "luca's_tonpool"
+    },
+    "addresses": [
+        {
+            "address": "Ef9xDVm0sQ0YkCGscPNaU1eTIR686IFSeLnQPy_C_0P84RrU",
+            "source": "",
+            "comment": "Luca's tonpool #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef8Xw7V-bJjf95k6D3uyzrg5bemAehobVHCqRqjlRZjgAgxG",
+            "source": "",
+            "comment": "Luca's tonpool #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
