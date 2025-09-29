@@ -15,6 +15,26 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-08T00:00:01Z"
+        },
+        {
+            "address": "Ef8vr1Jil46EwjCd5sOKlxD1NRzA8ZDcIolStOVd3x9Hy_Vg",
+            "source": "",
+            "comment": "DWF Labs Pool 1",
+            "tags": [
+                "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-29-09T00:00:01Z"
+        },
+        {
+            "address": "Ef_DkntDYhGvRVZwOmkoupIyt4zIqi74lWOkJUJBHbSDDqhg",
+            "source": "",
+            "comment": "DWF Labs Pool 2",
+            "tags": [
+                "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-29-09T00:00:01Z"
         }
     ]
 }
