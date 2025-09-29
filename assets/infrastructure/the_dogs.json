@@ -4,7 +4,7 @@
         "category": "infrastructure",
         "subcategory": "",
         "website": "https://t.me/TonDogsSupportBot",
-        "description": "Validator nodes of The Dogs in TON",
+        "description": "Validator operator in TON",
         "organization": "the_dogs"
     },
     "addresses": [
