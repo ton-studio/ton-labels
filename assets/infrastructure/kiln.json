@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "kiln",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://tonvalidators.org/pool/?pool_address=Ef8wqS4UJfAKLNtvNUpOskq-_2kD94ShUWvgwfV48mfBaw0B",
+        "description": "Kiln.fi is an enterprise-grade validator and yield management platform, offering secure staking and automated yield services across multiple blockchains",
+        "organization": "kiln"
+    },
+    "addresses": [
+        {
+            "address": "EQBDeq6wDuTBDkKUlXSfUBdbxz1z4v1nNX8vBOEgz2IA-IQS",
+            "source": "",
+            "comment": "kiln #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "EQCGXN12Cezmurk-BdzagP7bR1bp7GT-JrGDm8juleoVGzbI",
+            "source": "",
+            "comment": "kiln #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
