@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "ton_utils",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://github.com/xssnick/tonutils-go",
+        "description": "",
+        "organization": "ton_utils"
+    },
+    "addresses": [
+        {
+            "address": "Ef_X4pRKtgXOXYMOXNgXNRdlhkNKJ9bTKMfqvj6HDIiQG98F",
+            "source": "",
+            "comment": "TonUtils Pool #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef84e7qj_bxNbgbCOYGXwD-LUOCeUcPFEC_cd-7NLofjc067",
+            "source": "",
+            "comment": "TonUtils Pool #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
