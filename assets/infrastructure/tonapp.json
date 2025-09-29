@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "tonapp",
+        "category": "infrastructure",
+        "subcategory": "",
+        "website": "https://ton.app",
+        "description": "TON App — a gateway to TON blockchain apps and tools",
+        "organization": "tonapp"
+    },
+    "addresses": [
+        {
+            "address": "Ef8zS4jd_1n4AvA9SNxpEb77sXG7syWfgqTUIFfsCA-0xsm0",
+            "source": "",
+            "comment": "TonApp pool #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef_IZXekW6BZDx5kaMdr9bYRJm-gdZJHiLu4XJTt_brHLnFu",
+            "source": "",
+            "comment": "TonApp pool #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
