@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "vice_city_blues",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https:/t.me/vice_ton_bot",
+        "description": "Validator operator in TON",
+        "organization": "vice_city_blues"
+    },
+    "addresses": [
+        {
+            "address": "Ef-4MnMJuUUSyiaZWH6bGLQjSH4eKcaLAF9lt7GopkfRP1s-",
+            "source": "",
+            "comment": "Vice city blues #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef-W-k5dQH642Zl7J5NVM6t1PM8qExGTbX-Y50MFml5tuNxW",
+            "source": "",
+            "comment": "Vice city blues #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
