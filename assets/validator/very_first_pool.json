@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "very_first_pool",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://t.me/very_first_pool_bot",
+        "description": "Validator operator in TON",
+        "organization": "very_first"
+    },
+    "addresses": [
+        {
+            "address": "Ef8gQpp7pKD9GzBrcr3ju9faPjEWHPerhZ4tFpSiDoDUINxn",
+            "source": "",
+            "comment": "Very First Pool #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef_dodh2I8BjpvxJIrKG5owo5_C1RZlzkZtXC3HGLuNZE0Sa",
+            "source": "",
+            "comment": "Very First Pool #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "alpha_pro",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://t.me/ALPHAPRO_support",
+        "description": "Validator operator in TON",
+        "organization": "alpha_pro"
+    },
+    "addresses": [
+        {
+            "address": "Ef_ajx5qE0Js8iYKMRuzQquObl9GNrANOakvCcMwdWaSu0Xb",
+            "source": "",
+            "comment": "Alphapro #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
