@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "luca's_tonpool",
+        "label": "luca.s_tonpool",
         "category": "validator",
         "subcategory": "",
         "website": "https://tonvalidators.org/pool/pool_address=Ef9xDVm0sQ0YkCGscPNaU1eTIR686IFSeLnQPy_C_0P84RrU",
         "description": "Validator operator in TON",
-        "organization": "luca's_tonpool"
+        "organization": "luca.s_tonpool"
     },
     "addresses": [
         {
