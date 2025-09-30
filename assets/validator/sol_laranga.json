@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "sol_laranga",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://tonvalidators.org/pool/?pool_address=Ef9r9nMn8L_mUxvoNUnlf5vmfm3IbYN0IFLpHYIeLjT7tgbL",
+        "description": "Validator operator in TON",
+        "organization": "sol_laranga"
+    },
+    "addresses": [
+        {
+            "address": "Ef9r9nMn8L_mUxvoNUnlf5vmfm3IbYN0IFLpHYIeLjT7tgbL",
+            "source": "",
+            "comment": "Sol laranja #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef_77UxbnpRFdaQ6QYBA6GEjJNXN9Dt5KaBJgCUBnEYVBRSW",
+            "source": "",
+            "comment": "Sol laranja #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
