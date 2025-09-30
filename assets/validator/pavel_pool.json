@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "pavel_pool",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://t.me/behrang",
+        "description": "Validator operator in TON",
+        "organization": "pavel_pool"
+    },
+    "addresses": [
+        {
+            "address": "Ef_OYrIEu5DMGU4sC9o64ZKfUdFFRoTeA9XwxIj7nGZBB0_k",
+            "source": "",
+            "comment": "Pavel #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef9Pp5I6ct3NvQtMAiMsz1b5n25h5tpGGG89f7XqVrhdw2DE",
+            "source": "",
+            "comment": "Pavel #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}

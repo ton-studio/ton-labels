@@ -1,7 +1,7 @@
 {
     "metadata": {
         "label": "ton_whales",
-        "category": "liquid-staking",
+        "category": "validator",
         "subcategory": "",
         "website": "https://tonwhales.com",
         "description": "",
@@ -24,7 +24,8 @@
             "comment": "Whales Team #2",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+               "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -35,7 +36,8 @@
             "comment": "Whales Nominators #2",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+               "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -46,7 +48,8 @@
             "comment": "Tonkeeper pool #1",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+               "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -57,7 +60,8 @@
             "comment": "Whales Team #1",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+               "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -68,7 +72,8 @@
             "comment": "Tonkeeper pool #2",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+               "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -79,7 +84,8 @@
             "comment": "Whales Nominators #1",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+               "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -90,7 +96,8 @@
             "comment": "Whales Club #1",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+                "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -101,7 +108,8 @@
             "comment": "Whales Club #2",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+                "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -112,7 +120,8 @@
             "comment": "ePN pool #2",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+                "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
@@ -123,7 +132,8 @@
             "comment": "ePN pool #1",
             "tags": [
                 "defi",
-                "pool"
+                "pool",
+                "validator"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-03-24T12:00:00Z"
