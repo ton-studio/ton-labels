@@ -3,7 +3,7 @@
         "label": "sol_laranga",
         "category": "validator",
         "subcategory": "",
-        "website": "https://tonvalidators.org/pool/?pool_address=Ef9r9nMn8L_mUxvoNUnlf5vmfm3IbYN0IFLpHYIeLjT7tgbL",
+        "website": "https://tonvalidators.org/pool_address=Ef9r9nMn8L_mUxvoNUnlf5vmfm3IbYN0IFLpHYIeLjT7tgbL",
         "description": "Validator operator in TON",
         "organization": "sol_laranga"
     },
