@@ -3,7 +3,7 @@
         "label": "blackcastle",
         "category": "validator",
         "subcategory": "",
-        "website": "https://tonvalidators.org/pool/?pool_address=Ef8UV8c2po5g_13T2SnNGRYMEvx0tZGLCCRk3P-09nbvZDbV",
+        "website": "https://tonvalidators.org/pool_address=Ef8UV8c2po5g_13T2SnNGRYMEvx0tZGLCCRk3P-09nbvZDbV",
         "description": "Validator operator in TON",
         "organization": "blackcastle"
     },
