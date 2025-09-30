@@ -74,5 +74,9 @@
     {
         "name": "has-custodial-wallets",
         "description": "Has custodial wallets which send deposits to this address"
+    },
+    {
+        "name": "validator",
+        "description": "Address associated with a validator node or staking pool"
     }
 ]
