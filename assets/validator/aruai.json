@@ -3,7 +3,7 @@
         "label": "aruai",
         "category": "validator",
         "subcategory": "",
-        "website": "https://tonvalidators.org/pool/?pool_address=Ef8iYtiliIeS9JcCOXbpkBYXiYOlF64fPhmnCgwyAKkQHHZt",
+        "website": "https://tonvalidators.org/pool_address=Ef8iYtiliIeS9JcCOXbpkBYXiYOlF64fPhmnCgwyAKkQHHZt",
         "description": "Validator operator in TON",
         "organization": "aruai"
     },
