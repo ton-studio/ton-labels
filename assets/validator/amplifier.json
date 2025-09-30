@@ -3,7 +3,7 @@
         "label": "amplifier",
         "category": "validator",
         "subcategory": "",
-        "website": "https://tonvalidators.org/pool/?pool_address=Ef8wqS4UJfAKLNtvNUpOskq-_2kD94ShUWvgwfV48mfBaw0B",
+        "website": "https://tonvalidators.org/pool_address=Ef8wqS4UJfAKLNtvNUpOskq-_2kD94ShUWvgwfV48mfBaw0B",
         "description": "Validator operator in TON",
         "organization": "amplifier"
     },
