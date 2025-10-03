@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "futurum",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/ft_rm_bot",
+        "description": "Bets on various events",
+        "organization": "futurum"
+    },
+    "addresses": [
+        {
+            "address": "EQBa-WiYCQu-bW8Ltl8UGL9Tnp-ta24xibCe4KEr5Mi5XCXi",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        }
+    ]
+}
