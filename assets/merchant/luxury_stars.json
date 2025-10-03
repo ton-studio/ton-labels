@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "luxury_stars",
+        "name": "Luxury stars",
+        "organization": "luxury_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://luxurystars.tg"
+    },
+    "addresses": [
+        {
+            "address": "EQCA5FnsaDE2xm1GGHAI4Ln7pa86BGVknauKrmdjYjyxNY-x",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T17:00:02Z"
+        }
+    ]
+}

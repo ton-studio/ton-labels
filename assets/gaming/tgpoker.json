@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tgpoker",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/tg_poker",
+        "description": "",
+        "organization": "tgpoker"
+    },
+    "addresses": [
+        {
+            "address": "EQBX3Gb4AyQ8JNAGyf5cbO7rsVEGBklvEOGfomtujxPxyIvB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        }
+    ]
+}

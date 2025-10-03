@@ -75,6 +75,22 @@
             "tags": [],
             "submittedBy": "ch4rter",
             "submissionTimestamp": "2025-08-13T00:00:01Z"
+        },
+        {
+            "address": "EQBELNs-kCde5ynY1RBv3Dtui5rOnP2i00WjQroPoLMKZ8aM",
+            "source": "",
+            "comment": "TG stars",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        },
+        {
+            "address": "EQAc6NyJWSDiaY2NsEMbumnkDuoB2dzB9EBh2Rp6YZlRlZ08",
+            "source": "",
+            "comment": "Marketplace fee address (multisig)",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
         }
     ]
 }

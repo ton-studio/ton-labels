@@ -15,6 +15,16 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-24T00:00:01Z"
+        },
+        {
+            "address": "EQA0NFtCrdP-h_zc4jRuyQSk-wIeG6DdweuDuZ8VL8_wGvYj",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
         }
     ]
 }
