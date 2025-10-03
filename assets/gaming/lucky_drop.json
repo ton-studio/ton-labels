@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "lucky_drop",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/luckydrop_official_bot",
+        "description": "",
+        "organization": "lucky_drop"
+    },
+    "addresses": [
+        {
+            "address": "EQB5CQNdrUqul6qGPHINMfCFiDjXoOY0sq4ip5p-O-pRF3sU",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        }
+    ]
+}
