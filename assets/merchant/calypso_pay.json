@@ -11,7 +11,7 @@
         {
             "address": "EQBIFCoHLKM5ym1yAUpJ5FOzoaBWCKdlrOZCKuxllZyC95ic",
             "source": "",
-            "comment": "Custodial wallets reuse"
+            "comment": "Custodial wallets reuse",
             "tags": [
               "has-custodial-wallets"
             ],
