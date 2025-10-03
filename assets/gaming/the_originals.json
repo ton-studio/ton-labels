@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "the_originals",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/Tonoreum_Bot",
+        "description": "",
+        "organization": "the_originals"
+    },
+    "addresses": [
+        {
+            "address": "EQC_znuknLC5c6R61UBWJY5i0GhZWqyjtStS6BoyMVCDgNkn",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        }
+    ]
+}

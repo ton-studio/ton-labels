@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "ton_syndrome",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://t.me/UltraValidatorsBot",
+        "description": "Validator operator in TON",
+        "organization": "ton_syndrome"
+    },
+    "addresses": [
+        {
+            "address": "Ef8Q01195TNr875qczfyyY7imy_cQs4wEfMQQPFfMdwqbcIF",
+            "source": "",
+            "comment": "TON syndrome #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef_dE9rdVt3hNzzWU-sH4educQyTuW-xLgAN-0e3YiWWpF9x",
+            "source": "",
+            "comment": "TON syndrome #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}

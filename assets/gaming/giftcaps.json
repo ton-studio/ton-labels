@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "giftcaps",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/GiftCapsBot",
+        "description": "",
+        "organization": "giftscaps"
+    },
+    "addresses": [
+        {
+            "address": "EQD-glzWMXU5q_Ze0nd9aDQcBk7qMaA1NbpZ6a6HRAReANM9",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        },
+        {
+            "address": "EQA1n02l2q1FogpAgJhxUY4OzLp0cqJrKAEBK6w6ZZD3rhV1",
+            "source": "",
+            "comment": "Telegram Stars cashout address",
+            "tags": [],
+            "submittedBy": "arbuz321",
+            "submissionTimestamp": "2025-09-14T00:00:01Z"
+        }
+    ]
+}

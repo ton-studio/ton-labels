@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bustagift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/bustagift_xbot",
+        "description": "",
+        "organization": "bustagift"
+    },
+    "addresses": [
+        {
+            "address": "EQATRGQD_TtnpBvIZa0A0NZB8yeDXm7J6E-CULJP3lKsA06C",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-12T00:00:01Z"
+        }
+    ]
+}

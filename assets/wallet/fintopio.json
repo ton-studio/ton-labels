@@ -1,0 +1,21 @@
+{
+   "metadata": {
+       "label": "fintopio",
+       "name": "Fintopio",
+       "organization": "fintopio",
+       "category": "wallet",
+       "subcategory": "",
+       "description": "Fintopio – wallet in telegram",
+       "website": "https://t.me/fintopio"
+   },
+   "addresses": [
+       {
+           "address": "EQD7THHQshUNKxio14vla6EaqpHxVnlItwum6x7oBSORwJJ8",
+           "source": "",
+           "comment": "Telegram Stars cashout address",
+           "tags": [],
+           "submittedBy": "arbuz321",
+           "submissionTimestamp": "2025-09-14T17:00:02Z"
+       }
+   ]
+}

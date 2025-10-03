@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "koreaton_pool",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://tonvalidators.org/pool/pool_address=Ef9QA9O2zBmzK4r4PR5774n7u3ZuRTyNAS37qGfcuK5_jJg1",
+        "description": "Validator operator in TON",
+        "organization": "koreaton_pool"
+    },
+    "addresses": [
+        {
+            "address": "Ef9QA9O2zBmzK4r4PR5774n7u3ZuRTyNAS37qGfcuK5_jJg1",
+            "source": "",
+            "comment": "KoreaTON Pool #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef-WCNS9bSpx6wN9cusNbyaBVpGatjmaUXWcdiVlxw7wz9ot",
+            "source": "",
+            "comment": "KoreaTON Pool #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}

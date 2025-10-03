@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "mypool",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://tonvalidators.org/pool/pool_address=Ef-r2YSWiGAQiKXDqypMly-gykFeFAcPqUXB1XbrV5D3kMav",
+        "description": " This pool is managed by mytonctrl ",
+        "organization": "mypool"
+    },
+    "addresses": [
+        {
+            "address": "Ef-r2YSWiGAQiKXDqypMly-gykFeFAcPqUXB1XbrV5D3kMav",
+            "source": "",
+            "comment": "mypool #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef9Xa0Dplm4XgAAy_uv97xvrf5y9RzRzeBcC2L0SWCEMdKFH",
+            "source": "",
+            "comment": "mypool #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}

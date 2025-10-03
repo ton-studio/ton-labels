@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "fastnet_pool_a",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://t.me/fastnet_ton_support_bot",
+        "description": "Validator operator in TON",
+        "organization": "fastnet_pool_a"
+    },
+    "addresses": [
+        {
+            "address": "Ef9IJWfn0qDrh4S8CBJsZUzAPrxQkH3C_JanVrQWjOZ5LndS",
+            "source": "",
+            "comment": "Fastnet pool A #1",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        },
+        {
+            "address": "Ef__38zm-M_kTn6OgIs5DKVQy2qnjJIF50xZ203regWrI-yh",
+            "source": "",
+            "comment": "Fastnet pool A #2",
+            "tags": [
+                 "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-09-29T07:07:33Z"
+        }
+    ]
+}
