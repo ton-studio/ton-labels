@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "label": "mixpay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://mixpay.me",
+        "description": "Crypto payment gateway",
+        "organization": "mixpay"
+    },
+    "addresses": [
+        {
+            "address": "EQAWi-KkDVP71C636Lq5Yrw6ebKwXZARzOAnWiFt0kaN4BII",
+            "source": "",
+            "comment": "Custodial wallets reuse",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T10:40:00Z"
+        },
+        {
+            "address": "EQA_iYi3qoX8V0Cqv9pnwoKzGlWA8vYZHNP3P7O6vwykTMVM",
+            "source": "",
+            "comment": "Custodial wallets reuse",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T10:40:00Z"
+        },
+        {
+            "address": "EQD9v-pWvLyKlCpoTJTLFj_-mNX-j8eeWzADkEV0zNG6HmQr",
+            "source": "",
+            "comment": "Gas top‑up address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T10:40:00Z"
+        }
+    ]
+}
