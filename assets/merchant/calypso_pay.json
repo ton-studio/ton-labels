@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "calypso_pay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://www.calypso.finance",
+        "description": "Crypto payment gateway for businesses",
+        "organization": "calypso"
+    },
+    "addresses": [
+        {
+            "address": "EQBIFCoHLKM5ym1yAUpJ5FOzoaBWCKdlrOZCKuxllZyC95ic",
+            "source": "",
+            "comment": "Custodial wallets reuse"
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T10:40:00Z"
+        }
+    ]
+}
