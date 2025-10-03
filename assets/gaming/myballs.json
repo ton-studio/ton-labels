@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "label": "balls",
+        "name": "Balls",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/myballs",
+        "description": "",
+        "organization": "rolls"
+    },
+    "addresses": [
+        {
+            "address": "EQDvO68pm9zAKfShB2SvvgN64ZsXDoMj8-Br0qGFTlkCBtnQ",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "vertetigr",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        }
+
+        
+    ]
+}
