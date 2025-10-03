@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "deepwave",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://deepwave.cc",
+        "description": "Fraud alert: bonus offer that asks for upfront payment",
+        "organization": "deepwave"
+    },
+    "addresses": [
+        {
+            "address": "EQDlWNJ8tIuSGPC7CO-5qlI3YFdAbXvNsiv7hmpLOwt29SIF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T10:09:26Z"
+        }
+    ]
+}
