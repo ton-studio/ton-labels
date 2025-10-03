@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "inside_ads",
+        "category": "ads",
+        "subcategory": "",
+        "website": "https://t.me/InsideAds_bot",
+        "description": "Web advertising tool for Telegram Miniapps",
+        "organization": "inside_ads"
+    },
+    "addresses": [
+        {
+            "address": "EQCGZfNGi6gvwgIDE6kTdA2ydpPuCJ4HZsCHZqqRiCku8BB3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        }
+    ]
+}
