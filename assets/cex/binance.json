@@ -12,7 +12,9 @@
             "address": "EQDKHZ7e70CzqdvZCC83Z4WVR8POC_ZB0J1Y4zo88G-zCXmC",
             "source": "https://tonalytica.redoubt.online/queries/776/source",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-11-25T19:52:44Z"
         },
@@ -47,6 +49,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-09-19T01:01:01Z"
+        },
+        {
+            "address": "EQCiRT_sPjoaZsZVfpafld-mtCRVkji-YsZFozCSEpnzxUS5",
+            "source": "",
+            "comment": "Gas top‑up address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T01:01:01Z"
         }
     ]
 }
