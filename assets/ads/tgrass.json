@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tgrass",
+        "category": "ads",
+        "subcategory": "",
+        "website": "https://t.me/tgrassbot",
+        "description": "Telegram traffic marketplace with chatbot access",
+        "organization": "tgrass"
+    },
+    "addresses": [
+        {
+            "address": "EQAzAYi12p5JpfjM0aH-Gh2RG6BKvhhEc-GHrTPjql_1Ebvb",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        }
+    ]
+}

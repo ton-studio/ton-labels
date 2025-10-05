@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitbanker",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://bitbanker.org",
+        "description": "",
+        "organization": "bitbanker"
+    },
+    "addresses": [
+        {
+            "address": "EQCUUzj8tyPpo01B3b-tJpFxOd91xoSuMaVfYKPMP1-5YbR3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T10:09:26Z"
+        }
+    ]
+}
