@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "lucky_bear",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/ChilliHeatBot",
+        "description": "",
+        "organization": "lucky_bear"
+    },
+    "addresses": [
+        {
+            "address": "EQBzchls5Y92d_GvUDfiu5mO8b1s8wBvMKkjLHr1YT8iv-yl",
+            "source": "",
+            "comment": "USDT",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-03T00:00:01Z"
+        }
+    ]
+}
