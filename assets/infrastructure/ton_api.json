@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "label": "ton_api",
+    "category": "infrastructure",
+    "subcategory": "",
+    "website": "https://t.me/tonapibot",
+    "description": "Official bot to issue Toncenter API keys",
+    "organization": "toncenter"
+  },
+  "addresses": [
+    {
+      "address": "EQBKnfWipiioZegVWe8c_4kDIzpdVEjHJuezOa2y8rrGsZ4R",
+      "source": "",
+      "comment": "Custodial wallets reuse",
+      "tags": [
+                "has-custodial-wallets"
+            ],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-10-13T00:00:01Z"
+    },
+    {
+      "address": "EQAeCZVTOlXzbbPY_25tWj3OqAoKobT1qT555z8Gbd4LMGvl",
+      "source": "",
+      "comment": "Treasury address",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-10-13T00:00:01Z"
+    }
+  ]
+}
