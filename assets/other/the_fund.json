@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "the_fund",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/TheFundRobot",
+        "description": "Project token distribution bot",
+        "organization": "the_fund"
+    },
+    "addresses": [
+        {
+            "address": "EQChH11w_oiMYoHxM_UVc1KsrK4uarMlnmg1eayj1I3CU6xL",
+            "source": "https://t.me/thefund/76",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T00:00:01Z"
+        }
+    ]
+}

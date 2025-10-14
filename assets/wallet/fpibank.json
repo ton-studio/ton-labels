@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "fpibank",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://fpibank.com",
+        "description": "Multifunctional TON fintech platform",
+        "organization": "fpibank"
+    },
+    "addresses": [
+        {
+            "address": "EQBY1VhR5VkWkKyOWUMM-CvQ6gjteffH1gWy2lfgZqCWcUan",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T00:00:01Z"
+        }
+    ]
+}

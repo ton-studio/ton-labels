@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "snapster_trading_app",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://t.me/snapster_bot",
+        "description": "",
+        "organization": "snapster_trading"
+    },
+    "addresses": [
+        {
+            "address": "EQB_KO8GxoNQWhl-L2lEQL3h2w8T8FNkDjGDCtUqczwkxXxt",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T00:00:01Z"
+        }
+    ]
+}

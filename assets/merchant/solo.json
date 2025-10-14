@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "solo",
+        "name": "Solo",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/solobankbot",
+        "description": "Mobile recharge & bill payments",
+        "organization": "solo"
+    },
+    "addresses": [
+        {
+            "address": "EQA5RrADLBwMioYTPbCt9c_6Jx3YHXOLqY78CRxZf3QBKgkg",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T00:00:01Z"
+        }
+    ]
+}
