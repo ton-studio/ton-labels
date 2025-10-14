@@ -12,7 +12,7 @@
         {
             "address": "EQCLBw7bAacA8_akYkx-CG4DbahgYOuwTxmQjuYaNTczXzU3",
             "source": "",
-            "comment": "hot wallet",
+            "comment": "hot wallet; The same address is also used by https://changelly.com",
             "tags": [
                 "has-custodial-wallets"
             ],
