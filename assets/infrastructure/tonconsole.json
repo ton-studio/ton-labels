@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "label": "tonconsole",
+    "category": "infrastructure",
+    "subcategory": "",
+    "website": "https://tonconsole.com",
+    "description": "Business platform for TON APIs and payments",
+    "organization": "tonconsole"
+  },
+  "addresses": [
+    {
+      "address": "EQB5A3fxgF4u4oP_0k800iGNlAywiHmTeOsr15H0L-_Inhif",
+      "source": "",
+      "comment": "",
+      "tags": [
+            "has-custodial-wallets"
+      ],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-10-14T00:00:01Z"
+    },
+    {
+      "address": "EQB5A3fxgF4u4oP_0k800iGNlAywiHmTeOsr15H0L-_Inhif",
+      "source": "",
+      "comment": "Treasury address",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-10-14T00:00:01Z"
+    }
+  ]
+}
