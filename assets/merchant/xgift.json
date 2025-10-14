@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "xgift",
+        "name": "xGIFT",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/xgift",
+        "description": "Gift Aggregator",
+        "organization": "xgift"
+    },
+    "addresses": [
+        {
+            "address": "EQAyeFjSbRAOjVtWNCGORTK5HqIJyEjpFuID5iPLIM8FlcKG",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T00:00:01Z"
+        }
+    ]
+}
