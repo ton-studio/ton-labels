@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "duckfi",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/duckfi_telegram_bot",
+        "description": "",
+        "organization": "duckfi"
+    },
+    "addresses": [
+        {
+            "address": "EQCHZixe_CtaY_vbsNUDyS58AIo27dltXpO4gXw6B2PloXIo",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQBLLC5QcaQIfYItsr5nP9SN1bpiJcF8N4fdhbRUzBkCJ0sL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-12T00:00:01Z"
+        }
+    ]
+}

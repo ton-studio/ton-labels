@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "magic_eden",
+        "name": "Magic Eden",
+        "organization": "magic_eden",
+        "category": "merchant",
+        "subcategory": "onchain_marketplace",
+        "description": "nft marketplace",
+        "website": "https://t.me/MagicEdenen_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQB6zzVgdNwPe2bJl4EOgBqMiOHpnr_nssJyYqkVhwKwQ_Hm",
+            "source": "",
+            "comment": "Custodial wallets reuse",
+            "tags": [
+              "has-custodial-wallets"
+                 ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T17:00:02Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "azbit",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://azbit.com",
+        "description": "",
+        "organization": "azbit"
+    },
+    "addresses": [
+        {
+            "address": "EQAwgMdGlsc0J3ptFSU9yQ53lOYDby-YrjGgCHwHe_QcYjEP",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-12T10:09:26Z"
+        }
+    ]
+}

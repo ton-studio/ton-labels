@@ -17,6 +17,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-01T00:00:01Z"
+        },
+        {
+            "address": "EQCo2ftIP6_GV9D1BPEctJmrSpyWE0i7Duv9VUKrUgKb-3rT",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-12T00:00:01Z"
         }
     ]
 }

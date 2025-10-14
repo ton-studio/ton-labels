@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "btse",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.btse.com",
+        "description": "",
+        "organization": "btse"
+    },
+    "addresses": [
+        {
+            "address": "EQCpxO-coqH4IG4PkQKgblYOBHhS7IWliGds26tbviEcrdEw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-12T10:09:26Z"
+        },
+        {
+            "address": "EQBZ7r9I9Psbe6Mtdgi2ZfNfOFtv4y1W0xr9z048UlOAqxQy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-12T10:09:26Z"
+        }
+    ]
+}

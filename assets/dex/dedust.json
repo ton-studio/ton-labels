@@ -259,6 +259,17 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-09-05T00:00:01Z"
+        },
+        {
+            "address": "EQCnCOnsb2G_I_2Wsmsi1XnGDVH7Y12XjpIdCnT7WSlqNj3u",
+            "source": "",
+            "comment": "DeDust Vault, UTYA",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-12T00:00:01Z"
         }
     ]
 }

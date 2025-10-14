@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "lotshot_ton_drop",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/lotshot_ton_bot",
+        "description": "",
+        "organization": "lotshot"
+    },
+    "addresses": [
+        {
+            "address": "EQCHbnxDzu6b7U25pLV2V1cWwh1IxxtHPKmZky4Wpo-m-WuM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T00:00:01Z"
+        },
+        {
+            "address": "EQAABbDZyUG5vO-lhhpNPMzdHmv5Ub5NILsKgJj_51kZDAQ6",
+            "source": "",
+            "comment": "nft_collection",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-14T00:00:01Z"
+        }
+    ]
+}
