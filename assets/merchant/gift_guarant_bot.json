@@ -10,7 +10,7 @@
     },
     "addresses": [
         {
-            "address": "EQD3Ft2jgBs8RuthXHLtgFjRlkU_k98pNiRXS8eqarr2ROOW",
+            "address": "EQCUzRrQc2tYwHkRWchcuXp7lWg8dBG6as5E0OR6YeZnTwz6",
             "source": "",
             "comment": "chat bot",
             "tags": [
@@ -18,6 +18,16 @@
             ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-08-16T00:00:01Z"
+        },
+        {
+            "address": "EQD3Ft2jgBs8RuthXHLtgFjRlkU_k98pNiRXS8eqarr2ROOW",
+            "source": "",
+            "comment": "chat bot",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "",
+            "submissionTimestamp": ""
         }
     ]
 }
