@@ -1,0 +1,20 @@
+{
+	"metadata": {
+			"label": "p00ls",
+			"category": "gaming",
+			"subcategory": "gambling",
+			"website": "https://t.me/p00ls_games_bot",
+			"description": "",
+			"organization": "p00ls"
+	},
+	"addresses": [
+			{
+					"address": "EQCr0jczHlWgG7S-cqn32Tc6s1Z0ehsT03oUIxvjvsOOAA-m",
+					"source": "",
+					"comment": "Telegram Stars Cashout address",
+					"tags": [],
+					"submittedBy": "ef-code",
+					"submissionTimestamp": "2025-10-14T00:00:01Z"
+			}
+	]
+}
