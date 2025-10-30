@@ -18,6 +18,16 @@
             ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-08-16T00:00:01Z"
+        },
+        {
+            "address": "EQD3Ft2jgBs8RuthXHLtgFjRlkU_k98pNiRXS8eqarr2ROOW",
+            "source": "",
+            "comment": "chat bot",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "GreatArchitector",
+            "submissionTimestamp": "2025-10-20T12:47:00Z"
         }
     ]
 }
