@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitton_ai",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/BitTON_AI_BOT",
+        "description": "deposit-based internal yield application",
+        "organization": "bitton_ai"
+    },
+    "addresses": [
+        {
+            "address": "EQBPrAxbmtVBVbGLaxm9I02K5Pj4i9E8tZSLSt4HvSlL4yiY",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-30T00:00:26Z"
+        }
+    ]
+}

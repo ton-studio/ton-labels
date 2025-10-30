@@ -539,6 +539,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-04T00:00:01Z"
+        },
+        {
+            "address": "EQD5TIvGT6NxphRDKX9wRUkJOHyE0VTuTGdVSGA5N_b62naH",
+            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees",
+            "comment": "omniston_referral Fee-Vault Minter",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-10-30T00:00:01Z"
         }
     ]
 }
