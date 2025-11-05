@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "contests",
+        "name": "Contests",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/contests_app_bot",
+        "description": "All-in-one tool for contests ",
+        "organization": "contests"
+    },
+    "addresses": [
+        {
+            "address": "EQDMb3Xu0GylXl_P2KQBGbt1hwNUfdfy7ImRsZtv1G86Qbcs",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-05T00:00:01Z"
+        },
+        {
+            "address": "EQBOgABWjQBnQyfk0ALmgIGGIgEHRTDm3U3NyFcYB2pk9Te9",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-05T00:00:01Z"
+        }
+    ]
+}
