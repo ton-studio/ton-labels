@@ -1,4 +1,4 @@
-name: Complile and upload datalake on AWS
+name: Compile and upload datalake on AWS
 
 on:
   push:
@@ -17,31 +17,38 @@ jobs:
     environment: production
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python 3.11
-      uses: actions/setup-python@v3
-      with:
-        python-version: 3.11
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Compile
-      run: |
-        python build_assets.py
-    - uses: shallwefootball/s3-upload-action@master
-      with:
-        aws_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws_bucket: 'ton-blockchain-public-datalake'
-        source_dir: 'output/csv/'
-        destination_dir: 'v1/ton-labels/csv/'
-    - uses: shallwefootball/s3-upload-action@master
-      with:
-        aws_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws_bucket: 'ton-blockchain-public-datalake'
-        source_dir: 'output/json/'
-        destination_dir: 'v1/ton-labels/json/'
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Compile assets
+        run: |
+          python build_assets.py
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Upload CSV files to S3
+        run: |
+          aws s3 cp output/csv/ s3://ton-blockchain-public-datalake/v1/ton-labels/csv/ \
+            --recursive \
+            --acl private
+
+      - name: Upload JSON files to S3
+        run: |
+          aws s3 cp output/json/ s3://ton-blockchain-public-datalake/v1/ton-labels/json/ \
+            --recursive \
+            --acl private
