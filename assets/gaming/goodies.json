@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "goodies",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/goodies",
+        "description": "",
+        "organization": "goodies"
+    },
+    "addresses": [
+        {
+            "address": "EQCxcTEW_uY186TNZsnSyEjiI4K8BGTP99dNlRos4bp3dSmw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-11-08T00:00:01Z"
+        }
+    ]
+}
