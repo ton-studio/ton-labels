@@ -12,9 +12,19 @@
             "address": "EQAkr6xfCanZVbTgPGU79ppwgheRykeOd4ioKDQBLxjZiD5P",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                "telegram-gifts"
+            ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-20T00:00:01Z"
+        },
+        {
+            "address": "EQAkAufco-j-D_pNk5R7XqflknScwGb8IBMlCuf7RAgVsJHr",
+            "source": "",
+            "comment": "Telegram Stars cashout address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
         }
     ]
 }
