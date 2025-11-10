@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "emcd_wallet",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/EmcdWalletBot",
+        "description": "",
+        "organization": "emcd_wallet"
+    },
+    "addresses": [
+        {
+            "address": "EQDN-fMCTU55KaGuBEQpYXbChZD5sAnx6oBSA5-KUt9RQaes",
+            "source": "",
+            "comment": "Withdrawal and deposit address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}
