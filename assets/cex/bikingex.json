@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bikingex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.bikingex.com",
+        "description": "",
+        "organization": "bikingex"
+    },
+    "addresses": [
+        {
+            "address": "EQBYDVN3MYBOdKaa23xVHH5ybVvgbasarvuKOXYiDmsbApDE",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

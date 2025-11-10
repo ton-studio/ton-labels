@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "mell_gifts",
+        "name": "Mell Gifts",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/mellgifts_bot",
+        "description": "",
+        "organization": "mell_gifts"
+    },
+    "addresses": [
+        {
+            "address": "EQAVLHtg-uTO9byreTgXJ_NHjA1kH_i7NCIaBaxrwre6O3Tw",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+  }

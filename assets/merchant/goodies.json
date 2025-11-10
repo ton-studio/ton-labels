@@ -2,12 +2,28 @@
     "metadata": {
         "label": "goodies",
         "category": "merchant",
-        "subcategory": "",
-        "website": "https://t.me/goodies",
-        "description": "",
+        "subcategory": "onchain_marketplace",
+        "website": "https://t.me/getgoodies_bot",
+        "description": "nft marketplace",
         "organization": "goodies"
     },
     "addresses": [
+        {
+            "address": "EQAQxVzpPVh17UAITRdfhHZpf4llCQht3wPDk5H8ZVQHCYmi",
+            "source": "",
+            "comment": "Refund distribution among the raffle winners",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-06T00:00:00Z"
+        },
+        {
+            "address": "EQCh_v6tNylp-1BSU92ewa-jU6O8E3chpXNcbPknGSDKDWfE",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-06T00:00:00Z"
+        },
         {
             "address": "EQCxcTEW_uY186TNZsnSyEjiI4K8BGTP99dNlRos4bp3dSmw",
             "source": "",

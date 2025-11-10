@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "normi",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://normi.es",
+        "description": "",
+        "organization": "normi"
+    },
+    "addresses": [
+        {
+            "address": "EQC2EypUOUS89oJ7AtWYPr5f2QkeQ-obEPTtNp19kHhgCOlK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-06T10:09:26Z"
+        }
+    ]
+}

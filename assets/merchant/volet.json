@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "volet",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://volet.com",
+        "description": "Payment processing",
+        "organization": "volet"
+    },
+    "addresses": [
+        {
+            "address": "EQBojIBlzxUlaEeYckTqFi-FXFc9eSX6pkrIbUTXcl3DGXij",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "gram_zone",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://app.gram.zone",
+        "description": "",
+        "organization": "gram_zone"
+    },
+    "addresses": [
+        {
+            "address": "EQAcfPDlIuH0YldUSqg0IaEMzTGl4hehpUyGCyWfWlTQ3vY8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

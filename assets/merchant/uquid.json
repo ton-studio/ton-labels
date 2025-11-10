@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "uquid",
+        "name": "Uquid",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://uquid.com",
+        "description": "Online digital shop",
+        "organization": "uquid"
+    },
+    "addresses": [
+        {
+            "address": "EQAKJBc9qjjnN9pfi-eLWkLUYhZrVeuRDs1Nw43oPBnTudXu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

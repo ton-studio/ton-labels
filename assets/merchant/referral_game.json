@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "referral_game",
+        "name": "Referral Game",
+        "organization": "referralgame",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "buying referrals for games",
+        "website": "https://t.me/ReferralGame_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBlVQmCyhn8yYLWpsawpL7zaHSj4RRBZUZLtv9esIjj72x5",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-06T17:00:02Z"
+        }
+    ]
+}

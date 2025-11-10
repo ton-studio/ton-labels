@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "arcpay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/ArcPayBot",
+        "description": "",
+        "organization": "arcpay"
+    },
+    "addresses": [
+        {
+            "address": "EQAeV4crAaUoCJo5igUIzosJXcOjtb4W7ff7Qr0DrgXPRgp6",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T21:03:50Z"
+        }
+    ]
+}

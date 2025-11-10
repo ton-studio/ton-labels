@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "x10stars",
+        "name": "X10STARS",
+        "organization": "x10stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/x10starsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQDm07ciM83Ebs9AjwADOE2ctsgp20TeCsIYoP8jqht9IMW7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T17:00:02Z"
+        }
+    ]
+}

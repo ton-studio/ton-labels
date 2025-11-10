@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "duck_wallet",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/wallet_duck_bot",
+        "description": "",
+        "organization": "duck_wallet"
+    },
+    "addresses": [
+        {
+            "address": "EQAUzfWC-_wF7D1zD4IaGKze7g0iAqsKJ2kSy-WJYesQMgLA",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

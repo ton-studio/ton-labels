@@ -1,23 +1,23 @@
 {
     "metadata": {
-        "label": "bit",
+        "label": "aliniex",
         "category": "CEX",
         "subcategory": "",
-        "website": "",
+        "website": "https://aliniex.com",
         "description": "",
-        "organization": "bit"
+        "organization": "aliniex"
     },
     "addresses": [
         {
-            "address": "EQAAtAK3ieVibhxhtQxdviAkQm6S8WwML7c1OW35YEa1-hgy",
-            "source": "datalake-test.cex_labels_20241116",
+            "address": "EQDvnKoe71Q6qOHEaxn76QMJV978IgNaIQTzcGdVWzuOJ1ip",
+            "source": "",
             "comment": "",
             "tags": [],
-            "submittedBy": "ziga",
-            "submissionTimestamp": "2024-12-12T10:09:26Z"
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
         },
-        {
-            "address": "EQAA7moTrXANKsAr-jTvXjfk1NxNTsYjDs-rupcCwSt0TZYy",
+         {
+            "address": "EQB2NhCNvAh6WGKpZgN5El3avXTyVIccw-J8TAs7mCquT0NE",
             "source": "",
             "comment": "",
             "tags": [],

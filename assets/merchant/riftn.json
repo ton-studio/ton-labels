@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "riftn",
+        "name": "Riftn",
+        "organization": "riftn",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://riftn.com"
+    },
+    "addresses": [
+        {
+            "address": "EQBYX-ZFdPb4mcxjKWvEnhR9LhUhny8JUyyZflPrNYG4Wjd0",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T17:00:02Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "app_gifts",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/AppGifts_bot",
+        "description": "",
+        "organization": "app_gifts"
+    },
+    "addresses": [
+        {
+            "address": "EQA_7dNxWMjeIzj-ZBwKzvZRppRti9grM17R0i-B5M1WvxEF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-04T00:00:01Z"
+        }
+    ]
+}

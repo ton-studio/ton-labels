@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "exolix",
+        "name": "Exolix",
+        "organization": "exolix",
+        "category": "bridge",
+        "subcategory": "",
+        "description": "",
+        "website": "https://exolix.com"
+    },
+    "addresses": [
+        {
+            "address": "EQDVfZ6SgwrW8C1VSkpAbNLG__d-_PWHHtx3z3h4QX_gq5nO",
+            "source": "",
+            "comment": "Service fee wallet",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-06T17:00:02Z"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "numbers",
+        "name": "numbers",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/numbersmrkt_bot",
+        "description": "",
+        "organization": "numbers"
+    },
+    "addresses": [
+        {
+            "address": "EQDHwskK0rRU0vKDf6dvup-PfSVFSmMZEciCKsBVNlx86sLX",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+  }
