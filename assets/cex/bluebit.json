@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bluebit",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.bluebit.io",
+        "description": "",
+        "organization": "bluebit"
+    },
+    "addresses": [
+        {
+            "address": "EQB8Ywa3tKwXR2vATgImu-1kILlcpNYLFxDr0EPOYAMGktH9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

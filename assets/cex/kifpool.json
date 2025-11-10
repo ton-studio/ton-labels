@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "kifpool",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://kifpool.me",
+        "description": "",
+        "organization": "kifpool"
+    },
+    "addresses": [
+        {
+            "address": "EQAzu_uXtCGcSPNhvczI_t58rzsYZEHpikIZqqJgCY3mZynE",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

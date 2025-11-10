@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "dyor",
+    "category": "infrastructure",
+    "subcategory": "",
+    "website": "https://dyor.io",
+    "description": "TON analytics and token research platform.",
+    "organization": "dyor"
+  },
+  "addresses": [
+    {
+      "address": "EQB_cA3DIl74EfCTbq9c63LAY1kxKmhHDGkyLY5S9U28yIGD",
+      "source": "",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2025-11-10T00:00:01Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "outline_vpn",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/getoutlinevpn_bot",
+        "description": "VPN service in Telegram",
+        "organization": "outline_vpn"
+    },
+    "addresses": [
+        {
+            "address": "EQD-Bqzn8ysyQWRcwd44jLNPU7n5SizbDGcGrj6_UZns3OX4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-04T10:40:00Z"
+        }
+    ]
+}

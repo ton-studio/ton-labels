@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "aliniex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://aliniex.com",
+        "description": "",
+        "organization": "aliniex"
+    },
+    "addresses": [
+        {
+            "address": "EQDvnKoe71Q6qOHEaxn76QMJV978IgNaIQTzcGdVWzuOJ1ip",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        },
+         {
+            "address": "EQB2NhCNvAh6WGKpZgN5El3avXTyVIccw-J8TAs7mCquT0NE",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

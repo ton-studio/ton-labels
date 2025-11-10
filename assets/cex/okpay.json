@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "okpay",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/okpay",
+        "description": "",
+        "organization": "okpay"
+    },
+    "addresses": [
+        {
+            "address": "EQD341oxrESRTZYwoFFTGD1iIDqOb5xgxRbEZvPB8g_9vZIk",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

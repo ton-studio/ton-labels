@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "kassa",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://fmt.me",
+        "description": "Payment processing",
+        "organization": "kassa"
+    },
+    "addresses": [
+        {
+            "address": "EQBCAcGjA1I-qQ1tn049ubXE2TCaZxj6EAzm3uiBfiNi-Ja_",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

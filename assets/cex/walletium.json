@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "walletium",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/walletiumbot",
+        "description": "",
+        "organization": "walletium"
+    },
+    "addresses": [
+        {
+            "address": "EQDaDzpHfTdnH56GHgARvRc6Gaa2IR49DidCikv5qxdsyLdY",
+            "source": "",
+            "comment": "Withdrawal and deposit address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

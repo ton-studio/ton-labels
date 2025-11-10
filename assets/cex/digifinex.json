@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "label": "digifinex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.digifinex.com",
+        "description": "",
+        "organization": "digifinex"
+    },
+    "addresses": [
+        {
+            "address": "EQCZXtklWFdWW2Y4whpsjD-PfaINR0cP99_jFSLd17JXphjt",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        },
+        {
+            "address": "EQCmlvYFyICmSbYhv6mKs5nIylIvlz85U4DQUEmuXm5HVUQp",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        },
+        {
+            "address": "EQBN4IXRjQcVU0iACg2kHEf7NatVnHOpE6sV4MNJyqMjqUxV",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

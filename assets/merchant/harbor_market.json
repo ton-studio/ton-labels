@@ -24,6 +24,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-06-21T00:00:01Z"
+        },
+        {
+            "address": "EQBbZcCa69wHUPPrwbqNDzAoYXen01pOPtm2mvGJhcyLi6V4",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        },
+        {
+            "address": "EQCngkV_1NltcRqfrdGOHEcNkibBFke4jpkGavcyIFMDMydN",
+            "source": "",
+            "comment": "Withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
         }
     ]
 }

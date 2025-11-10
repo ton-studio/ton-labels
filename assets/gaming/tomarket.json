@@ -49,6 +49,22 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-03-11T00:00:01Z"
+        },
+        {
+            "address": "EQDJLuVFBVYa1wHEHETsflKX5b2o_K_IXEeUDPC2ZmyiwmXM",
+            "source": "",
+            "comment": "multisig_v2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-04T00:00:01Z"
+        },
+        {
+            "address": "EQAHvAXUaIuBlLstrtW9faLfhwnLSdJjbTaOSBrlxpxBCiHE",
+            "source": "",
+            "comment": "telegram-stars-rewards-withdrawal",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-04T00:00:01Z"
         }
     ]
 }

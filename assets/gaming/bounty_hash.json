@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bounty_hash",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/bounty_hash_bot",
+        "description": "",
+        "organization": "bounty_hash"
+    },
+    "addresses": [
+        {
+            "address": "EQCwSuAPKkKYUiGb0hnNH7Aw-ZKtG3uj39vs-gFGE-w_Dvbd",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "letsexchange",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://my.letsexchange.io",
+        "description": "",
+        "organization": "letsexchange"
+    },
+    "addresses": [
+        {
+            "address": "EQAAj_IDQaod06Hy_tQBLcXIRndu3Opw3paS2SiRLG4-IbVL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

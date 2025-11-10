@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "label": "gift_to_credit",
+        "category": "lending",
+        "subcategory": "",
+        "website": "https://t.me/GiftToCreditBot",
+        "description": "NFT lending marketplace",
+        "organization": "gift_to_credit"
+    },
+    "addresses": [
+        {
+            "address": "EQBsIwLbAMCc79TbqKyUPxRcjRfLONFRLW9pewSGXlxSFMke",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        },
+        {
+            "address": "EQANz_dyXbjqaX7khxz5os0HFg9-NWow7p3JMoCvC-lcFwzY",
+            "source": "",
+            "comment": "gifttocredit_vault",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

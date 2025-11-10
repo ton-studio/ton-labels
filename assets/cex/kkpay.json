@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "kkpay",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/kkpay",
+        "description": "",
+        "organization": "kkpay"
+    },
+    "addresses": [
+        {
+            "address": "EQBLUskUAh23Y15dCrp8On1LyDAPsJV7ASK3VijnK5R0Iz9P",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}

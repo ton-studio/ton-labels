@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "total_market",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/totalhashmarketbot",
+        "description": "",
+        "organization": "totalmarket"
+    },
+    "addresses": [
+        {
+            "address": "EQD3-DCaIIJHjc4ls3CEILnWlZywEaNIPF9eph0I3biS4yiS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "retrobridge",
+        "name": "Retrobridge",
+        "organization": "retrobridge",
+        "category": "bridge",
+        "subcategory": "",
+        "description": "",
+        "website": "https://app.retrobridge.io"
+    },
+    "addresses": [
+        {
+            "address": "EQA1EPrjnpby10VGaLZnB5_jrALWzBf-ihKWDcrLE8OGFG3R",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-06T17:00:02Z"
+        }
+    ]
+}

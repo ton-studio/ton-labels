@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "cerberus_mining",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/cerberus_mbot",
+        "description": "",
+        "organization": "cerberus_mining"
+    },
+    "addresses": [
+        {
+            "address": "EQAgCb0N-X8r3nEPrH657uDbkdlFjYN9Z7_qE0rpknVwKtNB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        },
+         {
+            "address": "EQDWMzxO7slibHz3MXcz15FtN7Wmd42WYGKx0KiXm-10GUF2",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        },
+        {
+            "address": "EQBSwsBb1jqccuYKE13lUAiITEVH8NvRJjt_0WeQDLu6u3Kq",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+       ]
+    }

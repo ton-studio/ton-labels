@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "ueex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://ueex.com",
+        "description": "",
+        "organization": "ueex"
+    },
+    "addresses": [
+        {
+            "address": "Ef-8DxboHIl9wqClB9BWOYn5M0umlyFMiONJRIVhjaYv9T2y",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T10:09:26Z"
+        }
+    ]
+}
