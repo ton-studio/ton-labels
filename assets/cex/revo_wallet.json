@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "revo_wallet",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/RevoWalletBot",
+        "description": "",
+        "organization": "revo_wallet"
+    },
+    "addresses": [
+        {
+            "address": "EQAZyB61ayaNZEmczwwGmkATZ-zDPZDx-qSZ_t4L3XTaK4UM",
+            "source": "",
+            "comment": "Withdrawal and deposit address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}
