@@ -1084,6 +1084,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-25T01:01:01Z"
+        },
+        {
+            "address": "EQCA0ehPfZjM0UeKKAtZ4vNoP-i80-S52ShmSfn2NA3Hj_FL",
+            "source": "",
+            "comment": "blnance.ton, mimics Binance exchange",
+            "tags": [],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-10-30T01:01:01Z"
         }
     ]
 }
