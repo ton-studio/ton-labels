@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "mint",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/mint",
+        "description": "",
+        "organization": "mint"
+    },
+    "addresses": [
+        {
+            "address": "EQDgIKImR4I_JiW0t_wr6aQIg7fO0eph59gMFt2bw-WVdYN-",
+            "source": "",
+            "comment": "jetton_master,raffle participation",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}
