@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "teleport",
+        "name": "Teleport",
+        "organization": "teleport",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Teleport_gifts_bot",
+        "description": " A service for participating in and creating raffles with Telegram gifts and any NFTs "
+    },
+    "addresses": [
+        {
+            "address": "EQAgRTgz-WN_GqMbPDNaCy8JGSYoe-5440rT6qdVfR0EHGoG",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-04T00:00:01Z"
+        }
+    ]
+}
