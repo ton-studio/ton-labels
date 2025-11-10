@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "megahash_ton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/MegaHashTonBot",
+        "description": "",
+        "organization": "megahash"
+    },
+    "addresses": [
+        {
+            "address": "EQCl3LtMM75jM-YXmUi1GkuRc6byrKmeEWxvHP5CZ1tVHcTt",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        },
+        {
+            "address": "EQB-CRvNWUQEh4bpX92zIgMU72j656ZVdo4aQmChDxhB1QS4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+    ]
+}
