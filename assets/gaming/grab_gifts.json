@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "grab_gifts",
+        "name": "Grab Gifts",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/Grab_Giftsbot",
+        "description": "",
+        "organization": "grab_gifts"
+    },
+    "addresses": [
+        {
+            "address": "EQAMtE5r1fMY5UJP2ADI_Hzp9AM50I2rpn3-cNlJhkrhAoAU",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-10T00:00:01Z"
+        }
+      }
+   ]
