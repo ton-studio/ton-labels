@@ -1092,6 +1092,14 @@
             "tags": [],
             "submittedBy": "turic24",
             "submissionTimestamp": "2025-10-30T01:01:01Z"
+        },
+        {
+            "address": "EQAIMP6alimmS-Q9g25H5R6nljMRFcQXvvaEM2YGqK4w7a9g",
+            "source": "",
+            "comment": "mexc-1.ton, mimics MEXC exchange",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-11-11T01:01:01Z"
         }
     ]
 }
