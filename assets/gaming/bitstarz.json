@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitstarz",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/bitstarz",
+        "description": "",
+        "organization": "bitstarz"
+    },
+    "addresses": [
+        {
+            "address": "EQB6ob0vZSnkTTvBNOdlp9jEr1by2JeDWsA6x-2QP3oxS51C",
+            "source": "",
+            "comment": "Address used by the project team to distribute funds to validator addresses",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-17T00:00:01Z"
+        }
+    ]
+}
