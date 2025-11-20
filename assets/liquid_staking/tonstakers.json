@@ -19,6 +19,16 @@
             "submissionTimestamp": "2025-01-15T07:07:33Z"
         },
         {
+            "address": "EQC98_qAmNEptUtPc7W6xdHh_ZHrBUFpw5Ft_IzNU20QAJav",
+            "source": "",
+            "comment": "tsTON jetton master",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-11-20T00:00:00Z"
+        },
+        {
             "address": "EQDg-exLLtcp9rr2nwO2RoorCF7K0Sdv5kuVcZq9I8ax6DRI",
             "source": "",
             "comment": "Converts burned Pool Jettons to TON",
