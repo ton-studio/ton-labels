@@ -19,6 +19,16 @@
             "submissionTimestamp": "2025-01-17T07:07:33Z"
         },
         {
+            "address": "EQCSxGZPHqa3TtnODgMan8CEM0jf6HpY-uon_NMeFgjKqkEY",
+            "source": "",
+            "comment": "bmTON jetton master",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-11-18T00:00:00Z"
+        },
+        {
             "address": "EQAORkhhrXis_XxLAAfyxTyNceNXLtaHcJ5FhXxpNJ8xsDGc",
             "source": "tonviewer",
             "comment": "Token that will be exchanged for bemo $BMO token",
