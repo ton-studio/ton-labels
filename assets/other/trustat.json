@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "trustat",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/trustat",
+        "description": "",
+        "organization": "trustat"
+    },
+    "addresses": [
+        {
+            "address": "EQB59L12Yy_9vukjoRqWKRRyMi-nToDZuMji85EQkMS5xRRg",
+            "source": "",
+            "comment": "Telegram Stars cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-11-24T00:00:01Z"
+        }
+    ]
+}
