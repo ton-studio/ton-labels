@@ -43,6 +43,26 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-17T07:07:33Z"
+        },
+        {
+            "address": "EQCopper2jDkUHp9SxMxb1JIS8U3dFxIHUejnKpIWQGL2wkn",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "validator"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-11-26T00:00:00Z"
+        },
+        {
+            "address": "EQCopper1USLs1671BTkydj2IfU7Z7VFUVYGRbjsJfh9OYIg",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "validator"
+            ],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-11-26T00:00:00Z"
         }
     ]
 }
