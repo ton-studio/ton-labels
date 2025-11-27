@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "betfury",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://betfury.gg",
+        "description": "",
+        "organization": "betfury"
+    },
+    "addresses": [
+        {
+            "address": "EQCcubKJFR1h9ndc1Xg9yrP-R4qP4XgHzPtXqHbUXZH0hK4V",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
