@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "izzicasino",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://izzicasino.com",
+        "description": "",
+        "organization": "izzicasino"
+    },
+    "addresses": [
+        {
+            "address": "EQCa8FZkb82zPQT0orCIMDtcucVVrqgGr2X_E_jimm3Ol7Vm",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
