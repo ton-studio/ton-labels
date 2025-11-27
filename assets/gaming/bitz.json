@@ -22,7 +22,9 @@
             "address": "EQBeuXbnnwUVtm4gQEFEqaMzaBY1shxz9_ojzRbNEactUWZJ",
             "source": "",
             "comment": "Gas top‑up address",
-            "tags": [],
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
         }
