@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "winna",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://winna.com",
+        "description": "",
+        "organization": "winna"
+    },
+    "addresses": [
+        {
+            "address": "EQBnya5z1ZbEM42DDOOQ0iar3CzuuklO_bNAjSVGlznrn61a",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+                   ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
