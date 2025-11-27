@@ -2,7 +2,7 @@
     "metadata": {
         "label": "starsbanking",
         "name": "Stars Banking",
-        "organization": "starsbanking,
+        "organization": "starsbanking",
         "category": "merchant",
         "subcategory": "",
         "description": "TG Stars marketplace",
@@ -15,7 +15,7 @@
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-08-25T17:00:02Z"
+            "submissionTimestamp": "2025-11-28T17:00:02Z"
         }
     ]
 }
