@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "bitz",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://bitz.io",
+        "description": "",
+        "organization": "bitz"
+    },
+    "addresses": [
+        {
+            "address": "EQCuHD75wSf0B7XCOVSdrmTD6wzTZhMLlfpG3Mqpb99sDOPs",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQBeuXbnnwUVtm4gQEFEqaMzaBY1shxz9_ojzRbNEactUWZJ",
+            "source": "",
+            "comment": "Gas top‑up address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
