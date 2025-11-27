@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "coincasino",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/coincasinotgbot",
+        "description": "",
+        "organization": "coincasino"
+    },
+    "addresses": [
+        {
+            "address": "EQDbnFcAlyhmtsS-QwoBOAPcyAINwXUV31yzPG2uywylqRB-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
