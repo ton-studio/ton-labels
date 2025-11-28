@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "fastex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.fastex.com,
+        "description": "",
+        "organization": "fastex"
+    },
+    "addresses": [
+        {
+            "address": "EQCButoCbzhUa8s_0u8rpQLM5cOjx6cHgR_7PMy7UrjL3xBD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}
