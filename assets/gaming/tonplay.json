@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "tonplay",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://tonplay.com",
+        "description": "",
+        "organization": "tonplay"
+    },
+    "addresses": [
+        {
+            "address": "EQAhO2Ik5avWjSsTG9h8QHmVw6xOebsTF8FtZzE6s68dZDkf",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "zoo_crypto",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/ZooCryptoGameBot",
+        "description": "",
+        "organization": "zoo_crypto"
+    },
+    "addresses": [
+        {
+            "address": "EQBtLgRbHb9eaxFmZ0wzcEMpdpmS6bPbQyFWJ6ls1PgzXPJ7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

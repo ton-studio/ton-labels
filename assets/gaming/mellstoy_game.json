@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "mellstoy_game",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://mellstroy.game",
+        "description": "",
+        "organization": "mellstoy_game"
+    },
+    "addresses": [
+        {
+            "address": "EQAVJpbbnva4LsVLLISwucYXuvTDTHTeGGy9K0UFxqu0Podm",
+            "source": "",
+            "comment": "",
+            "tags": [       
+              "has-custodial-wallets"
+                    ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

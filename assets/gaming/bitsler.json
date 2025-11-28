@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bitsler",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://www.bitsler.com",
+        "description": "",
+        "organization": "bitsler"
+    },
+    "addresses": [
+        {
+            "address": "EQBQkbiX3_2miT0PQyj3X4lBuhEXI1ykVdEKN-lTcQVClFBF",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

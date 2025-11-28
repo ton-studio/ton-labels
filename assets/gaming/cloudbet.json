@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "label": "cloudbet",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://www.cloudbet.com",
+        "description": "",
+        "organization": "cloudbet"
+    },
+    "addresses": [
+        {
+            "address": "EQBFzrr5Gj1_u2Tw8VOqRLUJZMhXKTEiY3hboLM0ujDDxq0Q",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQCg9QcKj8R1efh6jf1inOtFi2__FsO0vPA0ZNaC9U3hjVIo",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQBOHLw2EPxDZ4dXFGuIbhhgnnP8mrvCA6onl9K5Ny8_Sywz",
+            "source": "",
+            "comment": "Gas top‑up address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

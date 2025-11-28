@@ -57,6 +57,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-15T19:00:00Z"
+        },
+        {
+            "address": "EQB4MPtrkjReFqGDTCUrYsqrWWGT8NOpjFMBPTCZ14T6Oayh",
+            "source": "",
+            "comment": "fee token distribution",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T19:00:00Z"
         }
     ]
 }

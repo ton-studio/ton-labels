@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_city",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/toncity_bot",
+        "description": "",
+        "organization": "ton_city"
+    },
+    "addresses": [
+        {
+            "address": "EQBa6x2saEvVcwriqhnKhbU318PFk9mh3IWMSmZ5isXwunIR",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

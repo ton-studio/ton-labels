@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "betplay",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://betplay.io",
+        "description": "",
+        "organization": "betplay"
+    },
+    "addresses": [
+        {
+            "address": "EQC5392ctek8wIcbAZ6H3IG4zG16I-F2djyJtlVIGjDZcy-O",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

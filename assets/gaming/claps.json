@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "claps",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://claps.com",
+        "description": "",
+        "organization": "claps"
+    },
+    "addresses": [
+        {
+            "address": "EQCq8UOa_kmmhBLQCBC_NsZbQcPaahqmlbwmG-pRhP6tDykG",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

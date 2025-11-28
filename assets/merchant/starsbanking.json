@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsbanking",
+        "name": "Stars Banking",
+        "organization": "starsbanking",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/starsbankingbot"
+    },
+    "addresses": [
+        {
+            "address": "EQD-AySVG_rgDrOGIfxvEKm_Lc9vY850YpHMAJ7fY183_0sy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T17:00:02Z"
+        }
+    ]
+}

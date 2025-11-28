@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "abantether",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://abantether.com",
+        "description": "",
+        "organization": "abantether"
+    },
+    "addresses": [
+        {
+            "address": "EQDqtb43TVTF7QyOLiFJv6SDvVz7nEZBbkvRYdCwfuCDTtGf",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        },
+        {
+            "address": "EQDXdpDxXYNW7Ho8A5SZUPV0BpkmHeq4pav2_n6n6_lPWQQ6",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "sideshift",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://sideshift.ai",
+        "description": "Bridge & cross-chain swap",
+        "organization": "sideshift"
+    },
+    "addresses": [
+        {
+            "address": "EQDKO8nCsVk1DXbYCc2ex4fKGYh3AF2zGeA3mTdqSK2b4BXX",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "dex_trade",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://dex-trade.com",
+        "description": "",
+        "organization": "dex_trade"
+    },
+    "addresses": [
+        {
+            "address": "EQCoN2bHsTKcj9O5q7tq3EfDc0i-_0JGkVBnyoOCwFvXTOpF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        },
+        {
+            "address": "EQBibRG9FVfUenTipTUzLr7T0pe4cSjPLpeJEC7WxuRtT8BR",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}

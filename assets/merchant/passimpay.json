@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "passimpay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://passimpay.io",
+        "description": "",
+        "organization": "passimpay"
+    },
+    "addresses": [
+        {
+            "address": "EQCiV5iAXHlpX0f2tg-D6F8WtCTD1BkKU8DoFqdNs0ekK_Ob",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2024-11-28T10:09:26Z"
+        }
+    ]
+}

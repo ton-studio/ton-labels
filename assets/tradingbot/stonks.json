@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "stonks",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/stonks_sniper_bot",
+        "description": "",
+        "organization": "stonks"
+    },
+    "addresses": [
+        {
+            "address": "EQDve6CLVbaaXQTd54gI-XK8iR63SsaSgcoRZ9byuSFdakFl",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

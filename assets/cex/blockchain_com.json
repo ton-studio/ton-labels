@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "blockchain_com",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.blockchain.com",
+        "description": "",
+        "organization": "blockchain_com"
+    },
+    "addresses": [
+        {
+            "address": "EQBNegLeN_JSSFQ-Akj4Mfc5HrGvjmkwlPWMNBstm_5ZyJKy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}

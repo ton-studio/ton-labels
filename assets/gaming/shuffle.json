@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "shuffle",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://shuffle.com",
+        "description": "",
+        "organization": "shuffle"
+    },
+    "addresses": [
+        {
+            "address": "EQC_VZOVMdhGw9igrMeWYpwgDjUBpYmB7YqmaqZItrmjxn5Z",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

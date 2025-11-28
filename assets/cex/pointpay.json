@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pointpay",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://exchange.pointpay.io",
+        "description": "",
+        "organization": "pointpay"
+    },
+    "addresses": [
+        {
+            "address": "EQB7R-IvwAgtboYDQKoj6FRYYb8jMTG6YbTPyYTcqv86UxsM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}

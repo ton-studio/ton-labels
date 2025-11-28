@@ -17,6 +17,26 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQB-D5gKB83ynJCf24yhg_lcWq7X7tjNQ6jXz0uXtkkPSku_",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQDorBuvfsI8PMnKt-3n5dBaEvAVz4n6n40e__TDN2Vz0H8X",
+            "source": "",
+            "comment": "Gas top‑up address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
         }
     ]
 }

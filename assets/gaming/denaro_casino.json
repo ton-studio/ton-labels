@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "denaro_casino",
+        "name": "Denaro Casino",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/DenaroCasinoBot",
+        "description": "",
+        "organization": "denaro_casino"
+    },
+    "addresses": [
+        {
+            "address": "EQBoei_dGU5hETZxbw9ds60YGZzOl137gcS7Jh-0ZaH4mla3",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

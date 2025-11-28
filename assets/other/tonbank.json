@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "tonbank",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/my_tonbank_bot",
+        "description": "deposit-based internal yield application",
+        "organization": "tonbank"
+    },
+    "addresses": [
+        {
+            "address": "EQCbN2G0bObU_PlB6vVaWAk8JvFSNWbf32gMpSFGLY6rXfNw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:26Z"
+        },
+        {
+            "address": "EQCdIsQRWhkDVCbxl5VTa7PkPZUmepe5F5Tt3R6-ybDvBeT7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:26Z"
+        }
+    ]
+}

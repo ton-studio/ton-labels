@@ -1100,6 +1100,17 @@
             "tags": [],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2025-11-11T01:01:01Z"
+        },
+        {
+            "address": "EQAT-0dGFHvvGSMVv3L9JCENb2_rrc6osa4t4kJOgkS_zuzl",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
         }
     ]
 }

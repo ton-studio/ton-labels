@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "hamtapay",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://hamtapay.net",
+        "description": "",
+        "organization": "hamtapay"
+    },
+    "addresses": [
+        {
+            "address": "EQDJr-hFiJQYC4MkNpnkOX8C4vWrHtH82VjPKlvtyOjVhFgz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}

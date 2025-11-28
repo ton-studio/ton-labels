@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "rollhub",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://rollhub.com",
+        "description": "",
+        "organization": "rollhub"
+    },
+    "addresses": [
+        {
+            "address": "EQCNlGiqVvRM-xvEYHsXn7kmK8zmuElWHYcBB_1FSiEbdscB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQBdk3oQ_1WJBA7CYZZsAqHbmw25Lyxf7CMY6fQAaofP6cuM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

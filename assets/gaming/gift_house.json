@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "gift_house",
+        "name": "Gift House",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://house.gift",
+        "description": "",
+        "organization": "gift_house"
+    },
+    "addresses": [
+        {
+            "address": "EQAglZAfmSER_wYB0LQLDXLpTZJGk0biXceoxLD_oj0dVNw3",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

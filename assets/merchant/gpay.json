@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "gpay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://gpay.su",
+        "description": "",
+        "organization": "gpay"
+    },
+    "addresses": [
+        {
+            "address": "EQDj70tgwP_0r8lKBt0rnlt2PjF2-GIo38IN5qQu5WgQQ37m",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T21:03:50Z"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "cryptorefills",
+        "name": "Cryptorefills",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://www.cryptorefills.comt",
+        "description": "",
+        "organization": "cryptorefills"
+    },
+    "addresses": [
+        {
+            "address": "EQDesrKaLIdqixkoOvMb95Kkx6J17HPdXlmWBtDx5VYw4Ze8",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

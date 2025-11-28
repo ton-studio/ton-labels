@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tg_casino",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://play.tg.casino",
+        "description": "",
+        "organization": "tg_casino"
+    },
+    "addresses": [
+        {
+            "address": "EQCwJlihpYzriNmMB6uUwUPvEpmP7URQvbEU2XKtzUqiU9ZN",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

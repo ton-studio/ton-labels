@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "lyraxis",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://lyraxis.io",
+        "description": "AI training data generation with reward and airdrop incentives",
+        "organization": "lyraxis"
+    },
+    "addresses": [
+        {
+            "address": "EQBWgmfpSt3VwKOqaSvnjDOibCvjfSawri8qMjKpqgFLBJPP",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:26Z"
+        },
+         {
+            "address": "EQCsRZd5px86gcrgSy0phWkjh3J5CcxsKyEgabCr2fiIJucG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:26Z"
+        }
+    ]
+}

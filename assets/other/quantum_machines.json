@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "quantum_machines",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/Quantum_Machines_bot",
+        "description": "deposit-based internal yield application",
+        "organization": "quantum_machines"
+    },
+    "addresses": [
+        {
+            "address": "EQBoEO0a7oIb1n0jXlkt8af5swWMk5N-Cpanr-L0fQAEQS_e",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:26Z"
+        }
+    ]
+}

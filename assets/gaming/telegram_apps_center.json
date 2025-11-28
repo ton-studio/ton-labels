@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tapps",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/tapps_bot",
+        "description": "",
+        "organization": "tapps"
+    },
+    "addresses": [
+        {
+            "address": "EQDbCzjCBMxAdUlpr6pb0FXzfDFcKJykTcii2ok-c2x4In3t",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
