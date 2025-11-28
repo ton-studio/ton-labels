@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "coins_game",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://coins.game",
+        "description": "",
+        "organization": "coins_game"
+    },
+    "addresses": [
+        {
+            "address": "EQCeRwcoP2nzFOXTW18nLXSWIhXXRB9Ma43faIlbTvh1UZqa",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
