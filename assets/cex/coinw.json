@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "coinw",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.coinw.com",
+        "description": "",
+        "organization": "coinw"
+    },
+    "addresses": [
+        {
+            "address": "EQB8KbFmiGKyRmE8c8hiVbC8V3OLdGXNkQKCo_I3Jfp_8yqZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}
