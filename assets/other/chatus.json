@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "chatus",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/chatus",
+        "description": "",
+        "organization": "chatus"
+    },
+    "addresses": [
+        {
+            "address": "EQAv3IXhF1leFVOWiVijEoz8SWneEAUFr9U50N_O3VonpLSk",
+            "source": "",
+            "comment": "Telegram Stars cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
