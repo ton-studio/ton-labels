@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitso.",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://bitso.com",
+        "description": "",
+        "organization": "bitso"
+    },
+    "addresses": [
+        {
+            "address": "EQCF7mXfJqcpOop2gRHWQvHSBRLi54jftn50MzjmvaFem3at",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}
