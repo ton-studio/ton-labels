@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "hotcoin",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.hotcoin.com",
+        "description": "",
+        "organization": "hotcoin"
+    },
+    "addresses": [
+        {
+            "address": "EQBu1ugvC7Up6TFk5243amtd4riI4F4RF8un-IkfWumsn5LF",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}
