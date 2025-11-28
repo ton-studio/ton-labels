@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "changenow",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://changenow.io",
+        "description": "Bridge & cross-chain swap",
+        "organization": "changenow"
+    },
+    "addresses": [
+        {
+            "address": "EQDAXHlJE4KdRSkoK8U1S_wQxgRHbJsezSmuRi5fye_YW1pR",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

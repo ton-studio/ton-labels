@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "rocket_gift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/RocketxAppBot",
+        "description": "",
+        "organization": "rocket_gift"
+    },
+    "addresses": [
+        {
+            "address": "EQAyxxdBTvPwhs8U3RGu8gP7fDt_-mtnG3pRe0XDG_SFWdpz",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

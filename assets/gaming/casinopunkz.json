@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "casinopunkz",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://casinopunkz.io",
+        "description": "",
+        "organization": "casinopunkz"
+    },
+    "addresses": [
+        {
+            "address": "EQCk8YV3vYATdR51g1BKJl_DQ4a9wy6uwnokkxQtYTuOFN6_",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

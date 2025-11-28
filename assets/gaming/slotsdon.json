@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "slotsdon",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://www.slotsdon.com",
+        "description": "",
+        "organization": "slotsdon"
+    },
+    "addresses": [
+        {
+            "address": "EQC4eeePsYiVWwgKybCDP9Mt0dKycSdpSHAKk5zyaNe25Oe_",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+                   ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}

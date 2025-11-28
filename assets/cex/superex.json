@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "superex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.superex.com",
+        "description": "",
+        "organization": "superex"
+    },
+    "addresses": [
+        {
+            "address": "EQBOvj8p0q1KAivi58TWvWqWu4AtwMv-ImmdWmwgo53LYjAo",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}

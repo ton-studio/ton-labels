@@ -23,6 +23,14 @@
 				"tags": [],
 				"submittedBy": "Caranell",
 				"submissionTimestamp": "2025-04-15T00:00:01Z"
+			},
+			{
+				"address": "EQC9lQOaEHC6YASiJJ2NrKEOlITMMQmc8j0_iZEHy-4slyaD",
+				"source": "",
+				"comment": "fee collector from swaps within the wallet",
+				"tags": [],
+				"submittedBy": "Lucky0041",
+				"submissionTimestamp": "2025-11-28T00:00:01Z"
 			}
 	]
 }
