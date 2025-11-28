@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "x1000",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://x1000.finance",
+        "description": "",
+        "organization": "dedust"
+    },
+    "addresses": [
+        {
+            "address": "EQAO4cYqithwdltzmrlal1L5JKLK5Xk76feAJq0VoBC6Fy8T",
+            "source": "",
+            "comment": "Uranus Mempad",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
