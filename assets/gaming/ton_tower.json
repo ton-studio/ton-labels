@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_tower",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/toncoin_tower_bot",
+        "description": "",
+        "organization": "ton_tower"
+    },
+    "addresses": [
+        {
+            "address": "EQCVmOqAWtCJVSv3ujAdG1bf17eSOFxPhtvdjrdF0RUl0ls_",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
