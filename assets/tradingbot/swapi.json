@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "swapi",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/swapi",
+        "description": "",
+        "organization": "swapi"
+    },
+    "addresses": [
+        {
+            "address": "EQBhEdjRT3bC5FfSQ7r0to--v6hA7iTHMpetrY4YIxmTH6gS",
+            "source": "",
+            "comment": "Fee Collection",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
