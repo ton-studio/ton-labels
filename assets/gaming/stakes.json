@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "stakes",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/stakes",
+        "description": "",
+        "organization": "stakes"
+    },
+    "addresses": [
+        {
+            "address": "EQAh0e6AAoZ_ObJ_99rhy6Y9ibgHyq0QMkwckrmTE-yavndq",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
