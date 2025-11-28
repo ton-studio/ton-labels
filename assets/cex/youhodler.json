@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "youhodler",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.youhodler.com",
+        "description": "",
+        "organization": "youhodler"
+    },
+    "addresses": [
+        {
+            "address": "EQDP6KDWhRLRg5l8IrVq-uE6bDQyE9sFp1QEu74W0zWtAO17",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:09:26Z"
+        }
+    ]
+}
