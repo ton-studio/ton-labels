@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "cryptopayo",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://cryptopayo.net",
+        "description": "",
+        "organization": "cryptopayo"
+    },
+    "addresses": [
+        {
+            "address": "EQCwt2t9V-9gYAXQ-Yh3K9FX5Ep4Tu-NTIOYZJ_-IsdMNZft",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T10:40:00Z"
+        }
+    ]
+}
