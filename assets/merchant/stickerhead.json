@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stickerhead",
+        "name": "Stickerhead",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/Stickerhead_bot",
+        "description": "",
+        "organization": "stickerhead"
+    },
+    "addresses": [
+        {
+            "address": "EQBRaN2UpHD_9P1eSKtZoj3F4mvMEHTwWALB4MWaUi7cRT6J",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T00:00:01Z"
+        }
+    ]
+}
