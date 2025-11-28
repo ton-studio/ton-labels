@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "rocket_star_finance",
+        "name": "Rocket Star Finance",
+        "organization": "rocket_star_finance,
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/RocketStar2Bot"
+    },
+    "addresses": [
+        {
+            "address": "EQALKPk4q6mOGYCQq8ujB1ne4BDQixoG1RZRruodP-AKBrNU",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-28T17:00:02Z"
+       }
+    ]
+}
