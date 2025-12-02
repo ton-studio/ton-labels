@@ -23,6 +23,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQDMrh5lh3oWXfSw-NPbgy6Hzd6pzKYB8bB9LfHd0pzm_wqe",
+            "source": "ton.today",
+            "comment": "TON Ecosystem Multisig",
+            "tags": [],
+            "submittedBy": "markysha",
+            "submissionTimestamp": "2025-12-01T00:00:01Z"
         }
     ]
 }
