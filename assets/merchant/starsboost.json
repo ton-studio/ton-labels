@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsboost",
+        "name": "StarsBoost",
+        "organization": "starsboost",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/kupit_zvezdyBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBs3vsxHP4cwts-WlGGZdpz0fwFvdrTVhow2cAorYrwYN6D",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}
