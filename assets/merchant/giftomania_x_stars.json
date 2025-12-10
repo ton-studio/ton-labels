@@ -1,0 +1,22 @@
+    "metadata": {
+        "label": "giftomania_x_stars",
+        "name": "Giftomania x Stars",
+        "organization": "giftomania_x_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace & gift rentals",
+        "website": "https://t.me/giftomaniaxstarbot"
+    },
+    "addresses": [
+        {
+            "address": "EQAwz7RNKcpRvXiNioyOvAy2yy-cn7zNFODXSUoMkq0JqhTT",
+            "source": "",
+            "comment": "Stars purchase & gift rentals",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}
