@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "label": "memefi",
+        "name": "MemeFi Marketplace",
+        "organization": "memefi",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/memeficlub",
+        "description": "Telegram-based TON marketplace for digital gifts and collectibles."
+    },
+    "addresses": [
+        {
+            "address": "EQCHk8sOwKe-2iWAOATdrlvv8Wr2ZoAWW6RpL0QNX5fmt9mi",
+            "source": "",
+            "comment": "withdrawal and deposit address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "AndreasFxPro",
+            "submissionTimestamp": "2025-12-05T00:00:01Z"
+        },
+        {
+            "address": "EQDo_mbJsbuOBL3XvwShGne_uemk1VdxH_F_hbYJtVHt8MdC",
+            "source": "",
+            "comment": "MemeFi game-related address",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-01-01T00:00:01Z"
+        }
+    ]
+}
