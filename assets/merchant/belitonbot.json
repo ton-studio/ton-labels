@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "belitonbot",
+         "name": "Belitonbot",
+        "organization": "belitonbot",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/BeliTonBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCC25H-A2kHJoP_GYHnBIEPVdo_ZG8LCUkUisHN9lkLWXVC",
+            "source": "",
+            "comment": "Stars Purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}

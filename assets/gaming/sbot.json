@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "sbot",
+        "name": "Sbot",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/sbot",
+        "description": "",
+        "organization": "sbot"
+    },
+    "addresses": [
+        {
+            "address": "EQDfbYw9gVb_p9Lkupz7CtqC2cXzG-WMN7CgEj4WqNfmumCN",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-30T00:00:01Z"
+        }
+    ]
+}

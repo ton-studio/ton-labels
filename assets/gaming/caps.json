@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "caps",
+        "name": "Caps",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/DurovCapsBot",
+        "description": "",
+        "organization": "caps"
+    },
+    "addresses": [
+        {
+            "address": "EQCbLsCphb0_oRGSS9lUv4xLhbRRqpkT67lAxcWtc4VdWGUR",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}

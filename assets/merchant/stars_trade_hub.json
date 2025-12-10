@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_trade_hub",
+        "name": "Stars Trade Hub",
+        "organization": "stars_trade_hub",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/stars_trade_hub_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBB-_nCiR34YbLzafyBMpLq3rKLYxAzzgoQ7UUDHFwR9t8w",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}

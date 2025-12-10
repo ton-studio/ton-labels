@@ -1,0 +1,21 @@
+ {
+         "metadata": {
+        "label": "profit_home",
+        "name": "Profit Home",
+        "organization": "profit_home",
+        "category": "gaming",
+        "subcategory": "",
+        "description": "",
+        "website": "https://t.me/ProfitHomeBot"
+    },
+    "addresses": [
+        {
+            "address": "EQAUTpA_1ySQh9MN5mxM3kvf1ZsWieW2uUsR7BqX7B3JODYN",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}
