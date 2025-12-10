@@ -1,0 +1,28 @@
+    "metadata": {
+        "label": "call_of_odin.s_chosen",
+        "name": "Call of Odin's Chosen",
+        "organization": "call_of_odin.s_chosen",
+        "category": "gaming",
+        "subcategory": ""
+        "description": "",
+        "website": "https://t.me/COC_Web3_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDxw2lGVxYwSs6PYq3M2XuacwVj3CWWk7NlWAR8jRX3WVDv",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        },
+        {
+            "address": "EQD5hMdxVc17GI1WeRGg_0I8ROQo8WolDLzc5IRu6JPZBum-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}
