@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pitopup",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://pitopup.com",
+        "description": "Gaming top-up shop",
+        "organization": "pitopup"
+    },
+    "addresses": [
+        {
+            "address": "EQBqbhhjR5r5CSu2P971OC_zBIzYA2T9yfp2gECiNiBlkVEW",
+            "source": "",
+            "comment": "stars purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T21:03:50Z"
+        }
+    ]
+  }

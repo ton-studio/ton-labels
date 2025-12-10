@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "label": "onlyfunds",
+        "name": "OnlyFunds",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TheOnlyFunds_Bot",
+        "description": "",
+        "organization": "onlyfunds"
+    },
+    "addresses": [
+        {
+            "address": "EQDJQWD6Tg3vZHgT1DTcnPVXaV92LpSKvH594VhEMnJnnd6_",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        },
+        {
+            "address": "EQDDmW0Q9olEa834W9YY3w7PFnc8TMYoxKjVBtKMPNXTgr6L",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}

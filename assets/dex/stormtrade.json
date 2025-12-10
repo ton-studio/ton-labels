@@ -151,6 +151,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDk7CSqvaizYjqU4TK92MLFrOiFkfiWUYNXEFznHZvPT5Kt",
+            "source": "tonviewer",
+            "comment": "StormTrade StormCompleteOrder",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
         }
     ]
 }

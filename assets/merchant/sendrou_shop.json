@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "sendrou_shop",
+        "name": "Sendrou Shop",
+        "organization": "sendrou_shop",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Stars purchase (seller on FunPay)",
+        "website": "https://funpay.com/users/124696"
+    },
+    "addresses": [
+        {
+            "address": "EQCLiwsJsaPs_5QJdzGQ0TxXRcEKTfW-b6dvjQSG7R3aSgSK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}

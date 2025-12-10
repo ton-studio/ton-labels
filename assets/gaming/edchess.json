@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "edchess",
+        "name": "Edchess",
+        "organization": "edchess",
+        "category": "gaming",
+        "subcategory": "",
+        "description": "",
+        "website": "https://t.me/edchess_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQB-YrkPdB-fYHqwDn_Wj86Vu7MHJXnlpZuNHN_MUHiXBeLa",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}

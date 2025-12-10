@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsmarket",
+        "name": "Stars Market",
+        "organization": "starsmarket",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://starsmarket.pro"
+    },
+    "addresses": [
+        {
+            "address": "EQAgBmsyNu3LYxBzuOKhVQvs-0XCSC-5yrOQjfwu_Zl1u3PR",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}

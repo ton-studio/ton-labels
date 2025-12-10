@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "adv_game",
+        "name": "ADV Game",
+        "organization": "adv_game",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "chat-bot store in TG",
+        "website": "https://t.me/ADV_GAME_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQALsUg3iXkL-j1gklGfzfMO7hjv19yGyzhMry9G6lH8OpCV",
+            "source": "",
+            "comment": "stars purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}

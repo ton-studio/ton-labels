@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "grogupay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://grogupay.net",
+        "description": "Gaming top-up shop",
+        "organization": "grogupay"
+    },
+    "addresses": [
+        {
+            "address": "EQCv3DCFMGbexk0tWbRKrNrGwLVJiWbRp5P-LGty9Yx-f606",
+            "source": "",
+            "comment": "stars purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T21:03:50Z"
+        }
+    ]
+  }

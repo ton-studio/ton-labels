@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starsly",
+        "name": "Starsly",
+        "organization": "starsly",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/starslly_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQCW0RLwZG4jf1NasRGEEPBEQvUomRVx9pJgKH1bHXKZZ47V",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}

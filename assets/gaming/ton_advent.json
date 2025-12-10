@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "ton_advent",
+        "name": "Ton Advent",
+        "organization": "ton_advent",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "description": "",
+        "website": "https://t.me/TonAdventBot"
+    },
+    "addresses": [
+        {
+            "address": "EQDnDsNJyw8tQEAhBeA0-TldwoCjzBvqIzOoytPqsRRJ6rez",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}

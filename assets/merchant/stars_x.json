@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_x",
+        "name": "StarsX",
+        "organization": "stars_x",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/MyStarsXBot"
+    },
+    "addresses": [
+        {
+            "address": "EQATeCuGx0x81VGz4loHn44zrA7n4fefU4o_-Ptjw5_vKz9z",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}

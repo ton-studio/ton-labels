@@ -16,6 +16,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-19T17:00:02Z"
+        },
+         {
+            "address": "EQDLQ2dY_3ScLxkAd675BNRxFvOOuYksFa_zMZe5BZnqtFZ1",
+            "source": "",
+            "comment": "The spend.tg app is used to purchase TG Stars",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-30T17:00:02Z"
+        },
+        {
+            "address": "EQCnfAo4O6hSOwRCl1uoUW2TrPZFvTpNBtRlvgNZ9PW47Hpi",
+            "source": "",
+            "comment": "Reward from spend.tg received by Yoostars owner for reselling TG Stars bought from spend.tg",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-11-30T17:00:02Z"
         }
     ]
 }
