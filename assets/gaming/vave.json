@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "vave",
+        "name": "Vave",
+        "organization": "vave",
+        "category": "gaming",
+        "subcategory": "gambling"
+        "description": "",
+        "website": "https://vavez0ne.com"
+    },
+    "addresses": [
+        {
+            "address": "EQAqCUz1SF7heQiZ0K0hG2tS3-dEgQltJsCViEqgsn24B3bC",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}
