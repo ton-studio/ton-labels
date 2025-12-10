@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "era_app",
+        "name": "Era App",
+        "organization": "era_app",
+        "category": "gaming",
+        "subcategory": ""
+        "description": "",
+        "website": "https://t.me/EraStakingBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBLZMBf2rS4khu8fT7x_OQgCPM2lkuePzqSODbJItSEX94W",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T00:00:01Z"
+        }
+    ]
+}
