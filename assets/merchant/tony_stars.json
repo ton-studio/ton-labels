@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "tony_stars",
+        "name": "Tony Stars",
+        "organization": "tony_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/tony_starsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQBrNO3d1Ms_PIwCjgAqkvMKdjEsPiVX5uLcn3in_b6TPBB-",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}
