@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "nebo_stars",
+        "name": "Nebo Stars",
+        "organization": "nebo_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/nebo_starsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQBE1LJkT9khjbWVAZbIy-1EjONNrH7GRLhX50yRKKkXTjfL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}
