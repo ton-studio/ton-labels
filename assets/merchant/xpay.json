@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "xpay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/XPayPro_bot",
+        "description": "Crypto payment gateway",
+        "organization": "xpay"
+    },
+    "addresses": [
+        {
+            "address": "EQBPifuvjtWJtepWtBlP5ONfccGEFGlg58QGiU_WjkXD77Yo",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T10:40:00Z"
+        }
+    ]
+}
