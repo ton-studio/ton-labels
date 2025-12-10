@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "buddy_stars",
+        "name": "Buddy Stars",
+        "organization": "buddy_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/Buddy_starsbot"
+    },
+    "addresses": [
+        {
+            "address": "EQBeHhAN_rndCPDtWgwfP3xfY4f6y6zaDP7jROWxtO3SiAn9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-12-10T17:00:02Z"
+        }
+    ]
+}
