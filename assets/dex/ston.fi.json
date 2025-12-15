@@ -549,6 +549,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-10-30T00:00:01Z"
+        },
+        {
+            "address": "EQCzUiz7TFS7p7ByYXt-c3lJDmyGvmHTQIm0vhwSiiiaLpVj",
+            "source": "",
+            "comment": "pTON - wrapped ton",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-12-15T00:00:01Z"
         }
     ]
 }
