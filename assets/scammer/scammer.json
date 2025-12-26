@@ -1111,6 +1111,50 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQBBgHxH2dR-KFo14DsPvsMu5Ktq-_ZK-M2NRO1hON2-zSAX",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-12-26T00:00:01Z"
+        },
+        {
+            "address": "EQCjE8FtEhbbybha2HiSC0-JN7IRdCboOrRz324jghNRwApj",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-12-26T00:00:01Z"
+        },
+        {
+            "address": "EQDpe8XdPy475pCfCeLowf7OtS9AkM5ogy9B5r2sn3VLzu4D",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-12-26T00:00:01Z"
+        },
+        {
+            "address": "EQBQ8Ad3k6zzGig6uGHfd2n1u8Oqmlqp_-1rEgWXrvnL8vDv",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "turic24",
+            "submissionTimestamp": "2025-12-26T00:00:01Z"
         }
     ]
 }
