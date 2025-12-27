@@ -3,7 +3,7 @@
       "label": "funton",
       "name": "FunTon",
       "category": "gaming",
-      "subcategory": "",
+      "subcategory": "gambling",
       "website": "https://t.me/Funtonbot",
       "description": "",
       "organization": "funton"
@@ -12,7 +12,7 @@
       {
           "address": "EQA6tS58UEircX1ra42wopCX-rIkIHUBtQQo64xEUw6D5aTd",
           "source": "",
-          "comment": "Telegram stars cashout address.",
+          "comment": "In-game deposits and Telegram stars cashout address.",
           "tags": [],
           "submittedBy": "ef-code",
           "submissionTimestamp": "2025-12-27T00:00:01Z"
