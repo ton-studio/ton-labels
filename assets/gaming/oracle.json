@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "oracle",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/oracleplay_bott",
+        "description": "Bets on various events",
+        "organization": "oracle"
+    },
+    "addresses": [
+        {
+            "address": "EQC45bGCciwb2PH7RMw3610-LUApjHD7UospHSdbEnarW_uo",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-05T00:00:01Z"
+        }
+    ]
+}
