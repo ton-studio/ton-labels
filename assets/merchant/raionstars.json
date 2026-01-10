@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "raionstars",
+        "name": "raionstars",
+        "organization": "raionstars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/RaionStars_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDiNJ94QnnDfk-V9tbwIstJOdCaymhvysrCGXMDEbh2sWBC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}
