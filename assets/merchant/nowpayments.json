@@ -35,6 +35,26 @@
             ],
             "submittedBy": "dddwhdd",
             "submissionTimestamp": "2025-03-20T00:00:01Z"
+        },
+        {
+            "address": "EQD_6ogbrUGlsbYPF_a6Vwkahpmc9_CRtW6RSVQ8GR0gIUJN",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        },
+        {
+            "address": "EQBeZOa5QMUEvMdb3GKSuttJgkQY7z0-Ddm_7WG-bwNXARFS",
+            "source": "",
+            "comment": "Deposit address",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
         }
     ]
 }
