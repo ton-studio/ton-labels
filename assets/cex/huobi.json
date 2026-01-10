@@ -31,6 +31,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-04-24T00:00:01Z"
+        },
+        {
+            "address": "EQBf6sUcCkUrRCMzmpOW22P3BOD4XgL_solOp3M4n6Vb8_1c",
+            "source": "",
+            "comment": "Huge volume with other HTX wallets",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        },
+        {
+            "address": "EQC2bRkktc-ZATV_VK8B1dmN3KXZRKiblMiyvFW_aUzNTwxS",
+            "source": "",
+            "comment": "Huge volume with other HTX wallets",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
         }
     ]
 }
