@@ -16,6 +16,24 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-10-03T17:00:02Z"
+        },
+                {
+            "address": "EQD68mbo9hMUniqY6d0JOnT_gMHojGo53F_jn-skcGltnXUN",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T17:00:02Z"
+        },        
+        {
+            "address": "EQB0fi1cwzP_fXIAjP3VZf81VWJRfqBnOIanllqciC4sZgeR",
+            "source": "",
+            "comment": "Royalty",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T17:00:02Z"
         }
     ]
 }
