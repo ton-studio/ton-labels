@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "phemex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://phemex.com/",
+        "description": "",
+        "organization": "phemex"
+    },
+    "addresses": [
+        {
+            "address": "EQCrbutAkBGsGo5IC9HqJEW-tUVA-T_c1UFvGeG7NB9lLPz5",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        }
+    ]
+}
