@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "label": "bc.game",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://bc.game",
+        "description": "",
+        "organization": "bc.game"
+    },
+    "addresses": [
+        {
+            "address": "EQA-B8bcDEegRwp_cIrrWrFjHxCGScn69h7XWPgkoXGSIj3Q",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQDbrUJjLAGo4v5q4AGERoabjDGNG5tw_68WwfzGX5OyF9W1",
+            "source": "https://intel.arkm.com/explorer/address/0:DBAD42632C01A8E2FE6AE0018446869B8C318D1B9B70FFAF16C1FCC65F93B217",
+            "comment": "Withdrawal address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-08-13T10:09:26Z"
+        },
+        {
+            "address": "EQAgfwlHmx5iIU60_GjKOeVIWt1Ca11braU5tFhOs7u_tlot",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+             ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T10:09:26Z"
+        }
+    ]
+}
