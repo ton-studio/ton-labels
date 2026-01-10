@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "label": "coinbase",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.coinbase.com",
+        "description": "",
+        "organization": "coinbase"
+    },
+    "addresses": [
+        {
+            "address": "EQAlLWBYTMIu_JR6s5KpCwqDq5kd0AR23Paa7jOz-Q_vJd7r",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        },
+        {
+            "address": "EQALVTd3Q_Blx_JZyTIw5dlcmDBidCVnYYv69t75xljJUapk",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        },
+        {
+            "address": "EQCUNTOcHP7bA_pZdfdZpd6g2yiKZ-9Cs5-sXVMSoJkQqssh",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        }
+    ]
+}
