@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "uphold",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://uphold.com",
+        "description": "",
+        "organization": "uphold"
+    },
+    "addresses": [
+        {
+            "address": "EQCMP4p_19iMoeG18SQYeEGkYex6o72DPPkkcGOT21cR8TLM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        }
+    ]
+}
