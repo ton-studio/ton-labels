@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "pilot_gift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/pilotka",
+        "description": "",
+        "organization": "pilot_gift"
+    },
+    "addresses": [
+        {
+            "address": "EQCnoNCs9irpFYoiW2wC5i5vJ9Je6uSelDFulLfn7d-3eZRn",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}
