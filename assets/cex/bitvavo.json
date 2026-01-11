@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "bitvavo",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://bitvavo.com",
+        "description": "",
+        "organization": "bitvavo"
+    },
+    "addresses": [
+        {
+            "address": "EQBlTGY6Hntwad_DHZZ18TitfNyz73Xq0z797sZc0fbarWHg",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        },
+        {
+            "address": "EQA3cnyXnGlWgdk3U-tMHoorVYhKAB_XkuzyP-EE4DyDaMqj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        }
+    ]
+}

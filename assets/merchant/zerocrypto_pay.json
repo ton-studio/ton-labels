@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "zerocrypto_pay",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://zerocryptopay.com",
+        "description": "Crypto payment gateway for businesses",
+        "organization": "zerocrypto_pay"
+    },
+    "addresses": [
+        {
+            "address": "EQAp3RavXWdCL8fwLiC0dSge4z77ClbI2xe30CRxcW5embJ5",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T10:40:00Z"
+        }
+    ]
+}

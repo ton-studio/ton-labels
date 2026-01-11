@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gifts_run",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/giftsrun_bot",
+        "description": "",
+        "organization": "gifts_run"
+    },
+    "addresses": [
+        {
+            "address": "EQBW8nqy8NjKUd_84eamnJIrZfBqaP2uxoUupYEWvuNbceL0",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}

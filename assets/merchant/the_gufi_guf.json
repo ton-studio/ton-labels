@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "the_gufi_guf",
+        "name": "the_gufi_guf",
+        "organization": "the_gufi_guf",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Stars purchase (seller on FunPay)",
+        "website": "https://funpay.com/uk/users/65327"
+    },
+    "addresses": [
+        {
+            "address": "EQC3lFQpqU0-G04RJz6noHjm8yGmH90NSEsfW0RtFMZWQdVu",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        },
+        {
+            "address": "EQCggOpanuJd_5f_5F0jtC-XJpBi9RFyTAntg3RuxJ395biW",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}

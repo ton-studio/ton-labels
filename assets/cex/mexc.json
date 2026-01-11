@@ -53,9 +53,21 @@
             "address": "EQDYh9Di0cT8QSbnHJcNM6sYlpQAAOrnA7sats7Mgwd3497j",
             "source": "",
             "comment": "",
-            "tags": [],
+            "tags": [
+                    "has-custodial-wallets"
+            ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2024-12-12T10:02:02Z"
+        },
+        {
+            "address": "EQC1SDVWHaqS3zx_91MPsD_LA4SOzwQJk-a4qenz4nT8jen3",
+            "source": "",
+            "comment": "Used to top-up custodial wallets to cover gas fees",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T10:02:02Z"
         }
     ]
 }

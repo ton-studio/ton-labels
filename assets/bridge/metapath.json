@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "metapath",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://www.metapath.me",
+        "description": "Bridge & cross-chain swap.",
+        "organization": "metapath"
+    },
+    "addresses": [
+        {
+            "address": "EQDOPm18wZzLBbhwkR04A2ogbIJr7lZnuC2F8VW1N6wORSXV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}

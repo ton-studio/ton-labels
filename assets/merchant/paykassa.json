@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "paykassa",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://paykassa.pro",
+        "description": "Crypto payment gateway for businesses",
+        "organization": "paykassa"
+    },
+    "addresses": [
+        {
+            "address": "EQBkmfJlIjxZqB8xndrlDX05gGLKFPy84PKT4NRcmWy0PCaL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-05T10:40:00Z"
+        }
+    ]
+}

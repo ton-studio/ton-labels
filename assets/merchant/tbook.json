@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tbook",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/tbook_sign_bot",
+        "description": "",
+        "organization": "tbook"
+    },
+    "addresses": [
+        {
+            "address": "EQCwE_X0FEPfPnHwwtKFkTmMeM9fovccwyzvJArYRUWBf8UP",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "cheap_stars",
+        "name": "cheap_stars",
+        "organization": "cheap_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/mellstars_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQBAdO9i9oKWbip2Z5-sjeyiAhQKQN4xUiSbwkxYfE7bp9Im",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}
