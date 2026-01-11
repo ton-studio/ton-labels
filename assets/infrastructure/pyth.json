@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "label": "pyth",
+    "category": "infrastructure",
+    "subcategory": "",
+    "website": "https://www.pyth.network",
+    "description": "Decentralized price oracle for on-chain market data",
+    "organization": "pyth"
+  },
+  "addresses": [
+    {
+      "address": "EQBU6k8HH6yX4Jf3d18swWbnYr31D3PJI7PgjXT-flsKHqql",
+      "source": "https://docs.pyth.network/price-feeds/core/contract-addresses/ton",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2026-01-11T00:00:01Z"
+    },
+    {
+      "address": "EQA5NPyjfZztDm8jcTBwTAU9NGsgJEkw19z61yecX0TlseSB",
+      "source": "https://docs.pyth.network/price-feeds/core/contract-addresses/ton",
+      "comment": "",
+      "tags": [],
+      "submittedBy": "Lucky0041",
+      "submissionTimestamp": "2026-01-11T00:00:01Z"
+    }
+  ]
+}
