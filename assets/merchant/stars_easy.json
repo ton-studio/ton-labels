@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_easy",
+        "name": "Stars Easy",
+        "organization": "stars_easy",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/Star_buyeasy_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQCqlaJTla279bhnjUMuRQ3trPzovXGY9OtPNbj5P4Wszrcq",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}

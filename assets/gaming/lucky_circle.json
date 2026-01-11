@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "lucky_circle",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/LuckyCircleAppBot",
+        "description": "",
+        "organization": "lucky_circle"
+    },
+    "addresses": [
+        {
+            "address": "EQBXQm4JEjgup7qnif6pXBUTQGSpMaouMY4Vb-ljcbFtyV8C",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T00:00:01Z"
+        }
+    ]
+}

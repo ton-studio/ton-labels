@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "soulmate",
+        "name": "soulmate",
+        "organization": "soulmate",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "online dating",
+        "website": "https://t.me/FaceMeet_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDV03s4dDd3N9YaKpWNVQvgOc-R-qZFpsja-dGk55AVHlxa",
+            "source": "",
+            "comment": "Telegram Stars Cashout address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}

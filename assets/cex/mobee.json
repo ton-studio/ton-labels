@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "mobee",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://mobee.com",
+        "description": "",
+        "organization": "mobee"
+    },
+    "addresses": [
+        {
+            "address": "EQBA77LLxD2UBwaRl-ovKg2O5M9l24TTvN79vYZuu3rAXGkC",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        },
+        {
+            "address": "EQDEwRxQDUMR4ntvPRCv-wLksbuwmUegEb7ZteSNKwCwOPVB",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        }
+    ]
+}

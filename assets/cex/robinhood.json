@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "robinhood",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://robinhood.com",
+        "description": "",
+        "organization": "robinhood"
+    },
+    "addresses": [
+        {
+            "address": "EQDvmPhs-16OLoRpfi1t3l_b32LtCjzwFew93OkpiRFZ7ZZD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T19:52:44Z"
+        }
+    ]
+}

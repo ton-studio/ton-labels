@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "edge_gift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/EDGE_GIFT_BOT",
+        "description": "",
+        "organization": "edge_gift"
+    },
+    "addresses": [
+        {
+            "address": "EQC_F9PFS1l0iwNclcQMKkm3s9nsZkeRVQbNj4TXWH7C_F-o",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}

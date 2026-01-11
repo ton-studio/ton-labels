@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "1st.game",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://1st.game",
+        "description": "",
+        "organization": "1st.game"
+    },
+    "addresses": [
+        {
+            "address": "EQD1kq_evhxUyaISICnKXrwr3DX0zNHKvNApNdioWaa2ecLp",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T00:00:01Z"
+        }
+    ]
+}

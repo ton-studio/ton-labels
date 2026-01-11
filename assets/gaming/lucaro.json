@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "lucaro",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://luckaro.live",
+        "description": "",
+        "organization": "lucaro"
+    },
+    "addresses": [
+        {
+            "address": "EQBufzxkSq7jmi5RpsfpHbcrXj1bBTFcsi-9iMkH1tetgb6K",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T00:00:01Z"
+        },
+        {
+            "address": "EQDRXoB0OIOimHCPGAHpnsGGEhv35pIaZ_1jdVATo6kOnL4k",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T00:00:01Z"
+        }
+    ]
+}

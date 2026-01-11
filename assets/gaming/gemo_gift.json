@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gemo_gift.",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/gemogiftbot",
+        "description": "",
+        "organization": "gemogift"
+    },
+    "addresses": [
+        {
+            "address": "EQC1VAHNcYIVX2g4lOvWgZ4YatiEYmkOeehsae3dCE0I-GeG",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}

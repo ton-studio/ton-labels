@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "ru_market",
+        "name": "ru_market",
+        "organization": "ru_market",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/rumarketappbot"
+    },
+    "addresses": [
+        {
+            "address": "EQCX1v4xxCd8gSF5S6oRm2jUsQgxu32PgTji-nALMRl0D08X",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}
