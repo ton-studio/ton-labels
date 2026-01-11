@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "signalhash",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/signalhash_bot",
+        "description": "",
+        "organization": "signalhash"
+    },
+    "addresses": [
+        {
+            "address": "EQChGen86Iv7Vw2Cp5I9Q2Rkeac6l9MaW0SDzShUNeOilU-y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        },
+         {
+            "address": "EQAx_L1QYHakCGfVVu43fHVWtTM7viaqSMRxOrEwvarnd-NH",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}

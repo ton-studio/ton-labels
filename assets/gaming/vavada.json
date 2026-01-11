@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "vavada",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://vavada.com",
+        "description": "",
+        "organization": "vavada"
+    },
+    "addresses": [
+        {
+            "address": "EQCBWeOuy-tV15i-Rv1ooRfEZLYmy32SmhGguyPk3y6-0_eO",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        },
+        {
+            "address": "EQAXDZEKa1UolBClMMQaVNRxuyGwd_QwUGMwNulaNXPDFwMu",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T00:00:01Z"
+        }
+    ]
+}

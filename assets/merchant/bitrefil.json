@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bitrefil",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://www.bitrefill.com",
+        "description": "Global gift card and mobile top-up marketplace",
+        "organization": "bitrefil"
+    },
+    "addresses": [
+        {
+            "address": "EQCQVD-wUCXqyrxvW272agq_0hNrpvRI6WcWXNa7_dWofH55",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T21:03:50Z"
+        }
+    ]
+  }

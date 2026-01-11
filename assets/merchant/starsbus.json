@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "starsbus",
+        "name": "StarsBus",
+        "organization": "starsbus",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarBusRobot"
+    },
+    "addresses": [
+        {
+            "address": "EQADGGnMZf77k-1uQ3m9fb-11A8y17ZkmRZabWKDjN7czviV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        },
+        {
+            "address": "EQBVKpMRyQpZQLEqPTe3H6T-Y5ndUQXD3jGFBvbriqk-01Fi",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}

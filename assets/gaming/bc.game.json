@@ -1,8 +1,8 @@
 {
     "metadata": {
         "label": "bc.game",
-        "category": "merchant",
-        "subcategory": "",
+        "category": "gaming",
+        "subcategory": "gambling",
         "website": "https://bc.game",
         "description": "",
         "organization": "bc.game"
@@ -23,6 +23,16 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-13T10:09:26Z"
+        },
+        {
+            "address": "EQAgfwlHmx5iIU60_GjKOeVIWt1Ca11braU5tFhOs7u_tlot",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+             ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T10:09:26Z"
         }
     ]
 }

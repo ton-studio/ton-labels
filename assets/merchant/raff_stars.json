@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "raff_stars",
+        "name": "raff_stars",
+        "organization": "raff_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars&Premium marketplace",
+        "website": "https://t.me/RaffStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBS0kUn0LyKW1mlfZrI3lg6a1KkDcrqcvv69t0p3hbgnysN",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "muvtezer_stars",
+        "name": "Stars Shop Muvtezer Shop",
+        "organization": "muvtezer_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/MuvtezerStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBUqTiHXTYxlEQMaqummqIHtt2mmCy65LuvzNoulA48vEda",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}

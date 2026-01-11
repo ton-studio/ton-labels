@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "hexstars",
+        "name": "Hex Stars",
+        "organization": "hexstars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/HexStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQD7vVlLmvQbAuTFIpSY5fsGgSQkIIqzc1vAWqPl1bATXYDD",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-11T17:00:02Z"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "brew_ton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/BrewTONgame_bot",
+        "description": "",
+        "organization": "brew_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQDrOdQQcte_fU00TOmvSVvLdg5U3CVfvVJVP4BUeUJJwWhf",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T00:00:01Z"
+        }
+    ]
+}

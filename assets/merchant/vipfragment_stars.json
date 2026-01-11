@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "vipfragment_stars",
+        "name": "VipFragment STARS",
+        "organization": "vipfragment_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/VVVipFragmentbot"
+    },
+    "addresses": [
+        {
+            "address": "EQDWSynGMbgJwj-iVH6rNU3-yxWiWpkcLuJQlceDVw-vNiHy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-10T17:00:02Z"
+        }
+    ]
+}
