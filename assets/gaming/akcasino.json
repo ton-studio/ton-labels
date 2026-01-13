@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "akcasino",
+        "name": "AKCasino",
+        "organization": "akcasino",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "description": "",
+        "website": "https://t.me/AK_CasinoBot"
+    },
+    "addresses": [
+        {
+            "address": "EQATQ0CR2PlL4kvQdRwotpTKFjId7mm6coTTWg-oGNejk7np",
+            "source": "",
+            "comment": "Telegram Stars Cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-12-22T00:00:02Z"
+        }
+    ]
+}
