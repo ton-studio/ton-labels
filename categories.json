@@ -68,7 +68,7 @@
         "description": "DeFi protocols"
     },
     {
-    "name": "validator",
-    "description": "Validators and staking pools"
+        "name": "validator",
+        "description": "Validators and staking pools"
     }
 ]
