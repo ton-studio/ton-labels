@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "blox",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://www.blox.global",
+        "description": "Cross-border money movement for institutions and companies",
+        "organization": "blox"
+    },
+    "addresses": [
+        {
+            "address": "EQDE7OGzX1I7meE0EQnsKCwFFk7kXQduCG27-TbJ4CbH34Qe",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-01-15T00:33:26Z"
+        }
+    ]
+}
