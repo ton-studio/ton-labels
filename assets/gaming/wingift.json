@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "wingift",
+        "name": "WinGift",
+        "organization": "starsgram",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "description": "Affiliated with StarsGram",
+        "website": "https://t.me/wingift_official_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQADT8oj92vyD3qcp0OmUQq6jieYktjP_iqNQ7bFQq4Xnt0h",
+            "source": "",
+            "comment": "Telegram Stars Cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2025-12-22T00:00:02Z"
+        }
+    ]
+}
