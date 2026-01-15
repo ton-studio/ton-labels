@@ -37,6 +37,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-01-16T10:09:26Z"
+        },
+        {
+            "address": "EQCA5p_Asygh18dU82d0-wRbCJ8sM9EL-FGeyIDu8nkWtAp4",
+            "source": "",
+            "comment": "Used to top-up custodial wallets to cover gas fees",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T10:09:26Z"
         }
     ]
 }
