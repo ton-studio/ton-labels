@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pionex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.pionex.com",
+        "description": "",
+        "organization": "pionex"
+    },
+    "addresses": [
+        {
+            "address": "EQDsGOUZdjdyCWxZ8BvBMnBYZ0AM7ViXttZKdCvGqq3k7kqB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T10:09:26Z"
+        }
+    ]
+}
