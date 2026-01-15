@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "rainbet",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://rainbet.com",
+        "description": "",
+        "organization": "rainbet"
+    },
+    "addresses": [
+        {
+            "address": "EQCVGARccvFvTd-uH9WuhAYlsCTJgERZt5G80GyXzTQtmnH1",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T00:00:01Z"
+        }
+    ]
+}
