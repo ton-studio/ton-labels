@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bitunix",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.bitunix.com",
+        "description": "",
+        "organization": "bitunix"
+    },
+    "addresses": [
+        {
+            "address": "EQDQ6wuXpMMUy4f-kNkDDyW05V5Exx7d40OaopVd11uzkJmo",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T10:09:26Z"
+        }
+    ]
+}

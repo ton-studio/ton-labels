@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "birds_empire",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/BirdsEmpireBot",
+        "description": "",
+        "organization": "birds_empire"
+    },
+    "addresses": [
+        {
+            "address": "EQBDHqz_TcEJ56uZPWRPQGlGix--yoYfrQHoKucTpc9tTc1i",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T00:00:00Z"
+        },
+        {
+            "address": "EQDwLBXNqXSu0CMzkUuy124iRprmQrX9XM00u9VEpDjiP2UV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T00:00:00Z"
+        }
+    ]
+}

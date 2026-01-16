@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "latoken",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://latoken.com",
+        "description": "",
+        "organization": "latoken"
+    },
+    "addresses": [
+        {
+            "address": "EQDAIQ3xFDPwehugeW_Yo0YPrTNl9cJdccPSbc7x5sC207kE",
+            "source": "",
+            "comment": "",
+            "tags": [ 
+                  "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T10:09:26Z"
+        }
+    ]
+}
