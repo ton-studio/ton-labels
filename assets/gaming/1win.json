@@ -12,9 +12,19 @@
             "address": "EQAczOu-Dom5ZDJnM5CnwjRl0eE3mFsWqx9epLVgF_7ALrTu",
             "source": "",
             "comment": "",
-            "tags": ["has-custodial-wallets"],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-05-23T00:00:01Z"
+        },
+        {
+            "address": "EQB4BLiD9q3QxwsontQOX6XO5TB-hBYx9cX_4Vn46XdFtqXM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-16T00:00:01Z"
         }
     ]
 }
