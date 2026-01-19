@@ -9,6 +9,14 @@
     },
     "addresses": [
         {
+            "address": "EQAscR8-n759ngxVUOmPDOzue7CfBt_xIr-bi7kex_yd5Hnu",
+            "source": "datalake-test.cex_labels_20241116",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ziga",
+            "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
             "address": "EQCb0GYdDlBwd_7kBqUqKaGojO8spx8Av7vnTGruTWgI3K2N",
             "source": "",
             "comment": "",
