@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "reels",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://reels.io",
+        "description": "",
+        "organization": "reels"
+    },
+    "addresses": [
+        {
+            "address": "EQBuAHos8iVEC5arc6oHYT7FmFqeYGUa-3HirMs5JlnXQVkC",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-18T00:00:01Z"
+        },
+        {
+            "address": "EQCIq7b-zBT9gWXca9O6RmzA9TssfKEcfU5w-r1Ck8gDVImv",
+            "source": "https://t.me/open_reels_bot",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-18T00:00:01Z"
+        }
+    ]
+}

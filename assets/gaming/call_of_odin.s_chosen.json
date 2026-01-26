@@ -2,7 +2,7 @@
         "metadata": {
         "label": "call_of_odin.s_chosen",
         "name": "Call of Odin's Chosen",
-        "organization": "call_of_odin.s_chosen",
+        "organization": "pluto_studio",
         "category": "gaming",
         "subcategory": "",
         "description": "",
@@ -24,6 +24,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-12-10T00:00:01Z"
+        },
+        {
+            "address": "EQCR9n_n2p1NjHuJcL8KSLwElKcoJoa7tDURyb2Ejz0_kvW5",
+            "source": "",
+            "comment": "Telegram Stars cashout address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-19T00:00:01Z"
+        },
+        {
+            "address": "EQAN8noi6-8gya80uGHwlcCkIKhYQUUCrz6EqrPrIY5XOHvx",
+            "source": "https://t.me/COC_Web3_News/126",
+            "comment": "multisig_v2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-19T00:00:01Z"
         },
         {
             "address": "EQCFj0WPWtrM1GLjIi4s2hmCg098nbR-TXPVHo7nPbotTu7A",
