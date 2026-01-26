@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "chatbot",
+        "name": "Anonymous Chat",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/chatbot",
+        "description": "anonymous chat",
+        "organization": "chatbot"
+    },
+    "addresses": [
+        {
+            "address": "EQAFiq4GzGFh8TSRH3VyaOg8Um6zlcfVx7tiCjyv7qR2_xhG",
+            "source": "",
+            "comment": "Telegram Stars Cashout address",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-01-15T00:00:01Z"
+        }
+    ]
+}
