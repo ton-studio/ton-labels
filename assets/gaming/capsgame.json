@@ -16,13 +16,13 @@
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-06-18T00:00:01Z"
         },
-    {
+        {
       "address": "EQB3SvzvuIQGs3UHEgOCoSXd4Y9CMWLchYOlbhYbVCFB_BKa",
       "source": "",
-      "comment": "Telegram Stars cashout address.",
+      "comment": "Telegram Stars cashout address. This address is also a personal wallet of one of the project team member",
       "tags": [],
       "submittedBy": "ef-code",
       "submissionTimestamp": "2026-01-30T00:00:01Z"
-    }
-    ]
+       }
+   ]
 }
