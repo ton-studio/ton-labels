@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "lunar_hash",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/LunarHash_bot",
+        "description": "",
+        "organization": "lunar_hash"
+    },
+    "addresses": [
+        {
+            "address": "EQB0ZXtC6ATPtBO3DO-OprnlOq-nX4YRmVNy3FQDmh_wbWpS",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T00:00:01Z"
+        }
+    ]
+}

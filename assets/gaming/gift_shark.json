@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gift_shark",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/GiftShark_bot",
+        "description": "",
+        "organization": "gift_shark"
+    },
+    "addresses": [
+        {
+            "address": "EQDQARDQSDfjzXGfvT5pkji5j5AP0Xh1oHVY6amKWLlejcm4",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T00:00:01Z"
+        }
+    ]
+}

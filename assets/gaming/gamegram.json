@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gamegram",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://gamegram.me",
+        "description": "",
+        "organization": "gamegram"
+    },
+    "addresses": [
+        {
+            "address": "EQCxGHyVwSVS16ZHN7vs7c-kapQ-A4b34deuGb7L0DgUu6wu",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T00:00:01Z"
+        }
+    ]
+}

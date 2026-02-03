@@ -6,7 +6,7 @@
         "category": "merchant",
         "subcategory": "",
         "description": "TG Stars marketplace",
-        "website": "https://t.me/RockStars_tonbot"
+        "website": "https://t.me/RockStarsTonbot"
     },
     "addresses": [
         {
@@ -16,6 +16,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-12-10T17:00:02Z"
+        },
+        {
+            "address": "EQDYJIx6HFHjdiqWzVT57Xle7tG3vRuG-mxma0AOffR6qr0y",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T17:00:02Z"
+        },
+        {
+            "address": "EQARGGVf5FfUkbAUTl7S_kUk_7gmUtN4eG6r_E7JUIz2-7x0",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T17:00:02Z"
         }
     ]
 }

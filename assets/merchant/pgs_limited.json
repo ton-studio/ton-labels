@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "pgs_limited",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://pay.pgs.limited",
+        "description": "Payment processing",
+        "organization": "pgs_limited"
+    },
+    "addresses": [
+        {
+            "address": "EQDdp6Xx3CDhDnsotJ40LDXUjeE2f8ezMYIqzWr81OhsSMly",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T00:00:01Z"
+        }
+    ]
+}

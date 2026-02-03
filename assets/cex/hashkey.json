@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "hashkey",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.hashkey.com",
+        "description": "",
+        "organization": "hashkey"
+    },
+    "addresses": [
+        {
+            "address": "EQBTsYZHhMeZP60M8BFQ0sqkoU4I3KipLDMNIU05ghQuTDZu",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T10:09:26Z"
+        }
+    ]
+}

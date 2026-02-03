@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "coinstore",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.coinstore.com",
+        "description": "",
+        "organization": "coinstore"
+    },
+    "addresses": [
+        {
+            "address": "EQAq2b8MpctI3juksbnxPs05KUSRmL93qqIKN2l66Yim0n6B",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T10:09:26Z"
+        }
+    ]
+}

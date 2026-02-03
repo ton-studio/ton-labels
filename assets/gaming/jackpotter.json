@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "jackpotter",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://jackpotter.com",
+        "description": "",
+        "organization": "jackpotter"
+    },
+    "addresses": [
+        {
+            "address": "EQAOFYdlG-u8Jev8C7Q9Z4QjhD_87_pA-I9OBmor524CtwBN",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-28T00:00:01Z"
+        },
+         {
+            "address": "EQC-IaI4qMUJ2jTyVYATxE81NuRpAxORrdPUIEuCgxUN_u0W",
+            "source": "",
+            "comment": "Gas top‑up address",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-28T00:00:01Z"
+        }
+    ]
+}

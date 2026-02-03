@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "label": "yida_yule",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://888.ydyule818.com",
+        "description": "",
+        "organization": "yida_yule"
+    },
+    "addresses": [
+        {
+            "address": "EQCR5guq6gZfPHDAQwHL5MOrHhTp_vc7f-x6QGddxfx5RMqf",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQCTag3h0aovhncHbdB-DAiFZl4rYMCqxSFh-70AuSjSwiPw",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQDfkf3aQR95VHEsVEHpcvmd-d7bmihqgRQ7yAx_dARU2h5X",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQAxy_g6ypJ1Vvipr2t1rML1dOnT0mcE3uvZMIa6bhBLbIYl",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQDB737vTZw3oY4le0tFzzwwMwhMFA-jxXh9yLHiKFh_r3mw",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQBnpoDCTD9xpFT71JJSo1pJ5XbLiDoYciIdfOFAFGZjClUp",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQBjovTk8jdQ00x4f6Ugu18BHbgBf4vzfyAj8ntX1nsc2u22",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQDHpen-BqLLKYzBlbSwFZrFB6O_ZXJoz7vN0fxW1QhMrWDu",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+      {
+            "address": "EQBVgJTR8Zt3kYCJYjIutk1U4xv-MpdEiMeZDcZEidNF9Cw8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQBLUJ7fbJ6WMLOiD4bqqgWA7NdxR5n3WO6qzbbo7R_3Tz0E",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQCmjAezUD6eYOSk_YtPrpb3g14PAa6AfZrgAs-1eJ5s15nB",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        },
+        {
+            "address": "EQC16fHdOED6vx3qglSAPvI5I3WDaSmWM1_XLImzOKUXos-7",
+            "source": "",
+            "comment": "Treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T00:00:01Z"
+        }
+    ]
+}
