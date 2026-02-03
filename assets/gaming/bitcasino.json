@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bitcasino",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://bitcasino.io",
+        "description": "",
+        "organization": "bitcasino"
+    },
+    "addresses": [
+        {
+            "address": "EQCMrOSvzZgqG1M5AsAi-qfzQP_F-MwpHnRTnfmJpU61efGs",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-28T00:00:01Z"
+        }
+    ]
+}

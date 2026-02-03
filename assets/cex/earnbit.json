@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "earnbit",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://earnbit.com",
+        "description": "",
+        "organization": "earnbit"
+    },
+    "addresses": [
+        {
+            "address": "EQBEqVMsBLuiIsZm_pArIU2tTOvbz4yuor0GDKPP83v0R4Iz",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T10:09:26Z"
+        }
+    ]
+}

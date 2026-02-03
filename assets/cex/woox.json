@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "woox",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://woox.io",
+        "description": "",
+        "organization": "woox"
+    },
+    "addresses": [
+        {
+            "address": "EQB6RqrDzISb2tKVM8PhESQ_uc49G1mTFzUu_q_dsLqPmKFk",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T10:09:26Z"
+        }
+    ]
+}
