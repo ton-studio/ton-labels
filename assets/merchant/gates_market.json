@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "gates_market",
+        "name": "GATES MARKET",
+        "organization": "gates_market",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/gates_market_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQDdcN6B-lReTok_2n-RupeoG37irNE_fzXyCSZop8kZ0aAd",
+            "source": "",
+            "comment": "Main market wallet. Used for all type operations in market.",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "plushpepe-lab",
+            "submissionTimestamp": "2026-02-04T00:00:01Z"
+        }
+    ]
+}
