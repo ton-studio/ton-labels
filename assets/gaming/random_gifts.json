@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "random_gifts",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/Random_Gifts_robot",
+        "description": "",
+        "organization": "random_gifts"
+    },
+    "addresses": [
+        {
+            "address": "EQCoV-gsGJZBSxq42RpIL-y-a0bArR_V6QmMWmkMcROVw1nX",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-28T00:00:01Z"
+        }
+    ]
+}
