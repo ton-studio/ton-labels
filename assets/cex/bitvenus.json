@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bitvenus",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.bitvenus.me",
+        "description": "ex-bVOX",
+        "organization": "bitvenus"
+    },
+    "addresses": [
+        {
+            "address": "EQBY_VjN-1WrLKR5he5Zr-Ba-5eUBye_0CcTcEOj9vk_k6ok",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+              ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-01-30T10:09:26Z"
+        }
+    ]
+}

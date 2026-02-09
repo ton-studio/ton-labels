@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "1gift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/onegiftcasebot",
+        "description": "",
+        "organization": "1gift"
+    },
+    "addresses": [
+        {
+            "address": "EQAigzbye_QoJN44KncgFuGP6rQwz6dBjLNVeC_Z0vUJonTW",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-03T00:00:01Z"
+        }
+    ]
+}
