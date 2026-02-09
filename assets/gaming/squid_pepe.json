@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "squid_pepe",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/squidpepebot",
+        "description": "",
+        "organization": "squid_pepe"
+    },
+    "addresses": [
+        {
+            "address": "EQBx_fvUPdBop74LLu3zeuzv_cL8UzIk-VsykVHeBOkBNkvG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-09T00:00:00Z"
+        },
+        {
+            "address": "EQDGXKX3f0bL9_mneXPotW9JvweuenWs_nvpLEHcqTS1ETDj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-09T00:00:00Z"
+        }
+    ]
+}
