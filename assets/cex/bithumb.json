@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "bithumb",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.bithumb.com",
+        "description": "",
+        "organization": "bithumb"
+    },
+    "addresses": [
+        {
+            "address": "EQDny_JvDisllMdoeGfLiEomzgnLXkJWNr-iJrM5bJgfl8ED",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-09T10:09:26Z"
+        },
+        {
+            "address": "EQAgwJ7indtu5P4T3fFgcUDz0kmcAjg9X8saxcVFHS71bP1C",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-09T10:09:26Z"
+        }
+    ]
+}
