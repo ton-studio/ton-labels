@@ -39,6 +39,30 @@
             "tags": [],
             "submittedBy": "markysha",
             "submissionTimestamp": "2024-12-26T10:09:26Z"
+        },
+        {
+            "address": "Ef87m7_QrVM4uXAPCDM4DuF9Rj5Rwa5nHubwiQG96JmyAjQY",
+            "source": "tonviewer",
+            "comment": "ETH Bridge Governance",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-02-11T10:09:26Z"
+        },
+        {
+            "address": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+            "source": "tonviewer",
+            "comment": "BSC Bridge Governance",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-02-11T10:09:26Z"
+        },
+        {
+            "address": "Ef8hHxV0v2I9FHh3CMX91WXjKaJav6SQlemEQm8ZvPBJdLde",
+            "source": "tonviewer",
+            "comment": "Bridge Governance / multisig",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-02-11T10:09:26Z"
         }
     ]
 }

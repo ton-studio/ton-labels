@@ -1,20 +1,28 @@
 {
-  "metadata": {
-      "label": "chainconnect",
-      "category": "bridge",
-      "subcategory": "",
-      "website": "https://app.chainconnect.com",
-      "description": "",
-      "organization": "chainconnect"
-  },
-  "addresses": [
-      {
-          "address": "EQBLaRe42TV87k0kqGBdKDJxCODcBrD-R4YUoionucMIBb25",
-          "source": "",
-          "comment": "Bridge Contract",
-          "tags": [],
-          "submittedBy": "Caranell",
-          "submissionTimestamp": "2025-03-18T00:00:00Z"
-      }
-  ]
+    "metadata": {
+        "label": "chainconnect",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://app.chainconnect.com",
+        "description": "",
+        "organization": "chainconnect"
+    },
+    "addresses": [
+        {
+            "address": "EQBLaRe42TV87k0kqGBdKDJxCODcBrD-R4YUoionucMIBb25",
+            "source": "",
+            "comment": "Bridge Contract",
+            "tags": [],
+            "submittedBy": "Caranell",
+            "submissionTimestamp": "2025-03-18T00:00:00Z"
+        },
+        {
+            "address": "EQBPopFvyMskFBsfp5w_5lBcUuAngsSj_JkyOrSgAAX-Phsz",
+            "source": "",
+            "comment": "ChainConnect Wrapped TON ccTON jetton master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-02-11T00:00:00Z"
+        }
+    ]
 }
