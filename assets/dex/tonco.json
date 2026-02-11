@@ -27,6 +27,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-01-15T00:00:01Z"
+        },
+        {
+            "address": "EQCUnExmdgwAKADi-j2KPKThyQqTc7U650cgM0g78UzZXn9J",
+            "source": "tonviewer",
+            "comment": "Wrapped for TONCO TON jetton master",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-02-11T00:00:01Z"
         }
     ]
 }
