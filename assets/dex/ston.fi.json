@@ -579,6 +579,26 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-01-16T00:00:01Z"
+        },
+        {
+            "address": "EQBnGWMCf3-FZZq1W4IWcWiGAc3PHuZ0_H-7sad2oY00o83S",
+            "source": "",
+            "comment": "pTON jetton master",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-02-11T00:00:01Z"
+        },
+        {
+            "address": "EQCM3B12QK1e4yZSf8GtBRT0aLMNyEsBc_DhVfRRtOEffLez",
+            "source": "",
+            "comment": "pTON jetton master",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-02-11T00:00:01Z"
         }
     ]
 }
