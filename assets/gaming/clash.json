@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "clash",
+        "name": "Clash",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://clash.gg",
+        "description": "",
+        "organization": "clash"
+    },
+    "addresses": [
+        {
+            "address": "EQAhQT_4chAeQVtchdjoRULBrJoi6GrHfg3U9-SsFa0yNPBw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
+        }
+    ]
+}
