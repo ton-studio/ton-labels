@@ -4,7 +4,7 @@
         "category": "merchant",
         "subcategory": "",
         "website": "https://mercuryo.io",
-        "description": "",
+        "description": "fiat_onramp",
         "organization": "mercuryo"
     },
     "addresses": [
@@ -23,6 +23,26 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-01T00:00:01Z"
+        },
+        {
+            "address": "EQALOgbZGSUTfavrvyIBAxzk2px7j6r-yPg5KkHZ8wtWcJb2",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-13T00:00:01Z"
+        },
+         {
+            "address": "EQBMw1P7v7keTWHi3eNcdHv_EqglTS53-IsjdFB4paW34fpN",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-13T00:00:01Z"
         }
     ]
 }

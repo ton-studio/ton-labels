@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "push",
+        "name": "@push",
+        "organization": "major",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Secure crypto transfers on Telegram",
+        "website": "https://t.me/push"
+    },
+    "addresses": [
+        {
+            "address": "EQBNl2Hnxgc-olNY_Qq9iB3Rd3P7GGrW2oUzLc47BW3EjHNy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-13T17:00:02Z"
+        }
+    ]
+}

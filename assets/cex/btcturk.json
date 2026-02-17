@@ -1,20 +1,20 @@
 {
     "metadata": {
-        "label": "robinhood",
+        "label": "btcturk",
         "category": "CEX",
         "subcategory": "",
-        "website": "https://robinhood.com",
+        "website": "https://kripto.btcturk.com",
         "description": "",
-        "organization": "robinhood"
+        "organization": "btcturk"
     },
     "addresses": [
         {
-            "address": "EQDvmPhs-16OLoRpfi1t3l_b32LtCjzwFew93OkpiRFZ7ZZD",
+            "address": "EQD4orPSdfl-R4s4MVBt-XtCz7yrgRyDsBk7tJaYGH1AZrSW",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-01-10T19:52:44Z"
+            "submissionTimestamp": "2026-02-13T10:09:26Z"
         }
     ]
 }

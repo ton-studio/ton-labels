@@ -1,25 +1,24 @@
 {
     "metadata": {
-        "label": "empires_battle",
+        "label": "freetoncoin",
+        "name": "Freetoncoin",
         "category": "gaming",
-        "subcategory": "",
-        "website": "https://t.me/EmpiresBattleBot",
+        "subcategory": "gambling",
+        "website": "https://freetoncoin.in",
         "description": "",
-        "organization": "empires_battle"
+        "organization": "freetoncoin"
     },
     "addresses": [
         {
-            "address": "EQBhAfbrxk4nf9ySeJdNh9IFekP0E_9A_6509QUtWeyL_INc",
+            "address": "EQAyrrTqtrc8tV8TWEb7R8WBMOE06YwsyIPBenzlbWkzA0GO",
             "source": "",
             "comment": "",
-            "tags": [
-                "has-custodial-wallets"
-            ],
+            "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-02-17T00:00:01Z"
         },
         {
-            "address": "EQDHK4408qapuUCrwOvbpyrGZoh86jeAr9xqvBDAtDOZZbvc",
+            "address": "EQAsHcYjiUADAeFAbA9pTq-1pI1ogotgNBFLtPtQVe9VofGc",
             "source": "",
             "comment": "",
             "tags": [],

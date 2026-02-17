@@ -1,28 +1,28 @@
 {
     "metadata": {
-        "label": "youhodler",
+        "label": "reku",
         "category": "CEX",
         "subcategory": "",
-        "website": "https://www.youhodler.com",
+        "website": "https://reku.id",
         "description": "",
-        "organization": "youhodler"
+        "organization": "reku"
     },
     "addresses": [
         {
-            "address": "EQDP6KDWhRLRg5l8IrVq-uE6bDQyE9sFp1QEu74W0zWtAO17",
+            "address": "EQDEXLywm8jIF8tUpt4gOYVpDw2YRBUf1vSVAQNzLrhD5xQl",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-11-28T10:09:26Z"
+            "submissionTimestamp": "2026-02-17T10:09:26Z"
         },
         {
-            "address": "EQAChLDnLsIrCXGdYnZjA3mh4Jtyf1KUPzVcukVbUaugxw45",
+            "address": "EQA4W_YS-YPIZ9oiBue8CGu87M87QU7_QIS1N_nzJaqmEW9N",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-02-13T10:09:26Z"
+            "submissionTimestamp": "2026-02-17T10:09:26Z"
         }
     ]
 }
