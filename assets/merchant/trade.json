@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "trade",
+        "name": "Trade",
+        "organization": "trade",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/trade",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQCSyBumTM_e_t30Gb-yxQXyDY4CKuKzNUt_5I3guWILhpH0",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
+        }
+    ]
+}
