@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "freetoncoin",
+        "name": "Freetoncoin",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://freetoncoin.in",
+        "description": "",
+        "organization": "freetoncoin"
+    },
+    "addresses": [
+        {
+            "address": "EQAyrrTqtrc8tV8TWEb7R8WBMOE06YwsyIPBenzlbWkzA0GO",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
+        },
+        {
+            "address": "EQAsHcYjiUADAeFAbA9pTq-1pI1ogotgNBFLtPtQVe9VofGc",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
+        }
+    ]
+}
