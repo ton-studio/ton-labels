@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "vertus_space",
+        "name": "Vertus Space",
+        "organization": "vertus_space",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/vertus_space_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQCcA7naQSsq7yHk0pIwUW5VU7Bggz4A_AR4ICYpJd3fcsCB",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
+        }
+    ]
+}

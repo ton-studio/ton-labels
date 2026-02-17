@@ -17,6 +17,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQBSl339qBrP52UOMJBmbBP7CFCAskuzCCcIOQDVL8GpIxO-",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
         }
     ]
 }

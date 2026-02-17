@@ -1,0 +1,21 @@
+       {
+        "metadata": {
+        "label": "missed_stars",
+        "name": "Missed stars",
+        "organization": "missed_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarsPurpleBot"
+    },
+    "addresses": [
+        {
+            "address": "EQA8ZuhBM6duersJPyUgNw08UbELGjwrJ1vbnVU7ayX80h6h",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T17:00:02Z"
+        }
+    ]
+}

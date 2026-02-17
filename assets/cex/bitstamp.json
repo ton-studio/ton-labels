@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "bitstamp",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.bitstamp.net",
+        "description": "",
+        "organization": "bitstamp"
+    },
+    "addresses": [
+        {
+            "address": "EQAbKzoVl1dvGhzKz5YCDTc7E2uVnSea3DcGIgAsAe1TlIlm",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T19:52:44Z"
+        }
+    ]
+}
