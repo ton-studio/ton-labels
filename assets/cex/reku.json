@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "reku",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://reku.id",
+        "description": "",
+        "organization": "reku"
+    },
+    "addresses": [
+        {
+            "address": "EQDEXLywm8jIF8tUpt4gOYVpDw2YRBUf1vSVAQNzLrhD5xQl",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T10:09:26Z"
+        },
+        {
+            "address": "EQA4W_YS-YPIZ9oiBue8CGu87M87QU7_QIS1N_nzJaqmEW9N",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T10:09:26Z"
+        }
+    ]
+}
