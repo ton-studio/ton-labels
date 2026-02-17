@@ -9,12 +9,22 @@
     },
     "addresses": [
         {
-            "address": "EQAMkOfP3hhorENpecyHmnvtIF2PWzQPSztZqUIab5eWTL4k",
+            "address": "EQBhAfbrxk4nf9ySeJdNh9IFekP0E_9A_6509QUtWeyL_INc",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
+        },
+        {
+            "address": "EQDHK4408qapuUCrwOvbpyrGZoh86jeAr9xqvBDAtDOZZbvc",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2025-08-27T00:00:01Z"
+            "submissionTimestamp": "2026-02-17T00:00:01Z"
         }
     ]
 }
