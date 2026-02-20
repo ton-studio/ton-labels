@@ -36,7 +36,7 @@
         {
             "address": "EQA4b2XPkTmGv6tPbsSA4o-ZVXsTW9EE0zkoaVdKa3rW8elD",
             "source": "",
-            "comment": "Telegram Stars cashout address.",
+            "comment": "Telegram Stars Cashout address, also used for USDT payouts to users who sell Telegram Stars through the service.",
             "tags": [],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2026-02-19T00:00:01Z"
