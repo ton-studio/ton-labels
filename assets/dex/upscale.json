@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "Upscale",
+        "category": "DEX",
+        "subcategory": "perpetuals",
+        "website": "https://upscale.trade",
+        "description": "",
+        "organization": "stormtrade"
+    },
+    "addresses": [
+        {
+            "address": "EQC_q3jaVKanfwpAxgg_8fk2htpdBJMmvKGlnWTlbGNe7SZb",
+            "source": "",
+            "comment": "Telegram Stars cashout address, also used for various rewards within the Storm Trade project.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-02-19T00:00:01Z"
+        }
+
+    ]
+
+}
