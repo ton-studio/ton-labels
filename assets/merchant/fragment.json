@@ -100,5 +100,18 @@
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-13T00:00:01Z"
         }
+         {
+            "address": "EQCfNnw0JBcv-G5k04wVsxXserWRKwVJ36Y39aZ-hFMjY6-Y",
+            "source": "Dune Analytics / Transaction History",
+            "comment": "Fragment Star-Merchant Processor (High-volume)",
+            "tags": [
+            "telegram-stars",
+            "merchant",
+            "highload-wallet"
+            ],
+            "submittedBy": "francishope",
+            "submissionTimestamp": "2026-03-03T18:00:00"
+         }
+
     ]
 }
