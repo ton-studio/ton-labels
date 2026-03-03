@@ -1,0 +1,23 @@
+{ 
+  "metadata": { 
+    "label": "cifra_markets", 
+    "name": "Cifra Markets", 
+    "category": "CEX", 
+    "subcategory": "", 
+    "website": "https://tradernet.by", 
+    "description": "", 
+    "organization": "cifra_markets" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQBNICA-5Jy0JX269aYzmg1jz4FZ8t_ic1q7pxXwUkYWZ9w1", 
+      "source": "", 
+      "comment": "", 
+      "tags": [
+        "has-custodial-wallets"
+      ], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2026-03-03T00:00:01Z" 
+    } 
+  ] 
+}
