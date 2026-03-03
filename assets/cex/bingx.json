@@ -75,6 +75,22 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-08-19T00:00:01Z"
+        },
+        {
+            "address": "EQCPPiMQG_bj1-C3oQzfsufaCQQiBCvNcPoMnsrV3pO9xu0l",
+            "source": "https://bingx.com/en/balance-reserve",
+            "comment": "Treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQDIv0mSHnXxE6C_CTIZXRkricGJwpUNg5PXU3BaZW1nFkdE",
+            "source": "https://bingx.com/en/balance-reserve",
+            "comment": "Treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
         }
     ]
 }
