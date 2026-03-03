@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pilot",
+        "category": "tradingbot",
+        "subcategory": "",
+        "website": "https://t.me/TradePilotRobot",
+        "description": "",
+        "organization": "pilot"
+    },
+    "addresses": [
+        {
+            "address": "EQCsv6y20EkgcUEjHoidGgqCREu6HYe7fme5PNRogk9Y6NG7",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}
