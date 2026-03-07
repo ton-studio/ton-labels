@@ -1,0 +1,21 @@
+{ 
+  "metadata": { 
+    "label": "swissborg", 
+    "name": "Swissborg", 
+    "category": "CEX", 
+    "subcategory": "", 
+    "website": "https://swissborg.com", 
+    "description": "", 
+    "organization": "swissborg" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQAvfvh141q7M2ZmPE6YCmTFQW6pdoUXVTGrM2YBpt4iqL2A", 
+      "source": "", 
+      "comment": "", 
+      "tags": [], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2026-03-03T00:00:01Z" 
+    } 
+  ] 
+}

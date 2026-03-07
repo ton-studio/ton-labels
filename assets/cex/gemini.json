@@ -1,0 +1,21 @@
+{ 
+  "metadata": { 
+    "label": "gemini", 
+    "name": "Gemini", 
+    "category": "CEX", 
+    "subcategory": "", 
+    "website": "https://www.gemini.com", 
+    "description": "", 
+    "organization": "gemini" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQCx0_0l9AxIouVBxThCRAwO7Yrz6rpQGI-1CS7h-lwjqUkT", 
+      "source": "", 
+      "comment": "", 
+      "tags": [], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2026-03-03T00:00:01Z" 
+    } 
+  ] 
+}

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonhub",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/mStarBoxBot",
+        "description": "Traffic / Growth Tasks",
+        "organization": "tonhub"
+    },
+    "addresses": [
+        {
+            "address": "EQCyj5JvvkChIyXtWTTyBB79uZBQiZpP4VX_zpUdaTFS7V5z",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "x_gift",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/Xxxgiftapp_bot",
+        "description": "",
+        "organization": "x_gift"
+    },
+    "addresses": [
+        {
+            "address": "EQCbnufjP83Y2MU6HjnhpNXgqJB2vhdxWSus9_Yh1mHvp6Pd",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

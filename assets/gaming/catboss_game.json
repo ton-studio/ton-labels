@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "catboss_game",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/CatBossGameBot",
+        "description": "",
+        "organization": "catboss_game"
+    },
+    "addresses": [
+        {
+            "address": "EQAoZZHffUaOIzR7SN1wPX578Y2Bv3k6XL7f4d5XQisNMS5Q",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

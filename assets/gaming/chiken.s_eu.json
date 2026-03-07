@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "chiken.s_eu",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/ChickenEuBot",
+        "description": "",
+        "organization": "chiken.s_eu"
+    },
+    "addresses": [
+        {
+            "address": "EQBO3fD3pcEe_c-W-wFNoHf9QZ7qO_lQq7Aey6MwQYz9chJB",
+            "source": "https://t.me/+h8gzfPRNaQExNWE0",
+            "comment": "The wallet is also used for reward payouts in https://t.me/FiveMinersBot",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

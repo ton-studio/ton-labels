@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "staking_ton",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/TonStakingRubot",
+        "description": "",
+        "organization": "staking_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQDvA6FBzPtWDHjGsy9VECFAEcDpGPwPCN7G9nPJzxxuSQEn",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

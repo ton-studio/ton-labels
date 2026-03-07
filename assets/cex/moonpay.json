@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "moonpay",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.moonpay.com",
+        "description": "Centralized service for buying cryptocurrency with fiat",
+        "organization": "moonpay"
+    },
+    "addresses": [
+        {
+            "address": "EQDkfDZ0ulvkkpweCM8oYeHJM3A6cd4G3PYIhGZkfGiQbXjL",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T10:09:26Z"
+        },
+        {
+            "address": "EQDktSZH91muH5Va613-Om7tezByydEtKoQ--jiAqs5T-tjI",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T10:09:26Z"
+        }
+    ]
+}
