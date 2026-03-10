@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "nasfam",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://t.me/nasfam_pay_bot",
+        "description": "Fiat to crypto on-ramp and integrated DEX platform",
+        "organization": "nasfam"
+    },
+    "addresses": [
+        {
+            "address": "EQBXfk_mSi4VovFHzGS42rLuXk-SKGkirN05t7xQoejSyJHS",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T10:09:26Z"
+        }
+    ]
+}

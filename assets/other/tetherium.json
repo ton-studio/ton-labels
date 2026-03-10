@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tetherium",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/TETHERIUM_BOT",
+        "description": "trading bot–based yield model",
+        "organization": "tetherium"
+    },
+    "addresses": [
+        {
+            "address": "EQDn_CEGH5rKAtRn6o6AMnRMrkUXRzDJLMFW-ZAQ6i-tJ231",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

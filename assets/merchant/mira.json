@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "mira",
+        "name": "Mira",
+        "organization": "mira",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "AI-powered Telegram assistant",
+        "website": "https://t.me/mira"
+    },
+    "addresses": [
+        {
+            "address": "EQBSUixC-BZcuHGv0bDEoR_55MiAcNAVBU9YWDoXSbqkjP6q",
+            "source": "",
+            "comment": "cocoon wallet",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T17:00:02Z"
+        }
+    ]
+}

@@ -217,6 +217,38 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-01-11T00:00:01Z"
+        },
+        {
+            "address": "EQA7hl8xdtMpwYKAuzZHei7OSnJpVaznO7JwFLVYjY4At9Ol",
+            "source": "https://www.kucoin.com/ru/proof-of-reserves",
+            "comment": "multisig_v2 , treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQDyoucGvxKV-mOI4wqZxDHOKUrvACcnlG0BOoXfwVVDF57R",
+            "source": "https://www.kucoin.com/ru/proof-of-reserves",
+            "comment": "multisig_v2 , treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQAE5MEdyYROXeuc7biIIo8mvXZrw0VCB4TflUx0Jxs2_KZr",
+            "source": "https://www.kucoin.com/ru/proof-of-reserves",
+            "comment": "Address included in KuCoin Proof of Reserves",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQDtbfZPcagP_SQqS2_dlgmsKR-QGfAJeOH_EA2pUBCeKUSu",
+            "source": "https://www.kucoin.com/ru/proof-of-reserves",
+            "comment": "Address included in KuCoin Proof of Reserves",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "t_market_ads",
+        "category": "ads",
+        "subcategory": "",
+        "website": "https://t.me/TMarketADSBot",
+        "description": "In-app advertising platform to promote projects and social media within T-Market",
+        "organization": "t_market_ads"
+    },
+    "addresses": [
+        {
+            "address": "EQAk_kDMESwO4BPxIVfags8fTbTR1q9H4QpW6PI09I366F0x",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

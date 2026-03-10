@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "casex",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/CaseXGameBot",
+        "description": "",
+        "organization": "casex"
+    },
+    "addresses": [
+        {
+            "address": "EQBK_c3RdSZJah7JOkeS7rX2gKD4sn5K-kl3Y1Ax1Q23TmhI",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQCJCNkRfJWWEY2S3wUJj6Ub6xI9Bhmt44soNbdp18FRFVXh",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

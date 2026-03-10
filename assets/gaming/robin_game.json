@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "robin_game",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/robin_game_bot",
+        "description": "",
+        "organization": "robin_game"
+    },
+    "addresses": [
+        {
+            "address": "EQDdpgeHQcspYKG5ktYmK6CM0aj8bPqo3BBK5aQANTKdOOnS",
+            "source": "",
+            "comment": "",
+            "tags": [
+               "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

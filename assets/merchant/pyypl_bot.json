@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "pyypl_bot",
+        "name": "PyyplBot",
+        "organization": "pyypl_bot",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Digital marketplace for payments, gift cards, gaming, and eSIM",
+        "website": "https://pyyplbot.com"
+    },
+    "addresses": [
+        {
+            "address": "EQAVwstMM9U6OP5qUfQZD0lM-MNTlvr2q3aDHK59gCvN3AOd",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T17:00:02Z"
+        },
+        {
+            "address": "EQDdbxsAznzh0JQzVR4i-09GaY24UYWVqhf0_k_G7Te48iF0",
+            "source": "",
+            "comment": "TG stars purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T17:00:02Z"
+        }
+    ]
+}

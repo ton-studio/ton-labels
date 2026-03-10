@@ -669,6 +669,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQB9EW5v9wwqTpX-r6nRGVK5uvcmvd94DbipBCtRlrzp5bAz",
+            "source": "",
+            "comment": "https://www.bybit.eu",
+            "tags": [
+                    "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "floq",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://floq.co.id",
+        "description": "",
+        "organization": "floq"
+    },
+    "addresses": [
+        {
+            "address": "EQCTz9PYaPEaYWxIfWgvOjThQpQHiXnWJ6cRO9euyHD0V6qB",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T10:09:26Z"
+        }
+    ]
+}

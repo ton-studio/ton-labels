@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "starslly",
+        "name": "Starslly",
+        "organization": "starslly",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace and NFT rental platform",
+        "website": "https://t.me/StarsllyBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBzWwTC3ECdU7cLPX-1GCvzdfMl1eiuwKUJLtBy7C2F5r6K",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T17:00:02Z"
+        }
+    ]
+}

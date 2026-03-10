@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "plisio",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://plisio.net",
+        "description": "Crypto payment gateway",
+        "organization": "plisio"
+    },
+    "addresses": [
+        {
+            "address": "EQBInNpTe2HtdwwtLdTp8sqDS0C-DhPlMk9_Rjb6NF_kewKS",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

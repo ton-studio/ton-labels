@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "advbank_ton",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/AdvBankTON_bot",
+        "description": "",
+        "organization": "advbank_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQBhniCQdfN3fMDt0VJsKys8LTgeeSzKBWu4pWvEz2v0hHev",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

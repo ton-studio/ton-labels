@@ -36,6 +36,22 @@
             ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-04-14T00:00:01Z"
+        },
+        {
+            "address": "EQDXDoBvB5qc8BKOH0j5RqVRKRqsB1FVgXDpyZHPd1We1RuD",
+            "source": "",
+            "comment": "multisig_v2, treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQBpCjQrzr2SDPvOxFmqxibc2BlXD_bt4siGCKM6Qyhpd3OP",
+            "source": "https://t.me/tonnel_en/1817",
+            "comment": "crypto mixer address",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
         }
     ]
 }
