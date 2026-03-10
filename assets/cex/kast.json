@@ -21,7 +21,7 @@
         {
             "address": "EQCOatvYuTKPmGLuxuaQAkUpOrhRNfurMC0pkfc3iMqppsVE",
             "source": "",
-            "comment": "",
+            "comment": "Used to top-up custodial wallets to cover gas fees",
             "tags": [
                 "has-custodial-wallets"
             ],

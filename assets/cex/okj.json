@@ -1,0 +1,21 @@
+{ 
+  "metadata": { 
+    "label": "okj", 
+    "name": "OKJ", 
+    "category": "CEX", 
+    "subcategory": "", 
+    "website": "https://www.okcoin.jp", 
+    "description": "", 
+    "organization": "okj" 
+  }, 
+  "addresses": [ 
+    { 
+      "address": "EQCHluSUi3REnn24byK06kV4deO2JswMQ7g5dsI-yuoBsimG", 
+      "source": "", 
+      "comment": "", 
+      "tags": [], 
+      "submittedBy": "Lucky0041", 
+      "submissionTimestamp": "2026-03-03T00:00:01Z" 
+    } 
+  ] 
+}

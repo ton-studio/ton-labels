@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_ferma",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TonFermaGameBot",
+        "description": "",
+        "organization": "ton_ferma"
+    },
+    "addresses": [
+        {
+            "address": "EQBT3Izcp58PNeMuVS1C78Co5y6xf8Zkzx8-dyPVEU4Laedj",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}

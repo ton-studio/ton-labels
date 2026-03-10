@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "red_shield_vpn",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/redshieldvpn",
+        "description": "VPN service in Telegram",
+        "organization": "red_shield_vpn"
+    },
+    "addresses": [
+        {
+            "address": "EQB-I15JsyeuZlkTLJqDH1QrcTd7tvlXgeXSpLybkTXEXsg3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-07T10:40:00Z"
+        }
+    ]
+}

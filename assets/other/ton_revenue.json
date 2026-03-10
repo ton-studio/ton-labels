@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_revenue",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/tonrevenuebot",
+        "description": "Passive income platform combining trading, DeFi, and referral rewards",
+        "organization": "ton_revenue"
+    },
+    "addresses": [
+        {
+            "address": "EQDG2J97nq_iVQ3XW9znN4AzAyXEMRFSh9pi3seFBbXUElfA",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T00:00:01Z"
+        }
+    ]
+}
