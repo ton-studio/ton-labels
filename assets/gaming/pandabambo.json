@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "pandabambo",
+        "name": "Pandabambo",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/pandabambobot",
+        "description": "",
+        "organization": "pandabambo"
+    },
+    "addresses": [
+        {
+            "address": "EQA1c65zeiKZg4lpf4mwZeaSsNRyZhQ181M13brLTm2i_pOh",
+            "source": "TON DNS name pandabambobot.ton resolves to this address. Confirmed via TONAPI account data.",
+            "comment": "Main wallet. Telegram game @pandabambobot.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
+        }
+    ]
+}

@@ -24,6 +24,22 @@
           "tags": [],
           "submittedBy": "Caranell",
           "submissionTimestamp": "2025-05-01T00:00:01Z"
+      },
+      {
+          "address": "EQCZwFVprNBOlnfw44v-pAga5gWxvH1CsXvf8S3CkSJ6MOU5",
+          "source": "Deployer [EQAov8b3](https://tonviewer.com/EQAov8b3YOACDvOipNlUvcEhT2HM-9hEiUUiHlacPuL4hFqX) is the FORT Token (FRT) admin. FRT metadata links to @forsageio_official, forton.app, @FortonApp_bot. [Jetton master](https://tonviewer.com/EQA1EIDrR33zgL21rwDIfGo7h4ETWieentUvg7jIT-3aP8xD) confirmed.",
+          "comment": "FRT bonding curve contract — buy/sell FRT for TON. 19,604 unique users, $2.46M traded since Mar 12, 2026.",
+          "tags": [],
+          "submittedBy": "ohld",
+          "submissionTimestamp": "2026-03-23T00:00:01Z"
+      },
+      {
+          "address": "EQCBBE1TCjYVMrFyRWHNdHw2jUTqsnztnbghdvcjMs5plGT0",
+          "source": "Contract's FORT jetton wallet [EQCPtZYq](https://tonviewer.com/EQCPtZYqRWaC_vlVur2erPswdlmeiiSwBwhorCffbuEfbP-r) confirmed via get_wallet_data (owner=this contract, master=FORT). Deployer [EQB5E8tp](https://tonviewer.com/EQB5E8tp3GLdG0G5tfuB1btv3h7fYiCrDW9AwmZydxAXAnXL) holds largest FRT position and funded FORT admin.",
+          "comment": "FRT Merkle claim/airdrop contract. 2,176 claims from 2,166 unique addresses (Mar 18-22, 2026). Users submit Merkle proofs to claim FRT tokens.",
+          "tags": [],
+          "submittedBy": "ohld",
+          "submissionTimestamp": "2026-03-23T00:00:01Z"
       }
   ]
 }
