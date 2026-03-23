@@ -40,6 +40,14 @@
             "tags": [],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2026-02-19T00:00:01Z"
+        },
+        {
+            "address": "EQBXBP3tpDYsVYaVnhqWT9Biz0qP4v_dik5KB2apDkgZf_qM",
+            "source": "",
+            "comment": "Wallet used for USDT payouts to users selling Telegram Stars via the platform",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T17:00:02Z"
         }
     ]
 }

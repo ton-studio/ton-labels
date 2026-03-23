@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "arkham",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://arkm.com",
+        "description": "",
+        "organization": "arkham"
+    },
+    "addresses": [
+        {
+            "address": "EQDd2gNTRcIsgdUgf0DYMVcpxZuV78hegZ4D1tIj7xLKT1hi",
+            "source": "https://intel.arkm.com/explorer/address/EQDd2gNTRcIsgdUgf0DYMVcpxZuV78hegZ4D1tIj7xLKT1hi",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T10:09:26Z"
+        },
+        {
+            "address": "EQDT3cimS92wrKXrc7U6quPIM1ose_N5-R4U5byIUDHkF5eo",
+            "source": "https://intel.arkm.com/explorer/address/EQDT3cimS92wrKXrc7U6quPIM1ose_N5-R4U5byIUDHkF5eo",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T10:09:26Z"
+        },
+        {
+            "address": "EQCsYKAaJE07Pw7EBXYsYx2JvpiGFGsC0xK2GOHBejjyfA-C",
+            "source": "https://intel.arkm.com/explorer/address/EQCsYKAaJE07Pw7EBXYsYx2JvpiGFGsC0xK2GOHBejjyfA-C",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-03T10:09:26Z"
+        }
+    ]
+}
