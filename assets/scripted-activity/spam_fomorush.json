@@ -5,13 +5,13 @@
         "category": "scripted-activity",
         "subcategory": "",
         "website": "",
-        "description": "Linked spam cluster funded via Binance. 5 wallets running different campaigns: fomorush.io scam, refund-fees phishing, neurocity_ai_bot promo, wallet activation dust, htx address poisoning.",
+        "description": "Spam wallets promoting fomorush.io, neurocity_ai_bot, and impersonating HTX exchange via address poisoning.",
         "organization": "spam_fomorush"
     },
     "addresses": [
         {
             "address": "EQCtIt9BcRyVTobtj-dxBjuxzycapGg0XDoRVM8CeIoQOIAb",
-            "source": "Sends 0.01 TON to 76,296 addresses with phishing comment linking to launch.fomorush.io. Funded by [EQDlATrM](https://tonviewer.com/EQDlATrMdbAeYnqjnQu0bh2I4hcKd8JNDrVDV8kU3pVFHINH) which also funds Addr #5 in this cluster.",
+            "source": "Sends 0.01 TON to 76,296 addresses with comment linking to launch.fomorush.io ([tx history](https://tonviewer.com/EQCtIt9BcRyVTobtj-dxBjuxzycapGg0XDoRVM8CeIoQOIAb)).",
             "comment": "fomorush.io promotional spam. Highload_v3r1, 76K recipients, 0.01 TON each with phishing link.",
             "tags": [
                 "scammer",
@@ -21,30 +21,9 @@
             "submissionTimestamp": "2026-03-23T00:00:01Z"
         },
         {
-            "address": "EQCoRNMWfLcHAaDsZWzy-B5ux9AyYKt2lMkaaBrA1rU38cz0",
-            "source": "Sends 0.0004 TON with comment 'Refund-fees' to 29,881 addresses. Funded Addr #5 and #7 in this cluster directly.",
-            "comment": "Refund-fees phishing. Sends dust with social-engineering comment to trick users.",
-            "tags": [
-                "scammer",
-                "suspicious"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2026-03-23T00:00:01Z"
-        },
-        {
-            "address": "EQCh1FHIznBgX670SvgSDVXArs0kDanhoNK5Pqza1_vZjVSG",
-            "source": "Sends 0.0031 TON with empty body to 9,046 addresses. Funded from Binance via cluster wallets. Funded Addr #5 in this cluster.",
-            "comment": "Wallet activation dust spam. Mass-sends dust to nonexistent addresses for wallet initialization.",
-            "tags": [
-                "suspicious"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2026-03-23T00:00:01Z"
-        },
-        {
             "address": "EQBywH1FzGl7hqaJE1K_1VJ-qOpp4AYWQwWHEzVy1pD8qeto",
-            "source": "Sends 0.01 TON with comment 'neurocity_ai_bot' to 8,755 addresses. Funded by Addr #3 and #5 in this cluster.",
-            "comment": "neurocity_ai_bot spam promotion. Highload_v3r1, batches of 100 messages.",
+            "source": "Sends 0.01 TON with comment 'neurocity_ai_bot' to 8,755 addresses ([tx history](https://tonviewer.com/EQBywH1FzGl7hqaJE1K_1VJ-qOpp4AYWQwWHEzVy1pD8qeto)). Highload_v3r1, batches of 100 messages.",
+            "comment": "neurocity_ai_bot spam promotion.",
             "tags": [
                 "suspicious"
             ],
@@ -53,7 +32,7 @@
         },
         {
             "address": "EQASN10Sdk-o9i0sLVThbHzPXConeAPEtpFzLPMzgPNqgQ6N",
-            "source": "Sends 0 TON to 2,988 addresses. Primary counterparty is htx-9tuqx5jg-coin.ton — a .ton domain impersonating HTX exchange. Funded by Addr #2 in this cluster.",
+            "source": "Sends 0 TON to 2,988 addresses. Primary counterparty uses .ton domain htx-9tuqx5jg-coin.ton impersonating HTX exchange ([tx history](https://tonviewer.com/EQASN10Sdk-o9i0sLVThbHzPXConeAPEtpFzLPMzgPNqgQ6N)).",
             "comment": "HTX address poisoning. Zero-value sends to appear in recipient tx history with htx-impersonation domain.",
             "tags": [
                 "scammer",
