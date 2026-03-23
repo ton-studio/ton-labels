@@ -15,16 +15,6 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-13T07:07:33Z"
-        },
-        {
-            "address": "EQDjlNIG43GTHcDpF407bAC2ArRZ9RWX13zmjIXPf_vfs3Va",
-            "source": "Direct TON transfer from labelled Faucetpay address [EQD14kgm](https://tonviewer.com/EQD14kgmngE0fNYVs7_9dw78V3rPhNt7_Ee-7X3ykDORQvMp) to this wallet ([tx](https://tonviewer.com/0:E394D206E371931DC0E9178D3B6C00B602B459F51597D77CE68C85CF7FFBDFB3)). USDT sourced via [Rhino.fi bridge](https://tonviewer.com/EQAj3SoOk4MPzjn816Crw1b4RxW79fB_Z549tyCd9HIQV_s-).",
-            "comment": "USDT distribution wallet — sends exactly $5 USDT to 8,736+ user wallets. Highload_v3r1, deployed Mar 4, 2026.",
-            "tags": [
-                "withdrawal"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2026-03-23T00:00:01Z"
         }
     ]
 }
