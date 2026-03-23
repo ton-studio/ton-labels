@@ -43,6 +43,42 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-02-13T00:00:01Z"
+        },
+        {
+            "address": "EQDIsFlvCQskFf5V7y4HhfHFdpkr_eQ2rqx1787Dqx8PrDK7",
+            "source": "Proof 1 (direct): sends 30,000 TON to already-labelled Mercuryo address [EQALOgbZGSUTfavrvyIBAxzk2px7j6r-yPg5KkHZ8wtWcJb2](https://tonviewer.com/EQALOgbZGSUTfavrvyIBAxzk2px7j6r-yPg5KkHZ8wtWcJb2). Proof 2: receives TON from Kraken custodial wallets (CEX liquidity source for on-ramp). ~2.99M TON balance, wallet_highload_v3r1.",
+            "comment": "Main TON hot wallet. Funds intermediate hub and labelled Mercuryo addresses. ~$8.4M in TON.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
+        },
+        {
+            "address": "EQBE5Hp2O5DEZ2ExdyO2RUZW6QgwGs0EvTlEd7z-kyfCEoqV",
+            "source": "Proof 1: 100% funded by Mercuryo hot wallet [EQDIsFlvCQskFf5V7y4HhfHFdpkr_eQ2rqx1787Dqx8PrDK7](https://tonviewer.com/EQDIsFlvCQskFf5V7y4HhfHFdpkr_eQ2rqx1787Dqx8PrDK7) — receives 15,000 TON + 40 USDT batches. Proof 2: distributes ~36,000 TON each to two downstream distribution wallets in 4,500 TON batches.",
+            "comment": "Intermediate distribution hub. Splits funds between two distribution wallets. 19,369 TON balance.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
+        },
+        {
+            "address": "EQDK7Ya4HukTcPbIFLVg6buW8_7jXJQHNegLO3bIk_ebEFMw",
+            "source": "Proof 1: 100% funded by Mercuryo hub [EQBE5Hp2O5DEZ2ExdyO2RUZW6QgwGs0EvTlEd7z-kyfCEoqV](https://tonviewer.com/EQBE5Hp2O5DEZ2ExdyO2RUZW6QgwGs0EvTlEd7z-kyfCEoqV) in 4,500 TON batches. Proof 2: distributes 12-363 TON to ~151 unique fresh user wallets — fiat on-ramp purchase pattern. Tagged unknown_app by another user who noted 'on-ramp вероятнее всего'.",
+            "comment": "Distribution wallet A. Delivers TON to users who purchased via fiat on-ramp. 4,897 TON balance.",
+            "tags": [
+                "withdrawal"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
+        },
+        {
+            "address": "EQCSZohXmUiTRvszscZtVTzUZydp8hRqSoPU1M1J6-M09cuZ",
+            "source": "Proof 1: 100% funded by same Mercuryo hub [EQBE5Hp2O5DEZ2ExdyO2RUZW6QgwGs0EvTlEd7z-kyfCEoqV](https://tonviewer.com/EQBE5Hp2O5DEZ2ExdyO2RUZW6QgwGs0EvTlEd7z-kyfCEoqV) in 4,500 TON batches. Proof 2: identical distribution pattern to wallet A — 12-128 TON to ~134 unique fresh wallets. Shares common intermediate recipients with wallet A.",
+            "comment": "Distribution wallet B. Parallel distribution channel for fiat on-ramp purchases. 2,571 TON balance.",
+            "tags": [
+                "withdrawal"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
         }
     ]
 }
