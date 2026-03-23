@@ -5,7 +5,7 @@
         "category": "scripted-activity",
         "subcategory": "",
         "website": "",
-        "description": "Spam wallets promoting fomorush.io, neurocity_ai_bot, and impersonating HTX exchange via address poisoning.",
+        "description": "Spam wallet promoting fomorush.io scam site.",
         "organization": "spam_fomorush"
     },
     "addresses": [
@@ -13,27 +13,6 @@
             "address": "EQCtIt9BcRyVTobtj-dxBjuxzycapGg0XDoRVM8CeIoQOIAb",
             "source": "Sends 0.01 TON to 76,296 addresses with comment linking to launch.fomorush.io ([tx history](https://tonviewer.com/EQCtIt9BcRyVTobtj-dxBjuxzycapGg0XDoRVM8CeIoQOIAb)).",
             "comment": "fomorush.io promotional spam. Highload_v3r1, 76K recipients, 0.01 TON each with phishing link.",
-            "tags": [
-                "scammer",
-                "suspicious"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2026-03-23T00:00:01Z"
-        },
-        {
-            "address": "EQBywH1FzGl7hqaJE1K_1VJ-qOpp4AYWQwWHEzVy1pD8qeto",
-            "source": "Sends 0.01 TON with comment 'neurocity_ai_bot' to 8,755 addresses ([tx history](https://tonviewer.com/EQBywH1FzGl7hqaJE1K_1VJ-qOpp4AYWQwWHEzVy1pD8qeto)). Highload_v3r1, batches of 100 messages.",
-            "comment": "neurocity_ai_bot spam promotion.",
-            "tags": [
-                "suspicious"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2026-03-23T00:00:01Z"
-        },
-        {
-            "address": "EQASN10Sdk-o9i0sLVThbHzPXConeAPEtpFzLPMzgPNqgQ6N",
-            "source": "Sends 0 TON to 2,988 addresses. Primary counterparty uses .ton domain htx-9tuqx5jg-coin.ton impersonating HTX exchange ([tx history](https://tonviewer.com/EQASN10Sdk-o9i0sLVThbHzPXConeAPEtpFzLPMzgPNqgQ6N)).",
-            "comment": "HTX address poisoning. Zero-value sends to appear in recipient tx history with htx-impersonation domain.",
             "tags": [
                 "scammer",
                 "suspicious"
