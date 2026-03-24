@@ -15,6 +15,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-02-17T00:00:01Z"
+        },
+        {
+            "address": "EQCoWElyxx1FnS0jwi8Ob2bdJX2D-8zjmV2gP_hygyIkZVDO",
+            "source": "Outgoing transactions carry comment 'HouseDragons2' ([example](https://tonviewer.com/0:A8584972C71D459D2D23C22F0E6F66DD257D83FBCCE3995DA03FF87283222465)). Incoming deposits contain numeric user IDs. $65K volume with 1,614 unique addresses.",
+            "comment": "HouseDragons2 game payments wallet. Receives user deposits (1-58 TON with user ID comments), pays out winnings (20-26 TON with 'HouseDragons2' comment).",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
         }
     ]
 }

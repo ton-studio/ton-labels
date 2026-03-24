@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "label": "pandabambo",
+        "name": "Pandabambo",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/pandabambobot",
+        "description": "",
+        "organization": "pandabambo"
+    },
+    "addresses": [
+        {
+            "address": "EQA1c65zeiKZg4lpf4mwZeaSsNRyZhQ181M13brLTm2i_pOh",
+            "source": "TON DNS name pandabambobot.ton resolves to this address. Confirmed via TONAPI account data.",
+            "comment": "Main wallet. Telegram game @pandabambobot.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
+        },
+        {
+            "address": "EQB0LoOPMm-m2ECcv7IMAan2-NhJC51x_EnxUBSWOvaWMK9j",
+            "source": "100% of funding (1,282 TON across 47 txs) comes from pandabambobot.ton main wallet [EQA1c65zeiKZg4lpf4mwZeaSsNRyZhQ181M13brLTm2i_pOh](https://tonviewer.com/EQA1c65zeiKZg4lpf4mwZeaSsNRyZhQ181M13brLTm2i_pOh). 12,453 payouts to 9,227 unique users since Mar 17, 2026.",
+            "comment": "Withdrawal/payout wallet. Distributes game rewards to players.",
+            "tags": [
+                "withdrawal"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
+        }
+    ]
+}
