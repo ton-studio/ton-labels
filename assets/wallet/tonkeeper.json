@@ -63,6 +63,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-03-09T00:00:01Z"
+        },
+        {
+            "address": "EQB65QVsP9lAb5u758cInNTECAHZB1SGy-23zhLfEZ6s8aLF",
+            "source": "TONAPI account name is 'Tonkeeper battery'. wallet_highload_v2r2, 5,588 TON balance. Sends USDT transfers with UUID comments, uses Tonkeeper Battery gas abstraction pattern.",
+            "comment": "Tonkeeper Battery — highload wallet for gasless USDT transfers",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "spam_fomorush",
+        "name": "Spam fomorush",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Spam wallet promoting fomorush.io scam site.",
+        "organization": "spam_fomorush"
+    },
+    "addresses": [
+        {
+            "address": "EQCtIt9BcRyVTobtj-dxBjuxzycapGg0XDoRVM8CeIoQOIAb",
+            "source": "Sends 0.01 TON to 76,296 addresses with comment linking to launch.fomorush.io ([tx history](https://tonviewer.com/EQCtIt9BcRyVTobtj-dxBjuxzycapGg0XDoRVM8CeIoQOIAb)).",
+            "comment": "fomorush.io promotional spam. Highload_v3r1, 76K recipients, 0.01 TON each with phishing link.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-23T00:00:01Z"
+        }
+    ]
+}
