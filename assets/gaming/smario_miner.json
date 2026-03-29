@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "smario_miner",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/SmarioMinerbot",
+        "description": "",
+        "organization": "smario_miner"
+    },
+    "addresses": [
+        {
+            "address": "EQA67IkaaNmi1CLXtBt_zNQY7tsf2NKzJSOmuUcxrcAMa8zW",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQBteA-Tw6HB7VgNOLG03bgFQSW2q4u07-xJ56B4IH0IyvjO",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}
