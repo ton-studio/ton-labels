@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "lucky_train",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/LuckyTrainBot",
+        "description": "",
+        "organization": "lucky_train"
+    },
+    "addresses": [
+        {
+            "address": "EQB9M1I392BBx5SLTzv56GKwYLnhB9IrZAxjWg3BjI_LUCKY",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}
