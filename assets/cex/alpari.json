@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "alpari",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://alpari.com",
+        "description": "Retail FX/CFD trading broker",
+        "organization": "alpari"
+    },
+    "addresses": [
+        {
+            "address": "EQCAWxrjvMsCJRvNTzXYgz3pQLtQ5fgOlZRhPehudvXZizw4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:09:26Z"
+        }
+    ]
+}
