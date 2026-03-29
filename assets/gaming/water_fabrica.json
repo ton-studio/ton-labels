@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "water_fabrica",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/WaterFabricaBot",
+        "description": "",
+        "organization": "water_fabrica"
+    },
+    "addresses": [
+        {
+            "address": "EQAVGoM9kvSkLKWYV9Yok18b8LpzyQ0Vp2S_Qpgu19K2WknZ",
+            "source": "",
+            "comment": "The wallet receives in-game user deposits and is used for Telegram Stars-to-TON cashouts",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}
