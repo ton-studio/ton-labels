@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_shop,
+        "name": "Stars Shopp",
+        "organization": "stars_shop",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarsShoppinbot"
+    },
+    "addresses": [
+        {
+            "address": "EQD8K1YnLK31rvWDD7ka23klbDLlF1agwwx7sfClnk5OFnSx",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T17:00:02Z"
+        }
+    ]
+}
