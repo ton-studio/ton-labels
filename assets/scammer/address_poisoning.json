@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "label": "scammer_address_poisoning",
+        "category": "scammer",
+        "subcategory": "address-poisoning",
+        "website": "",
+        "description": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
+        "organization": "scammer_address_poisoning"
+    },
+    "addresses": [
+        {
+            "address": "EQDigSXCS4OI_BnSe3WHhbmx5e6yB17krSgYdkwg9etO4ZMM",
+            "source": "",
+            "comment": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-24T00:00:00Z"
+        },
+        {
+            "address": "EQA4nqsvESC1hCxQgRDfAliaDwdBZTH0x3apl4vELA4-qLtL",
+            "source": "",
+            "comment": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-03-24T00:00:00Z"
+        }
+    ]
+}
