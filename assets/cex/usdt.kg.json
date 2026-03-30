@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "usdt.kg",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://usdt.kg",
+        "description": "",
+        "organization": "usdt.kg"
+    },
+    "addresses": [
+        {
+            "address": "EQDos2xD0r8XvG2wIOk9d3Xlmzm7qyNQ69miCa9P1hEOfcyd",
+            "source": "https://tonviewer.com/UQDos2xD0r8XvG2wIOk9d3Xlmzm7qyNQ69miCa9P1hEOfZFY",
+            "comment": "USDT withdrawal hot wallet",
+            "tags": [
+                "withdrawal",
+                "kyc"
+            ],
+            "submittedBy": "barsoomx",
+            "submissionTimestamp": "2026-03-27T00:00:01Z"
+        }
+    ]
+}
