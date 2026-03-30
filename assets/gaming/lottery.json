@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "lottery",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/lot_tery_bot",
+        "description": "",
+        "organization": "lottery"
+    },
+    "addresses": [
+        {
+            "address": "EQBwIpZJefXmXokjMJLN7lJxvy2wWRbeukef6uTuPb-CHUlQ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

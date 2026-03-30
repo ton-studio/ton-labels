@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "label": "gramix",
+        "name": "Gramix",
+        "organization": "gramix",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars&premium marketplace",
+        "website": "https://gramix.io"
+    },
+    "addresses": [
+        {
+            "address": "EQAqB2C7vMWdOxw3IjGwYai-NZAsB_vrMV1Q44qHDold5QnJ",
+            "source": "",
+            "comment": "stars purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T17:00:02Z"
+        },
+        {
+            "address": "EQCzd5pGjyFZ8FAEy8oz646f9mrO3Hx46i2uBe-LoHDkSLm8",
+            "source": "",
+            "comment": "tg premium purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T17:00:02Z"
+        },
+        {
+            "address": "EQBj4YqKcR-uR-H2GUwtkHBw9JVZIRlZ4iUtL2_4bCRRXyy8",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T17:00:02Z"
+        }
+    ]
+}

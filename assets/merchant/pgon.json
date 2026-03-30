@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "pgon",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://pgon.pro",
+        "description": "",
+        "organization": "pgon"
+    },
+    "addresses": [
+        {
+            "address": "EQDvBMlKl_5MrEN0totFZ1hfIkRjtEXDMsYh0Mr3aE8-3UlP",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQCOuLmUgxjqg_aDH1FndRImcG2UIQ4P2qFv9az3PvCw-ic8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

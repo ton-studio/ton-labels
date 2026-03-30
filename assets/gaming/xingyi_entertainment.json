@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "label": "xingyi_entertainment",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://s.xybet00.com",
+        "description": "",
+        "organization": "star_entertainment"
+    },
+    "addresses": [
+        {
+            "address": "EQA0QUWXdStxIZHxw6-RqJw7LBpEhMRsltHy_8FXir3kcEs-",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQAAQYPd9h9P8cFu6fos2eJ5P8pIe0qGqRQkHUrL08PeMQVT",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQAWg6C8z7T10mUCvINe9DU7smQTmy1twXZFmRbxbOtBjlQZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQA8z5YGcHdRzsiyyVyjv65Y0TNj2fhwniEK7RJhzb0-Voe4",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQCs4_NLVS_k0ZDpyuItJlwA-cNLzVPoHyz_HFCgOqA94yJH",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

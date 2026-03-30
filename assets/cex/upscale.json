@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "label": "upscale",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://upscale.trade",
+        "description": "",
+        "organization": "stormtrade"
+    },
+    "addresses": [
+        {
+            "address": "EQC_q3jaVKanfwpAxgg_8fk2htpdBJMmvKGlnWTlbGNe7SZb",
+            "source": "",
+            "comment": "Telegram Stars cashout address, also used for various rewards within the Storm Trade project.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-02-19T00:00:01Z"
+        },
+        {
+            "address": "EQCDQCf1334Di5KZhrwN2uX1wqRloDD_X1yf_NT9nqRQfIIq",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-30T00:00:01Z"
+        },
+      {
+            "address": "EQCeUqi7_fNNSaQojw5DnjsDLTmMbyNKfau_BKVbH5fgaGG8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-30T00:00:01Z"
+        }
+    ]
+}

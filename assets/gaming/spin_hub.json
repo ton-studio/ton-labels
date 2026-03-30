@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "spin_hub",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/SpinHubBot",
+        "description": "",
+        "organization": "spin_hub"
+    },
+    "addresses": [
+        {
+            "address": "EQC1LEWNU5OuHkB3bFMN_uR-46j5WgVHjoaDVV1OrMeW3u7V",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

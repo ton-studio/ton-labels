@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "g_drive",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/GDriveAppbot",
+        "description": "trading bot–based yield model",
+        "organization": "g_drive"
+    },
+    "addresses": [
+        {
+            "address": "EQA9nS78Z57BOp7TSek4UuKPU-A8VYG84cvSudZTk43ZNLUP",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

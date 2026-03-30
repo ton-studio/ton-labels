@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "uznex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.uznex.com",
+        "description": "",
+        "organization": "uznex"
+    },
+    "addresses": [
+        {
+            "address": "EQB5YybvQOjz7rEkkdAids1iB7V_OxWewvMr8z88dLQleBp4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:09:26Z"
+        }
+    ]
+}

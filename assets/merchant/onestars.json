@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "onestars",
+        "name": "OneStars",
+        "organization": "onestars",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars&premium marketplace",
+        "website": "https://t.me/BuysStarsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBaOxOcv2qqvaGeUP2lqaNnQvRtlaExrk0g_LcG2lLZ25Np",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T17:00:02Z"
+        }
+    ]
+}
