@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "mutant_gifts",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/mutant_gifts_bot",
+        "description": "",
+        "organization": "mutant_gifts"
+    },
+    "addresses": [
+        {
+            "address": "EQCJdzC9FHB89sRKbGczs_CAsOckDo1WnK5qHafAQN70tKHg",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQC12LEqvAA_HtPtnSOZeAi4G4zE13r5524eWjh-CxQBweE4",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

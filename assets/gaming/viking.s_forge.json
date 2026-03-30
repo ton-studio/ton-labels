@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "viking.s_forge",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/vikings_forge_bot",
+        "description": "",
+        "organization": "viking.s_forge"
+    },
+    "addresses": [
+        {
+            "address": "EQCMZo1sv4pGX61-lCCqtAhk-rTmTBK6gayKsuZH7Lyz4D7j",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQC4aft7EU5EdkCj2F4a0bQV9euAgL5DuQfqsYTcQCZ1OTAw",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

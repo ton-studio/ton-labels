@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "peaky_payments",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://app.peakypayments.io",
+        "description": "Payment gateway",
+        "organization": "peaky_payments"
+    },
+    "addresses": [
+        {
+            "address": "EQCkgnC_tMWlQ-pBN2SihgtO7HvUB7oQq-KurDczyNjg-jGg",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T21:03:50Z"
+        }
+    ]
+}

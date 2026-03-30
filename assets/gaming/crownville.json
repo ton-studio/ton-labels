@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "label": "crownville",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Crownvillebot",
+        "description": "",
+        "organization": "crownville"
+    },
+    "addresses": [
+        {
+            "address": "EQCjkc7JCFaEfZT7HzHBYy0D9NXDGKyE9LzWTs5lIG5wkjtG",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQBYjrRw7IZxriB9GUeVQHmiFnI1vyT_jAA9N6rjZsC-Vb6p",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQDRqWWcmPCveFBZdBV0UAAHIx5K-hS225NA6lCuOt5XYtpv",
+            "source": "",
+            "comment": "Crownville Revenue — Team",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQBK4ep5VZlaZpPftjUo3zuGSusDeCL0k6ZJWdn5lIUeRXrz",
+            "source": "",
+            "comment": "Referral Rewards",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQDszrEa-bP6fjXYXJVIy4PU0t_ySETGishmwSrnfiTzMEJO",
+            "source": "",
+            "comment": "Treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQDx7siRIdhwa5CCSemXcllLcoU6kblV7Z8tG_hXpB-F9VQT",
+            "source": "",
+            "comment": "Marketing & Liquidity",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

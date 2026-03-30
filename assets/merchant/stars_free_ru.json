@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_free_ru",
+        "name": "StarsFreeRu",
+        "organization": "stars_free_ru",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/StarsFreeRuBot"
+    },
+    "addresses": [
+        {
+            "address": "EQCDh2RX3wGs7pwkXw44b1H7Tps4m_sWVbpgc5oEz1ywYwo_",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T17:00:02Z"
+        }
+    ]
+}

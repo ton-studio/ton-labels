@@ -55,6 +55,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-03-09T00:00:01Z"
+        },
+        {
+            "address": "EQCpqa7XeSCfdNWRaVkM5aISM63BmNp-Q36sB7y-M7WEGKdE",
+            "source": "",
+            "comment": "User staking transfer: funds are moved on-chain to a staking pool wallet",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
         }
     ]
 }

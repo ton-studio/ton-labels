@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "cheese_store",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/cheesestore_robot",
+        "description": "Telegram-based digital marketplace",
+        "organization": "cheese_store"
+    },
+    "addresses": [
+        {
+            "address": "EQDVPKNZpeJrmxZrlD61SxYu7iuDuo46BR80ZYo3nZuoEn9_",
+            "source": "",
+            "comment": "TG stars purchase",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:40:00Z"
+        }
+    ]
+}

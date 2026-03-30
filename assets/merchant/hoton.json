@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "hoton",
+        "name": "hoton",
+        "organization": "hoton",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://hoton.tg"
+    },
+    "addresses": [
+        {
+            "address": "EQDjdH5yC8bAoykZak0udtgt_SNf9lXl0aQOqdz_yVDpXksy",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T17:00:02Z"
+        }
+    ]
+}

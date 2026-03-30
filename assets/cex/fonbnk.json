@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "fonbnk",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.fonbnk.com",
+        "description": "Stablecoin payment & on/off-ramp service",
+        "organization": "fonbnk"
+    },
+    "addresses": [
+        {
+            "address": "EQDjlNIG43GTHcDpF407bAC2ArRZ9RWX13zmjIXPf_vfs3Va",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:09:26Z"
+        },
+        {
+            "address": "EQA-cCUObLHoQO0OdX5Q3cKuYujY-jomYzN-mvkdxWrVOgA6",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:09:26Z"
+        }
+    ]
+}

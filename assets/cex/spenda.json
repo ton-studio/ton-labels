@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "spenda",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://spenda.africa",
+        "description": "Crypto payment & off-ramp service",
+        "organization": "spenda"
+    },
+    "addresses": [
+        {
+            "address": "EQCyfx3ETnAB1NhuxXJzkCzh1XgFl0RLDWpkwVb_LWJtmxy7",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:09:26Z"
+        },
+        {
+            "address": "EQB8VdlxWNsiyrbXlr8HBcUfj5yR9EPCmSAwdlg-sLE1ZOJ9",
+            "source": "",
+            "comment": "",
+            "tags": [
+               "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:09:26Z"
+        }
+    ]
+}

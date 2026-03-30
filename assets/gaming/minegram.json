@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "minegram",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/minegram_game_bot",
+        "description": "",
+        "organization": "minegram"
+    },
+    "addresses": [
+        {
+            "address": "EQCA7DMA06uFAyQFQpSeVPc3XJamUh-m8Gn-S-Ql_EzA2h1x",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQB9Mc00jjv9Pu5BG2H9WRs66VsVXSPfSCihypYGNhtp4u33",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

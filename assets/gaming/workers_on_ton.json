@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "workers_on_ton",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/WorkersOnTonBot",
+        "description": "",
+        "organization": "workers_on_ton"
+    },
+    "addresses": [
+        {
+            "address": "EQBhjRdFscHEkGcYxq8wXQsLkqsZBU5k_Zt2YYwec3tCRMVT",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}

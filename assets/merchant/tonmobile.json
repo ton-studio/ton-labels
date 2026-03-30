@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "tonmobile",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/tonmobile",
+        "description": "",
+        "organization": "tonmobile"
+    },
+    "addresses": [
+        {
+            "address": "EQC5MHi-0GbEm6E7o7Rm2Tk33IjkTP_Akn0sDja8QLqVXcEw",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T10:40:00Z"
+        }
+    ]
+}
