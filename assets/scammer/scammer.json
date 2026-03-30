@@ -1133,6 +1133,17 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQDUfvzQfBIAXGqon4BGwoXmbHlUbX3grc6TMxz0rz-yvamj",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-03-30T00:00:01Z"
         }
     ]
 }
