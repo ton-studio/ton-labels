@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "aura_case",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/AuraCasesBot",
+        "description": "",
+        "organization": "aura_case"
+    },
+    "addresses": [
+        {
+            "address": "EQA2grYzb1WZgVYxoaEjy-T8slaiGZNTbM-w6ykv41LxFmQY",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-03-29T00:00:01Z"
+        }
+    ]
+}
