@@ -240,6 +240,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-17T00:00:01Z"
+        },
+        {
+            "address": "EQDZik3ze0HG6o4SOqrK5RcvFdo9o14pra3KwdlndbSsvyTT",
+            "source": "on-chain analysis: validators deployed by this account return staking rewards to arabswallet.ton (Ton Strategy treasury)",
+            "comment": "Ton Strategy validator deployer — deploys masterchain controllers that manage single_nominator pools",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-01T00:00:01Z"
+        },
+        {
+            "address": "EQAOfG6CvYPs0NxwT3uIYpEoGtvsVvXUHp8x1M01SG1BU4D4",
+            "source": "on-chain analysis: funds Ton Strategy validator deployers and sends operational TON to labeled Ton Strategy validators",
+            "comment": "Ton Strategy operations wallet — funds validator deployers and manages validator operations",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-01T00:00:01Z"
         }
     ]
 }
