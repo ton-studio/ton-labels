@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "label": "chorus_one",
+        "name": "Chorus One",
+        "category": "validator",
+        "subcategory": "",
+        "website": "https://chorus.one",
+        "description": "Chorus One — institutional staking provider. Runs TON Pool, a public staking product based on whales_pool contract (audited by Spearbit). 20% pool fee, 10 TON minimum stake.",
+        "organization": "chorus_one"
+    },
+    "addresses": [
+        {
+            "address": "EQBFbbSCrAnX2XWOjSq2qnAx_GRdx2wZIFqrlk9D0-1mxHDN",
+            "source": "on-chain analysis: TONAPI name='Chorus One TON Pool', pool_type=chorus_one in result_nominators_cashflow",
+            "comment": "Chorus One TON Pool 1 (main pool, ~4.9M TON, 2600+ delegators)",
+            "tags": [
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-01T00:00:01Z"
+        },
+        {
+            "address": "EQBNL2W5KZuw3Y3FbrLdDfIdXdrYXQFfcGfDO3kig0EK8zxz",
+            "source": "on-chain analysis: same deployer as Pool 1, same code_hash and pool parameters",
+            "comment": "Chorus One TON Pool 2 (~3.0M TON)",
+            "tags": [
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-01T00:00:01Z"
+        },
+        {
+            "address": "EQApHCQDvXLS4zTtpUrXXGJvUWd87f6Hkp221fX-S2xAwu9B",
+            "source": "on-chain analysis: deployed both Chorus One TON Pool contracts, collects pool fees",
+            "comment": "Chorus One deployer and operator wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-01T00:00:01Z"
+        },
+        {
+            "address": "EQAfq8BYyWzMYy96ZFdOfF25qo1nss4eaVmlU15tyAr9PHNo",
+            "source": "on-chain analysis: funded the Chorus One deployer wallet",
+            "comment": "Chorus One root deployer",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-01T00:00:01Z"
+        }
+    ]
+}
