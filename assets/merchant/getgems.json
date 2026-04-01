@@ -99,6 +99,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQBZ19wwEU93DTY-DsgpkS6knM2pBGm0owAXqXodkv3VwSBw",
+            "source": "on-chain analysis: receives revenue directly from Getgems Marketplace contract (EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS), multiple transfers totaling 596K+ TON",
+            "comment": "Getgems revenue wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-01T00:00:01Z"
         }
     ]
 }
