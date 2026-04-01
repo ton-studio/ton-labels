@@ -95,3 +95,5 @@ if __name__ == "__main__":
         for row in output_df.to_dict(orient="records"):
             f.write(json.dumps(row))
             f.write("\n")
+
+    output_df.to_csv("output/json/assets.csv", index=False)
