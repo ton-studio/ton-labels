@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "cce_cash",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://cce.cash",
+        "description": "Cross-chain exchange",
+        "organization": "cce_cash"
+    },
+    "addresses": [
+        {
+            "address": "EQDcJyj-OzohtR9krGcZjipxVtTjsz8sUYFlluEA4NTXx8Zo",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T12:00:00Z"
+        }
+    ]
+}
