@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "revolut",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.revolut.com",
+        "description": "",
+        "organization": "revolut"
+    },
+    "addresses": [
+        {
+            "address": "EQAkUGfIyHHIiyoZ7n3g72yeZAIFh6mhKN353PCCuw3wJa8a",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
+        },
+        {
+            "address": "EQBTLIEdTkjEWFY6RXNcY1HkkEOKCno-1qZ74nAppVKi7GtA",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
+        }
+    ]
+}
