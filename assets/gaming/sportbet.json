@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "sportbet",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://sportbet.one",
+        "description": "",
+        "organization": "sportbet"
+    },
+    "addresses": [
+        {
+            "address": "EQDGMxtsX7BJRNOECSo1aTUkc_R310ib2kjSruj7BPJaK6vv",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}
