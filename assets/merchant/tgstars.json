@@ -1,18 +1,18 @@
 {
     "metadata": {
-        "label": "eltoniobot",
-        "name": "Eltoniobot",
-        "organization": "eltoniobot",
+        "label": "tgstars",
+        "name": "tgstars",
+        "organization": "tgstars",
         "category": "merchant",
         "subcategory": "",
         "description": "TG Stars marketplace",
-        "website": "https://t.me/Eltoniobot"
+        "website": "https://tgstars.tg"
     },
     "addresses": [
         {
             "address": "EQDUWGyLalqnL9aFfsXy4k0W6yqKfGQHcRe3R1PumK5UDc_Y",
             "source": "",
-            "comment": "",
+            "comment": "https://tgstars.tg/docs/client-api",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-02-17T17:00:02Z"
