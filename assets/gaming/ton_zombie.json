@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_zombie",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/TONZombie_bot",
+        "description": "",
+        "organization": "ton_zombie"
+    },
+    "addresses": [
+        {
+            "address": "EQDMpa2BFzxm1mRcVzJ4SB-MUqb99ATBnzGXGsVFmAvNumsp",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "korbit",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.korbit.co.kr",
+        "description": "",
+        "organization": "korbit"
+    },
+    "addresses": [
+        {
+            "address": "EQDjKqa8iTGg8kooks9PPjqgc7AaaDzbjNDH1XTfNFgG-mfr",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
+        },
+        {
+            "address": "EQB1pP8oUrYyISZP9xI8aLqzs_rzSUn57lu30HspknZj24MK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "tg_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/StarsZakupBot",
+        "description": "TG Stars&premium marketplace",
+        "organization": "tg_stars"
+    },
+    "addresses": [
+        {
+            "address": "EQBqJiApXRH-s8TvnyHYQ2-ujZp9mMNWyaHxSq-55pRNF4Xi",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-11T00:00:01Z"
+        },
+        {
+            "address": "EQCgAQIy0l5gt24AfMO45V5BssFckCuTywZ1M0CAYPnsuC_j",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-11T00:00:01Z"
+        }
+    ]
+}

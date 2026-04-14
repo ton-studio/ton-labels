@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "uzx",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.uzx.com",
+        "description": "",
+        "organization": "uzx"
+    },
+    "addresses": [
+        {
+            "address": "EQC-CRYiCsN9JArLYg5osnkQ8L-Z1lOraPitWkv8bfTHLScX",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
+        }
+    ]
+}

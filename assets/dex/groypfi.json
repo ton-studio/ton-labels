@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "groypfi",
+        "category": "DEX",
+        "subcategory": "",
+        "website": "https://groypfi.io",
+        "description": "",
+        "organization": "groypfi"
+    },
+    "addresses": [
+        {
+            "address": "EQDu4AiT__JKuqT0Znje0RoXIQMPcj4uIGYZme3UK4hFlBIV",
+            "source": "",
+            "comment": "fee collector",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

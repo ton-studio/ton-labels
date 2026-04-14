@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "betbolt",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://betbolt.com",
+        "description": "",
+        "organization": "betbolt"
+    },
+    "addresses": [
+        {
+            "address": "EQB_AP9-OMURPdUOtlFmeOwkz1qiCwLmTL7wMc0Q0UyfPBa3",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

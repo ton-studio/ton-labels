@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "portal_games",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/orbit_portal_bot",
+        "description": "",
+        "organization": "portal_games"
+    },
+    "addresses": [
+        {
+            "address": "EQDSmBRtE-828x5LmsWN7r-aIpfjYEJzCBI2OIiyNunwAHk8",
+            "source": "",
+            "comment": "Distribution of winnings",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

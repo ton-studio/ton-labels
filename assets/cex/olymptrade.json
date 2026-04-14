@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "olymptrade",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://olymptrade.com",
+        "description": "CFD & options trading platform",
+        "organization": "olymptrade"
+    },
+    "addresses": [
+        {
+            "address": "EQB9aYDDedrQRTJHFc8iZ4bFXsZIpIJkOoYnyp0sqiKoAUDK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
+        }
+    ]
+}

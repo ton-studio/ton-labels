@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "trust_stars",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/TrustStarsBot",
+        "description": "TG Stars&premium marketplace",
+        "organization": "trust_stars"
+    },
+    "addresses": [
+        {
+            "address": "EQDmF-uTYC21X21v9-PB0qKqy3vQQj9_3ZxnwVTaLJLr5ITJ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

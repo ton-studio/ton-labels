@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "mine_exchange",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://mine.exchange",
+        "description": "YChangers — crypto-fiat on/off-ramp and e-money exchange service",
+        "organization": "mine_exchange"
+    },
+    "addresses": [
+        {
+            "address": "EQCqbstC-krPwJOrN1V721mepCrGdXx4iS5pOhh4RJwQ9W9W",
+            "source": "",
+            "comment": " The same address is also used by https://www.receive-money.com , https://www.obmin.me",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T12:00:00Z"
+        }
+    ]
+}

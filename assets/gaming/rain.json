@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "rain",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://rain.gg",
+        "description": "",
+        "organization": "rain"
+    },
+    "addresses": [
+        {
+            "address": "EQDgdVK7KzYAXvYDIuQN7ynw0s1fgJRgWfFeeGXVU_JKt0xc",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

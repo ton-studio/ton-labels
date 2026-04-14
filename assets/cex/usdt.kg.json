@@ -11,7 +11,7 @@
         {
             "address": "EQDos2xD0r8XvG2wIOk9d3Xlmzm7qyNQ69miCa9P1hEOfcyd",
             "source": "https://tonviewer.com/UQDos2xD0r8XvG2wIOk9d3Xlmzm7qyNQ69miCa9P1hEOfZFY",
-            "comment": "USDT withdrawal hot wallet",
+            "comment": "USDT withdrawal hot wallet. The same address is also used by https://altyn.one",
             "tags": [
                 "withdrawal",
                 "kyc"

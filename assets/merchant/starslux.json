@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "starslux",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/StarLuxShop_bot",
+        "description": "TG Stars&premium marketplace",
+        "organization": "starslux"
+    },
+    "addresses": [
+        {
+            "address": "EQC4AVq7Y5XJuaosZ209n39zBG5DHm1MYkJZIW745Wd8vo9a",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}
