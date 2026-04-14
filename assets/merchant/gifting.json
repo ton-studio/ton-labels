@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "gifting",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/gifting",
+        "description": "TG Stars&premium marketplace",
+        "organization": "gifting"
+    },
+    "addresses": [
+        {
+            "address": "EQA80LmI6OX86G9G67U_ODr9Vdrdl57OqR5KFnvk3h9bwYum",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

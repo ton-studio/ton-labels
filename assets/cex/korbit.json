@@ -1,28 +1,26 @@
 {
     "metadata": {
-        "label": "btcturk",
+        "label": "korbit",
         "category": "CEX",
         "subcategory": "",
-        "website": "https://kripto.btcturk.com",
+        "website": "https://www.korbit.co.kr",
         "description": "",
-        "organization": "btcturk"
+        "organization": "korbit"
     },
     "addresses": [
         {
-            "address": "EQD4orPSdfl-R4s4MVBt-XtCz7yrgRyDsBk7tJaYGH1AZrSW",
+            "address": "EQDjKqa8iTGg8kooks9PPjqgc7AaaDzbjNDH1XTfNFgG-mfr",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-02-13T10:09:26Z"
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
         },
         {
-            "address": "EQCn1cCgWdEBZ4k9ZYEHdq8ltVxxAuI9Xvqpv9yPDFCV0wmn",
+            "address": "EQB1pP8oUrYyISZP9xI8aLqzs_rzSUn57lu30HspknZj24MK",
             "source": "",
             "comment": "",
-            "tags": [
-                "has-custodial-wallets"
-            ],
+            "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-04-10T10:09:26Z"
         }

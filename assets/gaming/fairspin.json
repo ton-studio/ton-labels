@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "label": "bitcasino",
+        "label": "fairspin",
         "category": "gaming",
         "subcategory": "gambling",
-        "website": "https://bitcasino.io",
+        "website": "https://fairspin.io",
         "description": "",
-        "organization": "yolo_group"
+        "organization": "fairspin"
     },
     "addresses": [
         {
-            "address": "EQCMrOSvzZgqG1M5AsAi-qfzQP_F-MwpHnRTnfmJpU61efGs",
+            "address": "EQBsrU_LrDsJ2G1y2PTU4C2Qu1emv05lRFoItCUrjIGsdMBW",
             "source": "",
             "comment": "",
             "tags": [
-              "has-custodial-wallets"
+                "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-01-28T00:00:01Z"
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
         }
     ]
 }

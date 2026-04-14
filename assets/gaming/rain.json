@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "label": "bitcasino",
+        "label": "rain",
         "category": "gaming",
         "subcategory": "gambling",
-        "website": "https://bitcasino.io",
+        "website": "https://rain.gg",
         "description": "",
-        "organization": "yolo_group"
+        "organization": "rain"
     },
     "addresses": [
         {
-            "address": "EQCMrOSvzZgqG1M5AsAi-qfzQP_F-MwpHnRTnfmJpU61efGs",
+            "address": "EQDgdVK7KzYAXvYDIuQN7ynw0s1fgJRgWfFeeGXVU_JKt0xc",
             "source": "",
             "comment": "",
             "tags": [
-              "has-custodial-wallets"
+                "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-01-28T00:00:01Z"
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
         }
     ]
 }

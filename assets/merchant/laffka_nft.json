@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "laffka_nft.",
+        "name": "Laffka NFT",
+        "organization": "laffka_nft",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/LaffkaStickerBot",
+        "description": "sticker marketplace"
+    },
+    "addresses": [
+        {
+            "address": "EQCBYLo_w_blWNpufWzUXdK_H1obTewHAl0A2NRGsBwHqs5G",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

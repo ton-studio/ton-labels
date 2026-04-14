@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "label": "bitcasino",
+        "label": "darilo",
         "category": "gaming",
         "subcategory": "gambling",
-        "website": "https://bitcasino.io",
+        "website": "https://t.me/Darilo_robot",
         "description": "",
-        "organization": "yolo_group"
+        "organization": "darilo"
     },
     "addresses": [
         {
-            "address": "EQCMrOSvzZgqG1M5AsAi-qfzQP_F-MwpHnRTnfmJpU61efGs",
+            "address": "EQCS92Q0rB2ynyasXiMteKsAtdCSAOuJCej-zx21yXzKczXd",
             "source": "",
             "comment": "",
             "tags": [
-              "has-custodial-wallets"
+                 "telegram-gifts"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-01-28T00:00:01Z"
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
         }
     ]
 }

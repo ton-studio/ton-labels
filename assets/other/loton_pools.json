@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "loton_pools",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/Lotonapp_bot",
+        "description": "Centralized Telegram-based investment app aggregating user deposits into internal yield pools",
+        "organization": "loton_pools"
+    },
+    "addresses": [
+        {
+            "address": "EQDxw7TxYVyYimGRDpPUzX8FCmp7xl9s7mflZ20-sJOLDvK9",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
+        }
+    ]
+}

@@ -1,27 +1,27 @@
 {
     "metadata": {
-        "label": "btcturk",
+        "label": "revolut",
         "category": "CEX",
         "subcategory": "",
-        "website": "https://kripto.btcturk.com",
+        "website": "https://www.revolut.com",
         "description": "",
-        "organization": "btcturk"
+        "organization": "revolut"
     },
     "addresses": [
         {
-            "address": "EQD4orPSdfl-R4s4MVBt-XtCz7yrgRyDsBk7tJaYGH1AZrSW",
+            "address": "EQAkUGfIyHHIiyoZ7n3g72yeZAIFh6mhKN353PCCuw3wJa8a",
             "source": "",
             "comment": "",
             "tags": [],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-02-13T10:09:26Z"
+            "submissionTimestamp": "2026-04-10T10:09:26Z"
         },
         {
-            "address": "EQCn1cCgWdEBZ4k9ZYEHdq8ltVxxAuI9Xvqpv9yPDFCV0wmn",
+            "address": "EQBTLIEdTkjEWFY6RXNcY1HkkEOKCno-1qZ74nAppVKi7GtA",
             "source": "",
-            "comment": "",
+            "comment": "https://www.fireblocks.com/customers/revolut",
             "tags": [
-                "has-custodial-wallets"
+              "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-04-10T10:09:26Z"

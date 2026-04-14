@@ -1,22 +1,22 @@
 {
     "metadata": {
-        "label": "bitcasino",
+        "label": "sportbet",
         "category": "gaming",
         "subcategory": "gambling",
-        "website": "https://bitcasino.io",
+        "website": "https://sportbet.one",
         "description": "",
-        "organization": "yolo_group"
+        "organization": "sportbet"
     },
     "addresses": [
         {
-            "address": "EQCMrOSvzZgqG1M5AsAi-qfzQP_F-MwpHnRTnfmJpU61efGs",
+            "address": "EQDGMxtsX7BJRNOECSo1aTUkc_R310ib2kjSruj7BPJaK6vv",
             "source": "",
             "comment": "",
             "tags": [
-              "has-custodial-wallets"
+                "has-custodial-wallets"
             ],
             "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-01-28T00:00:01Z"
+            "submissionTimestamp": "2026-04-10T00:00:01Z"
         }
     ]
 }
