@@ -37,6 +37,14 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-04-16T10:09:26Z"
+        },
+        {
+            "address": "EQBmo9W_9TZNlVzzH6f_L8CIC4N5GrYs3o8sjUsLXRzLHBjz",
+            "source": "",
+            "comment": "Exchange routing wallet (internal fund circulation)",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-04-16T10:09:26Z"
         }
     ]
 }
