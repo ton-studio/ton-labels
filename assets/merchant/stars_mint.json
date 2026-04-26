@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "stars_mint",
+        "name": "Stars Mint",
+        "organization": "laba",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace. Affiliated with Starsly",
+        "website": "https://t.me/stars_mint_bot"
+    },
+    "addresses": [
+        {
+      "address": "EQBWIloxNocComDiBwhwudaI8nEB1ss02oe1b2X03y3P9T0i",
+      "source": "",
+      "comment": "Telegram Stars cashout address. Also funds https://t.me/StarsllyBot",
+      "tags": [],
+      "submittedBy": "ef-code",
+      "submissionTimestamp": "2026-04-23T00:00:01Z"
+    }
+    ]
+}
