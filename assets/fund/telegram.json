@@ -23,6 +23,14 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQCZ3CmthhVRIciwzpt1VC0XFPBrP6QvVHLZe_Ydx46QSCxR",
+            "source": "tonviewer",
+            "comment": "Telegram operations deployer/funder wallet; deploys and funds vesting and validator wallets",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-04-30T00:00:00Z"
         }
     ]
 }
