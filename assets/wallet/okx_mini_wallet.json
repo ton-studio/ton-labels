@@ -20,7 +20,9 @@
             "address": "EQAgvOlWk7C0Pz3YgSaX-MA7UDDhE9n6eQgQRwJahOBm4VKr",
             "source": "",
             "comment": "okx dex aggregator. https://web3.okx.com",
-            "tags": [],
+            "tags": [
+                "defi"
+            ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-13T00:00:01Z"
         }
