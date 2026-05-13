@@ -18,6 +18,16 @@
             ],
             "submittedBy": "barsoomx",
             "submissionTimestamp": "2026-03-27T00:00:01Z"
+        },
+        {
+            "address": "EQD-v1amIu8Eh7lV8dCU5RiVgdfuj3tCDjr59OICM1sHwOPD",
+            "source": "",
+            "comment": "The same address is also used by https://altyn.one",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:01Z"
         }
     ]
 }
