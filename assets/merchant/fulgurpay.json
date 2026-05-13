@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "fulgurpay",
+        "name": "Fulgurpay",
+        "organization": "fulgurpay",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Cypto payment gateway",
+        "website": "https://fulgurpay.io"
+    },
+    "addresses": [
+        {
+            "address": "EQDQEkQF3lmAE5Yq4OE3aoxFbtIXod8QEKoCqHr_stVvD4JR",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T17:00:02Z"
+        }
+    ]
+}

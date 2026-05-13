@@ -1322,6 +1322,26 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-04-13T00:00:01Z"
+        },
+        {
+            "address": "EQDbSRhbADuce1uOWHQj5oQpgWCVSFA5ddQ0NRnUg26tIR5I",
+            "source": "https://web3.okx.com/ru/explorer/ton/address/EQDbSRhbADuce1uOWHQj5oQpgWCVSFA5ddQ0NRnUg26tIR5I",
+            "comment": "",
+            "tags": [
+                   "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQB7bUef50L7QxkY5TFb_HUfXJm2F4rz12tgfC3TGopcRwGw",
+            "source": "https://web3.okx.com/ru/explorer/ton/address/EQB7bUef50L7QxkY5TFb_HUfXJm2F4rz12tgfC3TGopcRwGw",
+            "comment": "Fee distributor",
+            "tags": [
+                   "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:01Z"
         }
     ]
 }

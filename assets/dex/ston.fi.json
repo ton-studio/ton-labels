@@ -777,6 +777,16 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-04-10T00:00:01Z"
+        },
+        {
+            "address": "EQACn16m9OrZ-mw186M4NlIpVP8Tb3q6SV9aX8NjSgVfJTo9",
+            "source": "",
+            "comment": "stonfi_router_v2",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:01Z"
         }
     ]
 }

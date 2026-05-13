@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pepekton",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/pepekton",
+        "description": "Memecoin",
+        "organization": "pepekton"
+    },
+    "addresses": [
+        {
+            "address": "EQAVTQuuqiSMM0K2adRClJkiQBAbr6fv-jyXRL9S9RNqtbvT",
+            "source": "https://t.me/pepekton/43",
+            "comment": "PEPEK token presale.  multisig_v2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:26Z"
+        }
+    ]
+}

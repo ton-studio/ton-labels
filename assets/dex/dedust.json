@@ -270,6 +270,26 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQD9Sq4tFASxS61k2lv6gDHIYsF4s0oXPx5uJSiHqztXaFLG",
+            "source": "",
+            "comment": "dedust_v2_cpmm, $PYONYA",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQBfBWT7X2BHg9tXAxzhz2aKiNTU1tpt5NsiK0uSDW_YAJ67",
+            "source": "https://docs.dedust.io/reference/factory",
+            "comment": "DeDust.io: Factory Contract",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:01Z"
         }
     ]
 }

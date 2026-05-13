@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "gapcjik",
+        "name": "Gapcjik",
+        "organization": "gapcjik",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars marketplace",
+        "website": "https://t.me/GapcjikStars_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDCNwjGlMioMvMqB8uKuBFyN202Zny9V4i_SOesSyCfyYRe",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T17:00:02Z"
+        }
+    ]
+}
