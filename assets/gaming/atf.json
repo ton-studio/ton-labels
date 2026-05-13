@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "atf",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/ATF_AIRDROP_bot",
+        "description": "",
+        "organization": "atf"
+    },
+    "addresses": [
+        {
+            "address": "EQClRxfnGHqK5b-KSia5iRiAnki_AkZqqfczP1eT_kuiL8OU",
+            "source": "",
+            "comment": "ATF token withdrawal",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-13T00:00:01Z"
+        }
+    ]
+}
