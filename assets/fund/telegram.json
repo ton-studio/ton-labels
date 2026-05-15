@@ -31,6 +31,630 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-04-30T00:00:00Z"
+        },
+        {
+            "address": "Ef-BRYXX9r8WY_pnug6p8gIfMIYxmMcHhWQFWh4V8FAYDd70",
+            "source": "",
+            "comment": "Telegram Pool #1",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-DyPewKoi_bisaQrtteirgdgxYUz5aK3d-k23TsQVnCZJA",
+            "source": "",
+            "comment": "Telegram Pool #2",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef86MVYsiuNRR4q3KhgShu5Sj5oVbFtltIySTRG_6eK25kpS",
+            "source": "",
+            "comment": "Telegram Pool #3",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-zOVNJyHJVvpAb_KDekTWCD8bROoqCW3RtTX-_Zw1MXGK8",
+            "source": "",
+            "comment": "Telegram Pool #4",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef8V637dlicgBDpn5iA4CH04cUTxi6OO68MLh2aaiTpG4hcx",
+            "source": "",
+            "comment": "Telegram Pool #5",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef9iUOlI68C5ptUznKuJ7yNuQrzRHKLVd4nPw5CCwrpfGWN6",
+            "source": "",
+            "comment": "Telegram Pool #6",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef89OikC_nbBfqdx70Hc6ShZV7zLGdUPKwwlvjZo1scXeloP",
+            "source": "",
+            "comment": "Telegram Pool #7",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-tHSy_e_QawFniBDxhQApFIZOG6bEq4ex-7FA-6J4W_dSN",
+            "source": "",
+            "comment": "Telegram Pool #8",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-ABw-AtFOPA3VvPXskB9x06ufghNqnfVBJ2dTexed-mkOw",
+            "source": "",
+            "comment": "Telegram Pool #9",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_KqXQ9OnN8rmC9lgQVapWkA3AbNYkDzMVO2EGEtMouUdzW",
+            "source": "",
+            "comment": "Telegram Pool #10",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef9aYug4-pw0y3vaRY9M12dJ0isLjwakamPHRr5eK_lKhEz_",
+            "source": "",
+            "comment": "Telegram Pool #11",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-lZVlCbHk9xVsem8udnjVTCsnLKfYjhFBP8Z77dmxkxZ2b",
+            "source": "",
+            "comment": "Telegram Pool #12",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-JoPNYIry1AFqnOQtMPXKe7CoCdEJSpQkvQmL77wc4LHJl",
+            "source": "",
+            "comment": "Telegram Pool #13",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef9rLKIIm7M2Oi0k91aqSbhhIlWZIevfz-ILuLXeuM2Gpbby",
+            "source": "",
+            "comment": "Telegram Pool #14",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_blSQgiTZmBp9nTBTFFiluQ7tICOB_ZybvEv-YrXi_R7tG",
+            "source": "",
+            "comment": "Telegram Pool #15",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-fo9C7AyvqgvMfhLTV9VScFnaE8BG7EGNZkbP_hFBswe12",
+            "source": "",
+            "comment": "Telegram Pool #16",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-d7ES90jXn3kBWLmHUySo3pOk9SkrB1otHoOdcLbOqhlAV",
+            "source": "",
+            "comment": "Telegram Pool #17",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_Mf5_-N2PbsaCNMKj0WknP-dNZwxMf8TKiW9pGiZR-9pLF",
+            "source": "",
+            "comment": "Telegram Pool #18",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_TViyZJqcNeZTKtomDYe0D0tqi98MILJNfoZDpzsw9-yzz",
+            "source": "",
+            "comment": "Telegram Pool #19",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef9R8Y-HTqJwU3By5mvmikHhvdtWkIoo4DRvlpAc30QIQYES",
+            "source": "",
+            "comment": "Telegram Pool #20",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef8BS5hET2fGZ7lgj3YgFEnT4or2GX8-ZkwAU26VxVVA12qc",
+            "source": "",
+            "comment": "Telegram Pool #21",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-wwGtzYurmb_AAdqI-c37bTM4HqU80asLWBHmGI29wN2bg",
+            "source": "",
+            "comment": "Telegram Pool #22",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef95AuZQBgHKEEExC02JNLk5-BsiwmEZ0rxqHOj7qM5i5jCb",
+            "source": "",
+            "comment": "Telegram Pool #23",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef8kXNi_UhGhe3PBXH_rwE2QjydA4AKGs23UuJ8wvJekbveH",
+            "source": "",
+            "comment": "Telegram Pool #24",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-qSBU3n4AtXiSM1f_Lh4pqYOlhHw_1u-oxV5q4q2EYftIo",
+            "source": "",
+            "comment": "Telegram Pool #25",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-1MaE0MV6yecvwnl5lW7k1eobcDKiz-3kJu_eTI61NEQwY",
+            "source": "",
+            "comment": "Telegram Pool #26",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-gssdf3C4x1X2mF2uVqW0MxZx5y8zAbit1yMT55-K74qTv",
+            "source": "",
+            "comment": "Telegram Pool #27",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-I5ZxCXrWae7U9VJ3233Gal4WwXrcymYgO2hD8j_3uoJNC",
+            "source": "",
+            "comment": "Telegram Pool #28",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_lyrwTxHjbWLJWUoa8FrxZFxaGVxZWBmWyE6ps5raS19cd",
+            "source": "",
+            "comment": "Telegram Pool #29",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_e6tbN7K80K18LspaxbInGLijUB2sJ02HVs4C5GGT_whqV",
+            "source": "",
+            "comment": "Telegram Pool #30",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef9S2UL1KVwylm7E9kg7zhaFntEp1zqWuSycgLTkAmyates-",
+            "source": "",
+            "comment": "Telegram Pool #31",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef8hH1OPGNd4O8ZffKFarOqNGXkW33iLuYaNYJ4cnwVBFGj7",
+            "source": "",
+            "comment": "Telegram Pool #32",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_auoFIVTBiAEQssOTg_xUAuRcicjuh7JIdSU00LCK-V29j",
+            "source": "",
+            "comment": "Telegram Pool #33",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_0R2MPFW4uOOkTYZzkqL93gxIy_iAoCSUkVNn0GEX0eWVZ",
+            "source": "",
+            "comment": "Telegram Pool #34",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_THH2_UxM-xbG2KDbxNh3fLMYFSDPV_gNlVaN7qjKj7NaE",
+            "source": "",
+            "comment": "Telegram Pool #35",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef8t69OVPkQeMUWg5GOowPkS9Xnww_CQJE1VNMg0rrB0nle5",
+            "source": "",
+            "comment": "Telegram Pool #36",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-KaC-icut0ryUmZlIj2c0OBcyJq3RRhLY3AfxZqNid92yB",
+            "source": "",
+            "comment": "Telegram Pool #37",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_6EtTcvevhf7JqcrmRfTeEE7RqoBgJ6iwTWfkH1zuaNZhp",
+            "source": "",
+            "comment": "Telegram Pool #38",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef9K7NCMnnDyTK33y0JDuk9DtEfvQCw9Rps1XJ-Xc5IP_A9f",
+            "source": "",
+            "comment": "Telegram Pool #39",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef87fFloQOGYnVHtLyjp82hO9m92H_lSp35iOh4Otn7vn0za",
+            "source": "",
+            "comment": "Telegram Pool #40",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_P5VU8GPTLVIrfTh4ABRNcP-TqzL_d4kZl4jREdGgQdDqF",
+            "source": "",
+            "comment": "Telegram Pool #41",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef8g-VAU8dKD8ZDdHVUpQxtxtnUn314APRapzJSyS1n8x8_k",
+            "source": "",
+            "comment": "Telegram Pool #42",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef99wIP8RJ9orH1IW-qchJ40E9pmT0R9ig7_jnmgneEcLxaf",
+            "source": "",
+            "comment": "Telegram Pool #43",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-NP4vxhfxNtoDNMIG-dIHPg6TTeuTHEPNknrpboTkPaf-p",
+            "source": "",
+            "comment": "Telegram Pool #44",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-ZQCBcKiBGzgLpQQ0BvrAEFCBlTsSIgTWAOr-JHtv1DlBV",
+            "source": "",
+            "comment": "Telegram Pool #45",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-kRYyA9YmWUc-yqf_ntHVe9PvBr_PZv6e9Tmu5SaQznGoh",
+            "source": "",
+            "comment": "Telegram Pool #46",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-29CwmoqndrHPLzbxKLIDyBgSWE8Scceq2YDKvWMI9E3Tj",
+            "source": "",
+            "comment": "Telegram Pool #47",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-YUDhbLPXhia5BAMm9DY0nCfJO1pSp4lwabR-Oj-1gg4Go",
+            "source": "",
+            "comment": "Telegram Pool #48",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef-8_WEcqPZIjU1wH6LnyS2x4P-_3kpI8_v1ZlMOkkJtnwnO",
+            "source": "",
+            "comment": "Telegram Pool #49",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_cBmqd-CBoH7xRXo_P96DWrRs-AQY_lLj4nL6SCU73AV_5",
+            "source": "",
+            "comment": "Telegram Pool #50",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_nGD4krKcooavm0vHj4U7QKOrygdfa8nykAKVbdkJcbO6c",
+            "source": "",
+            "comment": "Telegram Pool #51",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "Ef_wkpS6W2M-NcL9dAzU3OuMWd0OGINdwSLZkHPWuqP1zxAz",
+            "source": "",
+            "comment": "Telegram Pool #52",
+            "tags": [
+                "defi",
+                "pool",
+               "validator"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
         }
     ]
 }
