@@ -17,16 +17,6 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-01-28T00:00:01Z"
-        },
-         {
-            "address": "EQC-IaI4qMUJ2jTyVYATxE81NuRpAxORrdPUIEuCgxUN_u0W",
-            "source": "",
-            "comment": "Gas top‑up address",
-            "tags": [
-              "has-custodial-wallets"
-            ],
-            "submittedBy": "Lucky0041",
-            "submissionTimestamp": "2026-01-28T00:00:01Z"
         }
     ]
 }
