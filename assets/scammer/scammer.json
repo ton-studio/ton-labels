@@ -1144,6 +1144,17 @@
             ],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2026-03-30T00:00:01Z"
+        },
+        {
+            "address": "EQA_BIPQJsVlGZinWDKp6lc-NcbdjUmRL3Dydce95-_6z_P_",
+            "source": "",
+            "comment": "Mimic first and last letters of the address to confuse the wallet owner",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:01Z"
         }
     ]
 }
