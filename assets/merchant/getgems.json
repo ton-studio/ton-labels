@@ -115,6 +115,16 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-04-13T00:00:01Z"
+        },
+    {
+            "address": "EQDHCN7ac3VhrjVfygFLI6J01HJ42ggyzVQvlNLd2-HelndX",
+            "source": "",
+            "comment": "Gift Minter",
+            "tags": [
+                   "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:01Z"
         }
     ]
 }

@@ -106,6 +106,32 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-04-12T00:00:00Z"
+        },
+        {
+            "address": "EQCpwa0v6lvGA01uKGfsW1CK1Nd59aO_xVFGGHPy7JTghHTB",
+            "source": "",
+            "comment": "TG stars/premium proxy",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "EQA7Bt7ZqEXypqksFR-lEdA_oB0xf6ePm9H7aBacJXCDoW9u",
+            "source": "",
+            "comment": "Marketapp Gift Minter",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+         {
+            "address": "EQCXKnbyYLT7JW6IAP26UfL-NYXW4sQ1nhl6FuHm2tA0pFFw",
+            "source": "",
+            "comment": "Marketapp Deployer",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:00Z"
         }
     ]
 }
