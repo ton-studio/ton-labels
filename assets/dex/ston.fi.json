@@ -531,6 +531,14 @@
             "submissionTimestamp": "2025-06-12T00:00:01Z"
         },
         {
+            "address": "EQBCAUfvMMSn-WHP0bKDs4wUVOK1r55OuHJIq25_QnVFCFye",
+            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees",
+            "comment": "Referral Fees with DeDust",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2025-07-15T00:00:01Z"
+        },
+        {
             "address": "EQAAoyu0C-aMYGPVEoMfuAge2-meJWeO5KLJKrKWJAJAKXGL",
             "source": "",
             "comment": "onmiston_referral address",
@@ -787,6 +795,26 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQAmNh-ny4GugFiv3KmtwpQxU36mzwO2UkMCvhNyzuB9HHuf",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:01Z"
+        },
+        {
+            "address": "EQBmfQZpt5-6K0JSxC3-hIXfrfFHDGmt6S3OpDh_-7UYpoOF",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:01Z"
         }
     ]
 }
