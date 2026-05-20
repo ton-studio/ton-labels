@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "swapwllet",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://swlt.app",
+        "description": "",
+        "organization": "swapwallet"
+    },
+    "addresses": [
+        {
+            "address": "EQDhO8nbBNP5lH8vQU0NBBRAJzSrZ4NYNOLUnQ0snMlYA67S",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-20T10:09:26Z"
+        }
+    ]
+}
