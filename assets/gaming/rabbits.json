@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "rabbits",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/RabbitsGiftBot",
+        "description": "",
+        "organization": "rabbits"
+    },
+    "addresses": [
+        {
+            "address": "EQAKhl9bvxBYDU7ZGcPx2OQDxJWbNLI8RpKcpRtagyo9T3dV",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        }
+    ]
+}
