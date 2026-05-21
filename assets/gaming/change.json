@@ -2,7 +2,7 @@
     "metadata": {
         "label": "chance",
         "category": "gaming",
-        "subcategory": "",
+        "subcategory": "gambling",
         "website": "https://t.me/ChanceAppBot",
         "description": "",
         "organization": "chance"
@@ -15,6 +15,14 @@
             "tags": [],
             "submittedBy": "JackReachy",
             "submissionTimestamp": "2025-09-09T00:00:01Z"
+        },
+         {
+            "address": "EQDC-molYgJIAGRyyDJJ8ICH4N5YzXVnQXVBQR8j7gDYZWDa",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }
