@@ -282,6 +282,27 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQAEGspJNRpLvMDXeLrD8QcUNSNAP61jwgFQIJlOEPDCtwwi",
+            "source": "",
+            "comment": "USDT/DUST Pool (v2)",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQATCf6DbZhnkqGvWfVg4WjgLoS0J2GRSY7_DBx4yHenxdXQ",
+            "source": "",
+            "comment": "TON/DUST Pool (v2)",
+            "tags": [
+                "defi",
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }
