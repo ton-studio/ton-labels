@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_vpn",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/tonvpn_bot",
+        "description": "VPN service in Telegram",
+        "organization": "ton_vpn"
+    },
+    "addresses": [
+        {
+            "address": "EQDYhTDmSmauTB3BpzvWMaTAj-Kw5Kql_DKYkzHknHGnguDK",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T10:40:00Z"
+        }
+    ]
+}
