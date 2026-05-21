@@ -236,6 +236,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-01-16T00:00:01Z"
+        },
+        {
+            "address": "EQB1zw_9A8HoRhKPtUj8_x_rACxn05XfF0951YTWaNpWOqAq",
+            "source": "",
+            "comment": "multisig_v2. Blum Treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQAzJueXEVpDIJZSjv5iu1yl-mvqvwS4jQXvLMgNn64jbcSY",
+            "source": "https://t.me/blumcrypto/1150",
+            "comment": "Blum Burn Treasury",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }
