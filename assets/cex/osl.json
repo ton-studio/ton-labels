@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "osl",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.osl.com",
+        "description": "",
+        "organization": "osl"
+    },
+    "addresses": [
+        {
+            "address": "EQBmMf7ztTfITUJhnT6E3rA_qYNnvXqFG8zZ6z270PZQ-S3G",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T10:09:26Z"
+        }
+    ]
+}
