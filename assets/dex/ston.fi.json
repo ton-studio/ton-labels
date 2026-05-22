@@ -825,19 +825,9 @@
             "submissionTimestamp": "2026-05-21T00:00:01Z"
         },
         {
-            "address": "EQD5O4qzJmVwuKDIfDcuM6HI7fUf1AOolgF2oiPGyqr_WZsp",
-            "source": "on-chain analysis: TONCenter addressBook identifies interface as stonfi_vault_v2",
-            "comment": "STON.fi Vault v2",
-            "tags": [
-                "defi"
-            ],
-            "submittedBy": "horfil223",
-            "submissionTimestamp": "2026-05-22T00:00:01Z"
-        },
-        {
             "address": "EQB0Pb0STr9wnjbFyXwWgMSZ6wXMnUxYvgESqGPWd0zOb62S",
-            "source": "on-chain analysis: TONCenter addressBook identifies interface as stonfi_vault_v2",
-            "comment": "STON.fi Vault v2",
+            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; on-chain get_vault_data returns STON.fi Fee-Vault Minter EQCcJf2KFlH9xIx3dztytxxRFk3KQZKEYBr-f0nFIO1h3dvv",
+            "comment": "STON.fi Omniston fee vault",
             "tags": [
                 "defi"
             ],
@@ -846,8 +836,8 @@
         },
         {
             "address": "EQDw4XyCp6HlztuOZQHmWTNFb3coAHIu_vVurJMgU-VXWLAv",
-            "source": "on-chain analysis: TONCenter addressBook identifies interface as stonfi_vault_v2",
-            "comment": "STON.fi Vault v2",
+            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; on-chain get_vault_data returns STON.fi Fee-Vault Minter EQCcJf2KFlH9xIx3dztytxxRFk3KQZKEYBr-f0nFIO1h3dvv",
+            "comment": "STON.fi Omniston fee vault",
             "tags": [
                 "defi"
             ],

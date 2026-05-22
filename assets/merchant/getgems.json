@@ -128,7 +128,7 @@
         },
         {
             "address": "EQB4V0wb0u_WlgkWdfN9x16KcLquLPR-nO6UKkR29Zl530O3",
-            "source": "https://tonviewer.com/getgems-offers.ton",
+            "source": "https://tonviewer.com/getgems-offers.ton; on-chain TON DNS record resolves getgems-offers.ton to this wallet",
             "comment": "Getgems offers wallet (getgems-offers.ton)",
             "tags": [],
             "submittedBy": "horfil223",
