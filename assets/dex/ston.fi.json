@@ -826,7 +826,7 @@
         },
         {
             "address": "EQB0Pb0STr9wnjbFyXwWgMSZ6wXMnUxYvgESqGPWd0zOb62S",
-            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; on-chain get_vault_data returns STON.fi Fee-Vault Minter EQCcJf2KFlH9xIx3dztytxxRFk3KQZKEYBr-f0nFIO1h3dvv",
+            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; https://tonapi.io/v2/blockchain/accounts/EQB0Pb0STr9wnjbFyXwWgMSZ6wXMnUxYvgESqGPWd0zOb62S/methods/get_vault_data; https://toncenter.com/api/v3/addressBook?address=EQB0Pb0STr9wnjbFyXwWgMSZ6wXMnUxYvgESqGPWd0zOb62S",
             "comment": "STON.fi Omniston fee vault",
             "tags": [
                 "defi"
@@ -836,7 +836,7 @@
         },
         {
             "address": "EQDw4XyCp6HlztuOZQHmWTNFb3coAHIu_vVurJMgU-VXWLAv",
-            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; on-chain get_vault_data returns STON.fi Fee-Vault Minter EQCcJf2KFlH9xIx3dztytxxRFk3KQZKEYBr-f0nFIO1h3dvv",
+            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; https://tonapi.io/v2/blockchain/accounts/EQDw4XyCp6HlztuOZQHmWTNFb3coAHIu_vVurJMgU-VXWLAv/methods/get_vault_data; https://toncenter.com/api/v3/addressBook?address=EQDw4XyCp6HlztuOZQHmWTNFb3coAHIu_vVurJMgU-VXWLAv",
             "comment": "STON.fi Omniston fee vault",
             "tags": [
                 "defi"
