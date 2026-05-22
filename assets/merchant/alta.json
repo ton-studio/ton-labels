@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "alta",
+        "name": "Alta",
+        "organization": "alta",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "",
+        "website": "https://alta.wtf"
+    },
+    "addresses": [
+        {
+            "address": "EQBF8BjtgYOPuJuK72dmW_iA0W88z1J6qMzgxwhtA5IpPSNU",
+            "source": "",
+            "comment": "Used for both service transactions and personal purposes",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T17:00:02Z"
+        }
+    ]
+}

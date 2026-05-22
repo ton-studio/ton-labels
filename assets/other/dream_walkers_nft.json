@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "dream_walkers_nft",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/DreamWalkersNFT",
+        "description": "DreamWalkers Foundation wallet used for ecosystem investments, asset management, and holder dividend payouts",
+        "organization": "dream_walkers_nft"
+    },
+    "addresses": [
+        {
+            "address": "EQD3ttOeARKVj8Hb_ipk47O-BgJoBdRWpV3F-PC1g6uCF0wA",
+            "source": "https://t.me/DreamWalkersNFT/60,https://t.me/DreamWalkersNFT/46",
+            "comment": "DreamWalkers: Dividends",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        }
+    ]
+}

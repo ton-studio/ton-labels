@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "betwinner",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://betwinner2.com",
+        "description": "",
+        "organization": "betwinner"
+    },
+    "addresses": [
+        {
+            "address": "EQD2CuHmx4dZL9-xSyeyREELDtChI_2iEjyLflOYa_udaXQm",
+            "source": "",
+            "comment": "",
+            "tags": [
+             "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        }
+    ]
+}

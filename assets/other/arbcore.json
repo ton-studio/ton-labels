@@ -1,7 +1,7 @@
 {
     "metadata": {
         "label": "arbcore",
-        "category": "tradingbot",
+        "category": "other",
         "subcategory": "",
         "website": "https://t.me/arbcore_bot",
         "description": "",
@@ -15,6 +15,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-02-03T00:00:01Z"
+        },
+        {
+            "address": "EQCp2q28dlRxMrWFlWilkUux9pwUZ6gT-kUc9f4DnSnGowTC",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }

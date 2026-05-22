@@ -27,6 +27,46 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQAsf2sDPfoo-0IjnRA7l_gJBB9jyo4zqfCG_1IFCCI_Qbef",
+            "source": "https://github.com/swapcoffee/dex",
+            "comment": "Factory Contract",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQDbLqT_zhxpERj0EnXG2iqr1g71ODb_Xoc74R8RzUSElKGD",
+            "source": "https://github.com/swapcoffee/dex",
+            "comment": "Ton vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQCz79ULW8EogUnE-8vw2AmqYAQbAX3PcdlHV_VQ75zkKjrF",
+            "source": "https://github.com/swapcoffee/dex",
+            "comment": "Administrative multisig wallet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQBQwb1rPdTP0DtL6FgW2ilaeoPsXuUEb1dPD4ynq2WT_GzS",
+            "source": "https://github.com/swapcoffee/dex",
+            "comment": "Protocol & Referral fees withdrawal wallet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }

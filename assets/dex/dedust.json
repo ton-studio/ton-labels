@@ -282,6 +282,39 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQAEGspJNRpLvMDXeLrD8QcUNSNAP61jwgFQIJlOEPDCtwwi",
+            "source": "https://dedust.io/pools/EQAEGspJNRpLvMDXeLrD8QcUNSNAP61jwgFQIJlOEPDCtwwi",
+            "comment": "USDT/DUST Pool (v2)",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQATCf6DbZhnkqGvWfVg4WjgLoS0J2GRSY7_DBx4yHenxdXQ",
+            "source": "https://dedust.io/pools/EQATCf6DbZhnkqGvWfVg4WjgLoS0J2GRSY7_DBx4yHenxdXQ",
+            "comment": "TON/DUST Pool (v2)",
+            "tags": [
+                "defi",
+                 "pool"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQC0BnFmM0G5MTKvUnxwk5UPPQjcRJo9_t40Ui-lVbw3Y76a",
+            "source": "https://dedust.io/pools/EQC0BnFmM0G5MTKvUnxwk5UPPQjcRJo9_t40Ui-lVbw3Y76a",
+            "comment": "TON/USDT Pool (v2)",
+            "tags": [
+                "defi",
+                 "pool"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }

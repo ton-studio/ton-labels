@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "paycek",
+        "name": "Paycek",
+        "organization": "paycek",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "Crypto Payment Gateway",
+        "website": "https://paycek.io"
+    },
+    "addresses": [
+        {
+            "address": "EQAi2XHU-gVG9p7_huBx_sYg3xguvJz-yjY6vpYKXmmK0whV",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T17:00:02Z"
+        }
+    ]
+}

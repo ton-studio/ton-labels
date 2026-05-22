@@ -28,6 +28,16 @@
             ],
             "submittedBy": "rdmcd",
             "submissionTimestamp": "2025-05-27T00:00:01Z"
+        },
+        {
+            "address": "EQATCpfGyJ1JVPxHgcfpBghgYIFNPiDzLxFuDp7ngE9Eur95",
+            "source": "",
+            "comment": "withdrawal address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "avangifts",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/avangifts_bot",
+        "description": "AvanChange & partners - contests and giveaways bot",
+        "organization": "avanchange"
+    },
+    "addresses": [
+        {
+            "address": "EQBOrq3pW1c7slpk-D0t72WkIaHU5w9ryq6dYUcTW7rufCM7",
+            "source": "",
+            "comment": "Daily check-in",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
+        }
+    ]
+}

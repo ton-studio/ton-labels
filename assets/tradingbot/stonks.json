@@ -12,11 +12,17 @@
             "address": "EQDve6CLVbaaXQTd54gI-XK8iR63SsaSgcoRZ9byuSFdakFl",
             "source": "",
             "comment": "",
-            "tags": [
-              "has-custodial-wallets"
-            ],
+            "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQAREuDRVGZzNnHPYL_zgksB00sbW95IKDk34E0YcS0BSK9f",
+            "source": "",
+            "comment": "Stonksbot referral",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-21T00:00:01Z"
         }
     ]
 }
