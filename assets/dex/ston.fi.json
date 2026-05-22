@@ -639,6 +639,16 @@
             "submissionTimestamp": "2026-03-03T00:00:01Z"
         },
         {
+            "address": "EQBjK_kjY5R_DoyTRff109VzFrSlKFCC_gOOWIMtyEvCcv2J",
+            "source": "https://api.ston.fi/v1/routers/EQBjK_kjY5R_DoyTRff109VzFrSlKFCC_gOOWIMtyEvCcv2J",
+            "comment": "stonfi_router_v2: WeightedStableSwap",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "horfil223",
+            "submissionTimestamp": "2026-05-22T00:00:01Z"
+        },
+        {
             "address": "EQDi1eWU3HWWst8owY8OMq2Dz9nJJEHUROza8R-_wEGb8yu6",
             "source": "",
             "comment": "stonfi_router_v2",
