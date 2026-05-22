@@ -192,6 +192,17 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-08-19T12:00:00Z"
+        },
+        {
+            "address": "EQAL1QRD508kA3pYrYaLID7Xr5wBtBy-lwlF5oUKneP2PxTW",
+            "source": "",
+            "comment": "Whales Deposit",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-22T12:00:00Z"
         }
     ]
 }
