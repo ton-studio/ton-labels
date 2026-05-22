@@ -125,14 +125,6 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-15T00:00:01Z"
-        },
-        {
-            "address": "EQB4V0wb0u_WlgkWdfN9x16KcLquLPR-nO6UKkR29Zl530O3",
-            "source": "https://tonapi.io/v2/dns/getgems-offers.ton/resolve; https://tonviewer.com/getgems-offers.ton",
-            "comment": "Getgems offers wallet (getgems-offers.ton)",
-            "tags": [],
-            "submittedBy": "horfil223",
-            "submissionTimestamp": "2026-05-22T00:00:01Z"
         }
     ]
 }

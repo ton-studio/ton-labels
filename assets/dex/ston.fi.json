@@ -823,26 +823,6 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-21T00:00:01Z"
-        },
-        {
-            "address": "EQB0Pb0STr9wnjbFyXwWgMSZ6wXMnUxYvgESqGPWd0zOb62S",
-            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; https://tonapi.io/v2/blockchain/accounts/EQB0Pb0STr9wnjbFyXwWgMSZ6wXMnUxYvgESqGPWd0zOb62S/methods/get_vault_data; https://toncenter.com/api/v3/addressBook?address=EQB0Pb0STr9wnjbFyXwWgMSZ6wXMnUxYvgESqGPWd0zOb62S",
-            "comment": "STON.fi Omniston fee vault",
-            "tags": [
-                "defi"
-            ],
-            "submittedBy": "horfil223",
-            "submissionTimestamp": "2026-05-22T00:00:01Z"
-        },
-        {
-            "address": "EQDw4XyCp6HlztuOZQHmWTNFb3coAHIu_vVurJMgU-VXWLAv",
-            "source": "https://docs.ston.fi/developer-section/omniston/referral-fees; https://tonapi.io/v2/blockchain/accounts/EQDw4XyCp6HlztuOZQHmWTNFb3coAHIu_vVurJMgU-VXWLAv/methods/get_vault_data; https://toncenter.com/api/v3/addressBook?address=EQDw4XyCp6HlztuOZQHmWTNFb3coAHIu_vVurJMgU-VXWLAv",
-            "comment": "STON.fi Omniston fee vault",
-            "tags": [
-                "defi"
-            ],
-            "submittedBy": "horfil223",
-            "submissionTimestamp": "2026-05-22T00:00:01Z"
         }
     ]
 }
