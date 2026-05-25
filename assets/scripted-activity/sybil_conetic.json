@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sybil_conetic",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "conetic"
+    },
+    "addresses": [
+        {
+            "address": "EQDbjxiJGtkqco99vBTFwIcMrc7igxwpwWnwxDMHlYqrnEBW",
+            "source": "",
+            "comment": "coneticnews-on-telegram1.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         }
+    ]
+}
