@@ -63,6 +63,14 @@
             "tags": [],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQDoxOcDo0EkHBNVL6tFfH5K-BAWI9PSO44zlgWdOwgeqw7m",
+            "source": "",
+            "comment": "coneticnews-on-telegram7.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
          }
     ]
 }
