@@ -342,7 +342,7 @@
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-03-03T00:00:01Z"
         },
-    {
+        {
             "address": "EQCkoRp4OE-SFUoMEnYfL3vF43T3AzNfW8jyTC4yzk8cJqMS",
             "source": "",
             "comment": "",
@@ -351,6 +351,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQAkcigwkjX7Hgshhe205vVMvHgWXz-muo34UgMo2xuptPhm",
+            "source": "Mass custodial wallet sweep to this address on 2026-05-28: 2.06M child wallets sent TON to [0:2472...A9B4](https://tonviewer.com/0:247228309235FB1E0B2185EDB4E6F54CBC78165F3FA6BA8DF8520328DB1BA9B4); Dune evidence: [collector origin labels](https://dune.com/queries/7614373), [collector metadata](https://dune.com/queries/7614383).",
+            "comment": "TON collection wallet for Wallet in Telegram custodial wallet sweeps",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-05-30T00:00:01Z"
         }
     ]
 }
