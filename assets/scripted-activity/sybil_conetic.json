@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "label": "sybil_conetic",
+        "category": "scripted-activity",
+        "subcategory": "sybil",
+        "website": "",
+        "description": "",
+        "organization": "conetic"
+    },
+    "addresses": [
+        {
+            "address": "EQDbjxiJGtkqco99vBTFwIcMrc7igxwpwWnwxDMHlYqrnEBW",
+            "source": "",
+            "comment": "coneticnews-on-telegram1.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQDljKm7IVGJ8BhR50rnCEJ9nu7QPyJkX_MzF9u1PKSn2RKa",
+            "source": "",
+            "comment": "coneticnews-on-telegram2.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQDhlrGZZ6RENXCHyNW4qOLsNIK3qD1QBK-6QtSjh1Odji-Z",
+            "source": "",
+            "comment": "coneticnews-on-telegram3.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQCNr484yUZu-4w7y0-qOGTdHoXM5BXe6VuMTpI0XGAmMmZI",
+            "source": "",
+            "comment": "coneticnews-on-telegram4.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQDmvZCs3vgtNrfqDHQiw091h-3hjCsU3WviVeeVWh9fRKEV",
+            "source": "",
+            "comment": "coneticnews-on-telegram5.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQArYXoKzYI7u2ABP6BLrw2YJnSYZQcTX0FwcBbUG79yicVC",
+            "source": "",
+            "comment": "coneticnews-on-telegram6.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQApBSZVTIrUspIBfwV6fNs76i1nqi-yhTb9COnbrplvVYAy",
+            "source": "",
+            "comment": "coneticnews-on-telegram9.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQDoxOcDo0EkHBNVL6tFfH5K-BAWI9PSO44zlgWdOwgeqw7m",
+            "source": "",
+            "comment": "coneticnews-on-telegram7.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         },
+         {
+            "address": "EQBEQTNx1-9AZKA2SiIhdArgLsrClvKqXm2QTzuDt0se-PUf",
+            "source": "",
+            "comment": "coneticnews-on-telegram8.ton, periodic large scale spams",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-25T00:00:00Z"
+         }
+    ]
+}
