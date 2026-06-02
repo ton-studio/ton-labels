@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "gpt4agents",
+        "name": "GPT4Agents",
+        "organization": "gpt4agents",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "AI Chatbot",
+        "website": "https://t.me/GPT4AgentsBot"
+    },
+    "addresses": [
+        {
+            "address": "EQB237eBPzTIOIML5hUtBXRf1sC3KnUqAGDp28Mdnjb04zQ2",
+            "source": "",
+            "comment": "Telegram stars cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-08T17:00:02Z"
+        }
+    ]
+}
