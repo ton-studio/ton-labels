@@ -823,6 +823,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQBjK_kjY5R_DoyTRff109VzFrSlKFCC_gOOWIMtyEvCcv2J",
+            "source": "",
+            "comment": "STON.fi dex router",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-22T00:00:01Z"
         }
     ]
 }
