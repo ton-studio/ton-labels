@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "exapay",
+        "label": "expay",
         "category": "merchant",
         "subcategory": "",
         "website": "https://expay.cash",
         "description": "",
-        "organization": "exapay"
+        "organization": "expay"
     },
     "addresses": [
         {
@@ -18,7 +18,7 @@
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T10:40:00Z"
         },
-              {
+        {
             "address": "EQDJA1Nv4hNyH5W6w4QCPQ6xKxRtFJ8Uqr7Iyu8GoGqKcbbC",
             "source": "",
             "comment": "",
@@ -27,6 +27,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T10:40:00Z"
+        },
+        {
+            "address": "EQDoGIo-SG-xWwi_R1IHKfiTqrIEsCivt-W1VDgM-sr1lPAw",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T10:40:00Z"
         }
     ]
 }
