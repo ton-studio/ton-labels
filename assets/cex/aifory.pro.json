@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "label": "aifory.pro",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://aifory.pro",
+        "description": "",
+        "organization": "aifory.pro"
+    },
+    "addresses": [
+        {
+            "address": "EQBeFrgyFfhoi8RzJ6YOzSPQ1BhTC6TarEjxEP_SUpaObC3M",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T10:09:26Z"
+        },
+        {
+            "address": "EQCLJq1ouBB4sW2m4CyVwDugFSudHDd1bmOjTYOnXyRVrkMM",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T10:09:26Z"
+        }
+    ]
+}
