@@ -256,6 +256,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-15T00:00:01Z"
+        },
+        {
+            "address": "EQBrK82PlF5kmUgYpMo_15yrqD2KQe3BAvj_TZPTHUeBXmFM",
+            "source": "",
+            "comment": "TON API Gas Proxy",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
         }
     ]
 }

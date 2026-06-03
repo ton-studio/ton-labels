@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "coub",
+        "name": "Coub",
+        "organization": "coub",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "",
+        "website": "https://t.me/coub"
+    },
+    "addresses": [
+        {
+            "address": "EQC0-vd302VR_ftf6qqLK8-GCBekbmq1ypvM-ZsXmO_ZbXV0",
+            "source": "",
+            "comment": "https://pump.coub.com",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T17:00:02Z"
+        },
+        {
+            "address": "EQB5ym5EgkdccGdPE3GNsTfSThkjtZ84buPEKYRZvR7uLOx_",
+            "source": "",
+            "comment": "https://pump.coub.com",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T17:00:02Z"
+        }
+    ]
+}

@@ -831,6 +831,16 @@
             "tags": [],
             "submittedBy": "ef-code",
             "submissionTimestamp": "2026-05-22T00:00:01Z"
+        },
+        {
+            "address": "EQARULUYsmJq1RiZ-YiH-IJLcAZUVkVff-KBPwEmmaQGH6aC",
+            "source": "",
+            "comment": "pTON jetton master",
+            "tags": [
+                    "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
         }
     ]
 }

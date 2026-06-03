@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "fatal_reboot",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/FatalRebootBot",
+        "description": "",
+        "organization": "fatal_reboot"
+    },
+    "addresses": [
+        {
+            "address": "EQCOTPvLEegENhPn9EhgaTVt_-d9uyN2DPDB_PE2BVcW7hdU",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
+        }
+    ]
+}

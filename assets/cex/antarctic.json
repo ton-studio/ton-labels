@@ -20,9 +20,31 @@
             "address": "EQC1NuWj8E9gjV8HrZLN6WXlGZ1mbPnmz9uqxH0d-LuHgeVX",
             "source": "",
             "comment": "USDT vault",
-            "tags": ["has-custodial-wallets"],
+            "tags": [
+                "has-custodial-wallets"
+            ],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-05-26T10:09:26Z"
+        },
+        {
+            "address": "EQCT9h1oA-ut4MEMpWpuBm0vTTuCN_vQ6qTt135SNMTSiI2x",
+            "source": "",
+            "comment": "",
+            "tags": [
+                 "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T10:09:26Z"
+        },
+        {
+            "address": "EQCM8PmTUHeO2YFZ-7O7AYb2Cm2-BZGYIb9aepdWXUQmzG8o",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T10:09:26Z"
         }
     ]
 }

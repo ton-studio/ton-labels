@@ -179,6 +179,16 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-21T00:00:01Z"
+        },
+        {
+            "address": "EQBAcJNGmEIY1OeM0jvHQQcNqe15C8IPeYsEMq52SnqHQQrQ",
+            "source": "",
+            "comment": "StormTrade executor",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
         }
     ]
 }

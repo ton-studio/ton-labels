@@ -361,6 +361,34 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-05-30T00:00:01Z"
+        },
+        {
+            "address": "EQDzrr3vi8mpHY_HHlouRiA4a9AsdyGD-5v9kd9QRvNUqZq7",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
+        },
+        {
+            "address": "EQDObzxSKyOLeQlOGmZyBHAOGib2AKwwtRHAYc-L1Ml51AiH",
+            "source": "",
+            "comment": "",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
+        },
+         {
+            "address": "EQBs6No0_I8KxJ2nW9hIagQkjRSaGCISnS6nsiCwIGm9zbkg",
+            "source": "",
+            "comment": "multisig_v2",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
         }
     ]
 }

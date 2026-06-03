@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ton_port",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Tonport_bot",
+        "description": "",
+        "organization": "ton_port"
+    },
+    "addresses": [
+        {
+            "address": "EQB6MDkLTlivtY53MC2PZ8TbNxSjJWx84AdIX2IdI5iZ-DA8",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
+        }
+    ]
+}

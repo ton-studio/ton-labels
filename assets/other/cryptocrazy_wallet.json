@@ -1,10 +1,10 @@
 {
     "metadata": {
         "label": "cryptocrazy_wallet",
-        "category": "CEX",
+        "category": "other",
         "subcategory": "",
         "website": "https://t.me/cryptocrazy_wallet_bot",
-        "description": "",
+        "description": "Wallet for managing CCT token, the coin of Crypto Madness chat",
         "organization": "cryptocrazy_wallet"
     },
     "addresses": [
