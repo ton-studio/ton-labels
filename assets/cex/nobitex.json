@@ -95,6 +95,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQA1N2ByoCN5EZpUDBl7ENlDiB4lKHh1G-kZLH8DgRp8wr-B",
+            "source": "",
+            "comment": "Operational Wallet",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
+        },
+        {
+            "address": "EQBuM5CYQR9jfTqQ2GrJuu3z0wR1YHgQl41Ng5GuPWX5Xqir",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
         }
     ]
 }
