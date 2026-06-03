@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "atomic_bux",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://t.me/atomicbux_bot",
+        "description": "SocialFi quests for TON rewards",
+        "organization": "atomic_bux"
+    },
+    "addresses": [
+        {
+            "address": "EQAoXaeTH3jynXGaR-Dcoxf1OcTEX66J46M29ey5ug73QmAc",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-03T00:00:01Z"
+        }
+    ]
+}
