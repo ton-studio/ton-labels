@@ -15,6 +15,54 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-03-29T00:00:01Z"
+        },
+        {
+            "address": "EQDt-GxxQsraxbf0tp9_020A-MD8qlOygtDpYEkBGz6VWWz0",
+            "source": "",
+            "comment": "Large TRAIN sender in Feb 2026",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-04T00:00:01Z"
+        },
+        {
+            "address": "EQBDHtBWNtfauBqffjnd0KcTKEUwozLvkoZwiB7Lc7xxZb8v",
+            "source": "",
+            "comment": "Funded large TRAIN sender",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-04T00:00:01Z"
+        },
+        {
+            "address": "EQBjIpXzToDtO1OkJMeR9ufezWreytHwuL4Kc-U2Sf_3a2QS",
+            "source": "",
+            "comment": "Upstream source of 3B TRAIN",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-04T00:00:01Z"
+        },
+        {
+            "address": "EQBZn0aFa466gyVsN8bZdqTnMGnWnQwuZmpYPjKLYK_TRAIN",
+            "source": "",
+            "comment": "TRAIN jetton master",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-04T00:00:01Z"
+        },
+        {
+            "address": "EQAgEPjZqPQcHbnfOKLDfzZjlQLna1acmDj4GhRe-AXTF2V2",
+            "source": "",
+            "comment": "0.5 TON test recipient",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-04T00:00:01Z"
+        },
+        {
+            "address": "EQB9TGxCtPhvY3a0rvu-y5KMPTOwp0l6YXzom5qF90sqHIx1",
+            "source": "",
+            "comment": "Gas helper before TRAIN transfer",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-06-04T00:00:01Z"
         }
     ]
 }
