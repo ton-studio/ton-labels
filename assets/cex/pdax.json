@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "pdax",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://pdax.ph",
+        "description": "",
+        "organization": "pdax"
+    },
+    "addresses": [
+        {
+            "address": "EQDPnX-yqjs-D4C9WY83xpb1hT6UZHCMjAU520RHRtwjr-yl",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-08T10:09:26Z"
+        }
+    ]
+}
