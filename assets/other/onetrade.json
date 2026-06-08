@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "onetrade",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://onetrade.ltd",
+        "description": "OneTrade positions itself as a crypto arbitrage platform",
+        "organization": "arbore"
+    },
+    "addresses": [
+        {
+            "address": "EQAR0U0s-h4z_o2ucUwerGmoMgsSW9tk0OqgahcMmFq4sUZ2",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-08T00:00:01Z"
+        }
+    ]
+}

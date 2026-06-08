@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "signal2193",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Signal2193Bot",
+        "description": "",
+        "organization": "signal2193"
+    },
+    "addresses": [
+        {
+            "address": "EQAn5HIuk8_r8O7DfuNIgo3jTvIJJUXdfA8ELDcm4Lh_IgQs",
+            "source": "https://t.me/signal2193pay",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-08T00:00:01Z"
+        },
+        {
+            "address": "EQBYJhdwTN9SbkUquv4R6JYbMDngGn1d7sYrJ362Yj3xtR6_",
+            "source": "https://t.me/signal2193pay",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-08T00:00:01Z"
+        }
+    ]
+}

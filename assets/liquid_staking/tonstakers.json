@@ -126,6 +126,16 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2025-02-25T07:07:33Z"
+        },
+        {
+            "address": "EQDBRkHJXEm-keU8aENGUFoAhCvKJFldqwtpsM2EwSlZ6LTB",
+            "source": "https://t.me/thetonstakers/31",
+            "comment": "TonstakeImanagerSetInterest",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-06-08T07:07:33Z"
         }
     ]
 }
