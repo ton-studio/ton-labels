@@ -2,7 +2,7 @@
     "metadata": {
         "label": "starsly",
         "name": "Starsly",
-        "organization": "starsly",
+        "organization": "laba",
         "category": "merchant",
         "subcategory": "",
         "description": "TG Stars marketplace",
@@ -16,6 +16,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-12-10T17:00:02Z"
+        },
+        {
+            "address": "EQAbnn45XdUsNMqACY76faV8h5TAn-6JyMXi8ao8UpIWLQvj",
+            "source": "",
+            "comment": "Also funded by https://t.me/stars_mint_bot",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-06-05T00:00:01Z"
         }
     
     ]
