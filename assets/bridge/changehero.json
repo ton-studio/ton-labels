@@ -1,11 +1,11 @@
 {
     "metadata": {
-        "label": "getfeenix",
+        "label": "changehero",
         "category": "bridge",
         "subcategory": "",
-        "website": "https://getfeenix.com",
+        "website": "https://changehero.io",
         "description": "Bridge & cross-chain swap",
-        "organization": "getfeenix"
+        "organization": "changehero"
     },
     "addresses": [
         {
