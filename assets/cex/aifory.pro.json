@@ -43,6 +43,24 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-07-01T10:09:26Z"
+        },
+        {
+            "address": "EQBEy-Eswo25frawgJP7g0Xrk8IinnjDLT6B4s4BVkbv5Lsg",
+            "source": "",
+            "comment": "",
+            "tags": [
+                    "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        },
+        {
+            "address": "EQAUi6sb4uC3y37nidjat9JlNd-cx9OD6ZCJsIjkC3KFgS1Q",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
         }
     ]
 }
