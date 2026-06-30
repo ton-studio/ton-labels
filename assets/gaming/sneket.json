@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "sneket",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://sneket.net",
+        "description": "",
+        "organization": "sneket"
+    },
+    "addresses": [
+        {
+            "address": "EQCIFS3NKKeRaQt0r6J32dEJEQsn5vFK4eBa7SGrFiDfz-hQ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        }
+    ]
+}
