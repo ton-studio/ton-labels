@@ -31,6 +31,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-02-03T10:09:26Z"
+        },
+        {
+            "address": "EQBYCWHcN7skYmQoxv6yGBGSlYb4Gs-rgVPWL44wvvZgc_f2",
+            "source": "",
+            "comment": "GRAM (formerly TON) deposit",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        },
+        {
+            "address": "EQDwKKffy1W6QbGbLrlBQy90163Ab8j7cfNoIHZI2XiJ8WPs",
+            "source": "",
+            "comment": "USDT deposit",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
         }
     ]
 }
