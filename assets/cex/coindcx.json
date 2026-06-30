@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "coindcx",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://coindcx.com",
+        "description": "",
+        "organization": "coindcx"
+    },
+    "addresses": [
+        {
+            "address": "EQD6lewgAqcl6zo92Q8x2PS7fqvjekhLDXdjjdzUdlodf3m5",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        }
+    ]
+}
