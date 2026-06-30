@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "heroes_legends",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/Heroeslegends_bot",
+        "description": "",
+        "organization": "heroes_legends"
+    },
+    "addresses": [
+        {
+            "address": "EQBBVY0wN-5rUwneANWHrX4ymYLECnclh1Maibpb82hXwuKm",
+            "source": "",
+            "comment": "Telegram Stars cashout address, co-used for owner's personal on-chain activity",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        },
+        {
+            "address": "EQC9za20ln9IqUU0Q0DJq2J84JjUEd9WMqc0oedSKxsLJvlV",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        }
+    ]
+}
