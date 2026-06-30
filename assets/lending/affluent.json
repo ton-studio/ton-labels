@@ -172,6 +172,14 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQD5O4qzJmVwuKDIfDcuM6HI7fUf1AOolgF2oiPGyqr_WZsp",
+            "source": "",
+            "comment": "Sentora Vault for Wallet",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-06-30T00:00:01Z"
         }
     ]
 }
