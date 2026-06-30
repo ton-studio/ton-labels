@@ -841,6 +841,36 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-06-03T00:00:01Z"
+        },
+        {
+            "address": "EQAbWJ3Y1HgIIvcMq1prG1anlDC0T3cZlAU7luPT6LmTpmrZ",
+            "source": "",
+            "comment": "Escrow Minter",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        },
+        {
+            "address": "EQBHE9-DYaPCdDq2Cqn355GTAzzDTdowS52RPS-yLmIQNZKq",
+            "source": "",
+            "comment": "Escrow Minter",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        },
+        {
+            "address": "EQAbxwLfN7sC0NQ5HTrFbUSygRUPDZiXwbErO395qIP97or7",
+            "source": "",
+            "comment": "stonfi_escrow_vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
         }
     ]
 }
