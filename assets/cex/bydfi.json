@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "bydfi",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.bydfi.com",
+        "description": "",
+        "organization": "bydfi"
+    },
+    "addresses": [
+        {
+            "address": "EQCcpPhR5cojzciyNd_CxhLw_bYCp76IFunqboTPUp09PmkO",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        }
+    ]
+}
