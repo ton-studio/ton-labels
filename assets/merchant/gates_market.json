@@ -18,6 +18,16 @@
             ],
             "submittedBy": "plushpepe-lab",
             "submissionTimestamp": "2026-02-04T00:00:01Z"
+        },
+        {
+            "address": "EQDafQjbuB0sK0X5wiff2CofwNsIyg_SK_joEJiCAoD0b3Mu",
+            "source": "",
+            "comment": "Main market wallet. Used for all type operations in market",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
         }
     ]
 }
