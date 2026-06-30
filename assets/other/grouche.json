@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "grouche",
+        "category": "other",
+        "subcategory": "",
+        "website": "https://grouche.com",
+        "description": "DAO-governed charity and crowdfunding platform",
+        "organization": "grouche"
+    },
+    "addresses": [
+        {
+            "address": "EQBkGdZN_gCYz2oJYlE6pBYo4DhIWrwSaAkP3GSc-okVNdPh",
+            "source": "https://www.grouche.com/ru/fundraiser/30",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        }
+    ]
+}
