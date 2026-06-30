@@ -57,6 +57,22 @@
             "tags": [],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-02-11T12:37:15Z"
+        },
+        {
+            "address": "EQA2A7JWhG12C47ibwmQ1oBWrHbKoT1kev7AXnANbXLrK8XI",
+            "source": "https://www.coinex.com/en/reserve-proof",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T12:37:15Z"
+        },
+        {
+            "address": "EQAbOdQLa6Ce1fEym7wM6wb3QGUW94kUqWyN93OBFboX-NGZ",
+            "source": "https://www.coinex.com/en/reserve-proof",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T12:37:15Z"
         }
     ]
 }
