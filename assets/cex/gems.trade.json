@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "gems.trade",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.gems.trade",
+        "description": "",
+        "organization": "gems.trade"
+    },
+    "addresses": [
+        {
+            "address": "EQDM6ZrILPrVKIe5UhcqOD7lGrpgMUikxqxc7YY08RBiJ73f",
+            "source": "",
+            "comment": "",
+            "tags": [
+              "has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        }
+    ]
+}
