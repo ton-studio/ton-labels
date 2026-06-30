@@ -655,6 +655,14 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "EQB4ZBNOFNSIpi8Qnikm0M0PE1Hv-D-qi40J_nPyYtzA5SAX",
+            "source": "https://web.archive.org/web/20260113082330/https://docs.ton.org/standard/tokens/nft/nft-2.0",
+            "comment": "Telegram fund for NFT 2.0 sticker royalties (co-managed by TON Foundation)",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
         }
     ]
 }
