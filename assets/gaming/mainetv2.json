@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "mainetv2",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/mainet2_bot",
+        "description": "",
+        "organization": "mainetv2"
+    },
+    "addresses": [
+        {
+            "address": "EQB9DW0rJvd6NKW9DovrZEMNJi2EVctmLU4CJ1Hx_Zasq_FZ",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        }
+    ]
+}
