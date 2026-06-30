@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "kyrrex",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://my.kyrrex.com",
+        "description": "",
+        "organization": "kyrrex"
+    },
+    "addresses": [
+        {
+            "address": "EQA8wmFOZUOsC_hGIYBk14O0kfVdt75qxmsi1dhYSvn9WY8v",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        },
+        {
+            "address": "EQCMf3is4_X-TCtz93bpawQhKn89KOuTlgphSDcqZxcS5m41",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        }
+    ]
+}
