@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "ndax",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://ndax.io",
+        "description": "",
+        "organization": "ndax"
+    },
+    "addresses": [
+        {
+            "address": "EQDpHR03A0TkUcgKr1uPiy5jxaFT1FK3X1XKiX1L8Tcb2um1",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T10:09:26Z"
+        }
+    ]
+}
