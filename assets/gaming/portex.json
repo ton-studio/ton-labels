@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "portex",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://t.me/portex",
+        "description": "prediction market",
+        "organization": "portals"
+    },
+    "addresses": [
+        {
+            "address": "EQDAJg4t2a-qRmqY4iA8Kh0HkDUDKw4gGZMtHyE2bOMHtpwv",
+            "source": "",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        }
+    ]
+}
