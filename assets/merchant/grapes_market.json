@@ -1,0 +1,23 @@
+
+    "metadata": {
+        "label": "grapes_market",
+        "name": "Grapes Market",
+        "organization": "grapes_market",
+        "category": "merchant",
+        "subcategory": "offchain_marketplace",
+        "website": "https://t.me/grapesmarket_bot",
+        "description": ""
+    },
+    "addresses": [
+        {
+            "address": "EQDMNbveh4cFnrUY8LuYIRo4GsDr6ETwP11XC65GXyIdhwFT",
+            "source": "",
+            "comment": "main and withdrawal address",
+            "tags": [
+                "telegram-gifts"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        }
+    ]
+}
