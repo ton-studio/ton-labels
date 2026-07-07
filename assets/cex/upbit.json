@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "label": "upbit",
+        "category": "CEX",
+        "subcategory": "",
+        "website": "https://www.upbit.com",
+        "description": "",
+        "organization": "upbit"
+    },
+    "addresses": [
+        {
+            "address": "EQC8FcFgnb1sGYMMII1CSrfWdCGszRmjy5EXBsXbXRqWgI-i",
+            "source": "",
+            "comment": "",
+            "tags": [
+              has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T07:07:33Z"
+        },
+        {
+            "address": "EQBBoXe2KlYpqQClexWFMjuG8PdPxFtGQ97oa5XOpj9EBXBB",
+            "source": "",
+            "comment": "",
+            "tags": [
+              has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T07:07:33Z"
+        },
+        {
+            "address": "EQC7P6bFPO5Rp4DDTnCDEj3OrahVNioginYobtZdnCuiqLwl",
+            "source": "",
+            "comment": "",
+            "tags": [
+              has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T07:07:33Z"
+        },
+        {
+            "address": "EQC_L_b9hqGq9ovMxN7G4ioqIg9bwT2ZExVzubg1tMEZKPIU",
+            "source": "",
+            "comment": "",
+            "tags": [
+              has-custodial-wallets"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T07:07:33Z"
+        }
+    ]
+}
