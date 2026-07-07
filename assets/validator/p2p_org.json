@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "p2p_org",
+        "name": "P2P_org",
+        "organization": "p2p",
+        "category": "validator",
+        "subcategory": "",
+        "description": "Institutional-grade staking provider",
+        "website": "https://p2p.org"
+    },
+    "addresses": [
+        {
+            "address": "EQAL1QRD508kA3pYrYaLID7Xr5wBtBy-lwlF5oUKneP2PxTW",
+            "source": "https://p2p.org/faq/en/articles/12067738-stake-gram-gram-from-vesting-on-ledger-wallet",
+            "comment": "",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-07-07T17:00:02Z"
+        }
+    ]
+}
