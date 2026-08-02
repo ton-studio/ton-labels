@@ -12,10 +12,18 @@
         {
             "address": "EQCDh2RX3wGs7pwkXw44b1H7Tps4m_sWVbpgc5oEz1ywYwo_",
             "source": "",
-            "comment": "",
+            "comment": "Previous @StarsFreeRuBot payment wallet (historical).",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-03-29T17:00:02Z"
+        },
+        {
+            "address": "EQBkX_jciIDdrbtDaLIdOjbOXWVr4k5Vhh2eQTOnapya5Ln_",
+            "source": "Current address provided by @StarsFreeRuBot: [Tonviewer](https://tonviewer.com/UQBkX_jciIDdrbtDaLIdOjbOXWVr4k5Vhh2eQTOnapya5OQ6).",
+            "comment": "Current @StarsFreeRuBot payment wallet.",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-02T07:05:04Z"
         }
     ]
 }
