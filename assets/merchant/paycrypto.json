@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "paycrypto",
+        "name": "PayCrypto",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://paycrypto.one",
+        "description": "Crypto payment gateway",
+        "organization": "paycrypto"
+    },
+    "addresses": [
+        {
+            "address": "EQAnbZ65ogRZyIFwejk_y2_3c28Hpds3oTU6mlVSPGEKfhuO",
+            "source": "",
+            "comment": "Crypto acquiring",
+            "tags": [
+                "no-kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-17T00:00:01Z"
+        }
+    ]
+}
