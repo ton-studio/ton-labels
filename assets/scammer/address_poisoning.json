@@ -128,6 +128,72 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQB_vG-ADcPJUSmWWJpo8nolqgots6OSSpNVbEtcDIIOBvXH",
+            "source": "https://tonviewer.com/EQB_vG-ADcPJUSmWWJpo8nolqgots6OSSpNVbEtcDIIOBvXH First-funded ~72k new wallets in Mar-Aug 2026.",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQA-S-MgqYADcmTOVD2xskanz5qrWbyF2LVnYSmx5ljnIStJ",
+            "source": "https://tonviewer.com/EQA-S-MgqYADcmTOVD2xskanz5qrWbyF2LVnYSmx5ljnIStJ First-funded by NowPayments. First-funded ~32k wallets in 8 days (2026-05-16 to 2026-05-24).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQAAT5aqiFemT1b4BzDHYi71aAXZHjRfvHeC3HYorU-MAN67",
+            "source": "https://tonviewer.com/EQAAT5aqiFemT1b4BzDHYi71aAXZHjRfvHeC3HYorU-MAN67 Vanity non-bounceable suffix MAIN-. First-funded ~12k wallets (May-Aug 2026).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQAzr_iZb2JKjZAcR0C5ly7hIuVbEEDp1YlAzMYhYqver-Vp",
+            "source": "https://tonviewer.com/EQAzr_iZb2JKjZAcR0C5ly7hIuVbEEDp1YlAzMYhYqver-Vp",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQAZ8eRpCH0Xk9EHB8UxAy-iG9W-Txykopl7gpPUS7ReJkAz",
+            "source": "https://tonviewer.com/EQAZ8eRpCH0Xk9EHB8UxAy-iG9W-Txykopl7gpPUS7ReJkAz First-funded ~12k wallets in 6 days (2026-05-17 to 2026-05-23).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQA-ExMvJBbdkKtpe0epoI0OzzUsV9BJmPoIBWuqTwOAZuQ1",
+            "source": "https://tonviewer.com/EQA-ExMvJBbdkKtpe0epoI0OzzUsV9BJmPoIBWuqTwOAZuQ1 First-funded ~6.8k wallets in 4 days (2026-08-11 to 2026-08-15).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
         }
     ]
 }
