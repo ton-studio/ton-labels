@@ -4,13 +4,13 @@
         "category": "scammer",
         "subcategory": "address-poisoning",
         "website": "",
-        "description": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
+        "description": "Address poisoning factory — first-funds lookalike wallets that send dust to trick users into sending funds back to the wrong address",
         "organization": "scammer_address_poisoning"
     },
     "addresses": [
         {
             "address": "EQDigSXCS4OI_BnSe3WHhbmx5e6yB17krSgYdkwg9etO4ZMM",
-            "source": "",
+            "source": "https://tonviewer.com/EQDigSXCS4OI_BnSe3WHhbmx5e6yB17krSgYdkwg9etO4ZMM",
             "comment": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
             "tags": [
                 "scammer",
@@ -21,7 +21,7 @@
         },
         {
             "address": "EQA4nqsvESC1hCxQgRDfAliaDwdBZTH0x3apl4vELA4-qLtL",
-            "source": "",
+            "source": "https://tonviewer.com/EQA4nqsvESC1hCxQgRDfAliaDwdBZTH0x3apl4vELA4-qLtL",
             "comment": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
             "tags": [
                 "scammer",
@@ -29,6 +29,105 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-03-24T00:00:00Z"
+        },
+        {
+            "address": "EQA_BIPQJsVlGZinWDKp6lc-NcbdjUmRL3Dydce95-_6z_P_",
+            "source": "https://tonviewer.com/EQA_BIPQJsVlGZinWDKp6lc-NcbdjUmRL3Dydce95-_6z_P_ First-funded by EQDigSXCS4OI_BnSe3WHhbmx5e6yB17krSgYdkwg9etO4ZMM. First-funded ~587k wallets itself.",
+            "comment": "Moved from generic scammer.json. Mid-layer poisoning factory: child of EQDigSX, first-funds hundreds of thousands of lookalike one-time wallets.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:01Z"
+        },
+        {
+            "address": "EQDng8H0_g9e-Lslqy90AbAr4N57MfN8BXo61FoHMWgjlWlD",
+            "source": "https://tonviewer.com/EQDng8H0_g9e-Lslqy90AbAr4N57MfN8BXo61FoHMWgjlWlD First-funded by NowPayments. First-funded ~616k wallets (May-Aug 2026).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQCh1FHIznBgX670SvgSDVXArs0kDanhoNK5Pqza1_vZjVSG",
+            "source": "https://tonviewer.com/EQCh1FHIznBgX670SvgSDVXArs0kDanhoNK5Pqza1_vZjVSG First-funded by Binance. First-funded ~201k wallets (Mar-Jun 2026).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDmpFD0vP4ilFaKEGhu7WgCftfvGouLw3hj2qNiPg77FkHK",
+            "source": "https://tonviewer.com/EQDmpFD0vP4ilFaKEGhu7WgCftfvGouLw3hj2qNiPg77FkHK First-funded ~77k wallets and is the first funder of EQDXmIXK.",
+            "comment": "Manually confirmed address-poisoning factory and parent of EQDXmIXK.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDXmIXKE-YbCI_7LXj1gBa-7rnGkbmUtfgKaWw1zQ3Mzynt",
+            "source": "https://tonviewer.com/EQDXmIXKE-YbCI_7LXj1gBa-7rnGkbmUtfgKaWw1zQ3Mzynt First-funded by EQDmpFD0. First-funded ~157k wallets (May-Jul 2026).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDYGRe-v_x8hp7Kz93QMAECK8ORVEHsRRz-0ZUNd1k3r0b3",
+            "source": "https://tonviewer.com/EQDYGRe-v_x8hp7Kz93QMAECK8ORVEHsRRz-0ZUNd1k3r0b3 First-funded ~77k wallets (Jul-Aug 2026).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQADO5kDZcZQnTQ8-WPG7O3OeHCN9im6xcJBslQgKusGJ5P8",
+            "source": "https://tonviewer.com/EQADO5kDZcZQnTQ8-WPG7O3OeHCN9im6xcJBslQgKusGJ5P8 First-funded ~66k wallets (Apr-Jul 2026).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQA7IfcVEBvo8ZR-iJITZL9-IZlyT52Dk9xMtbG3whbc2fZ4",
+            "source": "https://tonviewer.com/EQA7IfcVEBvo8ZR-iJITZL9-IZlyT52Dk9xMtbG3whbc2fZ4 First-funded by FixedFloat. First-funded ~83k wallets (Aug 2025-May 2026).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDitRlyZ0Dq5YjsKlU1FWJfoeV0MWckmbsOYpzp9xLgEB3u",
+            "source": "https://tonviewer.com/EQDitRlyZ0Dq5YjsKlU1FWJfoeV0MWckmbsOYpzp9xLgEB3u First-funded by Huobi. First-funded ~20.7k wallets (2026-03-23 to 2026-05-13).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
         }
     ]
 }
