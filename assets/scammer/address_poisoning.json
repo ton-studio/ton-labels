@@ -4,13 +4,13 @@
         "category": "scammer",
         "subcategory": "address-poisoning",
         "website": "",
-        "description": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
+        "description": "Address poisoning factory — first-funds lookalike wallets that send dust to trick users into sending funds back to the wrong address",
         "organization": "scammer_address_poisoning"
     },
     "addresses": [
         {
             "address": "EQDigSXCS4OI_BnSe3WHhbmx5e6yB17krSgYdkwg9etO4ZMM",
-            "source": "",
+            "source": "https://tonviewer.com/EQDigSXCS4OI_BnSe3WHhbmx5e6yB17krSgYdkwg9etO4ZMM",
             "comment": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
             "tags": [
                 "scammer",
@@ -21,7 +21,7 @@
         },
         {
             "address": "EQA4nqsvESC1hCxQgRDfAliaDwdBZTH0x3apl4vELA4-qLtL",
-            "source": "",
+            "source": "https://tonviewer.com/EQA4nqsvESC1hCxQgRDfAliaDwdBZTH0x3apl4vELA4-qLtL",
             "comment": "Address poisoning deployer — creates wallets mimicking first/last chars of real addresses, sends dust to trick users",
             "tags": [
                 "scammer",
@@ -29,6 +29,171 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-03-24T00:00:00Z"
+        },
+        {
+            "address": "EQA_BIPQJsVlGZinWDKp6lc-NcbdjUmRL3Dydce95-_6z_P_",
+            "source": "https://tonviewer.com/EQA_BIPQJsVlGZinWDKp6lc-NcbdjUmRL3Dydce95-_6z_P_ First-funded by EQDigSXCS4OI_BnSe3WHhbmx5e6yB17krSgYdkwg9etO4ZMM. First-funded ~587k wallets itself.",
+            "comment": "Moved from generic scammer.json. Mid-layer poisoning factory: child of EQDigSX, first-funds hundreds of thousands of lookalike one-time wallets.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-05-15T00:00:01Z"
+        },
+        {
+            "address": "EQDng8H0_g9e-Lslqy90AbAr4N57MfN8BXo61FoHMWgjlWlD",
+            "source": "https://tonviewer.com/EQDng8H0_g9e-Lslqy90AbAr4N57MfN8BXo61FoHMWgjlWlD First-funded by NowPayments. First-funded ~616k wallets (May-Aug 2026). Children send 0.0001 TON dust to unique destinations.",
+            "comment": "Largest unlabeled 2026 poisoning factory. Seed so invited lookalike wallets can be expanded dynamically.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQCh1FHIznBgX670SvgSDVXArs0kDanhoNK5Pqza1_vZjVSG",
+            "source": "https://tonviewer.com/EQCh1FHIznBgX670SvgSDVXArs0kDanhoNK5Pqza1_vZjVSG First-funded by Binance. First-funded ~201k wallets (Mar-Jun 2026). Same lookalike-dust schema.",
+            "comment": "Poisoning factory. Also first-funds one-time spam wallets such as EQAgWcTL and EQBXSI4S.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDmpFD0vP4ilFaKEGhu7WgCftfvGouLw3hj2qNiPg77FkHK",
+            "source": "https://tonviewer.com/EQDmpFD0vP4ilFaKEGhu7WgCftfvGouLw3hj2qNiPg77FkHK First-funded ~77k wallets and is the first funder of EQDXmIXK.",
+            "comment": "Poisoning factory and parent of the EQDXmIXK factory. Label the parent so both hops expand.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDXmIXKE-YbCI_7LXj1gBa-7rnGkbmUtfgKaWw1zQ3Mzynt",
+            "source": "https://tonviewer.com/EQDXmIXKE-YbCI_7LXj1gBa-7rnGkbmUtfgKaWw1zQ3Mzynt First-funded by EQDmpFD0. First-funded ~157k wallets (May-Jul 2026).",
+            "comment": "Poisoning factory. Mid-layer node under EQDmpFD0.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDYGRe-v_x8hp7Kz93QMAECK8ORVEHsRRz-0ZUNd1k3r0b3",
+            "source": "https://tonviewer.com/EQDYGRe-v_x8hp7Kz93QMAECK8ORVEHsRRz-0ZUNd1k3r0b3 First-funded ~77k wallets (Jul-Aug 2026). Parent only first-funded 3 wallets.",
+            "comment": "Poisoning factory. Label this node, not the parent.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQADO5kDZcZQnTQ8-WPG7O3OeHCN9im6xcJBslQgKusGJ5P8",
+            "source": "https://tonviewer.com/EQADO5kDZcZQnTQ8-WPG7O3OeHCN9im6xcJBslQgKusGJ5P8 First-funded ~66k wallets (Apr-Jul 2026). Same first funder as EQC86clu.",
+            "comment": "Poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQA7IfcVEBvo8ZR-iJITZL9-IZlyT52Dk9xMtbG3whbc2fZ4",
+            "source": "https://tonviewer.com/EQA7IfcVEBvo8ZR-iJITZL9-IZlyT52Dk9xMtbG3whbc2fZ4 First-funded by FixedFloat. First-funded ~83k wallets (Aug 2025-May 2026).",
+            "comment": "Poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQC86clu6Ls_DLRchosPMBuCUlimB_wtOgq6qbSZgWCsrfgD",
+            "source": "https://tonviewer.com/EQC86clu6Ls_DLRchosPMBuCUlimB_wtOgq6qbSZgWCsrfgD Sibling of EQADO5kD (same first funder). First-funded ~5.6k wallets. Children send 0.00008 TON dust to unique destinations.",
+            "comment": "Poisoning factory, same cluster as EQADO5kD.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQB_vG-ADcPJUSmWWJpo8nolqgots6OSSpNVbEtcDIIOBvXH",
+            "source": "https://tonviewer.com/EQB_vG-ADcPJUSmWWJpo8nolqgots6OSSpNVbEtcDIIOBvXH First-funded ~73k wallets (Apr-Aug 2026). Parent only first-funded 6 wallets. Children send 0.0001 TON dust to unique destinations.",
+            "comment": "Same factory pattern as the confirmed 2026 unlabeled top inviters.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQA-S-MgqYADcmTOVD2xskanz5qrWbyF2LVnYSmx5ljnIStJ",
+            "source": "https://tonviewer.com/EQA-S-MgqYADcmTOVD2xskanz5qrWbyF2LVnYSmx5ljnIStJ First-funded by NowPayments. First-funded ~32k wallets in 8 days (2026-05-16 to 2026-05-24). Children send 0.0001 TON dust to unique destinations.",
+            "comment": "Burst poisoning factory. Same first-funder pattern as EQDng8H0.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQAAT5aqiFemT1b4BzDHYi71aAXZHjRfvHeC3HYorU-MAN67",
+            "source": "https://tonviewer.com/EQAAT5aqiFemT1b4BzDHYi71aAXZHjRfvHeC3HYorU-MAN67 Vanity non-bounceable suffix MAIN-. First-funded ~12k wallets (May-Aug 2026). Children send 0.00007 TON dust to unique destinations.",
+            "comment": "Vanity poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQAZ8eRpCH0Xk9EHB8UxAy-iG9W-Txykopl7gpPUS7ReJkAz",
+            "source": "https://tonviewer.com/EQAZ8eRpCH0Xk9EHB8UxAy-iG9W-Txykopl7gpPUS7ReJkAz First-funded ~11.8k wallets in 6 days (2026-05-17 to 2026-05-23). Children reuse vanity suffixes (XlIm / 01Ri) when sending 0.001 TON dust.",
+            "comment": "Poisoning factory with suffix-swap lookalikes.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQBLA96ODs6JaLn399UT5WyluDQbkZcOnreks1OabxDEtNS1",
+            "source": "https://tonviewer.com/EQBLA96ODs6JaLn399UT5WyluDQbkZcOnreks1OabxDEtNS1 First-funded by NowPayments. First-funded ~7.7k wallets including EQAZ8eRp.",
+            "comment": "Parent factory of EQAZ8eRp. Label the parent so sibling factories expand in one hop.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQBLX6ql_CD44Nw5l8lU8F6gzL_eA20eCw76PbY9Pc3zZNgc",
+            "source": "https://tonviewer.com/EQBLX6ql_CD44Nw5l8lU8F6gzL_eA20eCw76PbY9Pc3zZNgc First-funded by Huobi. First-funded ~9.4k wallets (2026-05-24 to 2026-06-03). Children send 0.0001 TON dust to unique destinations.",
+            "comment": "Poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
         }
     ]
 }
