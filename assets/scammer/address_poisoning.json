@@ -194,6 +194,61 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQDitRlyZ0Dq5YjsKlU1FWJfoeV0MWckmbsOYpzp9xLgEB3u",
+            "source": "https://tonviewer.com/EQDitRlyZ0Dq5YjsKlU1FWJfoeV0MWckmbsOYpzp9xLgEB3u First-funded by Huobi. First-funded ~20.7k wallets (2026-03-23 to 2026-05-13). Children send 0.00246 TON dust.",
+            "comment": "Poisoning factory. Same cluster as EQA-S-Mg and EQBLX6ql.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQASN10Sdk-o9i0sLVThbHzPXConeAPEtpFzLPMzgPNqgQ6N",
+            "source": "https://tonviewer.com/EQASN10Sdk-o9i0sLVThbHzPXConeAPEtpFzLPMzgPNqgQ6N Same cluster as EQDitRly / EQA-S-Mg / EQBLX6ql. First-funded ~3.0k wallets.",
+            "comment": "Same-cluster poisoning factory as EQDitRly.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQC-c6NEbrw_CNDxk-oPjeqvdEhkUuptDtYuT9NLg3sVfocS",
+            "source": "https://tonviewer.com/EQC-c6NEbrw_CNDxk-oPjeqvdEhkUuptDtYuT9NLg3sVfocS Same cluster as EQDitRly / EQA-S-Mg / EQBLX6ql. First-funded ~2.3k wallets.",
+            "comment": "Same-cluster poisoning factory as EQDitRly.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQA-ExMvJBbdkKtpe0epoI0OzzUsV9BJmPoIBWuqTwOAZuQ1",
+            "source": "https://tonviewer.com/EQA-ExMvJBbdkKtpe0epoI0OzzUsV9BJmPoIBWuqTwOAZuQ1 First-funded ~7.6k wallets in 4 days (2026-08-11 to 2026-08-15). Children send 0.0001 TON dust to unique destinations.",
+            "comment": "Burst poisoning factory, same 0.0001 unique-dest pattern as EQDng8H0.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQAVSm1Kn3uePSI6bo3-oyWGiMLfkNMCdwBy85-wSbIt_jKN",
+            "source": "https://tonviewer.com/EQAVSm1Kn3uePSI6bo3-oyWGiMLfkNMCdwBy85-wSbIt_jKN First-funded by NowPayments. First-funded ~3.5k wallets in ~10 hours (2026-05-25 to 2026-05-26). Children send 0.0001 TON dust to unique destinations.",
+            "comment": "Burst poisoning factory. Same NowPayments + 0.0001 pattern as EQDng8H0 / EQA-S-Mg.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-08-18T00:00:00Z"
         }
     ]
 }
