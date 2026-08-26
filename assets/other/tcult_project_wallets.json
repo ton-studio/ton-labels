@@ -56,6 +56,22 @@
       "tags": [],
       "submittedBy": "cryptochucker",
       "submissionTimestamp": "2026-08-26T14:50:00Z"
+    },
+    {
+      "address": "EQCXlhueJOsSjauajRJAc1VcgxnYU4G5Z8AmBxZcG56IVB7P",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT-GRAM STON.fi V2 Pool and LP Master",
+      "tags": ["pool"],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T15:03:00Z"
+    },
+    {
+      "address": "EQDchKFxRctsCkVu4aIvrVEyTZpEpdT4t_A4JsRO6fhTg50T",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT-GRAM LP Wallet",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T15:03:00Z"
     }
   ]
 }
