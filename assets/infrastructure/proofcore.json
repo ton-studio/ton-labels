@@ -1,0 +1,25 @@
+{
+  "name": "ProofCore Protocol",
+  "label": "proofcore",
+  "category": "infrastructure",
+  "description": "Zero-Auth Cryptographic Provenance & Immutable Evidence Layer on TON Blockchain.",
+  "websites": [
+    "https://proofcore.org"
+  ],
+  "social_links": {
+    "telegram": "https://t.me/ProofCoreBot",
+    "github": "https://github.com/ProofCore-Protocol"
+  },
+  "addresses": [
+    {
+      "address": "EQCSNotK-MOtTfh4_1KBK-0SmIz06zEmniaT8YT1vw3OKlsE",
+      "name": "ProofCore: ProofRegistry Contract",
+      "comment": "Tact-based smart contract for Merkle Root anchoring"
+    },
+    {
+      "address": "UQAPAGiVfmTvlgpyXLrDYPzLu_qsANSPjRtmS5HH-L2jtIoL",
+      "name": "ProofCore: Relayer & Signer",
+      "comment": "Hot-wallet relayer broadcasting batch commitments"
+    }
+  ]
+}
