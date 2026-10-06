@@ -871,6 +871,67 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-07-01T00:00:01Z"
+        },
+        {
+            "address": "EQDw5eLrxLnkFmw2QfSayJcjQ4kP2KdW42Sc3gSiCKhay5Jh",
+            "source": "Named \"Omniston Fee Vault\" on tonviewer/tonapi; listed in tonkeeper/ton-assets accounts/defi.yaml (https://github.com/tonkeeper/ton-assets/blob/main/accounts/defi.yaml)",
+            "comment": "omniston_referral Fee-Vault Minter",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
+        },
+        {
+            "address": "EQCHPcEt9GxUrQ3IJO6d-UYEe4Q3Wq5RYsHiEGsYo6I3vzEC",
+            "source": "Named \"Omniston DEX Bridge\" on tonviewer/tonapi; listed in tonkeeper/ton-assets accounts/defi.yaml (https://github.com/tonkeeper/ton-assets/blob/main/accounts/defi.yaml)",
+            "comment": "Omniston DEX Bridge",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
+        },
+        {
+            "address": "EQAq6nFcjo76ZWEZfAejq589n0mM0_p1zc92zOwWQkybbJf3",
+            "source": "Named \"Omniston DEX Bridge\" on tonviewer/tonapi; listed in tonkeeper/ton-assets accounts/defi.yaml (https://github.com/tonkeeper/ton-assets/blob/main/accounts/defi.yaml)",
+            "comment": "Omniston DEX Bridge",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
+        },
+        {
+            "address": "EQDytng13j8F5ErF5jU2X3qxTYvdiDbbC6qJxrFXqSd54mkB",
+            "source": "Named \"Omniston DEX Bridge\" on tonviewer/tonapi; listed in tonkeeper/ton-assets accounts/defi.yaml (https://github.com/tonkeeper/ton-assets/blob/main/accounts/defi.yaml)",
+            "comment": "Omniston DEX Bridge",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
+        },
+        {
+            "address": "EQBlH85xUNSEqHhnKHzukdWh_Fj4WxnlqLukiT3g5q2waOkg",
+            "source": "Named \"Omniston DEX Bridge\" on tonviewer/tonapi; listed in tonkeeper/ton-assets accounts/defi.yaml (https://github.com/tonkeeper/ton-assets/blob/main/accounts/defi.yaml)",
+            "comment": "Omniston DEX Bridge",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
+        },
+        {
+            "address": "EQD23XiHeMH4XGNbLcGxYhIC6QfBL6uVFuyoaNihTSL0QX3I",
+            "source": "SBT collection \"Omniston resolvers\" (registry of Omniston resolvers, item image hosted at static.ston.fi/omniston/resolver-sbt.png). Collection owner and holder of all items is EQDR-4xEjo6h3y8BkSddLdYlpdlIwmM-zhq5p6A0klJlD6T0, already labelled ston.fi in this file.",
+            "comment": "Omniston resolvers SBT collection",
+            "tags": [
+                "defi",
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
         }
     ]
 }
