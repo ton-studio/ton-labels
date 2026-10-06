@@ -55,6 +55,14 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-01-11T00:00:01Z"
+        },
+        {
+            "address": "EQDZckLhPychJNz-qOTJ2S3OJ91vM3aGWCTWzIBSL8tnGBHm",
+            "source": "First funded on 2025-02-11 by the labelled NOWPayments deposit address [EQB1QBhyiY76wtIDTaV3pFtl8jE_aCrlGeDDTRbz2LaNjWYC](https://tonviewer.com/EQB1QBhyiY76wtIDTaV3pFtl8jE_aCrlGeDDTRbz2LaNjWYC) ([tx](https://tonviewer.com/transaction/bf3f7f9733bb7601d0293bbbdbfc4bc6d09fd697f86292e071a803100a3de7b7)). Since 2025-06 it made ~12.3K USDT/TON transfers with only 9 counterparties: ~$70M in/out with labelled NOWPayments addresses and ~$70M in/out with labelled Binance addresses; it also funded and drained the labelled ChangeNOW wallet (change-now-io.ton) in Nov-Dec 2025.",
+            "comment": "Liquidity rebalancing wallet (NOWPayments <-> Binance)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
         }
     ]
 }

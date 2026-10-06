@@ -15,6 +15,14 @@
             "tags": [],
             "submittedBy": "ziga",
             "submissionTimestamp": "2024-12-12T10:09:26Z"
+        },
+        {
+            "address": "EQDKytyZihCRa3rRQ8Uhpj80rLP1BL0VroJDXsRzf3hCi4J5",
+            "source": "Successor hot wallet. First funded on 2026-07-08 by a wallet that the labelled EfexPro wallet had test-funded the day before ([tx](https://tonviewer.com/transaction/83fa492cd5eff052549b50410e3d67a0e959971a6c9bb4330996e7d4448a2007)); on 2026-07-08 the labelled EfexPro wallet moved 31,078 USDT + 419 TON into it ([tx](https://tonviewer.com/transaction/5fd6d8da4a8736c4ae981d16054e2e7d62e07dab651d2ed1cfcd11c68e04662b), [tx](https://tonviewer.com/transaction/078f2a25c7d4d119695bab4bb0054fbf355ed251d9e730037834a35fdaa5d9ec)) and on 2026-07-13 326,838 NOT ([tx](https://tonviewer.com/transaction/db07221ac1f8e5261d36f32755b841ea7dcc042015daa5fc044a082752d7c06d)); the old wallet has had no operational flow since. The new wallet continues the exchanger pattern (~1.8K USDT/TON transfers with ~200 counterparties in Jul-Sep 2026).",
+            "comment": "Hot wallet (successor of EQDdUoUF..., since 2026-07)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-06T00:00:00Z"
         }
     ]
 }
