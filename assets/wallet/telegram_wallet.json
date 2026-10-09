@@ -1,0 +1,277 @@
+{
+    "metadata": {
+        "label": "telegram_wallet",
+        "name": "Telegram Wallet",
+        "category": "wallet",
+        "subcategory": "",
+        "website": "https://github.com/ton-blockchain/tg-wallet-contract",
+        "description": "Telegram's native in-app wallet (WalletTg). User accounts share one trampoline contract code (code hash kUmuUcHkaJcQzr94MCl7Fqz7rbNjqSClN4k+f/7sp2g=); Telegram-operated highload wallets relay user-signed gasless requests to them. Attribution is an on-chain inference.",
+        "organization": "telegram"
+    },
+    "addresses": [
+        {
+            "address": "EQCEKfb5Bl0iKDni-bIzFQT2KkfQgMItRX05X8kAJgieGBa5",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Funder — highload wallet that funded each gas relayer with 1003 TON",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQAAko3haresHqwy98xVaq6SCBXRXBTV95w5ZxcijF7_V6LG",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #01 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQAIbfdIaI2WwmxoCBCww2CNSYNwnjF7vhKcW1uE-jWVWgTp",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #02 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQAQMJ6Xe1-rwpLAm_8l0QqGBOBnOcY738dcALqRQiuJA_58",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #03 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQAYe4gIZ5PafsPIu-I7-P9DbfbMZgbhpIWgnPq5324BnFBI",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #04 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQAgqQA2fO5cCajplJI3Jvmk5hV6ZKp61nBWyxpKE7OyZTqu",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #05 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQAo3Oe3PpfsksPc6W3u8fSluUUFq4o1wcPhG8V4uVCvsJtp",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #06 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQAwRlTKOEpaAFMSfmr72b6bnIMidm_laX5up6ad0y1XE9O_",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #07 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQA4NbGSftpw41xm6ULi8pESDkihnGRcU7h5ZXuInThKAfKu",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #08 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQBA-a3oJhdyFF_QiNqU5zKk7vg4-feqwC1g-BblKozBwNGd",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #09 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQBIZoeNYN3tzHTgi0sPBDibzNIoER3vnCK1noWhtr_Dwmvv",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #10 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQBQ4KTelAIjzqLEiv67BKzWNpne1-LY09K07dWI2xmZaXXo",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #11 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQBYCzreuaaqwf2d6DSbbK-tHdaS3L-HAUklCA_PonSnZhu5",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #12 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQBgf8hc0lWGQnyEgudtJdo65mRRFDY9cBhzj-DGfLO1pK3r",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #13 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQBoqu7jVVQWx1FDATTL-23tKPF18RRFKEbYDxv98KLV17cR",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #14 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQBweGoSV6eQzvmRVjumOCpM_wM8sWmy-LXoxQIzw1ABaEhv",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #15 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQB4AEPIrxo05ivq50b3yJTRk8gnQdrWAyb-hzaNbgos8mew",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #16 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQCAjxfu7h941K_fbLMXsoxjivGGzT-hfARCsU_tKFYeOJA4",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #17 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQCI5jLeiLVsFEHTxxu2AdeddbeD76osjyF0Mn8VfF8CJS0O",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #18 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQCQQZKYo4yEmhO7YAirGqAfxuiJQ3-RG9ITqB83_WtsJ0ph",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #19 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQCYIalo5KW4xzM3QuH-2ho_UijIXJd0qSYHmE-AbR_3h-0A",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #20 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQCg6y6YqyjY9ucYbriOY-vdZsAys9groc0H97TI3AXqK_af",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #21 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQCoIFhCloid7-Pd4v4EBcVi-qbtH8dg6TTvrP_FTlZ9m1VA",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #22 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQCwMDcT8Q_wS0iyr3ZZs8Za8iA1pkAIxzubIck9CvCe9o0H",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #23 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQC4j0JEgwmuUOKic7w1xPdkwCogqsTqWyXsSDjKZnxevgFp",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #24 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQDAbOrOi4VC6bjFRbK_Cx0kRPKmYtOyuqWhYPzeZIaxGiVI",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #25 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQDIKziD2u7YGJ31WqJl-teVjTB-JLMtvNX9j3dvEXHVxduZ",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #26 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQDQyXbBZD_ph8FuNVH3Tnh9aD8qLVDXAbdS3kkConp-houl",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #27 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQDY009zZHJJ_-_vAtBivJbTn7u5P9fj8GPu2frQ6C5ENmEO",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #28 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQDgrbfeJrWv4Py38v3XLM68qeQlJtA-aZKXvqTxTwqa3eNm",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #29 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQDo6tFcKY6tJFEW2N9J1hnoo1FCc0dSda4jHRgBU9dJ8GAE",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #30 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQDw3_8TZEksYfOaQ1JpDP1-HvQY7kyGLCN1Kge45gJTn-kP",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #31 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        },
+        {
+            "address": "EQD4A3OGMlvEyNggzTuIBY_fZbLs7kAArmrS2XVCbPO_7VOO",
+            "source": "on-chain",
+            "comment": "Telegram Wallet Gas Relayer #32 — highload wallet relaying user-signed gasless requests to tg_wallet accounts",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-09T00:00:01Z"
+        }
+    ]
+}
