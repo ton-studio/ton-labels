@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "spam_ads_tonervoobot",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Ad spam flooder sending 1 nanoTON transfers with advertising comments (@TonerVooBot, username auctions)",
+        "organization": "tonervoobot"
+    },
+    "addresses": [
+        {
+            "address": "EQDyRll1Di-KJmf8LEnnnAs-_ZjP18DQdxD-ezdFhFHJ_1rF",
+            "source": "",
+            "comment": "1 nanoTON floods with comments like '@TonerVooBot advertise for thousands of addresses cheap and fast'",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "label": "stars_reseller_unknown",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "",
+        "description": "Unbranded Telegram Stars/Premium reseller wallets buying on Fragment (USDT/TON), funded via CEX withdrawals",
+        "organization": "stars_reseller_unknown"
+    },
+    "addresses": [
+        {
+            "address": "EQDXNRjipyg5fusU70d5EmqIx_5u1eGe1Rs0PLF3-OHOvAeL",
+            "source": "",
+            "comment": "Pays Fragment in USDT for Telegram Stars",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQAjMD2YA2-usjJh2GFP7DmozJXv8m62VzMEZel5mczQN7Cr",
+            "source": "",
+            "comment": "Pays Fragment in USDT for Telegram Stars (highload wallet)",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQA3637RRreVhuuwVHgAF3ExvQBmTmq-FRW29scIocCTQ09O",
+            "source": "",
+            "comment": "Pays Fragment in USDT for Telegram Stars",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQCr5N1CjM-TfmPgM6BBDBelYKokwKfeLSEHlusa4RPD-BXI",
+            "source": "",
+            "comment": "Pays Fragment in TON for Telegram Stars (highload wallet)",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}

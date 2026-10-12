@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "label": "getgems_offer_bot",
+        "category": "scripted-activity",
+        "subcategory": "",
+        "website": "",
+        "description": "Individual wallets (not Getgems) that automatically place and cancel collection offers on getgems.io for Telegram Gifts",
+        "organization": "getgems_offer_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQDFB1jKe-mpMk4r4b1G5ZD8HjBaSOc5kKnK8MskK2s_aZoJ",
+            "source": "",
+            "comment": "Automated getgems.io offer/cancel loop on Telegram Gifts collections",
+            "tags": [
+                "nft",
+                "telegram-gifts"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQAXjVZWhfCVVX_Wlbk_Uivvda45b4_E07YFP6MSRUwVIxJp",
+            "source": "",
+            "comment": "Automated getgems.io offer/cancel loop on Telegram Gifts collections (sanyalox.ton)",
+            "tags": [
+                "nft",
+                "telegram-gifts"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}

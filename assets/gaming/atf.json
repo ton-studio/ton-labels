@@ -15,6 +15,22 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-13T00:00:01Z"
+        },
+        {
+            "address": "EQDMGPJVwZ93AUQozPPqBM8xmlq19xeDVWxDWvTn2eYLUBMW",
+            "source": "",
+            "comment": "ATF jetton batch distribution wallet (highload)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQDjA6Z9e01dKbC3h9twN5CYl_SiK_xypsjLUt_BtDA-fAzQ",
+            "source": "",
+            "comment": "ATF jetton wallet of the batch distribution wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
         }
     ]
 }

@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "telegram_username_relisting_bot",
+        "category": "scripted-activity",
+        "subcategory": "",
+        "website": "",
+        "description": "Wallets that hold many Telegram username NFTs and re-list them on Fragment in a loop (teleitem_start_auction 0x487a8e81)",
+        "organization": "telegram_username_relisting_bot"
+    },
+    "addresses": [
+        {
+            "address": "EQCJOj4O6pU7Mv3CCVj_Aa0yB4gZOzYQsx6TlxD-8WwZntIc",
+            "source": "",
+            "comment": "Re-lists ~250 Telegram usernames on Fragment in a loop",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQCV6SPXiP3174TYVJeE_zFtB14olTA8pS5ENO0Whm9tkmrv",
+            "source": "",
+            "comment": "Re-lists ~100 Telegram usernames on Fragment in a loop",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}

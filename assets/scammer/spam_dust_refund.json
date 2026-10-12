@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "label": "spam_dust_refund",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Dust spammers that race to send ~0.00007-0.0001 TON (often with comment 'Refund' / 'Refund-fees') to wallets seconds after their first deposit",
+        "organization": "spam_dust_refund"
+    },
+    "addresses": [
+        {
+            "address": "EQBF9ljVuJ5qeUYDOnZQwd6IRgHZWDXmQ3Y_-S_yWm00GU3J",
+            "source": "",
+            "comment": "Sends dust with comment 'Refund-fees'; sweeps to profit sink",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQDnF20eNDOoPeTD8Ye78wmBZdMxNvsCn_po72BNnYtoGFmJ",
+            "source": "",
+            "comment": "Sends dust with comment 'Refund'; sweeps to profit sink",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQBOipe4nieujUcQ7G642_mvM_0NHoeK91DF6va-OpUKzUMn",
+            "source": "",
+            "comment": "Sends dust to freshly funded wallets",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQDNYhwXdlcy7k8GsxC6ZPsyVIPaSd9kCb_gt2pR-sWhRgnU",
+            "source": "",
+            "comment": "Sends dust to freshly funded wallets",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQAgSvrGl70VkSGSJD52Rju1nQZlQRxtT8w62hycOxRjAcrx",
+            "source": "",
+            "comment": "Profit sink receiving sweeps from the dust senders",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}

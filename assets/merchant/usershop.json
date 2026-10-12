@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "label": "usershop",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/usershop",
+        "description": "Telegram username shop; holds and repeatedly re-lists Telegram username NFTs on Fragment",
+        "organization": "usershop"
+    },
+    "addresses": [
+        {
+            "address": "EQCzPxSNpxpGOtojZAXBya8fripZc6ksfD_zTkOuRrnEWC9u",
+            "source": "",
+            "comment": "Main wallet (staf.ton, usershop.t.me); holds ~340 usernames, loops teleitem_start_auction",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}
