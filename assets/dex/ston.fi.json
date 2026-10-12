@@ -932,6 +932,37 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-10-06T00:00:00Z"
+        },
+        {
+            "address": "EQCSLWJ9fY7b0A5OI72wxUp27l4fRlc6GvRBeFf6PiPpH4p3",
+            "source": "",
+            "comment": "stonfi_router_v2 USDT jetton wallet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQCSIMGBps_qzRG3uPYhON8bucyCtu0mYdL1-u4gSz77IBa3",
+            "source": "",
+            "comment": "stonfi_router_v2 pTON jetton wallet",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQCGScrZe1xbyWqWDvdI6mzP-GAcAWFv6ZXuaJOuSqemxku4",
+            "source": "",
+            "comment": "stonfi_pool_v2 TON/USDT (constant product)",
+            "tags": [
+                "defi",
+                "pool"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
         }
     ]
 }

@@ -99,6 +99,18 @@
             ],
             "submittedBy": "Caranell",
             "submissionTimestamp": "2025-03-13T00:00:01Z"
+        },
+        {
+            "address": "EQAyCB1UdSuTQKdcd3qUrwSD8HMp3SlutPkVu0Xkd7k_itc5",
+            "source": "",
+            "comment": "Fragment USDT jetton wallet (receives USDT payments for Telegram Stars/Premium)",
+            "tags": [
+                "telegram-stars",
+                "telegram-premium",
+                "kyc"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
         }
     ]
 }

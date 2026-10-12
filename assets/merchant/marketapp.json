@@ -132,6 +132,28 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-05-15T00:00:00Z"
+        },
+        {
+            "address": "EQDuAH9re_JypQgh4lWDc_scDGTqpilR4Ajqx_NFGlFuRjXl",
+            "source": "",
+            "comment": "NFT sale deployer contract (deployed by Marketapp Marketplace)",
+            "tags": [
+                "nft",
+                "telegram-gifts"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQDbOQe5kg_TaEwQtyih72TMsH__gkgQZjS_ZSvcm6LfrEKw",
+            "source": "",
+            "comment": "NFT sale deployer contract (deployed by Marketapp Marketplace)",
+            "tags": [
+                "nft",
+                "telegram-gifts"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
         }
     ]
 }
