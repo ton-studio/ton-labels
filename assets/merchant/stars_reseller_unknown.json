@@ -4,7 +4,7 @@
         "category": "merchant",
         "subcategory": "",
         "website": "",
-        "description": "Unbranded Telegram Stars/Premium reseller wallets buying on Fragment (USDT/TON), funded via CEX withdrawals",
+        "description": "Unbranded Telegram Stars/Premium reseller wallets buying on Fragment (USDT/TON), funded via CEX withdrawals and PassimPay merchant payouts",
         "organization": "stars_reseller_unknown"
     },
     "addresses": [
@@ -15,6 +15,16 @@
             "tags": [
                 "telegram-stars",
                 "telegram-premium"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQD_7DK8xSFJYk9HTXJe5e1Zpe5M42_rOsxH8VBlSj5zye9t",
+            "source": "",
+            "comment": "Intake wallet: receives USDT payouts from PassimPay and immediately forwards them to the Stars reseller EQDXNRji...",
+            "tags": [
+                "telegram-stars"
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-10-12T00:00:01Z"
