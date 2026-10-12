@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "label": "nftstore",
+        "name": "nftstore",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/Sell_User_Names",
+        "description": "Telegram Usernames shop (bot @Sell_User_Names, TON DNS nftstore.t.me); mass-lists Telegram Username NFTs via telemint start_auction",
+        "organization": "nftstore"
+    },
+    "addresses": [
+        {
+            "address": "EQDgR7jZy9D88IBC3dK4qEJjb9D8WmfCbL9v-4Fjsjzm7cpq",
+            "source": "",
+            "comment": "Main wallet (wallet_v5r1), resolves from nftstore.t.me; sends start_auction (0x487a8e81) to Telegram Username NFTs",
+            "tags": ["nft"],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}
