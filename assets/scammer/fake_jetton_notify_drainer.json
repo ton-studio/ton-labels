@@ -10,16 +10,6 @@
     },
     "addresses": [
         {
-            "address": "EQCnB_DZd1ODqKSRAd0e4uFMH3O3P8BjfyGg4N4xEndJbwu0",
-            "source": "https://tonviewer.com/0:A707F0D9775383A8A49101DD1EE2E14C1F73B73FC0637F21A0E0DE311277496F 2026-10-10 18:42-22:30 UTC: 256,741 forged jetton_notify to Marketapp Proxy 0:A9C1AD2FEA5BC6034D6E2867EC5B508AD4D779F5A3BFC551461873F2EC94E084; the proxy replied with 513,434 jetton_transfer (25,637 TON attached) to this wallet; proxy TON balance 12,980 -> 0. Example tx 4b3a636950e637bf9353f82ff1d59ebcc9c62d6b23ba5edbc989e12236034252.",
-            "comment": "Drained ~12.8k TON from Marketapp Proxy",
-            "tags": [
-                "scammer"
-            ],
-            "submittedBy": "ohld",
-            "submissionTimestamp": "2026-10-12T00:00:01Z"
-        },
-        {
             "address": "EQCZZNkBYeB4jTKGIsWbE_SV0LX2uzfxsmvGKFZpbnPC5sDT",
             "source": "https://tonviewer.com/0:9964D90161E0788D328622C59B13F495D0B5F6BB37F1B26BC62856696E73C2E6 Since 2026-09-22 sends forged jetton_notify from wallets to dozens of contracts, taking 1-70 TON from each; withdrew 962.86 TON.",
             "comment": "Fake jetton_notify campaign hub",
