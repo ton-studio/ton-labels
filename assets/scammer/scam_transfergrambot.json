@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "label": "scam_transfergrambot",
+        "name": "Scam TransferGramBot",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "GRAM phishing: dust transfers of 0.00001 TON with the comment \"You've received 118 GRAM! Your GRAM balance has been credited... open the bot @TransferGramBot\", sent to freshly funded wallets.",
+        "organization": "scam_transfergrambot"
+    },
+    "addresses": [
+        {
+            "address": "EQAt8BYsNiasD0xPIXs88kGTAoQ_4ZdT8rnMfKLhIWgcbAkM",
+            "source": "https://tonviewer.com/0:2DF0162C3626AC0F4C4F217B3CF2419302843FE19753F2B9CC7CA2E121681C6C 5,479 phishing dust messages to 5,465 wallets on 2026-10-10..11.",
+            "comment": "GRAM phishing dust sender",
+            "tags": [
+                "scammer"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "mrg_miner",
+        "name": "MRG Miner",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/mrgminer",
+        "description": "MRG Miner / Mine Rare Gram (MRG token, @mrgminerbot): Telegram mining mini app. Users pay a one-time 0.045 TON wallet verification fee (comment MRG-VERIFY-XXXXXXXXXX) before MRG withdrawals (announced in t.me/mrgminer).",
+        "organization": "mrg_miner"
+    },
+    "addresses": [
+        {
+            "address": "EQAywimld3eLOj5wMj4fqqB1BD1RDmuNwnmkxEmDTIwX-di9",
+            "source": "https://tonviewer.com/0:32C229A577778B3A3E70323E1FAAA075043D510E6B8DC279A4C449834C8C17F9 ~19k payments of 0.045 TON with comments MRG-VERIFY-[0-9A-F]{10} from ~17.7k senders since 2026-10-10; holds MRG and MRG-GRAM LP.",
+            "comment": "Wallet verification fee collector",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQAi-7sNccqXmN0iNOODp4YbJF48_lP-NlV-S9Sv9h6q8wA_",
+            "source": "https://tonviewer.com/0:22FBBB0D71CA9798DD2234E383A7861B245E3CFE53FE36557E4BD4AFF61EAAF3 Sent ~6.69M MRG to ~5.6k wallets that paid the MRG-VERIFY fee.",
+            "comment": "MRG payout wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}

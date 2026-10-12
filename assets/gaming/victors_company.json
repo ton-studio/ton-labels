@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "victors_company",
+        "name": "Victor's Company",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://t.me/victors_company",
+        "description": "Victor's Company (VIC token, @VictorsCompanyBot): Proof-of-Holding mining game inside Telegram. Users verify their wallet on-chain by sending 0.05 TON with a one-time comment VC-XXXXXXXXXX.",
+        "organization": "victors_company"
+    },
+    "addresses": [
+        {
+            "address": "EQD4t3lRBgtAg7U_dYlTAIYjqIPXRT6zHqAvoGgqTvYYWimq",
+            "source": "https://tonviewer.com/0:F8B77951060B4083B53F758953008623A883D7453EB31EA02FA0682A4EF6185A ~120k payments of exactly 0.05 TON with unique comments VC-[0-9A-F]{10} from ~119k senders (2026-09-26..10-11). Holds 3M VIC and VIC-USDT LP; sent 15 TON to the VIC payout wallet.",
+            "comment": "Wallet verification fee collector",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        },
+        {
+            "address": "EQANaWlr2h4iTbyI-kxo3nul91SfopTx8OiwgHf23bANfZiH",
+            "source": "https://tonviewer.com/0:0D69696BDA1E224DBC88FA4C68DE7BA5F7549FA294F1F0E8B08077F6DDB00D7D Sent ~9.99M VIC to ~6.6k wallets that paid the VC- verification fee; funded by the fee collector.",
+            "comment": "VIC payout wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:01Z"
+        }
+    ]
+}
