@@ -194,6 +194,39 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-08-18T00:00:00Z"
+        },
+        {
+            "address": "EQA2nhnU67EhU8q5W7WQnuMfSoMIODu3FILkQlu9ZJVbrNsr",
+            "source": "https://tonviewer.com/EQA2nhnU67EhU8q5W7WQnuMfSoMIODu3FILkQlu9ZJVbrNsr First-funded ~372k wallet_v4r2 wallets since 2026-09-12 (0.0006 TON each, ~97 per tx). Children send 0.0001 TON dust copying the last 3 chars of the victim's real counterparty, e.g. UQD1EzG--Q9B1hHe1j-imLzEyZla2xC5mJxaIle5m5lPae1L mimics UQCPbropuUqlF53wF_gVUl6Jyq44Ze6-CuazQAkiri31_e1L (tx b3f4c76d56925e3c5d3be62aae5c86559e5f1b38ef5212122093b617a3d7cbc7).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:00Z"
+        },
+        {
+            "address": "EQB5Bl2BtrF8KxLpAj0rti5rnaa7pmBs7Fyu9AZzk1vWmBaq",
+            "source": "https://tonviewer.com/EQB5Bl2BtrF8KxLpAj0rti5rnaa7pmBs7Fyu9AZzk1vWmBaq First-funded ~34k wallet_v3r2 wallets 2026-09-14..2026-10-07. Children send 0.0001 TON dust copying the last 3 chars of the victim's real counterparty, e.g. UQAGQ5eRlAs7dzgEX9X-niz9cYjCp8iUjPUHi3jq4IU1LYc7 mimics UQCr6NxrcpZqvHL0vKZOL1aiwbYwf8jpoiSplUErjshi0Yc7 (tx 65d4cbec87074af641d7a7e8c46f95b5421e9c5b9ddba762f6ac7dc4cb46a235).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:00Z"
+        },
+        {
+            "address": "EQBWZB9eogub6FnVUEHFBv-onDzTACUtYVeTH8fwAM1Y-Vsf",
+            "source": "https://tonviewer.com/EQBWZB9eogub6FnVUEHFBv-onDzTACUtYVeTH8fwAM1Y-Vsf First-funded ~17.7k wallet_v3r2 wallets since 2026-10-09 (0.0006 TON each, 30 per tx). Children send 0.0001 TON dust copying the last 3 chars of the victim's real counterparty, e.g. UQBsAtKLdx8D9nBjqS2b-DxdizKHIfjqVVw4DW10Zie5VPk9 mimics UQDR0P6w7HCYy0bd_DVDxaBAlVCgT7w2lx4LONSoTxCblPk9 (tx 3361faf9500c0c184914035abdf2b1f9a3b8579d38026033c8c5f2d037f258e6).",
+            "comment": "Manually confirmed address-poisoning factory.",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:00Z"
         }
     ]
 }

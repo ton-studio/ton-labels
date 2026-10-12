@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "label": "spam_pgon",
+        "name": "Spam pgon",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Mass dust-transfer ad spam promoting the @pgon Telegram crypto-fiat wallet (comment with promo code). Operator funds disposable wallet_v5r1 batch wallets that each send 10 x 0.00001 TON with the ad comment, then return the remainder with comment \"tonsender batch N\" and self-destruct.",
+        "organization": "spam_pgon"
+    },
+    "addresses": [
+        {
+            "address": "EQDpxZ3Vz6djoJ4JqccosfG7r8WevO9uEwa7eEBtJDt7nrU0",
+            "source": "https://tonviewer.com/EQDpxZ3Vz6djoJ4JqccosfG7r8WevO9uEwa7eEBtJDt7nrU0 Operator wallet_v5r1: deploys/funds batch wallets with 0.0501 TON every ~6s (seqno >206k), e.g. tx 366373dedbda2e70b4e65fd39d7680882d08a3b8d3cd2b154b2c781b48818a94; receives \"tonsender batch N\" refunds. ~96k recipients on 2026-10-10.",
+            "comment": "@pgon ad spam operator (tonsender multisender).",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:00Z"
+        },
+        {
+            "address": "EQBR9AGbUDaoL26jm5MJPD79Ro3zoojqROE9-_UlYCu4SjHk",
+            "source": "https://tonviewer.com/EQBR9AGbUDaoL26jm5MJPD79Ro3zoojqROE9-_UlYCu4SjHk Reusable self-destructing batch wallet funded by the operator (e.g. tx ff55a8f86afc902534ff289b784b30a2d059636ab114472890f4ded93605c25e): 10 x 0.00001 TON with comment \"@pgon - крипто-фиатный кошелек в ТГ... Промокод - 3ABSA1BERAA8\".",
+            "comment": "@pgon ad spam batch sender (tonsender multisender).",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-12T00:00:00Z"
+        }
+    ]
+}
