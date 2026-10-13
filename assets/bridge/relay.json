@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "label": "relay",
+        "name": "Relay",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://relay.link",
+        "description": "Relay cross-chain bridge & swap protocol (intents filled by Relay solver)",
+        "organization": "relay"
+    },
+    "addresses": [
+        {
+            "address": "EQCrdGsDTqA2t6xRR4N6V4J705F7w_VQbUdHnofsh-8lVIPs",
+            "source": "https://api.relay.link/chains (ton.protocol.v2.depository)",
+            "comment": "Relay depository on TON (user deposits for TON->X)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQDBrIuXWeqPGbjyyNsUjqiTRTBWhlJkjoURNtVvNjYssUL-",
+            "source": "https://api.relay.link/chains (ton.solverAddresses)",
+            "comment": "Relay solver on TON (fills X->TON; tonapi DNS swap-my.ton)",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        }
+    ]
+}
