@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "label": "omniston",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://ston.fi",
+        "description": "STON.fi Omniston: RFQ/HTLC swap protocol. TON-side escrow contracts (shared by cross-chain and TON->TON orders) and resolver wallets tagged 'resolver'.",
+        "organization": "ston.fi"
+    },
+    "addresses": [
+        {
+            "address": "EQAbWJ3Y1HgIIvcMq1prG1anlDC0T3cZlAU7luPT6LmTpmrZ",
+            "source": "tonviewer/tonapi name 'Omniston Escrow Minter'; holds in-flight escrow funds of Omniston orders (HTLC cross-chain and TON->TON)",
+            "comment": "Omniston Escrow Minter",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        },
+        {
+            "address": "EQBHE9-DYaPCdDq2Cqn355GTAzzDTdowS52RPS-yLmIQNZKq",
+            "source": "",
+            "comment": "Omniston Escrow Minter",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        },
+        {
+            "address": "EQAbxwLfN7sC0NQ5HTrFbUSygRUPDZiXwbErO395qIP97or7",
+            "source": "",
+            "comment": "Omniston escrow vault",
+            "tags": [
+                "defi"
+            ],
+            "submittedBy": "Lucky0041",
+            "submissionTimestamp": "2026-07-01T00:00:01Z"
+        },
+        {
+            "address": "EQCOPHYSaiB-c3bH4js_jIIwVhLxikq4edDNbtJcjY0Rsg88",
+            "source": "Omniston resolver, identified from public on-chain data: only depositor of destination-escrow payloads (forward_payload op 0xc0a5f0d9, 14-cell BoC) into the Escrow Minter; receives payouts of TON->X orders; Aug-Oct 2026 funding matches STON.fi's X->TON volume in dune.stonfi_protocol.dataset_omniston_daily_by_route within 1%. Resolver SBT 'Arbiter' exists in the 'Omniston resolvers' collection EQD23XiHeMH4XGNbLcGxYhIC6QfBL6uVFuyoaNihTSL0QX3I. Orders are funded/settled through the Omniston Escrow Minter EQAbWJ3Y1HgIIvcMq1prG1anlDC0T3cZlAU7luPT6LmTpmrZ.",
+            "comment": "Omniston cross-chain resolver (Arbiter): funds TON destination escrows of X->TON HTLC orders",
+            "tags": [
+                "defi",
+                "resolver",
+                "cross-chain-resolver"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQDvbflNtL0eGeQNo0BoUJoRCTBbTrDDKJn2We8hS-eKzv9k",
+            "source": "Omniston resolver, identified from public on-chain data: fills escrow orders with forward_payload op 0xd55df9d2 into the Escrow Minter, and the minter pays the trader and this wallet in the same trace; named as resolver inside user order payloads. Orders are funded/settled through the Omniston Escrow Minter EQAbWJ3Y1HgIIvcMq1prG1anlDC0T3cZlAU7luPT6LmTpmrZ.",
+            "comment": "Omniston TON->TON resolver: fills on-TON escrow orders",
+            "tags": [
+                "defi",
+                "resolver"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQD17vJgEvpQK2diMwHB8PJsLD7PlvfM2vnwbZutOS_VrAKm",
+            "source": "Omniston resolver, identified from public on-chain data: fills escrow orders with forward_payload op 0xd55df9d2 into the Escrow Minter (6.9K fills Aug-Oct 2026); named as resolver inside user order payloads. Orders are funded/settled through the Omniston Escrow Minter EQAbWJ3Y1HgIIvcMq1prG1anlDC0T3cZlAU7luPT6LmTpmrZ.",
+            "comment": "Omniston TON->TON resolver: fills on-TON escrow orders",
+            "tags": [
+                "defi",
+                "resolver"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQAS92lSByELpHXPe7_e30fTF5_J2yZAhirod7vhn74K2qz8",
+            "source": "Omniston resolver, identified from public on-chain data: fills escrow orders into the Escrow Minter, with the minter paying the trader and this wallet in the same trace (249 fills Aug-Oct 2026). Orders are funded/settled through the Omniston Escrow Minter EQAbWJ3Y1HgIIvcMq1prG1anlDC0T3cZlAU7luPT6LmTpmrZ.",
+            "comment": "Omniston TON->TON resolver: fills on-TON escrow orders",
+            "tags": [
+                "defi",
+                "resolver"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        }
+    ]
+}

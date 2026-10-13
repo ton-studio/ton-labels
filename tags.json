@@ -78,5 +78,13 @@
     {
         "name": "validator",
         "description": "Address associated with a validator node or staking pool"
+    },
+    {
+        "name": "resolver",
+        "description": "Resolver/solver wallet that fills orders of an RFQ, intent or HTLC protocol (market maker inventory, not a protocol contract)"
+    },
+    {
+        "name": "cross-chain-resolver",
+        "description": "Wallet that funds or receives the counter-leg of HTLC/escrow cross-chain orders for a bridge organization (resolver inventory on TON, not a protocol contract)"
     }
 ]
