@@ -17,6 +17,16 @@
             ],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-11-28T00:00:01Z"
+        },
+        {
+            "address": "EQBeZOa5QMUEvMdb3GKSuttJgkQY7z0-Ddm_7WG-bwNXARFS",
+            "source": "On 2025-12-13 the labelled change-now-io.ton wallet [EQDAXHlJE4KdRSkoK8U1S_wQxgRHbJsezSmuRi5fye_YW1pR](https://tonviewer.com/EQDAXHlJE4KdRSkoK8U1S_wQxgRHbJsezSmuRi5fye_YW1pR) sent its entire 10,795.99 TON balance to this wallet (lt 64617789000001); it is active since then. Previously labelled as a NOWPayments deposit address (same company group).",
+            "comment": "Hot wallet (successor of change-now-io.ton)",
+            "tags": [
+                "has-custodial-wallets"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
         }
     ]
 }
