@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "label": "orbit_bridge",
+        "name": "Orbit Bridge",
+        "category": "bridge",
+        "subcategory": "",
+        "website": "https://bridge.orbitchain.io",
+        "description": "Orbit Bridge by Ozys (inactive since 2024)",
+        "organization": "orbit_chain"
+    },
+    "addresses": [
+        {
+            "address": "EQAtkbV8ysI75e7faO8Ihu0mFtmsg-osj7gmrTg_mljVRccy",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge TON Vault",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQB8mNTgoG5QxqhOdVFi6X0MOjkmGNd33ct-RGBT9ZT5oDAX",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge TON Governance",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQAihs8RdUgLANjNypV5LgaUHfdoUsMVL5o06K2F-qFSki00",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge ETH Minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQBbAqI1eVJ8PbZpKXA5njk6hq8Q6ZUxwXLZf-ntG1wf90Tm",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge ETH Governance",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQAlMRLTYOoG6kM0d3dLHqgK30ol3qIYwMNtEelktzXP_pD5",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge KLAYTN Minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQAblz6Xr6b-7eLAWeagIK2Dn-g81YiNpu0okHfc9EwY9_72",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge KLAYTN Governance",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQAZPJjpx_VCoaAJW78qYtbUK59IsheysCRgzaSUcp7k_Jqd",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge POLYGON Minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQBbdymUiXgv2FK4yGwHmXC2mvnpwxUT7U9tj-nonXXnrv0L",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge POLYGON Governance",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQA4XgASzx1VSi6T0r8tv1XdHwfUEplQhjg1q09RUd8gcPhd",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge WEMIX Minter",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQAj33y_sRp4Ypuz8zdSGfrhYdTgW1uLhjVHuUNBNxnOA1RW",
+            "source": "https://github.com/tonkeeper/ton-assets/blob/main/accounts/bridges.yaml",
+            "comment": "Orbit Bridge WEMIX Governance",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-13T00:00:00Z"
+        }
+    ]
+}
