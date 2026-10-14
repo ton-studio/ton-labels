@@ -1,18 +1,23 @@
-{
-  "label": "GemStar",
-  "name": "GemStar",
-  "category": "merchant",
-  "subcategory": "offchain_marketplace",
-  "organization": "gemstar",
-  "description": "Telegram marketplace for Telegram Stars, Telegram Gifts and Telegram Premium.",
-  "website": "https://t.me/GemStarBot",
-  "address": "0:70841b309270aa099945f9400e1b0226b935c8d149adbcb2f29a4538a920d34e",
-  "address_uf": "EQBwhBswknCqCZlF-UAOGwImuTXI0UmtvLLymkU4qSDTTgFU",
-  "address_uf_nb": "UQBwhBswknCqCZlF-UAOGwImuTXI0UmtvLLymkU4qSDTTlyR",
-  "source": "",
-  "comment": "Official GemStar order fulfillment wallet.",
-  "tags": [
-    "telegram-stars",
-    "telegram-gifts"
-  ]
-}
+     {
+    "metadata": {
+        "label": "GemStar",
+        "name": "GemStar",
+        "organization": "gemstar",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars&premium marketplace",
+        "website": "https://t.me/GemStarBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBwhBswknCqCZlF-UAOGwImuTXI0UmtvLLymkU4qSDTTgFU",
+            "source": "",
+            "comment": "",
+            "tags": [
+               "telegram-stars"
+                      ],
+            "submittedBy": "imaashkan",
+            "submissionTimestamp": "2026-06-25T17:00:02Z"
+        }
+    ]
+} 
