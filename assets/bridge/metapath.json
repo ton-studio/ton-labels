@@ -4,14 +4,14 @@
         "category": "bridge",
         "subcategory": "",
         "website": "https://www.metapath.me",
-        "description": "Bridge & cross-chain swap.",
-        "organization": "metapath"
+        "description": "Cross-chain swap aggregator; its routes include SWFT and Bridgers. On TON its wallet also acts as the Bridgers liquidity treasury.",
+        "organization": "swft"
     },
     "addresses": [
         {
             "address": "EQDOPm18wZzLBbhwkR04A2ogbIJr7lZnuC2F8VW1N6wORSXV",
-            "source": "",
-            "comment": "",
+            "source": "Apr-Sep 2026 on-chain: receives TON/USDT withdrawals from a Binance hot wallet and forwards them to the Bridgers main contract [EQCqTuPS-cMN9SSRhaFrwJOGL7dKkFF8C0a05g2WzI9uRJ19](https://tonviewer.com/EQCqTuPS-cMN9SSRhaFrwJOGL7dKkFF8C0a05g2WzI9uRJ19) (net $2.5-5.5M per month); it makes no payouts to users. The metapath.me front-end lists SWFT and Bridgers as its cross-chain routes.",
+            "comment": "Deposit wallet and Bridgers liquidity treasury",
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2026-01-11T00:00:01Z"

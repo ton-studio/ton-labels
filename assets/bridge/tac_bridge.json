@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "label": "tac_bridge",
+    "category": "bridge",
+    "subcategory": "",
+    "website": "https://tac.build",
+    "description": "Bridge contracts between TON and the TAC EVM chain (TAC is a separate chain; non-bridge TAC addresses stay in infrastructure/tac.json).",
+    "organization": "tac"
+  },
+  "addresses": [
+    {
+      "address": "EQAgpWmO8nBUrmfOOldIEmRkLEwV-IIfVAlJsphYswnuL80R",
+      "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
+      "comment": "CCL (Cross chain layer)",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-07-17T00:00:01Z"
+    },
+    {
+      "address": "EQAChAswsPNsU2k3A5ZDO_cfhWknCGS6WMG2Jz15USMwxMdw",
+      "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
+      "comment": "JettonProxy",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-07-17T00:00:01Z"
+    },
+    {
+      "address": "EQDDqOCQr6EPBmJnFF-dDKuNFLctG-SEYFhz66m17uisfLXh",
+      "source": "https://docs.tac.build/build/tooling/contract-addresses#mainnet",
+      "comment": "NFT Proxy",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-07-17T00:00:01Z"
+    },
+    {
+      "address": "EQB9Yo7kY7hlsVB6aei8ZkSpiI2OPC_kkbh5KAoUrKW04ZxW",
+      "source": "",
+      "comment": "Cross chain assets handler",
+      "tags": [],
+      "submittedBy": "Caranell",
+      "submissionTimestamp": "2025-07-18T00:00:00Z"
+    },
+    {
+      "address": "EQCqA58CdGiSns8cK-rJJMim3uAw6ksF08UU1AN29wNoagZt",
+      "source": "",
+      "comment": "Retranslator: EVM -> TAC bridge proxy",
+      "tags": [],
+      "submittedBy": "ohld",
+      "submissionTimestamp": "2025-08-27T00:00:00Z"
+    }
+  ]
+}

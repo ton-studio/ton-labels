@@ -27,6 +27,22 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-10-13T00:00:00Z"
+        },
+        {
+            "address": "EQDhOoMDKusXdWOVXtMr2F9wq65Xu3ijAN9_ph3hy3Z6vhhZ",
+            "source": "On-chain 2026-09/10: large TON transfers (4k-35k TON) only to and from the ChangeNOW hot wallet [EQBeZOa5QMUEvMdb3GKSuttJgkQY7z0-Ddm_7WG-bwNXARFS](https://tonviewer.com/EQBeZOa5QMUEvMdb3GKSuttJgkQY7z0-Ddm_7WG-bwNXARFS); holds ~100k TON.",
+            "comment": "Treasury",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-16T00:00:00Z"
+        },
+        {
+            "address": "EQAaknWdbM45CoRDnaT_7aCH-y_X_FBzMeoVLi3WSXfQAJF3",
+            "source": "On-chain 2026-09/10: tops up the ChangeNOW hot wallet [EQBeZOa5QMUEvMdb3GKSuttJgkQY7z0-Ddm_7WG-bwNXARFS](https://tonviewer.com/EQBeZOa5QMUEvMdb3GKSuttJgkQY7z0-Ddm_7WG-bwNXARFS) and forwards its funds to an exchange deposit with a memo; keeps a near-zero balance.",
+            "comment": "Rebalancer",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-16T00:00:00Z"
         }
     ]
 }
