@@ -4,8 +4,8 @@
         "category": "bridge",
         "subcategory": "",
         "website": "https://bridgers.xyz",
-        "description": "Bridge & cross-chain swap.",
-        "organization": "bridgers"
+        "description": "Cross-chain swap aggregator by SWFT Blockchain. Shares TON liquidity with the Metapath wallet (same organization).",
+        "organization": "swft"
     },
     "addresses": [
         {
