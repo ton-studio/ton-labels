@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "label": "scammer_confirm_wallet",
+        "category": "scammer",
+        "subcategory": "drainer",
+        "website": "",
+        "description": "Phishing drainer posing as 'confirm-wallet.ton'. Drain contract immediately forwards received TON to the collector wallet confirm-wallet.ton, which launders funds to Gate.io hot wallet with memo 4825351565. Victim wallet UQBuC6OFKRqv68hJ9HuJOLzAkqWojXZ_XpzWgt9BrpcZY9CF signed external v5r1 messages that sent TON into the drainer.",
+        "organization": "scammer_confirm_wallet"
+    },
+    "addresses": [
+        {
+            "address": "EQCylOu-xI01LQULL8QS-fCDdwtUVN1pS263nDIRgNZpFeBK",
+            "source": "https://tonapi.io/v2/accounts/EQCylOu-xI01LQULL8QS-fCDdwtUVN1pS263nDIRgNZpFeBK",
+            "comment": "Drainer contract. Forwards received TON to the collector confirm-wallet.ton.",
+            "submittedBy": "khiwniti",
+            "tags": ["scammer"],
+            "submissionTimestamp": "2026-07-12T00:00:00Z"
+        },
+        {
+            "address": "EQBZ23xWaTVIV0AwML5tJj_uvJK8kJ4MoyvqVWGUQx6jKX_Z",
+            "source": "https://tonapi.io/v2/accounts/EQBZ23xWaTVIV0AwML5tJj_uvJK8kJ4MoyvqVWGUQx6jKX_Z",
+            "comment": "Collector wallet confirm-wallet.ton. Forwarded 2220+ TON to Gate.io hot wallet.",
+            "submittedBy": "khiwniti",
+            "tags": ["scammer"],
+            "submissionTimestamp": "2026-07-12T00:00:00Z"
+        }
+    ]
+}
