@@ -30,6 +30,28 @@
             ],
             "submittedBy": "ohld",
             "submissionTimestamp": "2026-10-12T00:00:00Z"
+        },
+        {
+            "address": "EQDWmyYEnXcfe4xAbqh8EOplU_UTjz5oUcq64xK8cCypPD5I",
+            "source": "https://tonviewer.com/EQDWmyYEnXcfe4xAbqh8EOplU_UTjz5oUcq64xK8cCypPD5I 8,450 x 0.1 TON with the @pgon ad comment 2026-10-09..12 (last 1,000 txs), first funder of ~6.4k Telegram wallets; e.g. tx 0f7d148c48c96657d7d51933f7dfb7944bb2a4d020e5dc899dbc402398e416ed.",
+            "comment": "@pgon ad spam sender: 0.1 TON transfers to fresh Telegram wallet addresses with comment \"@pgon - крипто-фиатный кошелек в ТГ...\"",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
+        },
+        {
+            "address": "EQDuuf-CrZydgu0AW4jvBuawL3jIlXQlhH0Px1ZWV15zYp9k",
+            "source": "https://tonviewer.com/EQDuuf-CrZydgu0AW4jvBuawL3jIlXQlhH0Px1ZWV15zYp9k 341 x 0.1 TON with the @pgon ad comment on 2026-10-09 after 3 test sends \"проверка tg-кошелька #N\"; e.g. tx 6d65cb7460b5027fb0a846f8c6c0f87e05dc7d21bbc2f9430e7a9bcb150fcdb0.",
+            "comment": "@pgon ad spam sender: 0.1 TON transfers to fresh Telegram wallet addresses with comment \"@pgon - крипто-фиатный кошелек в ТГ...\"",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
         }
     ]
 }

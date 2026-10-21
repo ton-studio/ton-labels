@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "spam_gorilla_case_deptg",
+        "name": "Spam dep.tg / Gorilla Case",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Mass 0.1 TON ad spam to fresh Telegram wallet addresses promoting dep.tg and its Gorilla Case free case.",
+        "organization": "spam_gorilla_case_deptg"
+    },
+    "addresses": [
+        {
+            "address": "EQB_8-ZKiM-5oVMzy-Kv2638_0z1Mp1T3nieGSIELQBOGNyW",
+            "source": "https://tonviewer.com/EQB_8-ZKiM-5oVMzy-Kv2638_0z1Mp1T3nieGSIELQBOGNyW 999 x 0.1 TON with comment \"dep.tg — получи NFT-подарок бесплатно! 🎁 Просто открой dep.tg в браузере, перейди в Gorilla Case...\" on 2026-10-12..13 (e.g. tx 837485c8bd36ca8d734851c81adaa4abc7f04b37f7dbd83b93421536d57d42fe); vanity non-bounceable form UQB_8-ZKiM-5oVMzy-Kv2638_0z1Mp1T3nieGSIELQBOGIFT.",
+            "comment": "dep.tg / Gorilla Case ad spam sender",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
+        }
+    ]
+}

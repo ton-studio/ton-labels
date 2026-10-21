@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "spam_epic_gift",
+        "name": "Spam Epic Gift",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Mass 0.1 TON ad spam to fresh Telegram wallet addresses promoting the Epic Gift free box.",
+        "organization": "spam_epic_gift"
+    },
+    "addresses": [
+        {
+            "address": "EQChyReEXjZ9sX8zz3cAIPOmwH3VgFXEd3W5f3RY9hjk6xPM",
+            "source": "https://tonviewer.com/EQChyReEXjZ9sX8zz3cAIPOmwH3VgFXEd3W5f3RY9hjk6xPM 354 x 0.1 TON with comment \"🎁 Your gift is waiting 🆓 Open Free24 Box on Epic Gift to claim it\" 2026-10-10..21 (e.g. tx 98c610c57dda49478559936f03f9502587b88f744a82006a80488d08bc72a30c).",
+            "comment": "Epic Gift ad spam sender (Telegram wallet)",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
+        }
+    ]
+}

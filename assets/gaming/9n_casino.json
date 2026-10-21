@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "label": "9n_casino",
+        "name": "9N.COM (富贵娱乐)",
+        "category": "gaming",
+        "subcategory": "gambling",
+        "website": "https://9n.com",
+        "description": "Chinese-language online casino 9N.COM / 富贵娱乐 (Telegram mini app @FGYL). Advertises by sending 0.1 TON with its ad comment to hundreds of fresh Telegram wallet addresses per transaction.",
+        "organization": "9n_casino"
+    },
+    "addresses": [
+        {
+            "address": "EQB8low1BS_iGN8Tv34PtTbXf4u0hhDqaaDoKvKvUIUq-bgZ",
+            "source": "https://tonviewer.com/EQB8low1BS_iGN8Tv34PtTbXf4u0hhDqaaDoKvKvUIUq-bgZ 2,935 x 0.1 TON with comment \"9N.COM 富贵娱乐 / 网页端入口： 9N.COM / 小程序入口： @FGYL ...\" on 2026-10-19..20, up to 255 recipients per tx (e.g. tx cac45cfc5442fe5c1c91e2ef762bd0517842067e0138cfb70d84b8155b703532). Funded with 310 TON by the operator wallet below.",
+            "comment": "9N.COM ad spam sender",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
+        },
+        {
+            "address": "EQByzD4P50ee5Wy7C9Dnk20aO6eITdYqP5B3T4KwDC-iOEl_",
+            "source": "https://tonviewer.com/EQByzD4P50ee5Wy7C9Dnk20aO6eITdYqP5B3T4KwDC-iOEl_ Funded the ad sender (310 TON) and sent the \"9N.COM\" test comment (tx 7bde6805eea3f488f801c92424f7702f0bf25c88c7f4454cfb34454e82ab4ec9); paid Fragment for the brand usernames fgfg.t.me, fgyx.t.me, vipfg.t.me (txs 3b51bb8937fda374bd7c49a83c300740e503949f676e66a89f902a2885527038, fb6ba5affbb55aa421794fd28da58ae71db0f8d3c634079486fddfca2424a1cd, 41873ec652b57825363c73f1319fd263940ed0ab63e094957022043d32065bb1) and topped up a Telegram Ads account (tx 3799151938a7ac643d1e754bc9ad2065fdc3221f818059dac70d9f9790279334).",
+            "comment": "9N.COM / 富贵 operator wallet",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
+        }
+    ]
+}
