@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "label": "tcult_project_wallets",
+    "name": "$TCULT Project Wallets",
+    "category": "other",
+    "subcategory": "",
+    "website": "https://www.tcult.site",
+    "description": "Publicly disclosed project-controlled allocation, liquidity-owner, and contract-admin wallets for the $TCULT community token.",
+    "organization": "tcult"
+  },
+  "addresses": [
+    {
+      "address": "EQAprBkBLgUs1QdBa4BchI5sjvCVUJ5p8YmX-ufWZeiX_0Bn",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT Founder Allocation",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T14:50:00Z"
+    },
+    {
+      "address": "EQAAUEuJNXJDTkHA3-IEh6yboHsZjailR9G5NeNTFh5ATKw5",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT Community Reserve",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T14:50:00Z"
+    },
+    {
+      "address": "EQAciXuxtE2W6K8DdztXmzMRdiiC6JRofBX9ORwspf1WI_Ay",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT Marketing and Operations",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T14:50:00Z"
+    },
+    {
+      "address": "EQD-zCRDWZyHDLPHWpR0RNg4wnqx0UdezudvXKc6gCByHKT9",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT Public Float Reserve",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T14:50:00Z"
+    },
+    {
+      "address": "EQA5fik2XdotO0I4IKuVmXXaUFU9qYtALPYuHvO3KHvy02sE",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT Liquidity Owner",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T14:50:00Z"
+    },
+    {
+      "address": "EQB7NKHSugzMqa_qdhIKRNRvZN4ofH8nRPDhPGce78Ps7_5G",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT Deploy and Admin Wallet",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T14:50:00Z"
+    },
+    {
+      "address": "EQCXlhueJOsSjauajRJAc1VcgxnYU4G5Z8AmBxZcG56IVB7P",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT-GRAM STON.fi V2 Pool and LP Master",
+      "tags": ["pool"],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T15:03:00Z"
+    },
+    {
+      "address": "EQDchKFxRctsCkVu4aIvrVEyTZpEpdT4t_A4JsRO6fhTg50T",
+      "source": "https://www.tcult.site/public-wallet-allocations.json",
+      "comment": "$TCULT-GRAM LP Wallet",
+      "tags": [],
+      "submittedBy": "cryptochucker",
+      "submissionTimestamp": "2026-08-26T15:03:00Z"
+    }
+  ]
+}
