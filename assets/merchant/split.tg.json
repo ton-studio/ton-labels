@@ -141,6 +141,14 @@
             "tags": [],
             "submittedBy": "Lucky0041",
             "submissionTimestamp": "2025-09-30T00:00:01Z"
+        },
+        {
+            "address": "EQClsD8oGu_h7qCUOzsvzPSVav9fmlbS2x5oGnhwaPUIoKl1",
+            "source": "https://tonviewer.com/EQClsD8oGu_h7qCUOzsvzPSVav9fmlbS2x5oGnhwaPUIoKl1 Contract named \"Split Proxy\" by tonapi; receives USDT jetton transfers and pays Fragment (EQCFJEP4WZ_mpdo0_kMEmsTgvrMHG7K_tWY16pQhKHwoOoy2, EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE); exchanges TON with the existing split.tg deposit address EQClU34r-B-y_4JPG6BkThMlCQY7aPs5gyaZNZN37UxHrQaM. Address confirmed by the split.tg team.",
+            "comment": "Split.tg proxy contract",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
         }
     ]
 }

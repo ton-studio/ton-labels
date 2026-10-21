@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "spam_duelbet",
+        "name": "Spam DuelBet",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Mass 0.1 TON ad spam to fresh Telegram wallet addresses promoting the DuelBet.com casino (promo code \"GRAM\").",
+        "organization": "spam_duelbet"
+    },
+    "addresses": [
+        {
+            "address": "EQCgAV19FuGWFUeQ0iipe0-mS1_OXGDO1VMXNRj77of_DRzO",
+            "source": "https://tonviewer.com/EQCgAV19FuGWFUeQ0iipe0-mS1_OXGDO1VMXNRj77of_DRzO 770 x 0.1 TON with comment \"DuelBet.com - +500% к депозиту по промокоду «GRAM»\" on 2026-10-17, 20 recipients per tx (e.g. tx f5adb74f3bfdf16fa3b7077043ac0ae28cc3652d837609ba85ed5a9cec96c704); vanity address ending in DUEL.",
+            "comment": "DuelBet.com ad spam sender (Telegram wallet)",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "label": "spam_rolly_casino",
+        "name": "Spam Rolly Casino",
+        "category": "scammer",
+        "subcategory": "",
+        "website": "",
+        "description": "Mass 0.1 TON ad spam to fresh Telegram wallet addresses promoting Rolly Crypto Casino (also one BetFury promo).",
+        "organization": "spam_rolly_casino"
+    },
+    "addresses": [
+        {
+            "address": "EQDUWquK8ckAhr-6yS9r0YlupsOYv6MBpzcvu4MBu_SqnyBj",
+            "source": "https://tonviewer.com/EQDUWquK8ckAhr-6yS9r0YlupsOYv6MBpzcvu4MBu_SqnyBj Highload wallet; 1,815 x 0.1 TON 2026-10-16..19, comments \"🎁 Get $20 USDT Bonus at Rolly Crypto Casino! Claim with promo code...\" (401), \"🎁 Get $5 USDT FREE at Rolly Crypto Casino!...\" (183), \"FREE $200 CASH ... tobetfury.com\" (1); e.g. tx 667e0f1609a808ba0e104369ac97ad11f6763f4c073fe135b6673bfec73f0a3c.",
+            "comment": "Rolly Crypto Casino ad spam sender",
+            "tags": [
+                "scammer",
+                "suspicious"
+            ],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2026-10-21T00:00:00Z"
+        }
+    ]
+}
