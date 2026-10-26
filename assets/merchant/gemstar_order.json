@@ -1,0 +1,23 @@
+     {
+    "metadata": {
+        "label": "GemStar",
+        "name": "GemStar",
+        "organization": "gemstar",
+        "category": "merchant",
+        "subcategory": "",
+        "description": "TG Stars&premium marketplace",
+        "website": "https://t.me/GemStarBot"
+    },
+    "addresses": [
+        {
+            "address": "EQBwhBswknCqCZlF-UAOGwImuTXI0UmtvLLymkU4qSDTTgFU",
+            "source": "",
+            "comment": "",
+            "tags": [
+               "telegram-stars"
+                      ],
+            "submittedBy": "imaashkan",
+            "submissionTimestamp": "2026-06-25T17:00:02Z"
+        }
+    ]
+} 
