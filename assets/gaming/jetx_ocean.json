@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "label": "jetx_ocean",
+        "name": "JetX Ocean",
+        "organization": "jetx_ocean",
+        "category": "gaming",
+        "subcategory": "",
+        "website": "https://jetxocean.com",
+        "description": "Official wallets of JetX Ocean ($JETX) maritime fishing and fleet GameFi ecosystem on TON"
+    },
+    "addresses": [
+        {
+            "address": "EQDZtExOKtujquY0JmMT9_4L6_WUzLSEKpteQRmNZ28kGlV5",
+            "source": "https://jetxocean.com",
+            "comment": "Liquidity & Deploy Wallet #1",
+            "tags": [],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-04-20T12:00:01Z"
+        },
+        {
+            "address": "EQCa3XXrboY7-dNnec-BQ96jIRvdMlzvzgNRfkacOgvYUWnf",
+            "source": "https://jetxocean.com",
+            "comment": "Port Reward Vault Wallet #2",
+            "tags": [],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-04-20T12:00:01Z"
+        },
+        {
+            "address": "EQBVkJb6SH44e_chidTf8vDvIOyyf1TaA8wuUj9w7E9TiVv3",
+            "source": "https://jetxocean.com",
+            "comment": "Marketing, Regattas & Grants Wallet #3",
+            "tags": [],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-04-20T12:00:01Z"
+        },
+        {
+            "address": "EQAEu0HxZPoPSjQz42TOGjFL7Ry4BxYaP2DbrTCNSwsyFYsK",
+            "source": "https://jetxocean.com",
+            "comment": "Founder Reserve Wallet #4 (3:1 Burn Lock)",
+            "tags": [],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-04-20T12:00:01Z"
+        },
+        {
+            "address": "EQCNIxBAPEY2SuvfpkBf-OAcilpypnW-tIN9zkzr1ImBCCXU",
+            "source": "https://jetxocean.com",
+            "comment": "Treasury & Security Wallet #5",
+            "tags": [
+                "deposit",
+                "fee-collector"
+            ],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-04-20T12:00:01Z"
+        },
+        {
+            "address": "EQB_1CQQwECzx9p6YkIsyyHJ77bK9Npy9cffbaPOt446tkfa",
+            "source": "https://jetxocean.com",
+            "comment": "Server Hot Burn & Payout Executor Wallet #6",
+            "tags": [
+                "withdrawal"
+            ],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-04-20T12:00:01Z"
+        }
+    ]
+}
