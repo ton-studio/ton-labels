@@ -1,0 +1,29 @@
+{
+      "metadata": {
+                "label": "warungstar",
+                "name": "WarungStar",
+                "organization": "warungstar",
+                "category": "merchant",
+                "subcategory": "offchain_marketplace",
+                "website": "https://t.me/warungstar_id",
+        "description": "Indonesian digital-goods store operating a Telegram bot (@warungstar_id). Sells Telegram Stars, gifts and digital vouchers; also buys TON from customers."
+            },
+      "addresses": [
+                {
+                              "address": "EQBzfOMA9PcnuHpfhZZ31L5Nu5Mu2dPw25cpejeazQ1jk4-V",
+              "source": "tonviewer",
+                              "comment": "main TON sell wallet — receives customer TON deposits for paid orders",
+                              "tags": [],
+                              "submittedBy": "warungstar",
+                              "submissionTimestamp": "2026-11-02T00:00:01Z"
+                          },
+                {
+                              "address": "EQAOWhX5vKCS-zvOXsHhrEramXOwzQQkl4hnGEdftOpePq4V",
+                    "source": "tonviewer",
+                    "comment": "operational wallet used to fund Fragment (Telegram Stars / gifts) purchases",
+                              "tags": [],
+                              "submittedBy": "warungstar",
+                              "submissionTimestamp": "2026-11-02T00:00:01Z"
+                }
+      ]
+}
