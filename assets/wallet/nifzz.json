@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "label": "nifzz",
+    "category": "wallet",
+    "subcategory": "",
+    "website": "",
+    "description": "Personal TON wallet",
+    "organization": ""
+  },
+  "addresses": [
+    {
+      "address": "EQD-3sywPb2N_NSY5B24I9uxKN8gR_C0qgHoM49sYSAt2wKD",
+      "source": "manual",
+      "comment": "My personal wallet",
+      "tags": [],
+      "submittedBy": "nifzxd",
+      "submissionTimestamp": "2026-11-27T12:00:00Z"
+    }
+  ]
+}
