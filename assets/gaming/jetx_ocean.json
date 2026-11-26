@@ -61,6 +61,32 @@
             ],
             "submittedBy": "JetxOcean",
             "submissionTimestamp": "2026-04-20T12:00:01Z"
+        },
+        {
+            "address": "EQC4zcQ5O83s_3Xg4UmUylft1CTNOlBKpMnW6oSd_utKfr1O",
+            "source": "https://jetxocean.com",
+            "comment": "Ton Raffles Supply Lock (69B JETX locked until 2027-11-15)",
+            "tags": [],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-11-26T12:00:01Z"
+        },
+        {
+            "address": "EQBl_BhmIKlK028e382NOg1iq6jQmEndZzit8Z2-0k5G1NkT",
+            "source": "https://jetxocean.com",
+            "comment": "Ton Raffles LP Lock (99.5% STON.fi LP locked until 2027-11-15)",
+            "tags": [],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-11-26T12:00:01Z"
+        },
+        {
+            "address": "EQCcJ4-L1X7grjdCqlgw2hetciaJKWhNsFD0ZKeZtBGQn6aW",
+            "source": "https://jetxocean.com",
+            "comment": "JetX Ocean Charter Fleet NFT Collection (TEP-62)",
+            "tags": [
+                "nft"
+            ],
+            "submittedBy": "JetxOcean",
+            "submissionTimestamp": "2026-11-26T12:00:01Z"
         }
     ]
 }
